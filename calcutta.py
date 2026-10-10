@@ -83,5 +83,5 @@ class Calcutta(object):
 if __name__ == '__main__':
     calcutta = Calcutta()
     for harmony in calcutta.harmonies:
-        print ', '.join([str(h) for h in harmony])
+        print(', '.join([str(h) for h in harmony]))
     # calcutta.play()
