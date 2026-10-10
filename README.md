@@ -1,2 +1,38 @@
 # Calcutta
 A piece of music that gradually settles on a peculiar but consonant sustaining chord
+
+## Run with Python 3
+
+```sh
+python -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements.txt
+python render.py --seconds-per-chord 4 --output output
+```
+
+This exports `calcutta.mid`, `calcutta.wav`, and `calcutta_harmonies.json`.
+The original generator's pitches, chord order, and duplicate notes are preserved.
+Four seconds per chord is a new listening default, not a timing specified in
+the original composition. Use `--seconds-per-chord` to change it.
+
+The MIDI has 32 voices, each on its own port/channel combination, using three
+MIDI ports. Every voice sets its pitch-bend sensitivity to +/-2 semitones via
+RPN, then applies a separate pitch bend for each chord. Pitch quantization error
+is at most 0.0123 cents. Channel 10 is skipped. A DAW must honor the MIDI port
+metadata or route the three groups to separate synth instances; collapsing
+ports onto one instance causes conflicting bends. Set any synth's bend range
+to +/-2 semitones if it does not honor RPN. Program 90 is a suggested warm pad;
+the included synth uses its own sound rather than a General MIDI sound bank.
+
+The WAV is synthesized from the exported MIDI using a steady additive tone
+(fundamental plus three quieter harmonics), an 80 ms attack and 200 ms release.
+It uses no effects or oscillator detuning, so audible beating comes from the
+chord tuning. All voices are centered and the full rendering is peak-normalized.
+It requires no soundfont. The renderer supports the fixed tempo and bend range
+of its own export, not arbitrary external MIDI files.
+
+To make a smaller listening file, install FFmpeg and run:
+
+```sh
+ffmpeg -i output/calcutta.wav -codec:a libmp3lame -q:a 2 output/calcutta.mp3
+```
