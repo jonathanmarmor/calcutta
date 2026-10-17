@@ -1,0 +1,348 @@
+{
+  "outer_interval_cents": 4811.271151650251,
+  "golden_ratio": 1.618033988749895,
+  "fifth_cents": 701.9550008653874,
+  "third_cents": 433.8320491077713,
+  "third_above_12tet_cents": 33.8320491077713,
+  "third_above_just_cents": 47.51833524293647,
+  "limiting_pitches": [
+    {
+      "cents": 0.0,
+      "multiplicity": 1,
+      "a": 0,
+      "b": 0
+    },
+    {
+      "cents": 433.8320491077713,
+      "multiplicity": 1,
+      "a": -1,
+      "b": 1
+    },
+    {
+      "cents": 701.9550008653874,
+      "multiplicity": 2,
+      "a": 1,
+      "b": 0
+    },
+    {
+      "cents": 1135.7870499731587,
+      "multiplicity": 3,
+      "a": 0,
+      "b": 1
+    },
+    {
+      "cents": 1403.9100017307749,
+      "multiplicity": 1,
+      "a": 2,
+      "b": 0
+    },
+    {
+      "cents": 1569.61909908093,
+      "multiplicity": 1,
+      "a": -1,
+      "b": 2
+    },
+    {
+      "cents": 1837.7420508385462,
+      "multiplicity": 4,
+      "a": 1,
+      "b": 1
+    },
+    {
+      "cents": 2271.5740999463173,
+      "multiplicity": 3,
+      "a": 0,
+      "b": 2
+    },
+    {
+      "cents": 2539.6970517039335,
+      "multiplicity": 3,
+      "a": 2,
+      "b": 1
+    },
+    {
+      "cents": 2973.529100811705,
+      "multiplicity": 4,
+      "a": 1,
+      "b": 2
+    },
+    {
+      "cents": 3241.652052569321,
+      "multiplicity": 1,
+      "a": 3,
+      "b": 1
+    },
+    {
+      "cents": 3407.3611499194762,
+      "multiplicity": 1,
+      "a": 0,
+      "b": 3
+    },
+    {
+      "cents": 3675.4841016770924,
+      "multiplicity": 3,
+      "a": 2,
+      "b": 2
+    },
+    {
+      "cents": 4109.316150784864,
+      "multiplicity": 2,
+      "a": 1,
+      "b": 3
+    },
+    {
+      "cents": 4377.43910254248,
+      "multiplicity": 1,
+      "a": 3,
+      "b": 2
+    },
+    {
+      "cents": 4811.271151650251,
+      "multiplicity": 1,
+      "a": 2,
+      "b": 3
+    }
+  ],
+  "chords": [
+    {
+      "number": 1,
+      "ratio": "2/1",
+      "child_fraction": "1/2",
+      "max_sorted_error_cents": 534.3781560168773
+    },
+    {
+      "number": 2,
+      "ratio": "3/2",
+      "child_fraction": "2/3",
+      "max_sorted_error_cents": 289.77477273802674
+    },
+    {
+      "number": 3,
+      "ratio": "5/3",
+      "child_fraction": "3/5",
+      "max_sorted_error_cents": 105.68443624445604
+    },
+    {
+      "number": 4,
+      "ratio": "8/5",
+      "child_fraction": "5/8",
+      "max_sorted_error_cents": 41.6607427748329
+    },
+    {
+      "number": 5,
+      "ratio": "13/8",
+      "child_fraction": "8/13",
+      "max_sorted_error_cents": 15.722206426616822
+    },
+    {
+      "number": 6,
+      "ratio": "21/13",
+      "child_fraction": "13/21",
+      "max_sorted_error_cents": 6.033061698625261
+    },
+    {
+      "number": 7,
+      "ratio": "34/21",
+      "child_fraction": "21/34",
+      "max_sorted_error_cents": 2.3003744737013676
+    },
+    {
+      "number": 8,
+      "ratio": "55/34",
+      "child_fraction": "34/55",
+      "max_sorted_error_cents": 0.8792553788721307
+    },
+    {
+      "number": 9,
+      "ratio": "89/55",
+      "child_fraction": "55/89",
+      "max_sorted_error_cents": 0.3357594937651811
+    },
+    {
+      "number": 10,
+      "ratio": "144/89",
+      "child_fraction": "89/144",
+      "max_sorted_error_cents": 0.12826128634014822
+    },
+    {
+      "number": 11,
+      "ratio": "233/144",
+      "child_fraction": "144/233",
+      "max_sorted_error_cents": 0.048989617680035735
+    },
+    {
+      "number": 12,
+      "ratio": "377/233",
+      "child_fraction": "233/377",
+      "max_sorted_error_cents": 0.018712636469444988
+    },
+    {
+      "number": 13,
+      "ratio": "610/377",
+      "child_fraction": "377/610",
+      "max_sorted_error_cents": 0.00714755206809059
+    },
+    {
+      "number": 14,
+      "ratio": "987/610",
+      "child_fraction": "610/987",
+      "max_sorted_error_cents": 0.002730127650011127
+    },
+    {
+      "number": 15,
+      "ratio": "1597/987",
+      "child_fraction": "987/1597",
+      "max_sorted_error_cents": 0.0010428151376800088
+    },
+    {
+      "number": 16,
+      "ratio": "2584/1597",
+      "child_fraction": "1597/2584",
+      "max_sorted_error_cents": 0.00039832005995776854
+    },
+    {
+      "number": 17,
+      "ratio": "4181/2584",
+      "child_fraction": "2584/4181",
+      "max_sorted_error_cents": 0.00015214470658975188
+    },
+    {
+      "number": 18,
+      "ratio": "6765/4181",
+      "child_fraction": "4181/6765",
+      "max_sorted_error_cents": 5.811410983369569e-05
+    },
+    {
+      "number": 19,
+      "ratio": "10946/6765",
+      "child_fraction": "6765/10946",
+      "max_sorted_error_cents": 2.219761404376186e-05
+    },
+    {
+      "number": 20,
+      "ratio": "17711/10946",
+      "child_fraction": "10946/17711",
+      "max_sorted_error_cents": 8.47873411657929e-06
+    },
+    {
+      "number": 21,
+      "ratio": "28657/17711",
+      "child_fraction": "17711/28657",
+      "max_sorted_error_cents": 3.238588305976009e-06
+    },
+    {
+      "number": 22,
+      "ratio": "46368/28657",
+      "child_fraction": "28657/46368",
+      "max_sorted_error_cents": 1.2370308013487374e-06
+    },
+    {
+      "number": 23,
+      "ratio": "75025/46368",
+      "child_fraction": "46368/75025",
+      "max_sorted_error_cents": 4.725038706965279e-07
+    },
+    {
+      "number": 24,
+      "ratio": "121393/75025",
+      "child_fraction": "75025/121393",
+      "max_sorted_error_cents": 1.8048058336717077e-07
+    },
+    {
+      "number": 25,
+      "ratio": "196418/121393",
+      "child_fraction": "121393/196418",
+      "max_sorted_error_cents": 6.893742465763353e-08
+    },
+    {
+      "number": 26,
+      "ratio": "317811/196418",
+      "child_fraction": "196418/317811",
+      "max_sorted_error_cents": 2.6331690605729818e-08
+    },
+    {
+      "number": 27,
+      "ratio": "514229/317811",
+      "child_fraction": "317811/514229",
+      "max_sorted_error_cents": 1.0057647159555927e-08
+    },
+    {
+      "number": 28,
+      "ratio": "832040/514229",
+      "child_fraction": "514229/832040",
+      "max_sorted_error_cents": 3.842160367639735e-09
+    },
+    {
+      "number": 29,
+      "ratio": "1346269/832040",
+      "child_fraction": "832040/1346269",
+      "max_sorted_error_cents": 1.4674697013106197e-09
+    },
+    {
+      "number": 30,
+      "ratio": "2178309/1346269",
+      "child_fraction": "1346269/2178309",
+      "max_sorted_error_cents": 5.607034836430103e-10
+    },
+    {
+      "number": 31,
+      "ratio": "3524578/2178309",
+      "child_fraction": "2178309/3524578",
+      "max_sorted_error_cents": 2.141860022675246e-10
+    },
+    {
+      "number": 32,
+      "ratio": "5702887/3524578",
+      "child_fraction": "3524578/5702887",
+      "max_sorted_error_cents": 8.162714948412031e-11
+    },
+    {
+      "number": 33,
+      "ratio": "9227465/5702887",
+      "child_fraction": "5702887/9227465",
+      "max_sorted_error_cents": 3.1377567211166024e-11
+    },
+    {
+      "number": 34,
+      "ratio": "14930352/9227465",
+      "child_fraction": "9227465/14930352",
+      "max_sorted_error_cents": 1.2278178473934531e-11
+    },
+    {
+      "number": 35,
+      "ratio": "24157817/14930352",
+      "child_fraction": "14930352/24157817",
+      "max_sorted_error_cents": 4.547473508864641e-12
+    },
+    {
+      "number": 36,
+      "ratio": "39088169/24157817",
+      "child_fraction": "24157817/39088169",
+      "max_sorted_error_cents": 1.8189894035458565e-12
+    },
+    {
+      "number": 37,
+      "ratio": "63245986/39088169",
+      "child_fraction": "39088169/63245986",
+      "max_sorted_error_cents": 9.094947017729282e-13
+    },
+    {
+      "number": 38,
+      "ratio": "102334155/63245986",
+      "child_fraction": "63245986/102334155",
+      "max_sorted_error_cents": 9.094947017729282e-13
+    },
+    {
+      "number": 39,
+      "ratio": "165580141/102334155",
+      "child_fraction": "102334155/165580141",
+      "max_sorted_error_cents": 4.547473508864641e-13
+    },
+    {
+      "number": 40,
+      "ratio": "267914296/165580141",
+      "child_fraction": "165580141/267914296",
+      "max_sorted_error_cents": 4.547473508864641e-13
+    }
+  ]
+}
