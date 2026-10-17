@@ -1,5 +1,11 @@
 # Calcutta
 
+
+
+https://github.com/user-attachments/assets/8ef001a0-f38d-4cdf-892c-0009e6ad3196
+
+
+
 Simple whole-number ratios between frequencies give us consonant intervals—but could the sizes of those intervals have meaningful proportions of their own? I wondered whether the golden ratio, familiar from proportions in visual art and musical form, might also turn up between the sizes of consonant intervals in logarithmic pitch space.
 
 If so, there might be a way to approach it through a sequence of chords built from whole-number ratios. Each chord would be a closer approximation, gradually “tuning in” to the destination.
