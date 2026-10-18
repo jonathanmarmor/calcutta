@@ -32,6 +32,7 @@ A chronological record of the experiments, from bare tuning demonstrations to ch
 | 25 | [Supplement: synth palette audition](iterations/25-palette-audition/) | A sound palette test rather than a composition. |
 | 26 | [Bright Detours](iterations/26-bright-detours/) | Eight exposed analog/FM synth leads; 46 episodes changing every 7–14 seconds; slow songs, rapid hockets, unequal phrase cycles and mixed-tempo inventions. |
 | 27 | [Ten Detours](iterations/27-ten-detours/) | Ten contrasting pieces, original synthetic vocals, one tremolo study, sampled acoustic/analog/FM hybrids, and portable rendering. |
+| 28 | [Ten Further Pieces](iterations/28-ten-further-pieces/) | Ten fresh blends of the earlier approaches; sampled instruments foregrounded, sparse/dense counterpoint, independent tempi, strict passing connections. |
 
 ## Reproduce and inspect
 

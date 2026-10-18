@@ -295,5 +295,15 @@
     "brief_status": "contemporaneous user-request summary and public plan retained; no hidden reasoning transcript",
     "audio": "iterations/27-ten-detours/audio/01_wrong_intermezzo.mp3",
     "reproduction_status": "portable frozen atoms and speech/formants, deterministic scores, MIDI and renderer; no native plugins needed to replay saved timbres"
+  },
+  {
+    "id": "28-ten-further-pieces",
+    "title": "Ten Further Pieces",
+    "purpose": "Return to internally developed counterpoint, moving sampled-instrument choirs, consonant chord sequences, multiple expressive tempos and varied dense/sparse textures. Fresh material; added pitches only validated passing connections; no outside research.",
+    "composer": "compose_return.py",
+    "brief_status": "Original user request and public implementation specification retained; not a hidden reasoning transcript",
+    "audio": "iterations/28-ten-further-pieces/audio/01_grain_and_line.mp3",
+    "midi": "iterations/28-ten-further-pieces/source/suite/midi/01.mid",
+    "reproduction_status": "Saved dry atoms, deterministic forms and note decisions, score/MIDI, renderer and validation; native plugins not required to render the supplied atoms"
   }
 ]
