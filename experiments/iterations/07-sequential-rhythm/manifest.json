@@ -1,0 +1,26 @@
+{
+  "id": "07-sequential-rhythm",
+  "title": "Sequential note/rest decisions",
+  "purpose": "Generate each rhythm from beginning to end: independent 70% notes / 30% rests, durations capped by the next change.",
+  "composer": "rhythmic_voices_v2.py",
+  "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+  "audio": "iterations/07-sequential-rhythm/calcutta_32_voices_v2.mp3",
+  "midi": "iterations/07-sequential-rhythm/calcutta_32_voices_v2.mid",
+  "archive": "iterations/07-sequential-rhythm/source.zip",
+  "sha256": {
+    "calcutta_32_voices_v2.mid": "fc73def601d3487697a41f373f1859bae7530eda145d56b32e65a0428334c11b",
+    "calcutta_32_voices_v2.mp3": "4f266547000e85e17a6c78d11f164087e5b6c8cf301e800e947b69ea3c4b2f2e",
+    "source/calcutta.py": "f85951f57503a0708ef3eda383fdbfbd4f10040f4060e36501d70476c6e9862e",
+    "source/calcutta_32_voices_v2.json": "1b3be90de8ad1cc23cabc36b6d7b703029ee4f86a89bbdda9c198fcefdd880db",
+    "source/calcutta_32_voices_v2.mid": "fc73def601d3487697a41f373f1859bae7530eda145d56b32e65a0428334c11b",
+    "source/instrument_sketch.py": "afb84c16ddfba9696cf1a25dd30cec09bb87f13f9e5478b14ff113cdf9908656",
+    "source/polyphonic.py": "ad5af1defdafbba2ae6558da23f1cd5f96b28bc85d46e06d2f72cf09fa8b3f87",
+    "source/render.py": "5760d1fdefacc67d65dfa1026ab5627a9c1afd7811265f78182425001adba29f",
+    "source/requirements.txt": "bb721411d040592ac7249a69462639a5650d1938bfee274c66236fc968499d7a",
+    "source/rhythmic_voices_v2.py": "443c9c77e7091a034c33870a09c4853807d59b4444231fee61bb6799beb330d7",
+    "source/scalar_runs.py": "bcfc10c279ba409b654144405c25efc7887b4746d2c2173f7354184778fb7c57",
+    "source/voice_instruments.csv": "4cbcede0dc66335c3852e6e2194d150e099a4779254bb57dc67370277fad3072",
+    "source.zip": "50d6f8f84c776756dda10972a5cb60dd723d241fd77031907b342746bef2faeb"
+  },
+  "reproduction_status": "frozen source and score available; external sound engines required"
+}

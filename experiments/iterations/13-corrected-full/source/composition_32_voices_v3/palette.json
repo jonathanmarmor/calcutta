@@ -1,0 +1,510 @@
+[
+  {
+    "engine": "Surge XT",
+    "name": "Warm transistor",
+    "family": "analog",
+    "parameters": {
+      "a_osc_1_type": "Classic",
+      "a_osc_1_shape": -65,
+      "a_osc_1_width_1": 50,
+      "a_filter_1_type": "LP 12 dB",
+      "a_filter_1_cutoff": 1800,
+      "a_filter_1_resonance": 8
+    },
+    "probe_rms": 0.11249146610498428,
+    "sustain_ratio": 1.0
+  },
+  {
+    "engine": "Surge XT",
+    "name": "Narrow pulse reed",
+    "family": "reed",
+    "parameters": {
+      "a_osc_1_type": "Classic",
+      "a_osc_1_shape": 65,
+      "a_osc_1_width_1": 18,
+      "a_filter_1_type": "LP 12 dB",
+      "a_filter_1_cutoff": 3800,
+      "a_filter_1_resonance": 8
+    },
+    "probe_rms": 0.10000556707382202,
+    "sustain_ratio": 1.0
+  },
+  {
+    "engine": "Surge XT",
+    "name": "Rounded triangle",
+    "family": "round",
+    "parameters": {
+      "a_osc_1_type": "Classic",
+      "a_osc_1_shape": -95,
+      "a_osc_1_width_1": 50,
+      "a_filter_1_type": "LP 12 dB",
+      "a_filter_1_cutoff": 6000,
+      "a_filter_1_resonance": 8
+    },
+    "probe_rms": 0.13747400045394897,
+    "sustain_ratio": 1.0
+  },
+  {
+    "engine": "Surge XT",
+    "name": "Bright saw brass",
+    "family": "brass",
+    "parameters": {
+      "a_osc_1_type": "Modern",
+      "a_osc_1_shape": -20,
+      "a_osc_1_width_1": 50,
+      "a_filter_1_type": "LP 12 dB",
+      "a_filter_1_cutoff": 5200,
+      "a_filter_1_resonance": 8
+    },
+    "probe_rms": 0.04023429751396179,
+    "sustain_ratio": 1.0
+  },
+  {
+    "engine": "Surge XT",
+    "name": "Hollow square",
+    "family": "hollow",
+    "parameters": {
+      "a_osc_1_type": "Classic",
+      "a_osc_1_shape": 85,
+      "a_osc_1_width_1": 50,
+      "a_filter_1_type": "LP 12 dB",
+      "a_filter_1_cutoff": 3200,
+      "a_filter_1_resonance": 8
+    },
+    "probe_rms": 0.07001052796840668,
+    "sustain_ratio": 1.0
+  },
+  {
+    "engine": "Surge XT",
+    "name": "Nasal ribbon",
+    "family": "nasal",
+    "parameters": {
+      "a_osc_1_type": "Modern",
+      "a_osc_1_shape": 45,
+      "a_osc_1_width_1": 32,
+      "a_filter_1_type": "LP 12 dB",
+      "a_filter_1_cutoff": 2200,
+      "a_filter_1_resonance": 8
+    },
+    "probe_rms": 0.038642335683107376,
+    "sustain_ratio": 1.0
+  },
+  {
+    "engine": "Surge XT",
+    "name": "Sine harmonium",
+    "family": "organ",
+    "parameters": {
+      "a_osc_1_type": "Sine",
+      "a_osc_1_shape": 30,
+      "a_osc_1_width_1": 50,
+      "a_filter_1_type": "LP 12 dB",
+      "a_filter_1_cutoff": 10000,
+      "a_filter_1_resonance": 8
+    },
+    "probe_rms": 0.20376478135585785,
+    "sustain_ratio": 1.0
+  },
+  {
+    "engine": "Surge XT",
+    "name": "Digital wire",
+    "family": "digital",
+    "parameters": {
+      "a_osc_1_type": "Sine",
+      "a_osc_1_shape": 70,
+      "a_osc_1_width_1": 50,
+      "a_filter_1_type": "LP 12 dB",
+      "a_filter_1_cutoff": 7400,
+      "a_filter_1_resonance": 8
+    },
+    "probe_rms": 0.2037406861782074,
+    "sustain_ratio": 1.0
+  },
+  {
+    "engine": "Surge XT",
+    "name": "Soft electric wind",
+    "family": "wind",
+    "parameters": {
+      "a_osc_1_type": "Modern",
+      "a_osc_1_shape": -40,
+      "a_osc_1_width_1": 65,
+      "a_filter_1_type": "LP 12 dB",
+      "a_filter_1_cutoff": 2700,
+      "a_filter_1_resonance": 8
+    },
+    "probe_rms": 0.03917776420712471,
+    "sustain_ratio": 1.0000001192092896
+  },
+  {
+    "engine": "Vital",
+    "name": "Liquid glass",
+    "family": "glass",
+    "parameters": {
+      "oscillator_1_distortion_type": "Bend",
+      "oscillator_1_distortion_amount": 26,
+      "oscillator_1_wave_frame": 0,
+      "filter_1_switch": true,
+      "filter_1_cutoff__raw": 0.8847827725847512,
+      "filter_1_resonance": 12
+    },
+    "probe_rms": 0.12031625956296921,
+    "sustain_ratio": 1.0
+  },
+  {
+    "engine": "Vital",
+    "name": "Digital oboe",
+    "family": "reed",
+    "parameters": {
+      "oscillator_1_distortion_type": "Pulse",
+      "oscillator_1_distortion_amount": 58,
+      "oscillator_1_wave_frame": 0,
+      "filter_1_switch": true,
+      "filter_1_cutoff__raw": 0.8052830625952246,
+      "filter_1_resonance": 12
+    },
+    "probe_rms": 0.07070092111825943,
+    "sustain_ratio": 0.9999868273735046
+  },
+  {
+    "engine": "Vital",
+    "name": "Soft folded ribbon",
+    "family": "round",
+    "parameters": {
+      "oscillator_1_distortion_type": "Squeeze",
+      "oscillator_1_distortion_amount": 22,
+      "oscillator_1_wave_frame": 0,
+      "filter_1_switch": true,
+      "filter_1_cutoff__raw": 0.7060117792464526,
+      "filter_1_resonance": 12
+    },
+    "probe_rms": 0.12807011604309082,
+    "sustain_ratio": 0.9999998807907104
+  },
+  {
+    "engine": "Vital",
+    "name": "Vowel prism",
+    "family": "vowel",
+    "parameters": {
+      "oscillator_1_distortion_type": "Formant",
+      "oscillator_1_distortion_amount": 32,
+      "oscillator_1_wave_frame": 0,
+      "filter_1_switch": true,
+      "filter_1_cutoff__raw": 0.860123297037833,
+      "filter_1_resonance": 12
+    },
+    "probe_rms": 0.12173952907323837,
+    "sustain_ratio": 1.0
+  },
+  {
+    "engine": "Vital",
+    "name": "Silver edge",
+    "family": "metal",
+    "parameters": {
+      "oscillator_1_distortion_type": "Sync",
+      "oscillator_1_distortion_amount": 17,
+      "oscillator_1_wave_frame": 0,
+      "filter_1_switch": true,
+      "filter_1_cutoff__raw": 0.911924017946781,
+      "filter_1_resonance": 12
+    },
+    "probe_rms": 0.17723727226257324,
+    "sustain_ratio": 0.9999999403953552
+  },
+  {
+    "engine": "Vital",
+    "name": "Warm chip pulse",
+    "family": "chip",
+    "parameters": {
+      "oscillator_1_distortion_type": "Pulse",
+      "oscillator_1_distortion_amount": 32,
+      "oscillator_1_wave_frame": 0,
+      "filter_1_switch": true,
+      "filter_1_cutoff__raw": 0.8299425381421428,
+      "filter_1_resonance": 12
+    },
+    "probe_rms": 0.09141826629638672,
+    "sustain_ratio": 0.9999943971633911
+  },
+  {
+    "engine": "Vital",
+    "name": "Hollow porcelain",
+    "family": "hollow",
+    "parameters": {
+      "oscillator_1_distortion_type": "Bend",
+      "oscillator_1_distortion_amount": 76,
+      "oscillator_1_wave_frame": 0,
+      "filter_1_switch": true,
+      "filter_1_cutoff__raw": 0.8343774489026138,
+      "filter_1_resonance": 12
+    },
+    "probe_rms": 0.12105685472488403,
+    "sustain_ratio": 1.0
+  },
+  {
+    "engine": "Vital",
+    "name": "Bright folded brass",
+    "family": "brass",
+    "parameters": {
+      "oscillator_1_distortion_type": "Squeeze",
+      "oscillator_1_distortion_amount": 68,
+      "oscillator_1_wave_frame": 0,
+      "filter_1_switch": true,
+      "filter_1_cutoff__raw": 0.7997617792464526,
+      "filter_1_resonance": 12
+    },
+    "probe_rms": 0.09417538344860077,
+    "sustain_ratio": 1.0
+  },
+  {
+    "engine": "Vital",
+    "name": "Fine spectral thread",
+    "family": "digital",
+    "parameters": {
+      "oscillator_1_distortion_type": "Formant",
+      "oscillator_1_distortion_amount": 64,
+      "oscillator_1_wave_frame": 0,
+      "filter_1_switch": true,
+      "filter_1_cutoff__raw": 0.8990330625952246,
+      "filter_1_resonance": 12
+    },
+    "probe_rms": 0.07699444144964218,
+    "sustain_ratio": 1.0
+  },
+  {
+    "engine": "Dexed",
+    "name": "FM clarinet",
+    "family": "reed",
+    "parameters": {
+      "algorithm": 5,
+      "feedback": 0,
+      "op1_f_coarse": 1,
+      "op1_output_level": 94,
+      "op2_f_coarse": 2,
+      "op2_output_level": 60,
+      "op3_f_coarse": 1,
+      "op3_output_level": 75,
+      "op4_f_coarse": 4,
+      "op4_output_level": 40,
+      "op5_f_coarse": 1,
+      "op5_output_level": 0,
+      "op6_f_coarse": 6,
+      "op6_output_level": 0
+    },
+    "probe_rms": 0.07850251346826553,
+    "sustain_ratio": 0.9999236464500427
+  },
+  {
+    "engine": "Dexed",
+    "name": "Held electric tine",
+    "family": "tine",
+    "parameters": {
+      "algorithm": 5,
+      "feedback": 0,
+      "op1_f_coarse": 1,
+      "op1_output_level": 93,
+      "op2_f_coarse": 3,
+      "op2_output_level": 65,
+      "op3_f_coarse": 1,
+      "op3_output_level": 74,
+      "op4_f_coarse": 7,
+      "op4_output_level": 48,
+      "op5_f_coarse": 1,
+      "op5_output_level": 0,
+      "op6_f_coarse": 2,
+      "op6_output_level": 0
+    },
+    "probe_rms": 0.0617142990231514,
+    "sustain_ratio": 1.000012993812561
+  },
+  {
+    "engine": "Dexed",
+    "name": "Copper FM horn",
+    "family": "brass",
+    "parameters": {
+      "algorithm": 5,
+      "feedback": 0,
+      "op1_f_coarse": 1,
+      "op1_output_level": 93,
+      "op2_f_coarse": 1,
+      "op2_output_level": 75,
+      "op3_f_coarse": 1,
+      "op3_output_level": 68,
+      "op4_f_coarse": 2,
+      "op4_output_level": 42,
+      "op5_f_coarse": 1,
+      "op5_output_level": 0,
+      "op6_f_coarse": 3,
+      "op6_output_level": 0
+    },
+    "probe_rms": 0.04018330201506615,
+    "sustain_ratio": 1.0000032186508179
+  },
+  {
+    "engine": "Dexed",
+    "name": "Pure wooden flute",
+    "family": "wind",
+    "parameters": {
+      "algorithm": 5,
+      "feedback": 0,
+      "op1_f_coarse": 1,
+      "op1_output_level": 95,
+      "op2_f_coarse": 1,
+      "op2_output_level": 38,
+      "op3_f_coarse": 1,
+      "op3_output_level": 60,
+      "op4_f_coarse": 2,
+      "op4_output_level": 25,
+      "op5_f_coarse": 1,
+      "op5_output_level": 0,
+      "op6_f_coarse": 3,
+      "op6_output_level": 0
+    },
+    "probe_rms": 0.06544235348701477,
+    "sustain_ratio": 0.9999988675117493
+  },
+  {
+    "engine": "Dexed",
+    "name": "Sustained celeste",
+    "family": "glass",
+    "parameters": {
+      "algorithm": 5,
+      "feedback": 0,
+      "op1_f_coarse": 1,
+      "op1_output_level": 94,
+      "op2_f_coarse": 4,
+      "op2_output_level": 70,
+      "op3_f_coarse": 1,
+      "op3_output_level": 72,
+      "op4_f_coarse": 9,
+      "op4_output_level": 56,
+      "op5_f_coarse": 1,
+      "op5_output_level": 0,
+      "op6_f_coarse": 2,
+      "op6_output_level": 0
+    },
+    "probe_rms": 0.06385727971792221,
+    "sustain_ratio": 1.0000050067901611
+  },
+  {
+    "engine": "Dexed",
+    "name": "Rubber FM bass",
+    "family": "round",
+    "parameters": {
+      "algorithm": 5,
+      "feedback": 0,
+      "op1_f_coarse": 1,
+      "op1_output_level": 96,
+      "op2_f_coarse": 1,
+      "op2_output_level": 65,
+      "op3_f_coarse": 1,
+      "op3_output_level": 60,
+      "op4_f_coarse": 3,
+      "op4_output_level": 37,
+      "op5_f_coarse": 1,
+      "op5_output_level": 0,
+      "op6_f_coarse": 2,
+      "op6_output_level": 0
+    },
+    "probe_rms": 0.0642419382929802,
+    "sustain_ratio": 1.0000020265579224
+  },
+  {
+    "engine": "Dexed",
+    "name": "Crystalline organ",
+    "family": "organ",
+    "parameters": {
+      "algorithm": 32,
+      "feedback": 0,
+      "op1_f_coarse": 1,
+      "op1_output_level": 91,
+      "op2_f_coarse": 2,
+      "op2_output_level": 79,
+      "op3_f_coarse": 3,
+      "op3_output_level": 71,
+      "op4_f_coarse": 4,
+      "op4_output_level": 62,
+      "op5_f_coarse": 5,
+      "op5_output_level": 48,
+      "op6_f_coarse": 8,
+      "op6_output_level": 40
+    },
+    "probe_rms": 0.047647424042224884,
+    "sustain_ratio": 1.0000003576278687
+  },
+  {
+    "engine": "Dexed",
+    "name": "Bronze harmonic cloud",
+    "family": "metal",
+    "parameters": {
+      "algorithm": 5,
+      "feedback": 0,
+      "op1_f_coarse": 1,
+      "op1_output_level": 94,
+      "op2_f_coarse": 5,
+      "op2_output_level": 73,
+      "op3_f_coarse": 1,
+      "op3_output_level": 67,
+      "op4_f_coarse": 8,
+      "op4_output_level": 51,
+      "op5_f_coarse": 1,
+      "op5_output_level": 0,
+      "op6_f_coarse": 3,
+      "op6_output_level": 0
+    },
+    "probe_rms": 0.06071128323674202,
+    "sustain_ratio": 1.000000238418579
+  },
+  {
+    "engine": "FluidSynth",
+    "name": "MIDI piano",
+    "family": "piano",
+    "program": 0,
+    "parameters": {},
+    "probe_rms": 0.00699668750166893,
+    "sustain_ratio": 0.0541783943772316
+  },
+  {
+    "engine": "FluidSynth",
+    "name": "MIDI vibraphone",
+    "family": "vibes",
+    "program": 11,
+    "parameters": {},
+    "probe_rms": 0.022586913779377937,
+    "sustain_ratio": 0.13011260330677032
+  },
+  {
+    "engine": "FluidSynth",
+    "name": "MIDI tubular bells",
+    "family": "bells",
+    "program": 14,
+    "parameters": {},
+    "probe_rms": 0.014394698664546013,
+    "sustain_ratio": 0.0844152569770813
+  },
+  {
+    "engine": "FluidSynth",
+    "name": "MIDI church organ",
+    "family": "organ",
+    "program": 19,
+    "parameters": {},
+    "probe_rms": 0.02086176536977291,
+    "sustain_ratio": 0.8391627669334412
+  },
+  {
+    "engine": "FluidSynth",
+    "name": "MIDI accordion",
+    "family": "accordion",
+    "program": 21,
+    "parameters": {},
+    "probe_rms": 0.03063737228512764,
+    "sustain_ratio": 0.9987519979476929
+  },
+  {
+    "engine": "FluidSynth",
+    "name": "MIDI clarinet",
+    "family": "reed",
+    "program": 71,
+    "parameters": {},
+    "probe_rms": 0.03401746600866318,
+    "sustain_ratio": 0.9686672687530518
+  }
+]

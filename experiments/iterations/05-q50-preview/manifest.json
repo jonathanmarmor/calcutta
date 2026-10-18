@@ -1,0 +1,23 @@
+{
+  "id": "05-q50-preview",
+  "title": "Sixteen bars at quarter = 50",
+  "purpose": "More distinct instrumental timbres; 4/4 metrical hierarchy, sixteenth resolution, one harmony per bar.",
+  "composer": "calcutta/instrument_sketch.py",
+  "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+  "audio": "iterations/05-q50-preview/calcutta_16_bars_q50.mp3",
+  "midi": "iterations/05-q50-preview/calcutta_16_bars_q50.mid",
+  "archive": "iterations/05-q50-preview/source.zip",
+  "sha256": {
+    "calcutta_16_bars_q50.json": "1bd1fafd2e4687143a646bcdcdbff894600cdd42f790ecd11bd8795541069afe",
+    "calcutta_16_bars_q50.mid": "888905e994aa46d899d5ac158cc36a81f86e0490e2c367a10b1bb4bede9b2737",
+    "calcutta_16_bars_q50.mp3": "326c36fe6f2dc93ef4c1059afdd6539cd88e6bf01957fcdb1eac4a69b3e541ba",
+    "source/calcutta/calcutta.py": "f85951f57503a0708ef3eda383fdbfbd4f10040f4060e36501d70476c6e9862e",
+    "source/calcutta/instrument_sketch.py": "afb84c16ddfba9696cf1a25dd30cec09bb87f13f9e5478b14ff113cdf9908656",
+    "source/calcutta/polyphonic.py": "ad5af1defdafbba2ae6558da23f1cd5f96b28bc85d46e06d2f72cf09fa8b3f87",
+    "source/calcutta/render.py": "5760d1fdefacc67d65dfa1026ab5627a9c1afd7811265f78182425001adba29f",
+    "source/calcutta/requirements.txt": "bb721411d040592ac7249a69462639a5650d1938bfee274c66236fc968499d7a",
+    "source/calcutta/scalar_runs.py": "bcfc10c279ba409b654144405c25efc7887b4746d2c2173f7354184778fb7c57",
+    "source.zip": "156a7cb3035239897d06afb7509a46eacf2e9192d6cb336668fa2bcd279ea656"
+  },
+  "reproduction_status": "frozen source and score available; external sound engines required"
+}

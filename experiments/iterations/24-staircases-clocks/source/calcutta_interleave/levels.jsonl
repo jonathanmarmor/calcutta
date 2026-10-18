@@ -1,0 +1,32 @@
+{"voice": 1, "engine": "FluidSynth", "sound": "Clarinet", "raw_rms": 0.005419529974460602, "gain": 1.1953022721213313, "balanced_rms": 0.006477976683527231, "peak": 0.026400109753012657}
+{"voice": 2, "engine": "TAL-NoiseMaker", "sound": "TAL soft amber", "raw_rms": 0.006502547767013311, "gain": 0.47383301992818955, "balanced_rms": 0.0030811219476163387, "peak": 0.011401076801121235}
+{"voice": 3, "engine": "FluidSynth", "sound": "Clean jazz guitar", "raw_rms": 0.002376485150307417, "gain": 2.8995782961637646, "balanced_rms": 0.006890804972499609, "peak": 0.08122847229242325}
+{"voice": 4, "engine": "OB-Xf", "sound": "OB-X cloud wool", "raw_rms": 0.009433205239474773, "gain": 0.33529249217672286, "balanced_rms": 0.0031628827564418316, "peak": 0.010357825085520744}
+{"voice": 5, "engine": "FluidSynth", "sound": "Rhodes electric piano", "raw_rms": 0.003324795514345169, "gain": 2.1102431323223416, "balanced_rms": 0.007016126532107592, "peak": 0.030966125428676605}
+{"voice": 6, "engine": "Dexed", "sound": "Pure wooden flute", "raw_rms": 0.011257748119533062, "gain": 0.15276256923629372, "balanced_rms": 0.001719762454740703, "peak": 0.0038521671667695045}
+{"voice": 7, "engine": "FluidSynth", "sound": "Clavinet", "raw_rms": 0.002091351430863142, "gain": 2.8922985321961407, "balanced_rms": 0.006048812530934811, "peak": 0.08735401183366776}
+{"voice": 8, "engine": "TAL-NoiseMaker", "sound": "TAL open linen", "raw_rms": 0.013086308725178242, "gain": 0.1947746545322203, "balanced_rms": 0.0025488813407719135, "peak": 0.004793234635144472}
+{"voice": 9, "engine": "FluidSynth", "sound": "Harp", "raw_rms": 0.0028564552776515484, "gain": 3.6651992070138197, "balanced_rms": 0.010469477623701096, "peak": 0.09727748483419418}
+{"voice": 10, "engine": "OB-Xf", "sound": "OB-X small brass", "raw_rms": 0.006518783513456583, "gain": 0.31064449520834453, "balanced_rms": 0.002025024266913533, "peak": 0.007784594316035509}
+{"voice": 11, "engine": "FluidSynth", "sound": "Bassoon", "raw_rms": 0.004455145914107561, "gain": 1.6222882635181268, "balanced_rms": 0.007227530237287283, "peak": 0.03581428900361061}
+{"voice": 12, "engine": "Surge XT", "sound": "Resonant velvet drone", "raw_rms": 0.006873560603708029, "gain": 0.5170034540301068, "balanced_rms": 0.003553654532879591, "peak": 0.018045959994196892}
+{"voice": 13, "engine": "FluidSynth", "sound": "Nylon guitar", "raw_rms": 0.0017569327028468251, "gain": 5.410683171034698, "balanced_rms": 0.009506206028163433, "peak": 0.14179293811321259}
+{"voice": 14, "engine": "Surge XT", "sound": "Air through a ladder", "raw_rms": 0.01042980793863535, "gain": 0.23522507006810833, "balanced_rms": 0.002453352091833949, "peak": 0.011224186979234219}
+{"voice": 15, "engine": "FluidSynth", "sound": "French horn", "raw_rms": 0.008680975064635277, "gain": 0.663377539481072, "balanced_rms": 0.0057587637566030025, "peak": 0.03415903449058533}
+{"voice": 16, "engine": "TAL-NoiseMaker", "sound": "TAL hollow satin", "raw_rms": 0.012654081918299198, "gain": 0.21103432942950429, "balanced_rms": 0.0026704457122832537, "peak": 0.006293316837400198}
+{"voice": 17, "engine": "FluidSynth", "sound": "Recorder", "raw_rms": 0.01516073290258646, "gain": 1.019438670719704, "balanced_rms": 0.015455435961484909, "peak": 0.03291584923863411}
+{"voice": 18, "engine": "OB-Xf", "sound": "OB-X dark halo", "raw_rms": 0.014306850731372833, "gain": 0.2605406825089549, "balanced_rms": 0.0037275166250765324, "peak": 0.011783592402935028}
+{"voice": 19, "engine": "FluidSynth", "sound": "Pan pipes", "raw_rms": 0.01329114194959402, "gain": 1.3385598220808266, "balanced_rms": 0.017790989950299263, "peak": 0.042971331626176834}
+{"voice": 20, "engine": "Dexed", "sound": "FM clarinet", "raw_rms": 0.03237200900912285, "gain": 0.15294674521150184, "balanced_rms": 0.004951192997395992, "peak": 0.007571173366159201}
+{"voice": 21, "engine": "FluidSynth", "sound": "Steel pans", "raw_rms": 0.004864787217229605, "gain": 4.124547412863138, "balanced_rms": 0.02006504498422146, "peak": 0.24061045050621033}
+{"voice": 22, "engine": "TAL-NoiseMaker", "sound": "TAL dusk reed", "raw_rms": 0.019233914092183113, "gain": 0.27564245089720457, "balanced_rms": 0.005301683209836483, "peak": 0.014348836615681648}
+{"voice": 23, "engine": "FluidSynth", "sound": "Growling fretless bass", "raw_rms": 0.0026928724255412817, "gain": 1.9669039651712008, "balanced_rms": 0.005296621471643448, "peak": 0.05532290041446686}
+{"voice": 24, "engine": "Surge XT", "sound": "Modular reed sustained", "raw_rms": 0.013611550442874432, "gain": 0.29293168508274103, "balanced_rms": 0.003987254109233618, "peak": 0.015448273159563541}
+{"voice": 25, "engine": "FluidSynth", "sound": "Clean jazz guitar", "raw_rms": 0.0047830152325332165, "gain": 3.683347767535506, "balanced_rms": 0.01761750690639019, "peak": 0.2825703024864197}
+{"voice": 26, "engine": "FluidSynth", "sound": "Rhodes electric piano", "raw_rms": 0.005783635191619396, "gain": 1.9013778546893558, "balanced_rms": 0.010996876284480095, "peak": 0.07618355751037598}
+{"voice": 27, "engine": "FluidSynth", "sound": "Flute", "raw_rms": 0.004574847407639027, "gain": 1.4024253869727632, "balanced_rms": 0.006415882147848606, "peak": 0.0849452018737793}
+{"voice": 28, "engine": "FluidSynth", "sound": "English horn", "raw_rms": 0.007396120112389326, "gain": 1.1431228661765813, "balanced_rms": 0.008454673923552036, "peak": 0.06571675091981888}
+{"voice": 29, "engine": "FluidSynth", "sound": "Harp", "raw_rms": 0.006661495193839073, "gain": 1.9237878995820759, "balanced_rms": 0.012815305031836033, "peak": 0.1357657015323639}
+{"voice": 30, "engine": "FluidSynth", "sound": "Grand piano", "raw_rms": 0.0009684426477178931, "gain": 4.56901012679073, "balanced_rms": 0.004424824379384518, "peak": 0.27236267924308777}
+{"voice": 31, "engine": "FluidSynth", "sound": "Clavinet", "raw_rms": 0.004936895798891783, "gain": 3.1220978505628287, "balanced_rms": 0.01541347149759531, "peak": 0.2895765006542206}
+{"voice": 32, "engine": "Surge XT", "sound": "Curtis-like round lead", "raw_rms": 0.02353743463754654, "gain": 0.26769543872917706, "balanced_rms": 0.006300863344222307, "peak": 0.07272119075059891}

@@ -1,0 +1,3 @@
+numpy
+mido
+pedalboard==0.9.26

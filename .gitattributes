@@ -1,0 +1,8 @@
+# Historical CSV exports retain their original CRLF bytes.
+*.csv whitespace=cr-at-eol
+# Scores and synthesizer states are generated assets; inspect through file views.
+experiments/**/source/**/*.json -diff linguist-generated=true
+experiments/**/*.vststate binary linguist-generated=true
+experiments/**/*.mp3 binary
+experiments/**/*.mid binary
+experiments/**/*.zip binary

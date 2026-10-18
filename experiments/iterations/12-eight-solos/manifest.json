@@ -1,0 +1,12 @@
+{
+  "id": "12-eight-solos",
+  "title": "New ensemble, eight solos, ensemble",
+  "purpose": "Simpler metrical phrases, acoustic/sample colors, louder click, stronger dynamics, no detuned accordion.",
+  "composer": null,
+  "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+  "audio": "iterations/12-eight-solos/new_ensemble_eight_solos_ensemble.mp3",
+  "sha256": {
+    "new_ensemble_eight_solos_ensemble.mp3": "3a946bcd9f99000c5f5cb8a16d5b2b1810c8e2703d1397b2c2bb407355cc8ee7"
+  },
+  "reproduction_status": "audio-only historical diagnostic; exact generation source was not retained"
+}

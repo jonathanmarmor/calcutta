@@ -1,0 +1,14 @@
+{
+  "duration_seconds": 494,
+  "peak": 0.77996826171875,
+  "rms": 0.0898047462105751,
+  "nonzero_layers": 24,
+  "foreground_synth_parts": 8,
+  "episodes": 46,
+  "max_episode_seconds": 14,
+  "min_episode_seconds": 7,
+  "distinct_texture_types": 20,
+  "fields_used": 40,
+  "original_pitches_only": true,
+  "ending": "fixed FM tone after phrase interruption; no master fade"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "03-polyphony",
+  "title": "Polyphonic cells",
+  "purpose": "Overlapping scalar cells, variable density, registers and sequences; alternating neighboring fields.",
+  "composer": "calcutta/polyphonic.py",
+  "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+  "audio": "iterations/03-polyphony/calcutta_polyphonic.mp3",
+  "midi": "iterations/03-polyphony/calcutta_polyphonic.mid",
+  "archive": "iterations/03-polyphony/source.zip",
+  "sha256": {
+    "calcutta_polyphonic.json": "a43fc9e1b3416411d8c4e8e983ec3b2154e88067a35c54469dc18d82142014f4",
+    "calcutta_polyphonic.mid": "5a6d6c4baf7381e24c427cca0cfff6ade09ffa3a09cf925b85039a6c2816a7cf",
+    "calcutta_polyphonic.mp3": "8f27729a66fd5ef39cd319c9a8e94f3f958233671f1aec10665378de24ef5849",
+    "source/calcutta/calcutta.py": "f85951f57503a0708ef3eda383fdbfbd4f10040f4060e36501d70476c6e9862e",
+    "source/calcutta/polyphonic.py": "8f738a789b7e121038c58cf32ee13bd41ea34ca127cdf19faeec351917310fc1",
+    "source/calcutta/render.py": "5760d1fdefacc67d65dfa1026ab5627a9c1afd7811265f78182425001adba29f",
+    "source/calcutta/requirements.txt": "bb721411d040592ac7249a69462639a5650d1938bfee274c66236fc968499d7a",
+    "source/calcutta/scalar_runs.py": "bcfc10c279ba409b654144405c25efc7887b4746d2c2173f7354184778fb7c57",
+    "source.zip": "c653396005523a7347ef852a8406176dd74c0b7df51000fa17de8f6b0ded1adf"
+  },
+  "reproduction_status": "frozen source and score available; external sound engines required"
+}

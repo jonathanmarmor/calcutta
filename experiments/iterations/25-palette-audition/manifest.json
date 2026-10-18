@@ -1,0 +1,12 @@
+{
+  "id": "25-palette-audition",
+  "title": "Supplement: synth palette audition",
+  "purpose": "A sound palette test rather than a composition.",
+  "composer": null,
+  "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+  "audio": "iterations/25-palette-audition/palette_audition.mp3",
+  "sha256": {
+    "palette_audition.mp3": "348e80bf05f8be2e79470806be44708643d721d73543d93c42340f5a40ed5eac"
+  },
+  "reproduction_status": "audio-only historical diagnostic; exact generation source was not retained"
+}

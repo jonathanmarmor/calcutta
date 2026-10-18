@@ -1,0 +1,20 @@
+[
+  {
+    "engine": "OB-Xf",
+    "name": "Oberheim dry pulse",
+    "family": "Oberheim model",
+    "state_path": "motif_patches/obxf_0.vststate"
+  },
+  {
+    "engine": "OB-Xf",
+    "name": "Oberheim dry brass",
+    "family": "Oberheim model",
+    "state_path": "motif_patches/obxf_1.vststate"
+  },
+  {
+    "engine": "OB-Xf",
+    "name": "Oberheim round sequence",
+    "family": "Oberheim model",
+    "state_path": "motif_patches/obxf_2.vststate"
+  }
+]

@@ -1,0 +1,44 @@
+{"voice": 1, "engine": "FluidSynth", "sound": "Fingered electric bass", "raw_rms": 0.003443045075982809, "gain": 1.1829150041106864, "balanced_rms": 0.004072829615324736, "peak": 0.07241473346948624}
+{"voice": 2, "engine": "FluidSynth", "sound": "Steel string guitar", "raw_rms": 0.0023538549430668354, "gain": 1.8024310974344542, "balanced_rms": 0.004242660943418741, "peak": 0.07997220754623413}
+{"voice": 3, "engine": "FluidSynth", "sound": "Tubular bells", "raw_rms": 0.002379666781052947, "gain": 1.6799371312179574, "balanced_rms": 0.003997690975666046, "peak": 0.06880512833595276}
+{"voice": 4, "engine": "Surge XT", "sound": "Warm transistor", "raw_rms": 0.024586087092757225, "gain": 0.28299718699484966, "balanced_rms": 0.0069577936083078384, "peak": 0.03364820033311844}
+{"voice": 5, "engine": "FluidSynth", "sound": "Oboe", "raw_rms": 0.007616393733769655, "gain": 1.363418299726246, "balanced_rms": 0.010384331457316875, "peak": 0.1504516750574112}
+{"voice": 6, "engine": "FluidSynth", "sound": "FM electric piano", "raw_rms": 0.002316889585927129, "gain": 1.848212830124177, "balanced_rms": 0.004282104782760143, "peak": 0.06064603850245476}
+{"voice": 7, "engine": "FluidSynth", "sound": "Vibraphone", "raw_rms": 0.004216761793941259, "gain": 0.884831207548649, "balanced_rms": 0.0037311227060854435, "peak": 0.04330047219991684}
+{"voice": 8, "engine": "FluidSynth", "sound": "Clean electric guitar", "raw_rms": 0.0017691710963845253, "gain": 2.500466705229269, "balanced_rms": 0.004423753824084997, "peak": 0.10075108706951141}
+{"voice": 9, "engine": "FluidSynth", "sound": "Bassoon", "raw_rms": 0.008030077442526817, "gain": 0.9992992440532213, "balanced_rms": 0.00802445039153099, "peak": 0.07908900082111359}
+{"voice": 10, "engine": "FluidSynth", "sound": "Pan pipes", "raw_rms": 0.006049743853509426, "gain": 1.1610821597089516, "balanced_rms": 0.0070242490619421005, "peak": 0.04090609401464462}
+{"voice": 11, "engine": "FluidSynth", "sound": "Clarinet", "raw_rms": 0.007134426385164261, "gain": 1.089761700038108, "balanced_rms": 0.007774824742227793, "peak": 0.058570247143507004}
+{"voice": 12, "engine": "FluidSynth", "sound": "Rhodes electric piano", "raw_rms": 0.005180893931537867, "gain": 1.1600889602235542, "balanced_rms": 0.006010298151522875, "peak": 0.10256468504667282}
+{"voice": 13, "engine": "FluidSynth", "sound": "English horn", "raw_rms": 0.008331526070833206, "gain": 1.1778972581768115, "balanced_rms": 0.009813681244850159, "peak": 0.048999954015016556}
+{"voice": 14, "engine": "FluidSynth", "sound": "Harpsichord", "raw_rms": 0.0018041353905573487, "gain": 1.9852808508582402, "balanced_rms": 0.003581715514883399, "peak": 0.058985769748687744}
+{"voice": 15, "engine": "FluidSynth", "sound": "Church organ", "raw_rms": 0.004975118208676577, "gain": 1.5537221197357067, "balanced_rms": 0.0077299512922763824, "peak": 0.06180588901042938}
+{"voice": 16, "engine": "FluidSynth", "sound": "Drawbar organ", "raw_rms": 0.006362751591950655, "gain": 1.1668487438783828, "balanced_rms": 0.007424368988722563, "peak": 0.04627138748764992}
+{"voice": 17, "engine": "Dexed", "sound": "FM clarinet", "raw_rms": 0.015357177704572678, "gain": 0.4488404575369567, "balanced_rms": 0.006892923265695572, "peak": 0.024217523634433746}
+{"voice": 18, "engine": "Surge XT", "sound": "Nasal ribbon", "raw_rms": 0.007223714608699083, "gain": 0.9175153657060099, "balanced_rms": 0.006627868860960007, "peak": 0.032182950526475906}
+{"voice": 19, "engine": "FluidSynth", "sound": "Acoustic bass", "raw_rms": 0.0018675855826586485, "gain": 1.8857366745159927, "balanced_rms": 0.003521774662658572, "peak": 0.08605314791202545}
+{"voice": 20, "engine": "FluidSynth", "sound": "Muted trumpet", "raw_rms": 0.002733878791332245, "gain": 1.9414993463100676, "balanced_rms": 0.00530782388523221, "peak": 0.08683020621538162}
+{"voice": 21, "engine": "FluidSynth", "sound": "Steel pans", "raw_rms": 0.0011628145584836602, "gain": 2.6833803762547075, "balanced_rms": 0.003120273584499955, "peak": 0.15393242239952087}
+{"voice": 22, "engine": "Surge XT", "sound": "Sine harmonium", "raw_rms": 0.04052233323454857, "gain": 0.16781389458595788, "balanced_rms": 0.006800210569053888, "peak": 0.043848950415849686}
+{"voice": 23, "engine": "Dexed", "sound": "Pure wooden flute", "raw_rms": 0.012741084210574627, "gain": 0.5235929143995577, "balanced_rms": 0.006671141367405653, "peak": 0.02684321254491806}
+{"voice": 24, "engine": "FluidSynth", "sound": "Bright piano", "raw_rms": 0.0014921913389116526, "gain": 2.189020017303993, "balanced_rms": 0.0032664367463439703, "peak": 0.08397259563207626}
+{"voice": 25, "engine": "FluidSynth", "sound": "French horn", "raw_rms": 0.010245846584439278, "gain": 0.875644497017091, "balanced_rms": 0.008971719071269035, "peak": 0.09191244095563889}
+{"voice": 26, "engine": "FluidSynth", "sound": "Recorder", "raw_rms": 0.007880443707108498, "gain": 0.8996791732298467, "balanced_rms": 0.007089870981872082, "peak": 0.034144237637519836}
+{"voice": 27, "engine": "FluidSynth", "sound": "Grand piano", "raw_rms": 0.0016232222551479936, "gain": 2.0381495101388936, "balanced_rms": 0.003308369778096676, "peak": 0.07469376921653748}
+{"voice": 28, "engine": "FluidSynth", "sound": "Nylon guitar", "raw_rms": 0.002710604341700673, "gain": 2.844855755715328, "balanced_rms": 0.007711278274655342, "peak": 0.17538993060588837}
+{"voice": 29, "engine": "FluidSynth", "sound": "Celesta", "raw_rms": 0.001608566613867879, "gain": 2.076130822815255, "balanced_rms": 0.0033395946957170963, "peak": 0.05150045081973076}
+{"voice": 30, "engine": "FluidSynth", "sound": "Flute", "raw_rms": 0.013160642236471176, "gain": 0.6326587471461772, "balanced_rms": 0.008326195180416107, "peak": 0.05601424351334572}
+{"voice": 31, "engine": "Surge XT", "sound": "Hollow square", "raw_rms": 0.010487702675163746, "gain": 0.6650604453760964, "balanced_rms": 0.0069749560207128525, "peak": 0.05709206685423851}
+{"voice": 32, "engine": "FluidSynth", "sound": "Clean jazz guitar", "raw_rms": 0.0016741815488785505, "gain": 2.6512417038329112, "balanced_rms": 0.0044386605732142925, "peak": 0.11723007261753082}
+{"voice": 33, "engine": "FluidSynth", "sound": "Harp", "raw_rms": 0.00689093628898263, "gain": 1.8976386834659393, "balanced_rms": 0.013076507486402988, "peak": 0.19150327146053314}
+{"voice": 34, "engine": "FluidSynth", "sound": "Harp", "raw_rms": 0.004499163944274187, "gain": 1.9743098256746996, "balanced_rms": 0.008882743306457996, "peak": 0.1742868423461914}
+{"voice": 35, "engine": "FluidSynth", "sound": "Harp", "raw_rms": 0.002129749394953251, "gain": 2.104051352416452, "balanced_rms": 0.0044811018742620945, "peak": 0.1183537095785141}
+{"voice": 36, "engine": "FluidSynth", "sound": "Muted trumpet", "raw_rms": 0.0047855256125330925, "gain": 1.9414993463100676, "balanced_rms": 0.009291094727814198, "peak": 0.17175298929214478}
+{"voice": 37, "engine": "FluidSynth", "sound": "Muted trumpet", "raw_rms": 0.001991512021049857, "gain": 1.9414993463100676, "balanced_rms": 0.0038665193133056164, "peak": 0.12563669681549072}
+{"voice": 38, "engine": "FluidSynth", "sound": "Muted trumpet", "raw_rms": 0.0014972478384152055, "gain": 1.9414993463100676, "balanced_rms": 0.0029069057200104, "peak": 0.08210495859384537}
+{"voice": 39, "engine": "FluidSynth", "sound": "Clarinet", "raw_rms": 0.007961921393871307, "gain": 1.089761700038108, "balanced_rms": 0.00867659691721201, "peak": 0.09220997989177704}
+{"voice": 40, "engine": "FluidSynth", "sound": "Clarinet", "raw_rms": 0.004443137440830469, "gain": 1.089761700038108, "balanced_rms": 0.004841960500925779, "peak": 0.08976525813341141}
+{"voice": 41, "engine": "Dexed", "sound": "Pure wooden flute", "raw_rms": 0.012988298200070858, "gain": 0.5235929143995577, "balanced_rms": 0.006800580304116011, "peak": 0.05089519917964935}
+{"voice": 42, "engine": "Dexed", "sound": "Pure wooden flute", "raw_rms": 0.00894294586032629, "gain": 0.5235929143995577, "balanced_rms": 0.00468246266245842, "peak": 0.0434282049536705}
+{"voice": 43, "engine": "Surge XT", "sound": "Sine harmonium", "raw_rms": 0.06064683198928833, "gain": 0.16781389458595788, "balanced_rms": 0.010177381336688995, "peak": 0.08049046248197556}
+{"voice": 44, "engine": "Surge XT", "sound": "Sine harmonium", "raw_rms": 0.0343281589448452, "gain": 0.16781389458595788, "balanced_rms": 0.005760741885751486, "peak": 0.04317493736743927}
