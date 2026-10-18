@@ -112,4 +112,4 @@ ffmpeg -i output/calcutta.wav -codec:a libmp3lame -q:a 2 output/calcutta.mp3
 
 ## Composition experiments
 
-[Browse the chronological listening laboratory](experiments/README.md): 30 iterations and sound tests, with source snapshots, scores, MIDI, composition briefs, and reproduction instructions. The latest is [Pulse and Convergence](experiments/iterations/29-pulse-convergence/README.md), ten fuller pieces with an expressive pulse and a long final golden-ratio field.
+[Browse the chronological listening laboratory](experiments/README.md): 31 iterations and sound tests, with source snapshots, scores, MIDI, composition briefs, and reproduction instructions. The latest is [Wide Palette](experiments/iterations/30-wide-palette/README.md), five pieces with 64 source sounds each, changing ensembles, vibrato-free sustains, and openings beyond the 1:2 field.

@@ -1,0 +1,5 @@
+{
+  "scores": "All five regenerate with identical SHA-256 hashes",
+  "audio": "First corrected-opening WAV reproduces byte for byte from isolated saved models",
+  "first_wav_sha256": "7fa8eba78bce722408d1a94843788456e42f769396b561559da939beb60dc78b"
+}

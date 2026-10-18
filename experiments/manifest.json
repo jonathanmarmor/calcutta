@@ -315,5 +315,15 @@
     "audio": "iterations/29-pulse-convergence/audio/01_current_and_grain.mp3",
     "midi": "iterations/29-pulse-convergence/source/suite/midi/01.mid",
     "reproduction_status": "Saved dry atoms, deterministic window/form/pulse and note decisions, actual primary-beat MIDI tempo maps, renderer and validation; no native plugins required"
+  },
+  {
+    "id": "30-wide-palette",
+    "title": "Wide Palette",
+    "purpose": "Five new pieces, 64 source instrument sounds each with changing section ensembles; sample-derived fixed-frequency resynthesis removes vibrato, while corrected openings use the 2:3 or 3:5 field.",
+    "composer": "compose_wide.py",
+    "brief_status": "Original request, recovered earlier sound guidance and public implementation specification retained",
+    "audio": "iterations/30-wide-palette/audio/01_changing_ensembles.mp3",
+    "midi": "iterations/30-wide-palette/source/suite/midi/01.mid",
+    "reproduction_status": "Saved vibrato-free spectral models, deterministic forms, scores, instrument/section assignments, MIDI, renderer and validation; native engines not required"
   }
 ]

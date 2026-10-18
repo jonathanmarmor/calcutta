@@ -34,6 +34,7 @@ A chronological record of the experiments, from bare tuning demonstrations to ch
 | 27 | [Ten Detours](iterations/27-ten-detours/) | Ten contrasting pieces, original synthetic vocals, one tremolo study, sampled acoustic/analog/FM hybrids, and portable rendering. |
 | 28 | [Ten Further Pieces](iterations/28-ten-further-pieces/) | Ten fresh blends of the earlier approaches; sampled instruments foregrounded, sparse/dense counterpoint, independent tempi, strict passing connections. |
 | 29 | [Pulse and Convergence](iterations/29-pulse-convergence/) | Ten fuller, pulse-driven pieces; advancing adjacent harmonic neighborhoods, then at least the final third inside the golden-ratio field. |
+| 30 | [Wide Palette](iterations/30-wide-palette/) | Five new pieces, 64 source sounds each, changing section orchestration, fixed-frequency no-vibrato resynthesis, and corrected non-1:2 openings. |
 
 ## Reproduce and inspect
 
