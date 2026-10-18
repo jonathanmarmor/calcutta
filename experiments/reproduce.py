@@ -3,6 +3,7 @@ import argparse,json,os,shutil,subprocess,sys
 from pathlib import Path
 ROOT=Path(__file__).resolve().parent;REPO=ROOT.parent
 COMMANDS={
+ '26-bright-detours':['calcutta/detour_piece.py'],
  '14-dialogues':['calcutta/dialogue_piece.py'], '15-prisms':['calcutta/prism_piece.py'],
  '16-arrivals':['calcutta/arrival_piece.py'], '17-inventions':['calcutta/chamber_piece.py'],
  '18-archipelago':['calcutta/archipelago_piece.py'], '19-choirs':['calcutta/mobile_choirs.py'],

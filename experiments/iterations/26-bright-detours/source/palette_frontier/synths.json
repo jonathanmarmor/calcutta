@@ -1,0 +1,58 @@
+[
+  {
+    "engine": "Surge XT",
+    "name": "Open modular saw",
+    "family": "analog lead",
+    "state_path": "palette_frontier/lead_0.vststate",
+    "reference_rms": 0.05282808467745781
+  },
+  {
+    "engine": "Surge XT",
+    "name": "Resonant sequencer lead",
+    "family": "analog lead",
+    "state_path": "palette_frontier/lead_1.vststate",
+    "reference_rms": 0.09137634932994843
+  },
+  {
+    "engine": "OB-Xf",
+    "name": "Oberheim silver pulse",
+    "family": "Oberheim lead",
+    "state_path": "palette_frontier/lead_2.vststate",
+    "reference_rms": 0.06683210283517838
+  },
+  {
+    "engine": "OB-Xf",
+    "name": "Oberheim touch brass",
+    "family": "Oberheim lead",
+    "state_path": "palette_frontier/lead_3.vststate",
+    "reference_rms": 0.0398050919175148
+  },
+  {
+    "engine": "TAL-NoiseMaker",
+    "name": "TAL bright hollow lead",
+    "family": "single oscillator lead",
+    "state_path": "palette_frontier/lead_4.vststate",
+    "reference_rms": 0.04219245910644531
+  },
+  {
+    "engine": "TAL-NoiseMaker",
+    "name": "TAL rubber reed",
+    "family": "single oscillator lead",
+    "state_path": "palette_frontier/lead_5.vststate",
+    "reference_rms": 0.07713492959737778
+  },
+  {
+    "engine": "Dexed",
+    "name": "FM glass cantilena",
+    "family": "FM lead",
+    "state_path": "palette_frontier/lead_6.vststate",
+    "reference_rms": 0.06382090598344803
+  },
+  {
+    "engine": "Dexed",
+    "name": "FM harmonic organ",
+    "family": "FM lead",
+    "state_path": "palette_frontier/lead_7.vststate",
+    "reference_rms": 0.04762104153633118
+  }
+]

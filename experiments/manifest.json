@@ -275,5 +275,16 @@
     "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
     "audio": "iterations/25-palette-audition/palette_audition.mp3",
     "reproduction_status": "audio-only historical diagnostic; exact generation source was not retained"
+  },
+  {
+    "id": "26-bright-detours",
+    "title": "Bright Detours",
+    "purpose": "Eight exposed analog/FM synth leads; 46 episodes changing every 7\u201314 seconds; slow songs, rapid hockets, unequal phrase cycles and mixed-tempo inventions.",
+    "composer": "calcutta/detour_piece.py",
+    "brief_status": "original user request and public plan recorded before rendering",
+    "audio": "iterations/26-bright-detours/calcutta_detours.mp3",
+    "midi": "iterations/26-bright-detours/calcutta_detours.mid",
+    "archive": "iterations/26-bright-detours/source.zip",
+    "reproduction_status": "frozen source, native states, exact score and patch-building code available; external sound engines required"
   }
 ]

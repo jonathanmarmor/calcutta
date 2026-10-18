@@ -30,6 +30,7 @@ A chronological record of the experiments, from bare tuning demonstrations to ch
 | 23 | [Soft Machines](iterations/23-soft-machines/) | Gentler dissonance, no violent attacks, recognizable sequences, natural connecting tones, sixteen unison composites. |
 | 24 | [Staircases and Clocks](iterations/24-staircases-clocks/) | Louder average level and prompt dry foreground attacks; acoustic/electric solos, chord-stack sequences and simultaneous clocks; slow swells only in the background, ending without a fade. |
 | 25 | [Supplement: synth palette audition](iterations/25-palette-audition/) | A sound palette test rather than a composition. |
+| 26 | [Bright Detours](iterations/26-bright-detours/) | Eight exposed analog/FM synth leads; 46 episodes changing every 7–14 seconds; slow songs, rapid hockets, unequal phrase cycles and mixed-tempo inventions. |
 
 ## Reproduce and inspect
 

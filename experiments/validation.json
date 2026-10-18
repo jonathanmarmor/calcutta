@@ -161,21 +161,26 @@
           "identical": true
         }
       ]
+    },
+    {
+      "iteration": "26-bright-detours",
+      "score_regeneration": "byte-identical",
+      "sha256": "7f72094110a2949a386623de2d8141bd4b4f88e3fb80539b19f7ebe9a8db45cc"
     }
   ],
   "notes": "Native audio renders of the new version verified 32 non-silent layers, 40 complete field inventories, fixed pitches and an ending without master fade; historical audio was not re-rendered.",
   "latest_audio": {
-    "minimum_peak_gain": 0.8283271193504333,
-    "rms": 0.08998199552297592,
-    "peak": 0.7799999713897705,
-    "duration_seconds": 500,
-    "improvement_db_vs_soft_machines": 2.8265522438550805,
-    "voices_nonzero": 32,
-    "fields_fully_covered": 40,
-    "ending": "two solo clavinet notes after ensemble cutoff; no master fade",
-    "foreground_attack_ms": 8,
-    "clock_attack_ms": 12,
-    "inventory_attack_ms": 14,
-    "background_frame_attack_ms": 280
+    "duration_seconds": 494,
+    "peak": 0.77996826171875,
+    "rms": 0.0898047462105751,
+    "nonzero_layers": 24,
+    "foreground_synth_parts": 8,
+    "episodes": 46,
+    "max_episode_seconds": 14,
+    "min_episode_seconds": 7,
+    "distinct_texture_types": 20,
+    "fields_used": 40,
+    "original_pitches_only": true,
+    "ending": "fixed FM tone after phrase interruption; no master fade"
   }
 }

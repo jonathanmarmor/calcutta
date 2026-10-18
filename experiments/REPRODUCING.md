@@ -16,6 +16,6 @@ Score regeneration is distinct from audio reproduction. Saved score JSON is auth
 
 The slow polyphonic version shares the earlier source but has its own saved score/MIDI; use that score’s tempo. Audio-only auditions cannot be reconstructed exactly from unavailable note selections. They are archived honestly rather than supplied with invented generators.
 
-`python experiments/verify.py` checks all archive hashes, Python syntax, indexed assets, and score availability. Twelve full-piece generators (iterations 13–24) additionally underwent actual repeat-score checks in isolated prepared directories; see validation.json.
+`python experiments/verify.py` checks all archive hashes, Python syntax, indexed assets, and score availability. Thirteen full-piece generators (iterations 13–24 and 26) additionally underwent actual repeat-score checks in isolated prepared directories; see validation.json.
 
 The latest recording uses prompt foreground attacks (6–14 ms outer edge smoothing) and reserves longer attacks for a small set of sustained background notes. Its renderer shortens TAL’s native envelope as well. The preceding Soft Machines snapshot keeps its original slower attacks so the comparison remains available.
