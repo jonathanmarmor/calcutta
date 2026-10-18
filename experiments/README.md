@@ -33,9 +33,11 @@ A chronological record of the experiments, from bare tuning demonstrations to ch
 | 26 | [Bright Detours](iterations/26-bright-detours/) | Eight exposed analog/FM synth leads; 46 episodes changing every 7–14 seconds; slow songs, rapid hockets, unequal phrase cycles and mixed-tempo inventions. |
 | 27 | [Ten Detours](iterations/27-ten-detours/) | Ten contrasting pieces, original synthetic vocals, one tremolo study, sampled acoustic/analog/FM hybrids, and portable rendering. |
 | 28 | [Ten Further Pieces](iterations/28-ten-further-pieces/) | Ten fresh blends of the earlier approaches; sampled instruments foregrounded, sparse/dense counterpoint, independent tempi, strict passing connections. |
+| 29 | [Pulse and Convergence](iterations/29-pulse-convergence/) | Ten fuller, pulse-driven pieces; advancing adjacent harmonic neighborhoods, then at least the final third inside the golden-ratio field. |
 
 ## Reproduce and inspect
 
 See [reproduction instructions](REPRODUCING.md), [prompt provenance](PROMPTS.md), and the [machine-readable index](manifest.json). Each source archive is expanded for browsing, with its original ZIP preserved and SHA-256 hashes recorded. No old code is silently updated to the latest algorithm. The audio-only solo diagnostics are identified explicitly; their exact generation scripts were not retained.
 
 Uncompressed WAVs, plugin binaries, Python environments, and sample banks are excluded. MP3 listening copies and MIDI are retained. These recordings are dry, but historical versions differ in permitted pitch material, effects, release, click, and ending policies; see their own guides.
+

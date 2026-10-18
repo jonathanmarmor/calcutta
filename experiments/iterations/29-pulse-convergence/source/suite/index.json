@@ -1,0 +1,102 @@
+[
+  {
+    "number": 1,
+    "title": "Current and Grain",
+    "slug": "current_and_grain",
+    "duration": 375.393344603228,
+    "final_chord_start": 232.75817376264416,
+    "final_chord_fraction": 0.37996190633412025,
+    "audio": "01_current_and_grain.mp3",
+    "album_start": 0
+  },
+  {
+    "number": 2,
+    "title": "Walking Lines",
+    "slug": "walking_lines",
+    "duration": 346.6633209527661,
+    "final_chord_start": 204.64304794347714,
+    "final_chord_fraction": 0.40967781829055877,
+    "audio": "02_walking_lines.mp3",
+    "album_start": 377.393344603228
+  },
+  {
+    "number": 3,
+    "title": "Reedwork",
+    "slug": "reedwork",
+    "duration": 416.03609464269056,
+    "final_chord_start": 258.9482250364904,
+    "final_chord_fraction": 0.37758230987413216,
+    "audio": "03_reedwork.mp3",
+    "album_start": 726.0566655559942
+  },
+  {
+    "number": 4,
+    "title": "Open Circuits",
+    "slug": "open_circuits",
+    "duration": 313.47128783085566,
+    "final_chord_start": 188.67373561420322,
+    "final_chord_fraction": 0.39811477816747065,
+    "audio": "04_open_circuits.mp3",
+    "album_start": 1144.0927601986848
+  },
+  {
+    "number": 5,
+    "title": "Copper and Wood",
+    "slug": "copper_and_wood",
+    "duration": 358.17548866809614,
+    "final_chord_start": 226.7048163536699,
+    "final_chord_fraction": 0.3670565867120341,
+    "audio": "05_copper_and_wood.mp3",
+    "album_start": 1459.5640480295406
+  },
+  {
+    "number": 6,
+    "title": "Four Corners",
+    "slug": "four_corners",
+    "duration": 362.1511459192871,
+    "final_chord_start": 212.91462564913573,
+    "final_chord_fraction": 0.41208352355569194,
+    "audio": "06_four_corners.mp3",
+    "album_start": 1819.7395366976366
+  },
+  {
+    "number": 7,
+    "title": "Bright Undercurrent",
+    "slug": "bright_undercurrent",
+    "duration": 406.5270454085397,
+    "final_chord_start": 245.36898454007994,
+    "final_chord_fraction": 0.3964264190750307,
+    "audio": "07_bright_undercurrent.mp3",
+    "album_start": 2183.8906826169236
+  },
+  {
+    "number": 8,
+    "title": "Interlaced",
+    "slug": "interlaced",
+    "duration": 290.48874297851995,
+    "final_chord_start": 181.27629302422454,
+    "final_chord_fraction": 0.3759610401232349,
+    "audio": "08_interlaced.mp3",
+    "album_start": 2592.4177280254635
+  },
+  {
+    "number": 9,
+    "title": "Held in Motion",
+    "slug": "held_in_motion",
+    "duration": 371.6983984297278,
+    "final_chord_start": 216.9991124828758,
+    "final_chord_fraction": 0.41619572911907227,
+    "audio": "09_held_in_motion.mp3",
+    "album_start": 2884.9064710039834
+  },
+  {
+    "number": 10,
+    "title": "Forward Rooms",
+    "slug": "forward_rooms",
+    "duration": 320.8662786227083,
+    "final_chord_start": 200.45777256550727,
+    "final_chord_fraction": 0.37526070540676476,
+    "audio": "10_forward_rooms.mp3",
+    "album_start": 3258.604869433711
+  }
+]

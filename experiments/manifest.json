@@ -305,5 +305,15 @@
     "audio": "iterations/28-ten-further-pieces/audio/01_grain_and_line.mp3",
     "midi": "iterations/28-ten-further-pieces/source/suite/midi/01.mid",
     "reproduction_status": "Saved dry atoms, deterministic forms and note decisions, score/MIDI, renderer and validation; native plugins not required to render the supplied atoms"
+  },
+  {
+    "id": "29-pulse-convergence",
+    "title": "Pulse and Convergence",
+    "purpose": "Ten fuller pieces with an expressive primary pulse and advancing adjacent harmonic windows; each spends its last 37\u201342% exclusively in the final field while texture and internal chord sequences continue changing.",
+    "composer": "compose_flow.py",
+    "brief_status": "Original user request and public implementation specification retained; not a hidden reasoning transcript",
+    "audio": "iterations/29-pulse-convergence/audio/01_current_and_grain.mp3",
+    "midi": "iterations/29-pulse-convergence/source/suite/midi/01.mid",
+    "reproduction_status": "Saved dry atoms, deterministic window/form/pulse and note decisions, actual primary-beat MIDI tempo maps, renderer and validation; no native plugins required"
   }
 ]
