@@ -112,4 +112,4 @@ ffmpeg -i output/calcutta.wav -codec:a libmp3lame -q:a 2 output/calcutta.mp3
 
 ## Composition experiments
 
-[Browse the chronological listening laboratory](experiments/README.md): 27 iterations and sound tests, with source snapshots, scores, MIDI, composition briefs, and reproduction instructions. The latest is [Bright Detours](experiments/iterations/26-bright-detours/README.md).
+[Browse the chronological listening laboratory](experiments/README.md): 28 iterations and sound tests, with source snapshots, scores, MIDI, composition briefs, and reproduction instructions. The latest is [Ten Detours](experiments/iterations/27-ten-detours/README.md), a set of ten contrasting pieces.

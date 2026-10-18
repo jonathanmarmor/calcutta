@@ -286,5 +286,14 @@
     "midi": "iterations/26-bright-detours/calcutta_detours.mid",
     "archive": "iterations/26-bright-detours/source.zip",
     "reproduction_status": "frozen source, native states, exact score and patch-building code available; external sound engines required"
+  },
+  {
+    "id": "27-ten-detours",
+    "title": "Ten Detours",
+    "purpose": "Ten new contrasting pieces: formal collisions, crossing tempi, interlock, original synthetic vocals, public-domain quotation, one exclusive tremolo study, dry ensemble dialogue and disappearing players.",
+    "composer": "compose_ten.py",
+    "brief_status": "contemporaneous user-request summary and public plan retained; no hidden reasoning transcript",
+    "audio": "iterations/27-ten-detours/audio/01_wrong_intermezzo.mp3",
+    "reproduction_status": "portable frozen atoms and speech/formants, deterministic scores, MIDI and renderer; no native plugins needed to replay saved timbres"
   }
 ]
