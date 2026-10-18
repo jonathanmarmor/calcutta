@@ -1,0 +1,14 @@
+{
+  "minimum_peak_gain": 0.8283271193504333,
+  "rms": 0.08998199552297592,
+  "peak": 0.7799999713897705,
+  "duration_seconds": 500,
+  "improvement_db_vs_soft_machines": 2.8265522438550805,
+  "voices_nonzero": 32,
+  "fields_fully_covered": 40,
+  "ending": "two solo clavinet notes after ensemble cutoff; no master fade",
+  "foreground_attack_ms": 8,
+  "clock_attack_ms": 12,
+  "inventory_attack_ms": 14,
+  "background_frame_attack_ms": 280
+}

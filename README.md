@@ -108,3 +108,8 @@ To make a smaller listening file, install FFmpeg and run:
 ```sh
 ffmpeg -i output/calcutta.wav -codec:a libmp3lame -q:a 2 output/calcutta.mp3
 ```
+
+
+## Composition experiments
+
+[Browse the chronological listening laboratory](experiments/README.md): 26 iterations and sound tests, with source snapshots, scores, MIDI, composition briefs, and reproduction instructions. The latest is [Staircases and Clocks](experiments/iterations/24-staircases-clocks/README.md).

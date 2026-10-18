@@ -1,0 +1,61 @@
+{
+  "python": "3.12",
+  "pedalboard": "0.9.26",
+  "assets": [
+    {
+      "path": "synth_runtime/tal/TAL-NoiseMaker/libTAL-NoiseMaker.so",
+      "sha256": "4baa7b22f7efe90a034fbae65ee19bdbd0435721d928a0067d1a87cf60c29085",
+      "bytes": 6420768
+    },
+    {
+      "path": "synth_runtime/tal/TAL-NoiseMaker/TAL-NoiseMaker.vst3/Contents/x86_64-linux/TAL-NoiseMaker.so",
+      "sha256": "9c5d5f93c74f5b00babc145a11b25a772571b88e636be797f081d68a98f1c6c5",
+      "bytes": 6919136
+    },
+    {
+      "path": "synth_runtime/obxf/obxf_products/OB-Xf.lv2/libOB-Xf.so",
+      "sha256": "689be8bcb4d20eab7a85d74131d757cdf153ab0fcc5df12267b240c2f49d6153",
+      "bytes": 13973000
+    },
+    {
+      "path": "synth_runtime/obxf/obxf_products/OB-Xf.vst3/Contents/x86_64-linux/OB-Xf.so",
+      "sha256": "0fedd251280f2a1244ebf81221d68cc1fded12503c5c02b5c28a53d9d0efc4f9",
+      "bytes": 14588600
+    },
+    {
+      "path": "synth_runtime/dexed/Dexed.vst3/Contents/x86_64-linux/Dexed.so",
+      "sha256": "e229e87aedb4b2e08bdb77c642ee1293cde88c0ed96fffd28b2a9c7625f13fc6",
+      "bytes": 5951304
+    },
+    {
+      "path": "synth_runtime/surge_current/Surge XT.lv2/libSurge XT.so",
+      "sha256": "bc763382f704a37e77a9986f312a86c0848b193fcaa37a62b4746ac27c6882d9",
+      "bytes": 28207720
+    },
+    {
+      "path": "synth_runtime/surge_current/Surge XT Effects.lv2/libSurge XT Effects.so",
+      "sha256": "c5b9e10232a8d0a73598be6fdd90a993d8828e0be0765841d5a5a0795283a056",
+      "bytes": 12623888
+    },
+    {
+      "path": "synth_runtime/surge_current/Surge XT Effects.vst3/Contents/x86_64-linux/Surge XT Effects.so",
+      "sha256": "00eaf4b5c420864518c087c691bd1a0cb255393cff2bebb47c61bca7dfeb8ef7",
+      "bytes": 12897104
+    },
+    {
+      "path": "synth_runtime/surge_current/Surge XT.vst3/Contents/x86_64-linux/Surge XT.so",
+      "sha256": "40650bd037e0fbad2a4a5770e1cd34a9ce756e6d6ee0da67a00532940ad25e24",
+      "bytes": 28500624
+    },
+    {
+      "path": "soundfont_runtime/GeneralUser-GS.sf2",
+      "sha256": "9575028c7a1f589f5770fccc8cff2734566af40cd26ed836944e9a5152688cfe",
+      "bytes": 32319396
+    },
+    {
+      "path": "soundfont_runtime/runtime/usr/share/sounds/sf2/TimGM6mb.sf2",
+      "sha256": "c5378b62028c920cb11e4803327983fee2f2cdff5dc89c708e39da417e51c854",
+      "bytes": 5969788
+    }
+  ]
+}

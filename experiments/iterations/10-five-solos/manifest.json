@@ -1,0 +1,12 @@
+{
+  "id": "10-five-solos",
+  "title": "Five parts, sequentially",
+  "purpose": "Isolate five lines of the A\u2013F preview to inspect the rhythmic generation.",
+  "composer": null,
+  "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+  "audio": "iterations/10-five-solos/five_parts_sequential.mp3",
+  "sha256": {
+    "five_parts_sequential.mp3": "03568c38df82beb7ba76f0f19ea28a5a9c80a4f0410191d6957ea077aecca5ec"
+  },
+  "reproduction_status": "audio-only historical diagnostic; exact generation source was not retained"
+}

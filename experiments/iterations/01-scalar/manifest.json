@@ -1,0 +1,21 @@
+{
+  "id": "01-scalar",
+  "title": "Scalar up/down",
+  "purpose": "Traverse every field up and down twice; expose changing interval sizes.",
+  "composer": "calcutta/scalar_runs.py",
+  "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+  "audio": "iterations/01-scalar/calcutta_scalar_runs.mp3",
+  "midi": "iterations/01-scalar/calcutta_scalar_runs.mid",
+  "archive": "iterations/01-scalar/source.zip",
+  "sha256": {
+    "calcutta_scalar_runs.json": "fc71c1a863eaca6e16e2835b1a938a481678c4214ca2194b9615094c67d37d39",
+    "calcutta_scalar_runs.mid": "aec26ca7198be5f8b26c47c0cbff82481c39f48dee5cb556e801eb2d2963ea9c",
+    "calcutta_scalar_runs.mp3": "3b42f1cf1aa5833d854346834645a3de0c980d14bbd53380ae0fb75b8c5b8362",
+    "source/calcutta/calcutta.py": "f85951f57503a0708ef3eda383fdbfbd4f10040f4060e36501d70476c6e9862e",
+    "source/calcutta/render.py": "48fb78214977acb149fbbcef302c043f1119a09b054f0901a408913af393acc5",
+    "source/calcutta/requirements.txt": "bb721411d040592ac7249a69462639a5650d1938bfee274c66236fc968499d7a",
+    "source/calcutta/scalar_runs.py": "c2863da448e0a2bf5d34e8062213c0915dfda8daa61c74641a438ff1efd221ac",
+    "source.zip": "9f65b327828b5b81c083f32083321524d4ab8ee4eab3f2a83284d1ebe61914e4"
+  },
+  "reproduction_status": "frozen source and score available; external sound engines required"
+}

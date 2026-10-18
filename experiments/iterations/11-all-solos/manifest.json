@@ -1,0 +1,12 @@
+{
+  "id": "11-all-solos",
+  "title": "Ensemble, then every solo",
+  "purpose": "Twelve-bar texture diagnostic with click and bottom-up solos; investigate clicky synth attacks.",
+  "composer": null,
+  "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+  "audio": "iterations/11-all-solos/ensemble_then_all_solos.mp3",
+  "sha256": {
+    "ensemble_then_all_solos.mp3": "0fc50d96351f9131509e2a813bb756fda5b326d3cbcbfb73a994a50704cacd0b"
+  },
+  "reproduction_status": "audio-only historical diagnostic; exact generation source was not retained"
+}

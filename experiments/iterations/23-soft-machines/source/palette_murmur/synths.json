@@ -1,0 +1,74 @@
+[
+  {
+    "engine": "TAL-NoiseMaker",
+    "name": "TAL soft amber",
+    "family": "virtual analog",
+    "state_path": "palette_murmur/tal_0.vststate"
+  },
+  {
+    "engine": "TAL-NoiseMaker",
+    "name": "TAL hollow satin",
+    "family": "virtual analog",
+    "state_path": "palette_murmur/tal_1.vststate"
+  },
+  {
+    "engine": "TAL-NoiseMaker",
+    "name": "TAL dusk reed",
+    "family": "virtual analog",
+    "state_path": "palette_murmur/tal_2.vststate"
+  },
+  {
+    "engine": "TAL-NoiseMaker",
+    "name": "TAL open linen",
+    "family": "virtual analog",
+    "state_path": "palette_murmur/tal_3.vststate"
+  },
+  {
+    "engine": "OB-Xf",
+    "name": "OB-X cloud wool",
+    "family": "Oberheim model",
+    "state_path": "palette_murmur/ob_0.vststate"
+  },
+  {
+    "engine": "OB-Xf",
+    "name": "OB-X small brass",
+    "family": "Oberheim model",
+    "state_path": "palette_murmur/ob_1.vststate"
+  },
+  {
+    "engine": "OB-Xf",
+    "name": "OB-X breath organ",
+    "family": "Oberheim model",
+    "state_path": "palette_murmur/ob_2.vststate"
+  },
+  {
+    "engine": "OB-Xf",
+    "name": "OB-X dark halo",
+    "family": "Oberheim model",
+    "state_path": "palette_murmur/ob_3.vststate"
+  },
+  {
+    "engine": "Surge XT",
+    "name": "Modular reed sustained",
+    "family": "modular analog inspired",
+    "state_path": "palette_murmur/surge_0.vststate"
+  },
+  {
+    "engine": "Surge XT",
+    "name": "Curtis-like round lead",
+    "family": "modular analog inspired",
+    "state_path": "palette_murmur/surge_1.vststate"
+  },
+  {
+    "engine": "Surge XT",
+    "name": "Resonant velvet drone",
+    "family": "modular analog inspired",
+    "state_path": "palette_murmur/surge_2.vststate"
+  },
+  {
+    "engine": "Surge XT",
+    "name": "Air through a ladder",
+    "family": "modular analog inspired",
+    "state_path": "palette_murmur/surge_3.vststate"
+  }
+]

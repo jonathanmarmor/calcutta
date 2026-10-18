@@ -1,0 +1,181 @@
+{
+  "checks": [
+    {
+      "iteration": "23-soft-machines",
+      "score_regeneration": "byte-identical",
+      "sha256": "5d9ca862d3b57e8f5460145ecc41fac60cc55913bd65ab3941c4ff3895794e5c"
+    },
+    {
+      "iteration": "24-staircases-clocks",
+      "score_regeneration": "byte-identical",
+      "sha256": "2ceb715d68d027cc5b5f93d14095e820bfc4756bc55edc1728dd7d50e4befd0a"
+    },
+    {
+      "iteration": "13-corrected-full",
+      "exit_code": 0,
+      "scores": [
+        {
+          "path": "rhythm_simple/score.json",
+          "identical": true
+        },
+        {
+          "path": "calcutta_full/score.json",
+          "identical": true
+        }
+      ]
+    },
+    {
+      "iteration": "14-dialogues",
+      "exit_code": 0,
+      "scores": [
+        {
+          "path": "calcutta_full/score.json",
+          "identical": true
+        },
+        {
+          "path": "calcutta_dialogues/score.json",
+          "identical": true
+        }
+      ]
+    },
+    {
+      "iteration": "15-prisms",
+      "exit_code": 0,
+      "scores": [
+        {
+          "path": "calcutta_prisms/score.json",
+          "identical": true
+        },
+        {
+          "path": "calcutta_full/score.json",
+          "identical": true
+        }
+      ]
+    },
+    {
+      "iteration": "16-arrivals",
+      "exit_code": 0,
+      "scores": [
+        {
+          "path": "calcutta_full/score.json",
+          "identical": true
+        },
+        {
+          "path": "calcutta_arrivals/score.json",
+          "identical": true
+        }
+      ]
+    },
+    {
+      "iteration": "17-inventions",
+      "exit_code": 0,
+      "scores": [
+        {
+          "path": "calcutta_inventions/score.json",
+          "identical": true
+        },
+        {
+          "path": "calcutta_full/score.json",
+          "identical": true
+        }
+      ]
+    },
+    {
+      "iteration": "18-archipelago",
+      "exit_code": 0,
+      "scores": [
+        {
+          "path": "calcutta_inventions/score.json",
+          "identical": true
+        },
+        {
+          "path": "calcutta_archipelago/score.json",
+          "identical": true
+        },
+        {
+          "path": "calcutta_full/score.json",
+          "identical": true
+        }
+      ]
+    },
+    {
+      "iteration": "19-choirs",
+      "exit_code": 0,
+      "scores": [
+        {
+          "path": "calcutta_inventions/score.json",
+          "identical": true
+        },
+        {
+          "path": "calcutta_choirs/score.json",
+          "identical": true
+        },
+        {
+          "path": "calcutta_full/score.json",
+          "identical": true
+        }
+      ]
+    },
+    {
+      "iteration": "20-motifs",
+      "exit_code": 0,
+      "scores": [
+        {
+          "path": "calcutta_inventions/score.json",
+          "identical": true
+        },
+        {
+          "path": "calcutta_motifs/score.json",
+          "identical": true
+        },
+        {
+          "path": "calcutta_full/score.json",
+          "identical": true
+        }
+      ]
+    },
+    {
+      "iteration": "21-elastic",
+      "exit_code": 0,
+      "scores": [
+        {
+          "path": "calcutta_elastic/score.json",
+          "identical": true
+        },
+        {
+          "path": "calcutta_motifs/score.json",
+          "identical": true
+        }
+      ]
+    },
+    {
+      "iteration": "22-grace",
+      "exit_code": 0,
+      "scores": [
+        {
+          "path": "calcutta_grace/score.json",
+          "identical": true
+        },
+        {
+          "path": "calcutta_motifs/score.json",
+          "identical": true
+        }
+      ]
+    }
+  ],
+  "notes": "Native audio renders of the new version verified 32 non-silent layers, 40 complete field inventories, fixed pitches and an ending without master fade; historical audio was not re-rendered.",
+  "latest_audio": {
+    "minimum_peak_gain": 0.8283271193504333,
+    "rms": 0.08998199552297592,
+    "peak": 0.7799999713897705,
+    "duration_seconds": 500,
+    "improvement_db_vs_soft_machines": 2.8265522438550805,
+    "voices_nonzero": 32,
+    "fields_fully_covered": 40,
+    "ending": "two solo clavinet notes after ensemble cutoff; no master fade",
+    "foreground_attack_ms": 8,
+    "clock_attack_ms": 12,
+    "inventory_attack_ms": 14,
+    "background_frame_attack_ms": 280
+  }
+}

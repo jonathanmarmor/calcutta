@@ -1,0 +1,18 @@
+{
+  "id": "02-clean-release",
+  "title": "Scalar, clean release",
+  "purpose": "Remove temporal overlap between successive pitches to clarify the tuning.",
+  "composer": "calcutta/scalar_runs.py",
+  "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+  "archive": "iterations/02-clean-release/source.zip",
+  "audio": "iterations/02-clean-release/calcutta_scalar_runs_clean.mp3",
+  "sha256": {
+    "calcutta_scalar_runs_clean.mp3": "97bc2251e512deb954cfba8a319f2041dd9abcbc4d04111855e60db6b8701bd4",
+    "source/calcutta/calcutta.py": "f85951f57503a0708ef3eda383fdbfbd4f10040f4060e36501d70476c6e9862e",
+    "source/calcutta/render.py": "5760d1fdefacc67d65dfa1026ab5627a9c1afd7811265f78182425001adba29f",
+    "source/calcutta/requirements.txt": "bb721411d040592ac7249a69462639a5650d1938bfee274c66236fc968499d7a",
+    "source/calcutta/scalar_runs.py": "bcfc10c279ba409b654144405c25efc7887b4746d2c2173f7354184778fb7c57",
+    "source.zip": "d443ac4fee86af13382a2c088169c8b8a6a23ef002ed62e9f26a72f7f7cad267"
+  },
+  "reproduction_status": "frozen source and score available; external sound engines required"
+}

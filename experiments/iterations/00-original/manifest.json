@@ -1,0 +1,19 @@
+{
+  "id": "00-original",
+  "title": "Original chord survey",
+  "purpose": "Hear the complete Fibonacci tuning progression before composition.",
+  "composer": "calcutta/render.py",
+  "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+  "audio": "iterations/00-original/calcutta.mp3",
+  "midi": "iterations/00-original/calcutta.mid",
+  "archive": "iterations/00-original/source.zip",
+  "sha256": {
+    "calcutta.mid": "c9c6c20f8a6bb5e03ec64c6413662f8284ab637b38c472bb2b9af3f27132b1d6",
+    "calcutta.mp3": "a6b0ef977ca638fed94f773d6cdfcddcee9d66db8070c886e1a841933e273957",
+    "source/calcutta/calcutta.py": "f85951f57503a0708ef3eda383fdbfbd4f10040f4060e36501d70476c6e9862e",
+    "source/calcutta/render.py": "48fb78214977acb149fbbcef302c043f1119a09b054f0901a408913af393acc5",
+    "source/calcutta/requirements.txt": "bb721411d040592ac7249a69462639a5650d1938bfee274c66236fc968499d7a",
+    "source.zip": "03965741b56cd488da3c1befb65f0262ff123a2c9638ef775fd15aa71bc07a82"
+  },
+  "reproduction_status": "frozen source and score available; external sound engines required"
+}

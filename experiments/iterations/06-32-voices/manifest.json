@@ -1,0 +1,27 @@
+{
+  "id": "06-32-voices",
+  "title": "32 fixed construction voices",
+  "purpose": "Each construction-tree endpoint owns a voice, sound and independent eighth-note rhythm.",
+  "composer": "rhythmic_voices.py",
+  "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+  "audio": "iterations/06-32-voices/calcutta_32_voices.mp3",
+  "midi": "iterations/06-32-voices/calcutta_32_voices.mid",
+  "archive": "iterations/06-32-voices/source.zip",
+  "sha256": {
+    "calcutta_32_voices.json": "37b733f082383d02face4cd16f00ca3e240af9cc427556ca4a35d55a87c40f66",
+    "calcutta_32_voices.mid": "bee693860239e29abdd5d4f93ae09df11a92d97b46d4bb442cc0659d3d494626",
+    "calcutta_32_voices.mp3": "d388073fbf285b2b0e0d25d69b155ee7256b277c5a80396bb6cec3d975162e8f",
+    "source/calcutta.py": "f85951f57503a0708ef3eda383fdbfbd4f10040f4060e36501d70476c6e9862e",
+    "source/calcutta_32_voices.json": "37b733f082383d02face4cd16f00ca3e240af9cc427556ca4a35d55a87c40f66",
+    "source/calcutta_32_voices.mid": "bee693860239e29abdd5d4f93ae09df11a92d97b46d4bb442cc0659d3d494626",
+    "source/instrument_sketch.py": "afb84c16ddfba9696cf1a25dd30cec09bb87f13f9e5478b14ff113cdf9908656",
+    "source/polyphonic.py": "ad5af1defdafbba2ae6558da23f1cd5f96b28bc85d46e06d2f72cf09fa8b3f87",
+    "source/render.py": "5760d1fdefacc67d65dfa1026ab5627a9c1afd7811265f78182425001adba29f",
+    "source/requirements.txt": "bb721411d040592ac7249a69462639a5650d1938bfee274c66236fc968499d7a",
+    "source/rhythmic_voices.py": "1736da1210e35646468c9b556396cd3d3d95830c7669055726b4f0e1035c9241",
+    "source/scalar_runs.py": "bcfc10c279ba409b654144405c25efc7887b4746d2c2173f7354184778fb7c57",
+    "source/voice_instruments.csv": "4cbcede0dc66335c3852e6e2194d150e099a4779254bb57dc67370277fad3072",
+    "source.zip": "4a88342eb79bfe637cabd94d51acb603e1fed11ca066ed5f5cb76bc02462e61f"
+  },
+  "reproduction_status": "frozen source and score available; external sound engines required"
+}

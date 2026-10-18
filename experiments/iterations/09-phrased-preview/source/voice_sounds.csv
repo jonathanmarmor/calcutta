@@ -1,0 +1,33 @@
+voice,branch,engine,sound
+1,0000:lower,Vital,Soft folded ribbon
+2,0000:upper,Dexed,Rubber FM bass
+3,0001:lower,Surge XT,Sine harmonium
+4,0001:upper,FluidSynth,MIDI clarinet
+5,0010:lower,Surge XT,Warm transistor
+6,0010:upper,Vital,Vowel prism
+7,0011:lower,Surge XT,Digital wire
+8,0011:upper,Dexed,Pure wooden flute
+9,0100:lower,FluidSynth,MIDI accordion
+10,0100:upper,FluidSynth,MIDI church organ
+11,0101:lower,Surge XT,Narrow pulse reed
+12,0101:upper,FluidSynth,MIDI piano
+13,0110:lower,FluidSynth,MIDI tubular bells
+14,0110:upper,Surge XT,Hollow square
+15,0111:lower,Dexed,Bronze harmonic cloud
+16,0111:upper,Dexed,Copper FM horn
+17,1000:lower,Vital,Silver edge
+18,1000:upper,Dexed,Sustained celeste
+19,1001:lower,Vital,Bright folded brass
+20,1001:upper,Vital,Fine spectral thread
+21,1010:lower,Surge XT,Rounded triangle
+22,1010:upper,Surge XT,Nasal ribbon
+23,1011:lower,Vital,Warm chip pulse
+24,1011:upper,Dexed,Held electric tine
+25,1100:lower,FluidSynth,MIDI vibraphone
+26,1100:upper,Vital,Digital oboe
+27,1101:lower,Vital,Hollow porcelain
+28,1101:upper,Vital,Liquid glass
+29,1110:lower,Dexed,Crystalline organ
+30,1110:upper,Surge XT,Bright saw brass
+31,1111:lower,Surge XT,Soft electric wind
+32,1111:upper,Dexed,FM clarinet

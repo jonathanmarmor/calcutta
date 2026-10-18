@@ -1,0 +1,279 @@
+[
+  {
+    "id": "00-original",
+    "title": "Original chord survey",
+    "purpose": "Hear the complete Fibonacci tuning progression before composition.",
+    "composer": "calcutta/render.py",
+    "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+    "audio": "iterations/00-original/calcutta.mp3",
+    "midi": "iterations/00-original/calcutta.mid",
+    "archive": "iterations/00-original/source.zip",
+    "reproduction_status": "frozen source and score available; external sound engines required"
+  },
+  {
+    "id": "01-scalar",
+    "title": "Scalar up/down",
+    "purpose": "Traverse every field up and down twice; expose changing interval sizes.",
+    "composer": "calcutta/scalar_runs.py",
+    "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+    "audio": "iterations/01-scalar/calcutta_scalar_runs.mp3",
+    "midi": "iterations/01-scalar/calcutta_scalar_runs.mid",
+    "archive": "iterations/01-scalar/source.zip",
+    "reproduction_status": "frozen source and score available; external sound engines required"
+  },
+  {
+    "id": "02-clean-release",
+    "title": "Scalar, clean release",
+    "purpose": "Remove temporal overlap between successive pitches to clarify the tuning.",
+    "composer": "calcutta/scalar_runs.py",
+    "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+    "archive": "iterations/02-clean-release/source.zip",
+    "audio": "iterations/02-clean-release/calcutta_scalar_runs_clean.mp3",
+    "reproduction_status": "frozen source and score available; external sound engines required"
+  },
+  {
+    "id": "03-polyphony",
+    "title": "Polyphonic cells",
+    "purpose": "Overlapping scalar cells, variable density, registers and sequences; alternating neighboring fields.",
+    "composer": "calcutta/polyphonic.py",
+    "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+    "audio": "iterations/03-polyphony/calcutta_polyphonic.mp3",
+    "midi": "iterations/03-polyphony/calcutta_polyphonic.mid",
+    "archive": "iterations/03-polyphony/source.zip",
+    "reproduction_status": "frozen source and score available; external sound engines required"
+  },
+  {
+    "id": "04-slow-polyphony",
+    "title": "Polyphonic cells, slower",
+    "purpose": "Render the same material below half speed; this is a tempo variant, not new note material.",
+    "composer": "calcutta/polyphonic.py",
+    "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+    "audio": "iterations/04-slow-polyphony/calcutta_polyphonic_25.mp3",
+    "midi": "iterations/04-slow-polyphony/calcutta_polyphonic_25.mid",
+    "archive": "iterations/04-slow-polyphony/source.zip",
+    "reproduction_status": "frozen source and score available; external sound engines required"
+  },
+  {
+    "id": "05-q50-preview",
+    "title": "Sixteen bars at quarter = 50",
+    "purpose": "More distinct instrumental timbres; 4/4 metrical hierarchy, sixteenth resolution, one harmony per bar.",
+    "composer": "calcutta/instrument_sketch.py",
+    "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+    "audio": "iterations/05-q50-preview/calcutta_16_bars_q50.mp3",
+    "midi": "iterations/05-q50-preview/calcutta_16_bars_q50.mid",
+    "archive": "iterations/05-q50-preview/source.zip",
+    "reproduction_status": "frozen source and score available; external sound engines required"
+  },
+  {
+    "id": "06-32-voices",
+    "title": "32 fixed construction voices",
+    "purpose": "Each construction-tree endpoint owns a voice, sound and independent eighth-note rhythm.",
+    "composer": "rhythmic_voices.py",
+    "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+    "audio": "iterations/06-32-voices/calcutta_32_voices.mp3",
+    "midi": "iterations/06-32-voices/calcutta_32_voices.mid",
+    "archive": "iterations/06-32-voices/source.zip",
+    "reproduction_status": "frozen source and score available; external sound engines required"
+  },
+  {
+    "id": "07-sequential-rhythm",
+    "title": "Sequential note/rest decisions",
+    "purpose": "Generate each rhythm from beginning to end: independent 70% notes / 30% rests, durations capped by the next change.",
+    "composer": "rhythmic_voices_v2.py",
+    "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+    "audio": "iterations/07-sequential-rhythm/calcutta_32_voices_v2.mp3",
+    "midi": "iterations/07-sequential-rhythm/calcutta_32_voices_v2.mid",
+    "archive": "iterations/07-sequential-rhythm/source.zip",
+    "reproduction_status": "frozen source and score available; external sound engines required"
+  },
+  {
+    "id": "08-mixed-synths",
+    "title": "Three synth engines and MIDI",
+    "purpose": "Dry Surge XT, Vital and Dexed plus occasional GM; steady sustains, distinct near-unison timbres.",
+    "composer": "mixed_synths.py",
+    "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+    "audio": "iterations/08-mixed-synths/calcutta_mixed_synths.mp3",
+    "archive": "iterations/08-mixed-synths/source.zip",
+    "reproduction_status": "frozen source and score available; external sound engines required"
+  },
+  {
+    "id": "09-phrased-preview",
+    "title": "Phrased rhythm preview",
+    "purpose": "Speech-like phrases, breaths, accents and shared temporary metrical overlays; expanded harmonic phrase.",
+    "composer": "phrased_preview.py",
+    "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+    "audio": "iterations/09-phrased-preview/phrased_preview.mp3",
+    "midi": "iterations/09-phrased-preview/phrased_preview.mid",
+    "archive": "iterations/09-phrased-preview/source.zip",
+    "reproduction_status": "frozen source and score available; external sound engines required"
+  },
+  {
+    "id": "10-five-solos",
+    "title": "Five parts, sequentially",
+    "purpose": "Isolate five lines of the A\u2013F preview to inspect the rhythmic generation.",
+    "composer": null,
+    "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+    "audio": "iterations/10-five-solos/five_parts_sequential.mp3",
+    "reproduction_status": "audio-only historical diagnostic; exact generation source was not retained"
+  },
+  {
+    "id": "11-all-solos",
+    "title": "Ensemble, then every solo",
+    "purpose": "Twelve-bar texture diagnostic with click and bottom-up solos; investigate clicky synth attacks.",
+    "composer": null,
+    "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+    "audio": "iterations/11-all-solos/ensemble_then_all_solos.mp3",
+    "reproduction_status": "audio-only historical diagnostic; exact generation source was not retained"
+  },
+  {
+    "id": "12-eight-solos",
+    "title": "New ensemble, eight solos, ensemble",
+    "purpose": "Simpler metrical phrases, acoustic/sample colors, louder click, stronger dynamics, no detuned accordion.",
+    "composer": null,
+    "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+    "audio": "iterations/12-eight-solos/new_ensemble_eight_solos_ensemble.mp3",
+    "reproduction_status": "audio-only historical diagnostic; exact generation source was not retained"
+  },
+  {
+    "id": "13-corrected-full",
+    "title": "Full piece, corrected 32-voice mix",
+    "purpose": "Upgrade guitar/bells and correct asynchronous synth loading/calibration that buried many voices. Includes click and no-click renders.",
+    "composer": "calcutta/full_piece.py",
+    "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+    "audio": "iterations/13-corrected-full/calcutta_full_music_corrected.mp3",
+    "midi": "iterations/13-corrected-full/calcutta_full.mid",
+    "archive": "iterations/13-corrected-full/source.zip",
+    "click_audio": "iterations/13-corrected-full/calcutta_full_with_click_corrected.mp3",
+    "reproduction_status": "frozen source and score available; external sound engines required"
+  },
+  {
+    "id": "14-dialogues",
+    "title": "Dialogues",
+    "purpose": "Thirteen coordinated texture strategies, longer sustains, responsorial choirs and section dynamics.",
+    "composer": "calcutta/dialogue_piece.py",
+    "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+    "audio": "iterations/14-dialogues/calcutta_dialogues.mp3",
+    "midi": "iterations/14-dialogues/calcutta_dialogues.mid",
+    "archive": "iterations/14-dialogues/source.zip",
+    "reproduction_status": "frozen source and score available; external sound engines required"
+  },
+  {
+    "id": "15-prisms",
+    "title": "Prisms",
+    "purpose": "Shape shared stabs more carefully; pitch-aware hockets; expose triads and sevenths.",
+    "composer": "calcutta/prism_piece.py",
+    "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+    "audio": "iterations/15-prisms/calcutta_prisms.mp3",
+    "midi": "iterations/15-prisms/calcutta_prisms.mid",
+    "archive": "iterations/15-prisms/source.zip",
+    "reproduction_status": "frozen source and score available; external sound engines required"
+  },
+  {
+    "id": "16-arrivals",
+    "title": "Arrivals",
+    "purpose": "Highlight early, widely different harmonic changes; expand textural variety as fields converge.",
+    "composer": "calcutta/arrival_piece.py",
+    "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+    "audio": "iterations/16-arrivals/calcutta_arrivals.mp3",
+    "midi": "iterations/16-arrivals/calcutta_arrivals.mid",
+    "archive": "iterations/16-arrivals/source.zip",
+    "reproduction_status": "frozen source and score available; external sound engines required"
+  },
+  {
+    "id": "17-inventions",
+    "title": "Inventions",
+    "purpose": "Remove reggae sections; explore internal triads/sevenths, melody with accompaniment and counterpoint.",
+    "composer": "calcutta/chamber_piece.py",
+    "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+    "audio": "iterations/17-inventions/calcutta_inventions.mp3",
+    "midi": "iterations/17-inventions/calcutta_inventions.mid",
+    "archive": "iterations/17-inventions/source.zip",
+    "reproduction_status": "frozen source and score available; external sound engines required"
+  },
+  {
+    "id": "18-archipelago",
+    "title": "Archipelago",
+    "purpose": "Flexible field order and rhythm; start beyond 1:2; subsets and internal progressions within each field.",
+    "composer": "calcutta/archipelago_piece.py",
+    "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+    "audio": "iterations/18-archipelago/calcutta_archipelago.mp3",
+    "midi": "iterations/18-archipelago/calcutta_archipelago.mid",
+    "archive": "iterations/18-archipelago/source.zip",
+    "reproduction_status": "frozen source and score available; external sound engines required"
+  },
+  {
+    "id": "19-choirs",
+    "title": "Mobile choirs",
+    "purpose": "Release timbres from fixed endpoints; moving melodies, temporary instrumental choirs and local inventions.",
+    "composer": "calcutta/mobile_choirs.py",
+    "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+    "audio": "iterations/19-choirs/calcutta_choirs.mp3",
+    "midi": "iterations/19-choirs/calcutta_choirs.mid",
+    "archive": "iterations/19-choirs/source.zip",
+    "reproduction_status": "frozen source and score available; external sound engines required"
+  },
+  {
+    "id": "20-motifs",
+    "title": "Motif stress test",
+    "purpose": "Neighboring-field inventions, classic synth research, insistent motifs, sequence, transformation and radical stretching.",
+    "composer": "calcutta/motif_choirs.py",
+    "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+    "audio": "iterations/20-motifs/calcutta_motifs.mp3",
+    "midi": "iterations/20-motifs/calcutta_motifs.mid",
+    "archive": "iterations/20-motifs/source.zip",
+    "reproduction_status": "frozen source and score available; external sound engines required"
+  },
+  {
+    "id": "21-elastic",
+    "title": "Elastic time",
+    "purpose": "Fresh material, expressive rubato and multiple simultaneous tempos; exact original pitches.",
+    "composer": "calcutta/elastic_piece.py",
+    "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+    "audio": "iterations/21-elastic/calcutta_elastic.mp3",
+    "midi": "iterations/21-elastic/calcutta_elastic.mid",
+    "archive": "iterations/21-elastic/source.zip",
+    "reproduction_status": "frozen source and score available; external sound engines required"
+  },
+  {
+    "id": "22-grace",
+    "title": "Grace and Grain",
+    "purpose": "One-version permission for ornaments/passing tones; short flourishes; replace held retuning with breaths or fixed common tones.",
+    "composer": "calcutta/grace_piece.py",
+    "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+    "audio": "iterations/22-grace/calcutta_grace.mp3",
+    "midi": "iterations/22-grace/calcutta_grace.mid",
+    "archive": "iterations/22-grace/source.zip",
+    "reproduction_status": "frozen source and score available; external sound engines required"
+  },
+  {
+    "id": "23-soft-machines",
+    "title": "Soft Machines",
+    "purpose": "Gentler dissonance, no violent attacks, recognizable sequences, natural connecting tones, sixteen unison composites.",
+    "composer": "calcutta/murmur_piece.py",
+    "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+    "audio": "iterations/23-soft-machines/calcutta_murmur.mp3",
+    "midi": "iterations/23-soft-machines/calcutta_murmur.mid",
+    "archive": "iterations/23-soft-machines/source.zip",
+    "reproduction_status": "frozen source and score available; external sound engines required"
+  },
+  {
+    "id": "24-staircases-clocks",
+    "title": "Staircases and Clocks",
+    "purpose": "Louder average level and prompt dry foreground attacks; acoustic/electric solos, chord-stack sequences and simultaneous clocks; slow swells only in the background, ending without a fade.",
+    "composer": "calcutta/interleave_piece.py",
+    "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+    "audio": "iterations/24-staircases-clocks/calcutta_interleave.mp3",
+    "midi": "iterations/24-staircases-clocks/calcutta_interleave.mid",
+    "archive": "iterations/24-staircases-clocks/source.zip",
+    "reproduction_status": "frozen source and score available; external sound engines required"
+  },
+  {
+    "id": "25-palette-audition",
+    "title": "Supplement: synth palette audition",
+    "purpose": "A sound palette test rather than a composition.",
+    "composer": null,
+    "brief_status": "retrospective reconstruction from user requests and saved implementation; not an original model transcript",
+    "audio": "iterations/25-palette-audition/palette_audition.mp3",
+    "reproduction_status": "audio-only historical diagnostic; exact generation source was not retained"
+  }
+]
