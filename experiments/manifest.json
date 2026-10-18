@@ -325,5 +325,15 @@
     "audio": "iterations/30-wide-palette/audio/01_changing_ensembles.mp3",
     "midi": "iterations/30-wide-palette/source/suite/midi/01.mid",
     "reproduction_status": "Saved vibrato-free spectral models, deterministic forms, scores, instrument/section assignments, MIDI, renderer and validation; native engines not required"
+  },
+  {
+    "id": "31-prism-switchyard",
+    "title": "Prism Switchyard",
+    "purpose": "One new piece with all 97 source sounds, 33 changing ensembles, sixteen texture procedures and five dedicated layered amplitude-gate passages; advancing harmonic windows and the final 40% in the golden-ratio field.",
+    "composer": "compose_prism.py",
+    "brief_status": "Original request and public composition instructions retained in source/suite/BRIEF_PRISM.md",
+    "audio": "iterations/31-prism-switchyard/audio/calcutta_prism_switchyard.mp3",
+    "midi": "iterations/31-prism-switchyard/source/suite/midi/01.mid",
+    "reproduction_status": "Saved fixed-frequency models, deterministic score, gate DSP settings, source renderer, actual-tempo MIDI and validation; no native plugins needed"
   }
 ]

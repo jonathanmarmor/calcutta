@@ -36,9 +36,12 @@ A chronological record of the experiments, from bare tuning demonstrations to ch
 | 29 | [Pulse and Convergence](iterations/29-pulse-convergence/) | Ten fuller, pulse-driven pieces; advancing adjacent harmonic neighborhoods, then at least the final third inside the golden-ratio field. |
 | 30 | [Wide Palette](iterations/30-wide-palette/) | Five new pieces, 64 source sounds each, changing section orchestration, fixed-frequency no-vibrato resynthesis, and corrected non-1:2 openings. |
 
+| 31 | [Prism Switchyard](iterations/31-prism-switchyard/) | One piece, 97 source sounds, sixteen changing texture procedures and five hard-gate passages; no vibrato. |
+
 ## Reproduce and inspect
 
 See [reproduction instructions](REPRODUCING.md), [prompt provenance](PROMPTS.md), and the [machine-readable index](manifest.json). Each source archive is expanded for browsing, with its original ZIP preserved and SHA-256 hashes recorded. No old code is silently updated to the latest algorithm. The audio-only solo diagnostics are identified explicitly; their exact generation scripts were not retained.
 
 Uncompressed WAVs, plugin binaries, Python environments, and sample banks are excluded. MP3 listening copies and MIDI are retained. These recordings are dry, but historical versions differ in permitted pitch material, effects, release, click, and ending policies; see their own guides.
+
 
