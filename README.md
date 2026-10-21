@@ -112,4 +112,4 @@ ffmpeg -i output/calcutta.wav -codec:a libmp3lame -q:a 2 output/calcutta.mp3
 
 ## Composition experiments
 
-[Browse the chronological listening laboratory](experiments/README.md): 35 iterations and sound tests, with source, scores, MIDI, public briefs and reproduction instructions. The latest is [Seven Unequal Volumes](experiments/iterations/34-seven-unequal-volumes/README.md): 33 movements from 15 seconds to 46:48, grouped into seven volumes with widely varying movement counts and durations.
+[Browse the chronological listening laboratory](experiments/README.md): 36 iterations and sound tests, with source, scores, MIDI, public briefs and reproduction instructions. The latest is [Slow Apertures](experiments/iterations/35-slow-apertures/README.md): a 14-minute mostly sustained movement with very long note/texture fades across the full harmonic register.

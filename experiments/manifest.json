@@ -365,5 +365,15 @@
     "audio": "iterations/34-seven-unequal-volumes/audio/01_the_door_remains_open.mp3",
     "midi": "iterations/34-seven-unequal-volumes/source/suite/midi/01.mid",
     "reproduction_status": "All 33 scores regenerate identically; compact model inputs, original vocal synthesis, bounded DSP/gliss/tuning exceptions, miniature field scopes, actual-time MIDI and complete audio validation retained"
+  },
+  {
+    "id": "35-slow-apertures",
+    "title": "Slow Apertures",
+    "purpose": "One 14-minute sustained movement across the full register: 688 long-envelope strands, eight slowly fading/densifying clouds, 58 timbral sources, fixed-pitch overlapping harmonic handoffs and the last third entirely in the final field.",
+    "composer": "compose_slow.py",
+    "brief_status": "Original request and public envelope/texture/source-field specification retained in source/suite/BRIEF.md",
+    "audio": "iterations/35-slow-apertures/audio/calcutta_slow_apertures.mp3",
+    "midi": "iterations/35-slow-apertures/source/suite/slow_apertures.mid",
+    "reproduction_status": "Saved steady spectral models, deterministic score/envelopes/clouds, expression-curve MIDI, renderer and pitch/register/audio/regeneration audits"
   }
 ]
