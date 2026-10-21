@@ -38,10 +38,13 @@ A chronological record of the experiments, from bare tuning demonstrations to ch
 
 | 31 | [Prism Switchyard](iterations/31-prism-switchyard/) | One piece, 97 source sounds, sixteen changing texture procedures and five hard-gate passages; no vibrato. |
 
+| 32 | [Other Doors](iterations/32-other-doors/) | A 60-minute album: twelve unequal forms, cue networks, consonance graphs, endpoint clocks, varied acoustic/electric/synthetic ensembles and one gated work. |
+
 ## Reproduce and inspect
 
 See [reproduction instructions](REPRODUCING.md), [prompt provenance](PROMPTS.md), and the [machine-readable index](manifest.json). Each source archive is expanded for browsing, with its original ZIP preserved and SHA-256 hashes recorded. No old code is silently updated to the latest algorithm. The audio-only solo diagnostics are identified explicitly; their exact generation scripts were not retained.
 
 Uncompressed WAVs, plugin binaries, Python environments, and sample banks are excluded. MP3 listening copies and MIDI are retained. These recordings are dry, but historical versions differ in permitted pitch material, effects, release, click, and ending policies; see their own guides.
+
 
 

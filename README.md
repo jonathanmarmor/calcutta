@@ -112,4 +112,4 @@ ffmpeg -i output/calcutta.wav -codec:a libmp3lame -q:a 2 output/calcutta.mp3
 
 ## Composition experiments
 
-[Browse the chronological listening laboratory](experiments/README.md): 32 iterations and sound tests, with source snapshots, scores, MIDI, composition briefs, and reproduction instructions. The latest is [Prism Switchyard](experiments/iterations/31-prism-switchyard/README.md), one new piece with 97 source sounds, contrasting ensembles and five dedicated hard-gate passages.
+[Browse the chronological listening laboratory](experiments/README.md): 33 iterations and sound tests, with source, scores, MIDI, public composition briefs and reproduction instructions. The latest is [Other Doors](experiments/iterations/32-other-doors/README.md), a 60-minute album of twelve unequal pieces, from 41-second miniature to three major works.

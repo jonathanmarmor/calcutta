@@ -335,5 +335,15 @@
     "audio": "iterations/31-prism-switchyard/audio/calcutta_prism_switchyard.mp3",
     "midi": "iterations/31-prism-switchyard/source/suite/midi/01.mid",
     "reproduction_status": "Saved fixed-frequency models, deterministic score, gate DSP settings, source renderer, actual-tempo MIDI and validation; no native plugins needed"
+  },
+  {
+    "id": "32-other-doors",
+    "title": "Other Doors",
+    "purpose": "One hour-long album of twelve unequal pieces, from 41-second miniature to three large works: consonance-graph paths, cue-driven relays, construction endpoint clocks, multiple tempi, changing ensembles and one dedicated hard-gate work.",
+    "composer": "compose_doors.py",
+    "brief_status": "Original request and public composition specification retained in source/suite/BRIEF.md",
+    "audio": "iterations/32-other-doors/audio/01_the_small_door.mp3",
+    "midi": "iterations/32-other-doors/source/suite/midi/01.mid",
+    "reproduction_status": "All twelve scores regenerate identically; compact inherited models, exact harmonic fields, cue/sequence/gate decisions, actual-time MIDI, portable renderer and complete audio validation are retained"
   }
 ]
