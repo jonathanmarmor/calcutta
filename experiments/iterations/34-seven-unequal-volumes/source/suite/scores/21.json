@@ -1,0 +1,9270 @@
+{
+  "number": 21,
+  "volume": 4,
+  "title": "A Cell Facing Itself",
+  "slug": "a_cell_facing_itself",
+  "duration": 99,
+  "description": "New relay form with fresh note material.",
+  "seed": 202610214720,
+  "kind": "relay",
+  "theme": [
+    3,
+    1,
+    0,
+    1,
+    4,
+    5,
+    4,
+    7
+  ],
+  "harmonies": [
+    {
+      "chord": 1,
+      "start": 0,
+      "end": 2.1513668089847897
+    },
+    {
+      "chord": 2,
+      "start": 2.1513668089847897,
+      "end": 4.302733617969579
+    },
+    {
+      "chord": 0,
+      "start": 4.302733617969579,
+      "end": 4.733006979766538
+    },
+    {
+      "chord": 2,
+      "start": 4.733006979766538,
+      "end": 6.884373788751327
+    },
+    {
+      "chord": 1,
+      "start": 6.884373788751327,
+      "end": 8.086295363751645
+    },
+    {
+      "chord": 2,
+      "start": 8.086295363751645,
+      "end": 9.288216938751962
+    },
+    {
+      "chord": 3,
+      "start": 9.288216938751962,
+      "end": 10.49013851375228
+    },
+    {
+      "chord": 4,
+      "start": 10.49013851375228,
+      "end": 11.692060088752598
+    },
+    {
+      "chord": 5,
+      "start": 11.692060088752598,
+      "end": 12.893981663752914
+    },
+    {
+      "chord": 5,
+      "start": 12.893981663752914,
+      "end": 13.732466308186282
+    },
+    {
+      "chord": 6,
+      "start": 13.732466308186282,
+      "end": 14.57095095261965
+    },
+    {
+      "chord": 6,
+      "start": 14.57095095261965,
+      "end": 15.409435597053019
+    },
+    {
+      "chord": 5,
+      "start": 15.409435597053019,
+      "end": 16.247920241486387
+    },
+    {
+      "chord": 7,
+      "start": 16.247920241486387,
+      "end": 19.084933245994822
+    },
+    {
+      "chord": 8,
+      "start": 19.084933245994822,
+      "end": 20.194844697580244
+    },
+    {
+      "chord": 9,
+      "start": 20.194844697580244,
+      "end": 21.304756149165666
+    },
+    {
+      "chord": 10,
+      "start": 21.304756149165666,
+      "end": 22.414667600751088
+    },
+    {
+      "chord": 11,
+      "start": 22.414667600751088,
+      "end": 23.52457905233651
+    },
+    {
+      "chord": 12,
+      "start": 23.52457905233651,
+      "end": 24.63449050392193
+    },
+    {
+      "chord": 11,
+      "start": 24.63449050392193,
+      "end": 25.401865695398207
+    },
+    {
+      "chord": 12,
+      "start": 25.401865695398207,
+      "end": 26.169240886874487
+    },
+    {
+      "chord": 13,
+      "start": 26.169240886874487,
+      "end": 26.936616078350767
+    },
+    {
+      "chord": 14,
+      "start": 26.936616078350767,
+      "end": 27.703991269827043
+    },
+    {
+      "chord": 14,
+      "start": 27.703991269827043,
+      "end": 28.487025039207378
+    },
+    {
+      "chord": 15,
+      "start": 28.487025039207378,
+      "end": 29.270058808587713
+    },
+    {
+      "chord": 15,
+      "start": 29.270058808587713,
+      "end": 30.053092577968048
+    },
+    {
+      "chord": 14,
+      "start": 30.053092577968048,
+      "end": 30.836126347348383
+    },
+    {
+      "chord": 16,
+      "start": 30.836126347348383,
+      "end": 33.43308573314391
+    },
+    {
+      "chord": 17,
+      "start": 33.43308573314391,
+      "end": 34.22433982519837
+    },
+    {
+      "chord": 18,
+      "start": 34.22433982519837,
+      "end": 35.01559391725283
+    },
+    {
+      "chord": 19,
+      "start": 35.01559391725283,
+      "end": 35.80684800930729
+    },
+    {
+      "chord": 20,
+      "start": 35.80684800930729,
+      "end": 36.59810210136175
+    },
+    {
+      "chord": 21,
+      "start": 36.59810210136175,
+      "end": 37.389356193416205
+    },
+    {
+      "chord": 20,
+      "start": 37.389356193416205,
+      "end": 38.11983448008128
+    },
+    {
+      "chord": 21,
+      "start": 38.11983448008128,
+      "end": 38.85031276674635
+    },
+    {
+      "chord": 22,
+      "start": 38.85031276674635,
+      "end": 39.580791053411424
+    },
+    {
+      "chord": 23,
+      "start": 39.580791053411424,
+      "end": 40.31126934007649
+    },
+    {
+      "chord": 24,
+      "start": 40.31126934007649,
+      "end": 41.04174762674157
+    },
+    {
+      "chord": 24,
+      "start": 41.04174762674157,
+      "end": 42.01747323049325
+    },
+    {
+      "chord": 25,
+      "start": 42.01747323049325,
+      "end": 42.993198834244936
+    },
+    {
+      "chord": 26,
+      "start": 42.993198834244936,
+      "end": 43.96892443799661
+    },
+    {
+      "chord": 27,
+      "start": 43.96892443799661,
+      "end": 44.9446500417483
+    },
+    {
+      "chord": 27,
+      "start": 44.9446500417483,
+      "end": 45.58445689813584
+    },
+    {
+      "chord": 28,
+      "start": 45.58445689813584,
+      "end": 46.224263754523385
+    },
+    {
+      "chord": 28,
+      "start": 46.224263754523385,
+      "end": 46.86407061091093
+    },
+    {
+      "chord": 27,
+      "start": 46.86407061091093,
+      "end": 47.50387746729847
+    },
+    {
+      "chord": 29,
+      "start": 47.50387746729847,
+      "end": 48.27383902053349
+    },
+    {
+      "chord": 30,
+      "start": 48.27383902053349,
+      "end": 49.04380057376851
+    },
+    {
+      "chord": 31,
+      "start": 49.04380057376851,
+      "end": 49.81376212700352
+    },
+    {
+      "chord": 32,
+      "start": 49.81376212700352,
+      "end": 50.583723680238535
+    },
+    {
+      "chord": 32,
+      "start": 50.583723680238535,
+      "end": 51.46196909982105
+    },
+    {
+      "chord": 33,
+      "start": 51.46196909982105,
+      "end": 52.34021451940356
+    },
+    {
+      "chord": 34,
+      "start": 52.34021451940356,
+      "end": 53.218459938986065
+    },
+    {
+      "chord": 35,
+      "start": 53.218459938986065,
+      "end": 54.09670535856858
+    },
+    {
+      "chord": 35,
+      "start": 54.09670535856858,
+      "end": 54.85199610150906
+    },
+    {
+      "chord": 36,
+      "start": 54.85199610150906,
+      "end": 55.60728684444954
+    },
+    {
+      "chord": 37,
+      "start": 55.60728684444954,
+      "end": 56.36257758739002
+    },
+    {
+      "chord": 38,
+      "start": 56.36257758739002,
+      "end": 57.1178683303305
+    },
+    {
+      "chord": 38,
+      "start": 57.1178683303305,
+      "end": 57.688401247747876
+    },
+    {
+      "chord": 39,
+      "start": 57.688401247747876,
+      "end": 58.25893416516525
+    },
+    {
+      "chord": 39,
+      "start": 58.25893416516525,
+      "end": 58.829467082582624
+    },
+    {
+      "chord": 38,
+      "start": 58.829467082582624,
+      "end": 59.4
+    },
+    {
+      "chord": 39,
+      "start": 59.4,
+      "end": 99
+    }
+  ],
+  "areas": [
+    {
+      "first": 0,
+      "last": 2,
+      "start": 0.0,
+      "end": 6.884373788751327
+    },
+    {
+      "first": 1,
+      "last": 5,
+      "start": 6.884373788751327,
+      "end": 12.893981663752914
+    },
+    {
+      "first": 5,
+      "last": 6,
+      "start": 12.893981663752914,
+      "end": 16.247920241486387
+    },
+    {
+      "first": 7,
+      "last": 7,
+      "start": 16.247920241486387,
+      "end": 19.084933245994822
+    },
+    {
+      "first": 8,
+      "last": 12,
+      "start": 19.084933245994822,
+      "end": 24.63449050392193
+    },
+    {
+      "first": 11,
+      "last": 14,
+      "start": 24.63449050392193,
+      "end": 27.703991269827043
+    },
+    {
+      "first": 14,
+      "last": 15,
+      "start": 27.703991269827043,
+      "end": 30.836126347348383
+    },
+    {
+      "first": 16,
+      "last": 16,
+      "start": 30.836126347348383,
+      "end": 33.43308573314391
+    },
+    {
+      "first": 17,
+      "last": 21,
+      "start": 33.43308573314391,
+      "end": 37.389356193416205
+    },
+    {
+      "first": 20,
+      "last": 24,
+      "start": 37.389356193416205,
+      "end": 41.04174762674157
+    },
+    {
+      "first": 24,
+      "last": 27,
+      "start": 41.04174762674157,
+      "end": 44.9446500417483
+    },
+    {
+      "first": 27,
+      "last": 28,
+      "start": 44.9446500417483,
+      "end": 47.50387746729847
+    },
+    {
+      "first": 29,
+      "last": 32,
+      "start": 47.50387746729847,
+      "end": 50.583723680238535
+    },
+    {
+      "first": 32,
+      "last": 35,
+      "start": 50.583723680238535,
+      "end": 54.09670535856858
+    },
+    {
+      "first": 35,
+      "last": 38,
+      "start": 54.09670535856858,
+      "end": 57.1178683303305
+    },
+    {
+      "first": 38,
+      "last": 39,
+      "start": 57.1178683303305,
+      "end": 59.4
+    },
+    {
+      "first": 39,
+      "last": 39,
+      "start": 59.4,
+      "end": 99
+    }
+  ],
+  "notes": [
+    {
+      "id": 0,
+      "part": "0-p0",
+      "instrument": 47,
+      "start": 0.0,
+      "duration": 0.454249,
+      "pitch": 78.29318873261269,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 0.0,
+      "voice": 0
+    },
+    {
+      "id": 79,
+      "part": "0-p10",
+      "instrument": 91,
+      "start": 0.0,
+      "duration": 2.139367,
+      "pitch": 52.751872742370615,
+      "velocity": 24,
+      "role": "quiet sustained field member",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 0.0,
+      "voice": 1
+    },
+    {
+      "id": 1,
+      "part": "0-p0",
+      "instrument": 47,
+      "start": 0.486281,
+      "duration": 0.456409,
+      "pitch": 79.48115691820536,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 0.5,
+      "voice": 0
+    },
+    {
+      "id": 4,
+      "part": "0-p1",
+      "instrument": 26,
+      "start": 0.594393,
+      "duration": 0.903205,
+      "pitch": 79.48115691820536,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 0.6,
+      "voice": 2
+    },
+    {
+      "id": 2,
+      "part": "0-p0",
+      "instrument": 47,
+      "start": 0.9764,
+      "duration": 0.685765,
+      "pitch": 81.85709328939066,
+      "velocity": 35,
+      "role": "cue network cell",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 1.0,
+      "voice": 0
+    },
+    {
+      "id": 8,
+      "part": "0-p2",
+      "instrument": 56,
+      "start": 1.181271,
+      "duration": 0.448963,
+      "pitch": 80.66912510379801,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 1.2,
+      "voice": 3
+    },
+    {
+      "id": 5,
+      "part": "0-p1",
+      "instrument": 26,
+      "start": 1.559243,
+      "duration": 0.580124,
+      "pitch": 80.66912510379801,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 1.6,
+      "voice": 2
+    },
+    {
+      "id": 9,
+      "part": "0-p2",
+      "instrument": 56,
+      "start": 1.666505,
+      "duration": 0.455337,
+      "pitch": 81.85709328939066,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 1.7,
+      "voice": 3
+    },
+    {
+      "id": 3,
+      "part": "0-p0",
+      "instrument": 47,
+      "start": 1.718736,
+      "duration": 0.42063,
+      "pitch": 80.66912510379801,
+      "velocity": 36,
+      "role": "cue network cell",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 1.75,
+      "voice": 0
+    },
+    {
+      "id": 12,
+      "part": "0-p3",
+      "instrument": 29,
+      "start": 1.761415,
+      "duration": 0.377951,
+      "pitch": 84.23302966057598,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 1.7999999999999998,
+      "voice": 4
+    },
+    {
+      "id": 83,
+      "part": "0-p11",
+      "instrument": 49,
+      "start": 1.961136,
+      "duration": 0.178231,
+      "pitch": 57.50374548474124,
+      "velocity": 21,
+      "role": "quiet sustained field member",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 2.0,
+      "voice": 5
+    },
+    {
+      "id": 16,
+      "part": "0-p3",
+      "instrument": 29,
+      "start": 2.158768,
+      "duration": 1.153601,
+      "pitch": 78.3302533400032,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 2.2125,
+      "voice": 4
+    },
+    {
+      "id": 10,
+      "part": "0-p2",
+      "instrument": 56,
+      "start": 2.159673,
+      "duration": 0.683456,
+      "pitch": 85.72036582893797,
+      "velocity": 35,
+      "role": "cue network cell",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 2.2,
+      "voice": 3
+    },
+    {
+      "id": 20,
+      "part": "0-p4",
+      "instrument": 78,
+      "start": 2.359674,
+      "duration": 0.680146,
+      "pitch": 84.56566075254192,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 2.4,
+      "voice": 6
+    },
+    {
+      "id": 6,
+      "part": "0-p1",
+      "instrument": 26,
+      "start": 2.547737,
+      "duration": 1.373571,
+      "pitch": 84.56566075254192,
+      "velocity": 35,
+      "role": "cue network cell",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 2.6,
+      "voice": 2
+    },
+    {
+      "id": 13,
+      "part": "0-p3",
+      "instrument": 29,
+      "start": 2.753498,
+      "duration": 0.907538,
+      "pitch": 84.56566075254192,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 2.8,
+      "voice": 7
+    },
+    {
+      "id": 11,
+      "part": "0-p2",
+      "instrument": 56,
+      "start": 2.893235,
+      "duration": 0.915125,
+      "pitch": 84.56566075254192,
+      "velocity": 36,
+      "role": "cue network cell",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 2.95,
+      "voice": 3
+    },
+    {
+      "id": 21,
+      "part": "0-p4",
+      "instrument": 78,
+      "start": 3.100924,
+      "duration": 0.675516,
+      "pitch": 85.72036582893797,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 3.15,
+      "voice": 6
+    },
+    {
+      "id": 24,
+      "part": "0-p5",
+      "instrument": 30,
+      "start": 3.359292,
+      "duration": 0.931442,
+      "pitch": 89.18448105812615,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 3.4125,
+      "voice": 8
+    },
+    {
+      "id": 17,
+      "part": "0-p3",
+      "instrument": 29,
+      "start": 3.40907,
+      "duration": 0.881663,
+      "pitch": 80.40872247751611,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 3.4625,
+      "voice": 4
+    },
+    {
+      "id": 14,
+      "part": "0-p3",
+      "instrument": 29,
+      "start": 3.723417,
+      "duration": 0.567316,
+      "pitch": 89.18448105812615,
+      "velocity": 35,
+      "role": "cue network cell",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 3.8,
+      "voice": 7
+    },
+    {
+      "id": 22,
+      "part": "0-p4",
+      "instrument": 78,
+      "start": 3.832593,
+      "duration": 0.45814,
+      "pitch": 91.95577324147669,
+      "velocity": 35,
+      "role": "cue network cell",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 3.9,
+      "voice": 6
+    },
+    {
+      "id": 7,
+      "part": "0-p1",
+      "instrument": 26,
+      "start": 4.035919,
+      "duration": 0.254815,
+      "pitch": 82.94907364558743,
+      "velocity": 36,
+      "role": "cue network cell",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 4.1,
+      "voice": 2
+    },
+    {
+      "id": 25,
+      "part": "0-p5",
+      "instrument": 30,
+      "start": 4.586034,
+      "duration": 0.134973,
+      "pitch": 93.1056670467211,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 4.6625,
+      "voice": 8
+    },
+    {
+      "id": 18,
+      "part": "0-p3",
+      "instrument": 29,
+      "start": 4.623914,
+      "duration": 0.097093,
+      "pitch": 78.07044469781407,
+      "velocity": 35,
+      "role": "cue network cell",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 4.7125,
+      "voice": 4
+    },
+    {
+      "id": 80,
+      "part": "0-p10",
+      "instrument": 91,
+      "start": 4.898106,
+      "duration": 1.974267,
+      "pitch": 54.23540741253873,
+      "velocity": 23,
+      "role": "quiet sustained field member",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 5.0,
+      "voice": 1
+    },
+    {
+      "id": 23,
+      "part": "0-p4",
+      "instrument": 78,
+      "start": 4.929204,
+      "duration": 1.376466,
+      "pitch": 89.18448105812615,
+      "velocity": 36,
+      "role": "cue network cell",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 5.025,
+      "voice": 6
+    },
+    {
+      "id": 28,
+      "part": "0-p5",
+      "instrument": 30,
+      "start": 4.930192,
+      "duration": 0.460616,
+      "pitch": 82.94907364558743,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 5.0249999999999995,
+      "voice": 8
+    },
+    {
+      "id": 15,
+      "part": "0-p3",
+      "instrument": 29,
+      "start": 5.198624,
+      "duration": 1.673749,
+      "pitch": 85.72036582893797,
+      "velocity": 36,
+      "role": "cue network cell",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 5.3,
+      "voice": 4
+    },
+    {
+      "id": 29,
+      "part": "0-p5",
+      "instrument": 30,
+      "start": 5.42887,
+      "duration": 0.454283,
+      "pitch": 85.72036582893797,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 5.5249999999999995,
+      "voice": 8
+    },
+    {
+      "id": 32,
+      "part": "0-p8",
+      "instrument": 18,
+      "start": 5.608126,
+      "duration": 0.465417,
+      "pitch": 89.18448105812615,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 5.71875,
+      "voice": 9
+    },
+    {
+      "id": 26,
+      "part": "0-p5",
+      "instrument": 30,
+      "start": 5.81039,
+      "duration": 1.061984,
+      "pitch": 91.95577324147669,
+      "velocity": 35,
+      "role": "cue network cell",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 5.9125,
+      "voice": 10
+    },
+    {
+      "id": 30,
+      "part": "0-p5",
+      "instrument": 30,
+      "start": 5.925114,
+      "duration": 0.677778,
+      "pitch": 84.56566075254192,
+      "velocity": 35,
+      "role": "cue network cell",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 6.0249999999999995,
+      "voice": 8
+    },
+    {
+      "id": 33,
+      "part": "0-p8",
+      "instrument": 18,
+      "start": 6.111479,
+      "duration": 0.453339,
+      "pitch": 96.11271151650251,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 6.21875,
+      "voice": 9
+    },
+    {
+      "id": 36,
+      "part": "0-p7",
+      "instrument": 34,
+      "start": 6.120962,
+      "duration": 0.449997,
+      "pitch": 91.95577324147669,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 6.225,
+      "voice": 11
+    },
+    {
+      "id": 19,
+      "part": "0-p3",
+      "instrument": 29,
+      "start": 6.475008,
+      "duration": 0.397366,
+      "pitch": 74.17331506497737,
+      "velocity": 36,
+      "role": "cue network cell",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 6.5875,
+      "voice": 7
+    },
+    {
+      "id": 34,
+      "part": "0-p8",
+      "instrument": 18,
+      "start": 6.595668,
+      "duration": 0.276705,
+      "pitch": 91.95577324147669,
+      "velocity": 35,
+      "role": "cue network cell",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 6.71875,
+      "voice": 9
+    },
+    {
+      "id": 37,
+      "part": "0-p7",
+      "instrument": 34,
+      "start": 6.603344,
+      "duration": 0.269029,
+      "pitch": 96.11271151650251,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 6.725,
+      "voice": 11
+    },
+    {
+      "id": 31,
+      "part": "0-p5",
+      "instrument": 30,
+      "start": 6.648917,
+      "duration": 0.223457,
+      "pitch": 80.40872247751611,
+      "velocity": 36,
+      "role": "cue network cell",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 6.7749999999999995,
+      "voice": 8
+    },
+    {
+      "id": 38,
+      "part": "0-p7",
+      "instrument": 34,
+      "start": 7.093521,
+      "duration": 0.683284,
+      "pitch": 88.98490240294659,
+      "velocity": 35,
+      "role": "cue network cell",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 7.225,
+      "voice": 11
+    },
+    {
+      "id": 40,
+      "part": "0-p9",
+      "instrument": 75,
+      "start": 7.114852,
+      "duration": 0.959444,
+      "pitch": 96.11271151650251,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 7.2375,
+      "voice": 12
+    },
+    {
+      "id": 35,
+      "part": "0-p8",
+      "instrument": 18,
+      "start": 7.344664,
+      "duration": 0.729632,
+      "pitch": 86.60896603176128,
+      "velocity": 36,
+      "role": "cue network cell",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 7.46875,
+      "voice": 9
+    },
+    {
+      "id": 44,
+      "part": "0-p6",
+      "instrument": 7,
+      "start": 7.61001,
+      "duration": 0.464285,
+      "pitch": 78.29318873261269,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 7.74375,
+      "voice": 13
+    },
+    {
+      "id": 27,
+      "part": "0-p5",
+      "instrument": 30,
+      "start": 7.643411,
+      "duration": 0.430884,
+      "pitch": 86.60896603176128,
+      "velocity": 36,
+      "role": "cue network cell",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 7.7875,
+      "voice": 8
+    },
+    {
+      "id": 48,
+      "part": "0-p1",
+      "instrument": 26,
+      "start": 7.796698,
+      "duration": 0.277597,
+      "pitch": 91.36083877413189,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 7.93125,
+      "voice": 2
+    },
+    {
+      "id": 39,
+      "part": "0-p7",
+      "instrument": 34,
+      "start": 7.828379,
+      "duration": 0.245916,
+      "pitch": 86.60896603176128,
+      "velocity": 36,
+      "role": "cue network cell",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 7.975,
+      "voice": 11
+    },
+    {
+      "id": 51,
+      "part": "0-p1",
+      "instrument": 26,
+      "start": 8.275329,
+      "duration": 0.923059,
+      "pitch": 82.94907364558743,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 8.4375,
+      "voice": 2
+    },
+    {
+      "id": 41,
+      "part": "0-p9",
+      "instrument": 75,
+      "start": 8.321982,
+      "duration": 0.954235,
+      "pitch": 91.95577324147669,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 8.4875,
+      "voice": 12
+    },
+    {
+      "id": 45,
+      "part": "0-p6",
+      "instrument": 7,
+      "start": 8.337712,
+      "duration": 0.687438,
+      "pitch": 74.17331506497737,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 8.49375,
+      "voice": 13
+    },
+    {
+      "id": 49,
+      "part": "0-p1",
+      "instrument": 26,
+      "start": 8.527306,
+      "duration": 0.682139,
+      "pitch": 89.18448105812615,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 8.68125,
+      "voice": 14
+    },
+    {
+      "id": 54,
+      "part": "0-p8",
+      "instrument": 18,
+      "start": 8.788359,
+      "duration": 0.487858,
+      "pitch": 84.56566075254192,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 8.94375,
+      "voice": 9
+    },
+    {
+      "id": 84,
+      "part": "0-p11",
+      "instrument": 49,
+      "start": 8.833842,
+      "duration": 0.442375,
+      "pitch": 65.3205761459409,
+      "velocity": 22,
+      "role": "quiet sustained field member",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 9.0,
+      "voice": 5
+    },
+    {
+      "id": 46,
+      "part": "0-p6",
+      "instrument": 7,
+      "start": 9.088408,
+      "duration": 0.187809,
+      "pitch": 72.71068863487568,
+      "velocity": 35,
+      "role": "cue network cell",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 9.24375,
+      "voice": 13
+    },
+    {
+      "id": 42,
+      "part": "0-p9",
+      "instrument": 75,
+      "start": 9.555409,
+      "duration": 0.92273,
+      "pitch": 84.3664440564189,
+      "velocity": 35,
+      "role": "cue network cell",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 9.7375,
+      "voice": 12
+    },
+    {
+      "id": 55,
+      "part": "0-p8",
+      "instrument": 18,
+      "start": 9.754611,
+      "duration": 0.723528,
+      "pitch": 88.77129435395025,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 9.94375,
+      "voice": 9
+    },
+    {
+      "id": 81,
+      "part": "0-p10",
+      "instrument": 91,
+      "start": 9.832064,
+      "duration": 0.646074,
+      "pitch": 59.276416761680274,
+      "velocity": 24,
+      "role": "quiet sustained field member",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 10.0,
+      "voice": 1
+    },
+    {
+      "id": 47,
+      "part": "0-p6",
+      "instrument": 7,
+      "start": 10.191191,
+      "duration": 0.286948,
+      "pitch": 77.31868358036871,
+      "velocity": 36,
+      "role": "cue network cell",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 10.36875,
+      "voice": 13
+    },
+    {
+      "id": 52,
+      "part": "0-p1",
+      "instrument": 26,
+      "start": 10.258762,
+      "duration": 0.219376,
+      "pitch": 91.70786121897116,
+      "velocity": 35,
+      "role": "cue network cell",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 10.4375,
+      "voice": 2
+    },
+    {
+      "id": 50,
+      "part": "0-p1",
+      "instrument": 26,
+      "start": 10.373051,
+      "duration": 0.105088,
+      "pitch": 88.77129435395025,
+      "velocity": 36,
+      "role": "cue network cell",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 10.55625,
+      "voice": 14
+    },
+    {
+      "id": 56,
+      "part": "0-p8",
+      "instrument": 18,
+      "start": 10.730901,
+      "duration": 0.949159,
+      "pitch": 91.80023851197724,
+      "velocity": 35,
+      "role": "cue network cell",
+      "fields": [
+        7
+      ],
+      "is_passing": false,
+      "beat": 10.94375,
+      "voice": 9
+    },
+    {
+      "id": 58,
+      "part": "0-p0",
+      "instrument": 47,
+      "start": 10.862346,
+      "duration": 0.817714,
+      "pitch": 77.60782247169385,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        7
+      ],
+      "is_passing": false,
+      "beat": 11.0625,
+      "voice": 0
+    },
+    {
+      "id": 62,
+      "part": "0-p4",
+      "instrument": 78,
+      "start": 11.04379,
+      "duration": 0.448599,
+      "pitch": 82.2049860769085,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        7
+      ],
+      "is_passing": false,
+      "beat": 11.25,
+      "voice": 6
+    },
+    {
+      "id": 43,
+      "part": "0-p9",
+      "instrument": 75,
+      "start": 11.381901,
+      "duration": 0.298159,
+      "pitch": 89.10494288414893,
+      "velocity": 36,
+      "role": "cue network cell",
+      "fields": [
+        7
+      ],
+      "is_passing": false,
+      "beat": 11.6125,
+      "voice": 12
+    },
+    {
+      "id": 63,
+      "part": "0-p4",
+      "instrument": 78,
+      "start": 11.53438,
+      "duration": 0.14568,
+      "pitch": 80.41261448440268,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        7
+      ],
+      "is_passing": false,
+      "beat": 11.75,
+      "voice": 6
+    },
+    {
+      "id": 53,
+      "part": "0-p1",
+      "instrument": 26,
+      "start": 11.712067,
+      "duration": 1.169915,
+      "pitch": 89.04699736641676,
+      "velocity": 36,
+      "role": "cue network cell",
+      "fields": [
+        8
+      ],
+      "is_passing": false,
+      "beat": 11.9375,
+      "voice": 2
+    },
+    {
+      "id": 64,
+      "part": "0-p4",
+      "instrument": 78,
+      "start": 12.01944,
+      "duration": 0.681518,
+      "pitch": 84.69886558174859,
+      "velocity": 35,
+      "role": "cue network cell",
+      "fields": [
+        8
+      ],
+      "is_passing": false,
+      "beat": 12.25,
+      "voice": 6
+    },
+    {
+      "id": 59,
+      "part": "0-p0",
+      "instrument": 47,
+      "start": 12.071792,
+      "duration": 0.810189,
+      "pitch": 73.35255719690446,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        8
+      ],
+      "is_passing": false,
+      "beat": 12.3125,
+      "voice": 0
+    },
+    {
+      "id": 57,
+      "part": "0-p8",
+      "instrument": 18,
+      "start": 12.201504,
+      "duration": 0.680478,
+      "pitch": 84.69886558174859,
+      "velocity": 36,
+      "role": "cue network cell",
+      "fields": [
+        8
+      ],
+      "is_passing": false,
+      "beat": 12.44375,
+      "voice": 9
+    },
+    {
+      "id": 66,
+      "part": "0-p2",
+      "instrument": 56,
+      "start": 12.522863,
+      "duration": 0.359119,
+      "pitch": 89.04699736641676,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        8
+      ],
+      "is_passing": false,
+      "beat": 12.76875,
+      "voice": 3
+    },
+    {
+      "id": 69,
+      "part": "0-p5",
+      "instrument": 30,
+      "start": 12.628142,
+      "duration": 0.25384,
+      "pitch": 89.04699736641676,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        8
+      ],
+      "is_passing": false,
+      "beat": 12.8625,
+      "voice": 8
+    },
+    {
+      "id": 65,
+      "part": "0-p4",
+      "instrument": 78,
+      "start": 12.755769,
+      "duration": 0.126213,
+      "pitch": 89.04699736641676,
+      "velocity": 36,
+      "role": "cue network cell",
+      "fields": [
+        8
+      ],
+      "is_passing": false,
+      "beat": 13.0,
+      "voice": 6
+    },
+    {
+      "id": 72,
+      "part": "0-p1",
+      "instrument": 26,
+      "start": 13.101498,
+      "duration": 0.466538,
+      "pitch": 82.02309217579895,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        9
+      ],
+      "is_passing": false,
+      "beat": 13.36875,
+      "voice": 2
+    },
+    {
+      "id": 76,
+      "part": "0-p7",
+      "instrument": 34,
+      "start": 13.212833,
+      "duration": 0.507634,
+      "pitch": 82.02309217579895,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        9
+      ],
+      "is_passing": false,
+      "beat": 13.4625,
+      "voice": 11
+    },
+    {
+      "id": 60,
+      "part": "0-p0",
+      "instrument": 47,
+      "start": 13.290945,
+      "duration": 0.429521,
+      "pitch": 80.41827134699021,
+      "velocity": 35,
+      "role": "cue network cell",
+      "fields": [
+        9
+      ],
+      "is_passing": false,
+      "beat": 13.5625,
+      "voice": 0
+    },
+    {
+      "id": 73,
+      "part": "0-p1",
+      "instrument": 26,
+      "start": 13.590333,
+      "duration": 0.130133,
+      "pitch": 84.69886558174859,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        9
+      ],
+      "is_passing": false,
+      "beat": 13.86875,
+      "voice": 2
+    },
+    {
+      "id": 67,
+      "part": "0-p2",
+      "instrument": 56,
+      "start": 13.74454,
+      "duration": 0.814411,
+      "pitch": 82.09285857333505,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        10
+      ],
+      "is_passing": false,
+      "beat": 14.01875,
+      "voice": 3
+    },
+    {
+      "id": 70,
+      "part": "0-p5",
+      "instrument": 30,
+      "start": 13.828814,
+      "duration": 0.730137,
+      "pitch": 96.11271151650251,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        10
+      ],
+      "is_passing": false,
+      "beat": 14.1125,
+      "voice": 8
+    },
+    {
+      "id": 74,
+      "part": "0-p1",
+      "instrument": 26,
+      "start": 14.100077,
+      "duration": 0.458874,
+      "pitch": 80.41588969947723,
+      "velocity": 35,
+      "role": "cue network cell",
+      "fields": [
+        10
+      ],
+      "is_passing": false,
+      "beat": 14.36875,
+      "voice": 2
+    },
+    {
+      "id": 77,
+      "part": "0-p7",
+      "instrument": 34,
+      "start": 14.415668,
+      "duration": 0.143283,
+      "pitch": 89.09484628334282,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        10
+      ],
+      "is_passing": false,
+      "beat": 14.7125,
+      "voice": 11
+    },
+    {
+      "id": 82,
+      "part": "0-p10",
+      "instrument": 91,
+      "start": 14.712468,
+      "duration": 0.684968,
+      "pitch": 66.35441676364844,
+      "velocity": 26,
+      "role": "quiet sustained field member",
+      "fields": [
+        11
+      ],
+      "is_passing": false,
+      "beat": 15.0,
+      "voice": 1
+    },
+    {
+      "id": 75,
+      "part": "0-p1",
+      "instrument": 26,
+      "start": 14.81713,
+      "duration": 0.580306,
+      "pitch": 77.71667476019273,
+      "velocity": 36,
+      "role": "cue network cell",
+      "fields": [
+        11
+      ],
+      "is_passing": false,
+      "beat": 15.11875,
+      "voice": 2
+    },
+    {
+      "id": 68,
+      "part": "0-p2",
+      "instrument": 56,
+      "start": 14.974944,
+      "duration": 0.422492,
+      "pitch": 84.75045351995823,
+      "velocity": 35,
+      "role": "cue network cell",
+      "fields": [
+        11
+      ],
+      "is_passing": false,
+      "beat": 15.26875,
+      "voice": 3
+    },
+    {
+      "id": 71,
+      "part": "0-p5",
+      "instrument": 30,
+      "start": 15.044705,
+      "duration": 0.35273,
+      "pitch": 91.77814769602152,
+      "velocity": 35,
+      "role": "cue network cell",
+      "fields": [
+        11
+      ],
+      "is_passing": false,
+      "beat": 15.3625,
+      "voice": 8
+    },
+    {
+      "id": 61,
+      "part": "0-p0",
+      "instrument": 47,
+      "start": 15.129528,
+      "duration": 0.267908,
+      "pitch": 82.09285857333505,
+      "velocity": 36,
+      "role": "cue network cell",
+      "fields": [
+        11
+      ],
+      "is_passing": false,
+      "beat": 15.4375,
+      "voice": 0
+    },
+    {
+      "id": 78,
+      "part": "0-p5",
+      "instrument": 30,
+      "start": 15.268436,
+      "duration": 0.129,
+      "pitch": 89.09484628334282,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        11
+      ],
+      "is_passing": false,
+      "beat": 15.58125,
+      "voice": 10
+    },
+    {
+      "id": 85,
+      "part": "1-p0",
+      "instrument": 8,
+      "start": 15.683343,
+      "duration": 0.552577,
+      "pitch": 55.023905190617796,
+      "velocity": 40,
+      "role": "invention",
+      "fields": [
+        12
+      ],
+      "is_passing": false,
+      "beat": 16.0,
+      "voice": 15
+    },
+    {
+      "id": 86,
+      "part": "1-p0",
+      "instrument": 8,
+      "start": 16.406265,
+      "duration": 0.340302,
+      "pitch": 48.0,
+      "velocity": 41,
+      "role": "invention",
+      "fields": [
+        13
+      ],
+      "is_passing": false,
+      "beat": 16.75,
+      "voice": 15
+    },
+    {
+      "id": 102,
+      "part": "1-p2",
+      "instrument": 69,
+      "start": 16.647159,
+      "duration": 1.358809,
+      "pitch": 63.69594451212402,
+      "velocity": 40,
+      "role": "invention",
+      "fields": [
+        13
+      ],
+      "is_passing": false,
+      "beat": 17.0,
+      "voice": 16
+    },
+    {
+      "id": 87,
+      "part": "1-p0",
+      "instrument": 8,
+      "start": 16.764779,
+      "duration": 0.685713,
+      "pitch": 48.0,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        13
+      ],
+      "is_passing": false,
+      "beat": 17.125,
+      "voice": 15
+    },
+    {
+      "id": 107,
+      "part": "1-p3",
+      "instrument": 50,
+      "start": 17.129834,
+      "duration": 0.609602,
+      "pitch": 82.06625254569772,
+      "velocity": 40,
+      "role": "invention",
+      "fields": [
+        13
+      ],
+      "is_passing": false,
+      "beat": 17.5,
+      "voice": 17
+    },
+    {
+      "id": 96,
+      "part": "1-p1",
+      "instrument": 47,
+      "start": 17.129885,
+      "duration": 0.459204,
+      "pitch": 62.0464589708048,
+      "velocity": 41,
+      "role": "invention",
+      "fields": [
+        13
+      ],
+      "is_passing": false,
+      "beat": 17.5,
+      "voice": 0
+    },
+    {
+      "id": 88,
+      "part": "1-p0",
+      "instrument": 8,
+      "start": 17.499547,
+      "duration": 1.016468,
+      "pitch": 48.0,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        13
+      ],
+      "is_passing": false,
+      "beat": 17.875,
+      "voice": 15
+    },
+    {
+      "id": 97,
+      "part": "1-p1",
+      "instrument": 47,
+      "start": 17.623068,
+      "duration": 0.901428,
+      "pitch": 63.69594451212402,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        13
+      ],
+      "is_passing": false,
+      "beat": 18.0,
+      "voice": 0
+    },
+    {
+      "id": 117,
+      "part": "1-p4",
+      "instrument": 28,
+      "start": 17.625692,
+      "duration": 1.124348,
+      "pitch": 73.39049847549474,
+      "velocity": 40,
+      "role": "invention",
+      "fields": [
+        13
+      ],
+      "is_passing": false,
+      "beat": 18.0,
+      "voice": 18
+    },
+    {
+      "id": 108,
+      "part": "1-p3",
+      "instrument": 50,
+      "start": 17.777942,
+      "duration": 0.307178,
+      "pitch": 73.39049847549474,
+      "velocity": 41,
+      "role": "invention",
+      "fields": [
+        13
+      ],
+      "is_passing": false,
+      "beat": 18.166666666666668,
+      "voice": 17
+    },
+    {
+      "id": 122,
+      "part": "1-p5",
+      "instrument": 60,
+      "start": 18.105401,
+      "duration": 0.453016,
+      "pitch": 91.77295742513314,
+      "velocity": 40,
+      "role": "invention",
+      "fields": [
+        13
+      ],
+      "is_passing": false,
+      "beat": 18.5,
+      "voice": 19
+    },
+    {
+      "id": 109,
+      "part": "1-p3",
+      "instrument": 50,
+      "start": 18.113378,
+      "duration": 0.595417,
+      "pitch": 77.72649845432834,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        13
+      ],
+      "is_passing": false,
+      "beat": 18.5,
+      "voice": 17
+    },
+    {
+      "id": 103,
+      "part": "1-p2",
+      "instrument": 69,
+      "start": 18.119262,
+      "duration": 0.664745,
+      "pitch": 59.35619042075464,
+      "velocity": 41,
+      "role": "invention",
+      "fields": [
+        13
+      ],
+      "is_passing": false,
+      "beat": 18.5,
+      "voice": 16
+    },
+    {
+      "id": 123,
+      "part": "1-p5",
+      "instrument": 60,
+      "start": 18.582925,
+      "duration": 0.235047,
+      "pitch": 82.06625254569772,
+      "velocity": 41,
+      "role": "invention",
+      "fields": [
+        13
+      ],
+      "is_passing": false,
+      "beat": 19.0,
+      "voice": 19
+    },
+    {
+      "id": 89,
+      "part": "1-p0",
+      "instrument": 8,
+      "start": 18.585961,
+      "duration": 0.486972,
+      "pitch": 59.35619042075464,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        13
+      ],
+      "is_passing": false,
+      "beat": 19.0,
+      "voice": 15
+    },
+    {
+      "id": 133,
+      "part": "1-p6",
+      "instrument": 31,
+      "start": 18.586019,
+      "duration": 0.486914,
+      "pitch": 84.7466888962494,
+      "velocity": 40,
+      "role": "invention",
+      "fields": [
+        13
+      ],
+      "is_passing": false,
+      "beat": 19.0,
+      "voice": 20
+    },
+    {
+      "id": 98,
+      "part": "1-p1",
+      "instrument": 47,
+      "start": 18.598621,
+      "duration": 0.474312,
+      "pitch": 62.0464589708048,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        13
+      ],
+      "is_passing": false,
+      "beat": 19.0,
+      "voice": 0
+    },
+    {
+      "id": 110,
+      "part": "1-p3",
+      "instrument": 50,
+      "start": 18.749687,
+      "duration": 0.323246,
+      "pitch": 73.39049847549474,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        13
+      ],
+      "is_passing": false,
+      "beat": 19.166666666666668,
+      "voice": 17
+    },
+    {
+      "id": 124,
+      "part": "1-p5",
+      "instrument": 60,
+      "start": 18.827384,
+      "duration": 0.245549,
+      "pitch": 84.7466888962494,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        13
+      ],
+      "is_passing": false,
+      "beat": 19.25,
+      "voice": 19
+    },
+    {
+      "id": 104,
+      "part": "1-p2",
+      "instrument": 69,
+      "start": 18.828242,
+      "duration": 0.244691,
+      "pitch": 55.02019044192105,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        13
+      ],
+      "is_passing": false,
+      "beat": 19.25,
+      "voice": 16
+    },
+    {
+      "id": 118,
+      "part": "1-p4",
+      "instrument": 28,
+      "start": 18.843624,
+      "duration": 0.229309,
+      "pitch": 66.37030803357369,
+      "velocity": 41,
+      "role": "invention",
+      "fields": [
+        13
+      ],
+      "is_passing": false,
+      "beat": 19.25,
+      "voice": 18
+    },
+    {
+      "id": 125,
+      "part": "1-p5",
+      "instrument": 60,
+      "start": 19.310184,
+      "duration": 0.688072,
+      "pitch": 82.07642131459963,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        14
+      ],
+      "is_passing": false,
+      "beat": 19.75,
+      "voice": 19
+    },
+    {
+      "id": 90,
+      "part": "1-p0",
+      "instrument": 8,
+      "start": 19.324853,
+      "duration": 0.857992,
+      "pitch": 62.03629020190289,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        14
+      ],
+      "is_passing": false,
+      "beat": 19.75,
+      "voice": 15
+    },
+    {
+      "id": 119,
+      "part": "1-p4",
+      "instrument": 28,
+      "start": 19.43044,
+      "duration": 0.752404,
+      "pitch": 63.69628433076721,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        14
+      ],
+      "is_passing": false,
+      "beat": 19.875,
+      "voice": 18
+    },
+    {
+      "id": 111,
+      "part": "1-p3",
+      "instrument": 50,
+      "start": 19.721391,
+      "duration": 0.461454,
+      "pitch": 63.69628433076721,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        14
+      ],
+      "is_passing": false,
+      "beat": 20.166666666666668,
+      "voice": 17
+    },
+    {
+      "id": 99,
+      "part": "1-p1",
+      "instrument": 47,
+      "start": 20.044034,
+      "duration": 0.138811,
+      "pitch": 52.33777271154493,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        14
+      ],
+      "is_passing": false,
+      "beat": 20.5,
+      "voice": 0
+    },
+    {
+      "id": 126,
+      "part": "1-p5",
+      "instrument": 60,
+      "start": 20.052315,
+      "duration": 0.13053,
+      "pitch": 73.39480182112517,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        14
+      ],
+      "is_passing": false,
+      "beat": 20.5,
+      "voice": 19
+    },
+    {
+      "id": 105,
+      "part": "1-p2",
+      "instrument": 69,
+      "start": 20.28894,
+      "duration": 1.003816,
+      "pitch": 59.35762552436728,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        15
+      ],
+      "is_passing": false,
+      "beat": 20.75,
+      "voice": 16
+    },
+    {
+      "id": 112,
+      "part": "1-p3",
+      "instrument": 50,
+      "start": 20.384374,
+      "duration": 0.908382,
+      "pitch": 62.04017342514001,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        15
+      ],
+      "is_passing": false,
+      "beat": 20.833333333333336,
+      "voice": 17
+    },
+    {
+      "id": 134,
+      "part": "1-p6",
+      "instrument": 31,
+      "start": 20.538496,
+      "duration": 0.75426,
+      "pitch": 80.41655629602639,
+      "velocity": 41,
+      "role": "invention",
+      "fields": [
+        15
+      ],
+      "is_passing": false,
+      "beat": 21.0,
+      "voice": 20
+    },
+    {
+      "id": 127,
+      "part": "1-p5",
+      "instrument": 60,
+      "start": 20.542201,
+      "duration": 0.750555,
+      "pitch": 70.71491256699522,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        15
+      ],
+      "is_passing": false,
+      "beat": 21.0,
+      "voice": 19
+    },
+    {
+      "id": 120,
+      "part": "1-p4",
+      "instrument": 28,
+      "start": 20.645205,
+      "duration": 0.647551,
+      "pitch": 66.37638287088637,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        15
+      ],
+      "is_passing": false,
+      "beat": 21.125,
+      "voice": 18
+    },
+    {
+      "id": 91,
+      "part": "1-p0",
+      "instrument": 8,
+      "start": 20.774989,
+      "duration": 0.34128,
+      "pitch": 59.35762552436728,
+      "velocity": 41,
+      "role": "invention",
+      "fields": [
+        15
+      ],
+      "is_passing": false,
+      "beat": 21.25,
+      "voice": 15
+    },
+    {
+      "id": 100,
+      "part": "1-p1",
+      "instrument": 47,
+      "start": 21.032522,
+      "duration": 0.260234,
+      "pitch": 48.0,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        15
+      ],
+      "is_passing": false,
+      "beat": 21.5,
+      "voice": 0
+    },
+    {
+      "id": 92,
+      "part": "1-p0",
+      "instrument": 8,
+      "start": 21.13239,
+      "duration": 0.160367,
+      "pitch": 66.37638287088637,
+      "velocity": 40,
+      "role": "invention",
+      "fields": [
+        15
+      ],
+      "is_passing": false,
+      "beat": 21.625,
+      "voice": 15
+    },
+    {
+      "id": 136,
+      "part": "1-p7",
+      "instrument": 75,
+      "start": 21.495625,
+      "duration": 0.907043,
+      "pitch": 96.11271151650251,
+      "velocity": 41,
+      "role": "invention",
+      "fields": [
+        16
+      ],
+      "is_passing": false,
+      "beat": 22.0,
+      "voice": 12
+    },
+    {
+      "id": 128,
+      "part": "1-p5",
+      "instrument": 60,
+      "start": 21.504857,
+      "duration": 0.22592,
+      "pitch": 73.3966540933822,
+      "velocity": 41,
+      "role": "invention",
+      "fields": [
+        16
+      ],
+      "is_passing": false,
+      "beat": 22.0,
+      "voice": 19
+    },
+    {
+      "id": 135,
+      "part": "1-p6",
+      "instrument": 31,
+      "start": 21.507621,
+      "duration": 0.895046,
+      "pitch": 77.73489467114318,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        16
+      ],
+      "is_passing": false,
+      "beat": 22.0,
+      "voice": 20
+    },
+    {
+      "id": 113,
+      "part": "1-p3",
+      "instrument": 50,
+      "start": 21.655734,
+      "duration": 0.311925,
+      "pitch": 63.69620463669551,
+      "velocity": 41,
+      "role": "invention",
+      "fields": [
+        16
+      ],
+      "is_passing": false,
+      "beat": 22.166666666666668,
+      "voice": 17
+    },
+    {
+      "id": 129,
+      "part": "1-p5",
+      "instrument": 60,
+      "start": 21.752059,
+      "duration": 0.446824,
+      "pitch": 80.416506879807,
+      "velocity": 40,
+      "role": "invention",
+      "fields": [
+        16
+      ],
+      "is_passing": false,
+      "beat": 22.25,
+      "voice": 19
+    },
+    {
+      "id": 93,
+      "part": "1-p0",
+      "instrument": 8,
+      "start": 21.860077,
+      "duration": 0.54259,
+      "pitch": 59.35741634402595,
+      "velocity": 40,
+      "role": "invention",
+      "fields": [
+        16
+      ],
+      "is_passing": false,
+      "beat": 22.375,
+      "voice": 15
+    },
+    {
+      "id": 114,
+      "part": "1-p3",
+      "instrument": 50,
+      "start": 21.985282,
+      "duration": 0.417385,
+      "pitch": 70.71538040296048,
+      "velocity": 40,
+      "role": "invention",
+      "fields": [
+        16
+      ],
+      "is_passing": false,
+      "beat": 22.5,
+      "voice": 17
+    },
+    {
+      "id": 130,
+      "part": "1-p5",
+      "instrument": 60,
+      "start": 22.239487,
+      "duration": 0.163181,
+      "pitch": 96.11271151650251,
+      "velocity": 40,
+      "role": "invention",
+      "fields": [
+        16
+      ],
+      "is_passing": false,
+      "beat": 22.75,
+      "voice": 19
+    },
+    {
+      "id": 106,
+      "part": "1-p2",
+      "instrument": 69,
+      "start": 22.46904,
+      "duration": 0.981416,
+      "pitch": 66.3772691203617,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        17
+      ],
+      "is_passing": false,
+      "beat": 23.0,
+      "voice": 16
+    },
+    {
+      "id": 121,
+      "part": "1-p4",
+      "instrument": 28,
+      "start": 22.477693,
+      "duration": 0.972762,
+      "pitch": 77.73510388175237,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        17
+      ],
+      "is_passing": false,
+      "beat": 23.0,
+      "voice": 18
+    },
+    {
+      "id": 94,
+      "part": "1-p0",
+      "instrument": 8,
+      "start": 22.586129,
+      "duration": 0.351194,
+      "pitch": 52.33835101464963,
+      "velocity": 41,
+      "role": "invention",
+      "fields": [
+        17
+      ],
+      "is_passing": false,
+      "beat": 23.125,
+      "voice": 15
+    },
+    {
+      "id": 115,
+      "part": "1-p3",
+      "instrument": 50,
+      "start": 22.647374,
+      "duration": 0.595066,
+      "pitch": 84.75466754064897,
+      "velocity": 40,
+      "role": "invention",
+      "fields": [
+        17
+      ],
+      "is_passing": false,
+      "beat": 23.166666666666668,
+      "voice": 17
+    },
+    {
+      "id": 131,
+      "part": "1-p5",
+      "instrument": 60,
+      "start": 22.713356,
+      "duration": 0.232498,
+      "pitch": 84.75466754064897,
+      "velocity": 41,
+      "role": "invention",
+      "fields": [
+        17
+      ],
+      "is_passing": false,
+      "beat": 23.25,
+      "voice": 19
+    },
+    {
+      "id": 137,
+      "part": "1-p7",
+      "instrument": 75,
+      "start": 22.722295,
+      "duration": 0.728161,
+      "pitch": 96.11271151650251,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        17
+      ],
+      "is_passing": false,
+      "beat": 23.25,
+      "voice": 12
+    },
+    {
+      "id": 132,
+      "part": "1-p5",
+      "instrument": 60,
+      "start": 22.957195,
+      "duration": 0.459133,
+      "pitch": 89.0930185552986,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        17
+      ],
+      "is_passing": false,
+      "beat": 23.5,
+      "voice": 19
+    },
+    {
+      "id": 101,
+      "part": "1-p1",
+      "instrument": 47,
+      "start": 22.961465,
+      "duration": 0.454863,
+      "pitch": 52.33835101464963,
+      "velocity": 41,
+      "role": "invention",
+      "fields": [
+        17
+      ],
+      "is_passing": false,
+      "beat": 23.5,
+      "voice": 0
+    },
+    {
+      "id": 95,
+      "part": "1-p0",
+      "instrument": 8,
+      "start": 22.973962,
+      "duration": 0.476494,
+      "pitch": 48.0,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        17
+      ],
+      "is_passing": false,
+      "beat": 23.5,
+      "voice": 15
+    },
+    {
+      "id": 116,
+      "part": "1-p3",
+      "instrument": 50,
+      "start": 23.289581,
+      "duration": 0.160874,
+      "pitch": 77.73510388175237,
+      "velocity": 41,
+      "role": "invention",
+      "fields": [
+        17
+      ],
+      "is_passing": false,
+      "beat": 23.833333333333336,
+      "voice": 17
+    },
+    {
+      "id": 146,
+      "part": "2-p1",
+      "instrument": 0,
+      "start": 23.86009,
+      "duration": 0.7624,
+      "pitch": 70.71568838862943,
+      "velocity": 42,
+      "role": "scale shaped line",
+      "fields": [
+        18
+      ],
+      "is_passing": false,
+      "beat": 24.5,
+      "voice": 21
+    },
+    {
+      "id": 153,
+      "part": "2-p2",
+      "instrument": 51,
+      "start": 24.261186,
+      "duration": 0.361304,
+      "pitch": 59.35780423834431,
+      "velocity": 42,
+      "role": "scale shaped line",
+      "fields": [
+        18
+      ],
+      "is_passing": false,
+      "beat": 25.0,
+      "voice": 22
+    },
+    {
+      "id": 166,
+      "part": "2-p3",
+      "instrument": 54,
+      "start": 24.652151,
+      "duration": 0.561691,
+      "pitch": 84.75466754064897,
+      "velocity": 42,
+      "role": "scale shaped line",
+      "fields": [
+        19
+      ],
+      "is_passing": false,
+      "beat": 25.5,
+      "voice": 23
+    },
+    {
+      "id": 181,
+      "part": "2-p4",
+      "instrument": 60,
+      "start": 25.060188,
+      "duration": 0.329678,
+      "pitch": 77.73510388175237,
+      "velocity": 42,
+      "role": "scale shaped line",
+      "fields": [
+        19
+      ],
+      "is_passing": false,
+      "beat": 26.0,
+      "voice": 19
+    },
+    {
+      "id": 167,
+      "part": "2-p3",
+      "instrument": 54,
+      "start": 25.255339,
+      "duration": 0.134526,
+      "pitch": 82.073454896402,
+      "velocity": 44,
+      "role": "scale shaped line",
+      "fields": [
+        19
+      ],
+      "is_passing": false,
+      "beat": 26.25,
+      "voice": 23
+    },
+    {
+      "id": 138,
+      "part": "2-p0",
+      "instrument": 42,
+      "start": 25.262108,
+      "duration": 0.127757,
+      "pitch": 48.0,
+      "velocity": 44,
+      "role": "scale shaped line",
+      "fields": [
+        19
+      ],
+      "is_passing": false,
+      "beat": 26.25,
+      "voice": 24
+    },
+    {
+      "id": 154,
+      "part": "2-p2",
+      "instrument": 51,
+      "start": 25.453346,
+      "duration": 0.383328,
+      "pitch": 63.696192982308446,
+      "velocity": 44,
+      "role": "scale shaped line",
+      "fields": [
+        20
+      ],
+      "is_passing": false,
+      "beat": 26.5,
+      "voice": 22
+    },
+    {
+      "id": 147,
+      "part": "2-p1",
+      "instrument": 0,
+      "start": 25.476082,
+      "duration": 0.681159,
+      "pitch": 66.37734903286479,
+      "velocity": 44,
+      "role": "scale shaped line",
+      "fields": [
+        20
+      ],
+      "is_passing": false,
+      "beat": 26.5,
+      "voice": 21
+    },
+    {
+      "id": 168,
+      "part": "2-p3",
+      "instrument": 54,
+      "start": 25.562469,
+      "duration": 0.594772,
+      "pitch": 80.41651853419407,
+      "velocity": 45,
+      "role": "scale shaped line",
+      "fields": [
+        20
+      ],
+      "is_passing": false,
+      "beat": 26.625,
+      "voice": 23
+    },
+    {
+      "id": 155,
+      "part": "2-p2",
+      "instrument": 51,
+      "start": 25.858948,
+      "duration": 0.298293,
+      "pitch": 66.37734903286479,
+      "velocity": 45,
+      "role": "scale shaped line",
+      "fields": [
+        20
+      ],
+      "is_passing": false,
+      "beat": 27.0,
+      "voice": 22
+    },
+    {
+      "id": 139,
+      "part": "2-p0",
+      "instrument": 42,
+      "start": 25.875225,
+      "duration": 0.282016,
+      "pitch": 52.33830883202332,
+      "velocity": 45,
+      "role": "scale shaped line",
+      "fields": [
+        20
+      ],
+      "is_passing": false,
+      "beat": 27.0,
+      "voice": 24
+    },
+    {
+      "id": 148,
+      "part": "2-p1",
+      "instrument": 0,
+      "start": 26.27661,
+      "duration": 0.648006,
+      "pitch": 63.696190230071004,
+      "velocity": 45,
+      "role": "scale shaped line",
+      "fields": [
+        21
+      ],
+      "is_passing": false,
+      "beat": 27.5,
+      "voice": 21
+    },
+    {
+      "id": 169,
+      "part": "2-p3",
+      "instrument": 54,
+      "start": 26.485273,
+      "duration": 0.439343,
+      "pitch": 84.75481570708631,
+      "velocity": 46,
+      "role": "scale shaped line",
+      "fields": [
+        21
+      ],
+      "is_passing": false,
+      "beat": 27.75,
+      "voice": 23
+    },
+    {
+      "id": 156,
+      "part": "2-p2",
+      "instrument": 51,
+      "start": 26.683272,
+      "duration": 0.241344,
+      "pitch": 73.39695042144277,
+      "velocity": 46,
+      "role": "scale shaped line",
+      "fields": [
+        21
+      ],
+      "is_passing": false,
+      "beat": 28.0,
+      "voice": 22
+    },
+    {
+      "id": 170,
+      "part": "2-p3",
+      "instrument": 54,
+      "start": 27.074021,
+      "duration": 0.617971,
+      "pitch": 82.07362022631604,
+      "velocity": 46,
+      "role": "scale shaped line",
+      "fields": [
+        22
+      ],
+      "is_passing": false,
+      "beat": 28.5,
+      "voice": 23
+    },
+    {
+      "id": 140,
+      "part": "2-p0",
+      "instrument": 42,
+      "start": 27.074826,
+      "duration": 0.617165,
+      "pitch": 59.35786083230498,
+      "velocity": 46,
+      "role": "scale shaped line",
+      "fields": [
+        22
+      ],
+      "is_passing": false,
+      "beat": 28.5,
+      "voice": 24
+    },
+    {
+      "id": 182,
+      "part": "2-p4",
+      "instrument": 60,
+      "start": 28.104714,
+      "duration": 0.370311,
+      "pitch": 82.07362022631604,
+      "velocity": 44,
+      "role": "scale shaped line",
+      "fields": [
+        23
+      ],
+      "is_passing": false,
+      "beat": 29.75,
+      "voice": 19
+    },
+    {
+      "id": 171,
+      "part": "2-p3",
+      "instrument": 54,
+      "start": 28.285616,
+      "duration": 0.189409,
+      "pitch": 77.73528257156417,
+      "velocity": 45,
+      "role": "scale shaped line",
+      "fields": [
+        23
+      ],
+      "is_passing": false,
+      "beat": 30.0,
+      "voice": 23
+    },
+    {
+      "id": 157,
+      "part": "2-p2",
+      "instrument": 51,
+      "start": 28.306295,
+      "duration": 0.16873,
+      "pitch": 77.73528257156417,
+      "velocity": 46,
+      "role": "scale shaped line",
+      "fields": [
+        23
+      ],
+      "is_passing": false,
+      "beat": 30.0,
+      "voice": 22
+    },
+    {
+      "id": 172,
+      "part": "2-p3",
+      "instrument": 54,
+      "start": 28.589306,
+      "duration": 0.668753,
+      "pitch": 73.39696758513291,
+      "velocity": 44,
+      "role": "scale shaped line",
+      "fields": [
+        24
+      ],
+      "is_passing": false,
+      "beat": 30.375,
+      "voice": 23
+    },
+    {
+      "id": 149,
+      "part": "2-p1",
+      "instrument": 0,
+      "start": 28.701961,
+      "duration": 0.556098,
+      "pitch": 70.71573842672179,
+      "velocity": 46,
+      "role": "scale shaped line",
+      "fields": [
+        24
+      ],
+      "is_passing": false,
+      "beat": 30.5,
+      "voice": 21
+    },
+    {
+      "id": 158,
+      "part": "2-p2",
+      "instrument": 51,
+      "start": 29.107546,
+      "duration": 0.150513,
+      "pitch": 70.71573842672179,
+      "velocity": 45,
+      "role": "scale shaped line",
+      "fields": [
+        24
+      ],
+      "is_passing": false,
+      "beat": 31.0,
+      "voice": 22
+    },
+    {
+      "id": 183,
+      "part": "2-p4",
+      "instrument": 60,
+      "start": 29.118115,
+      "duration": 0.139944,
+      "pitch": 84.7548373241407,
+      "velocity": 45,
+      "role": "scale shaped line",
+      "fields": [
+        24
+      ],
+      "is_passing": false,
+      "beat": 31.0,
+      "voice": 19
+    },
+    {
+      "id": 141,
+      "part": "2-p0",
+      "instrument": 42,
+      "start": 29.509337,
+      "duration": 0.531755,
+      "pitch": 62.03910335077293,
+      "velocity": 46,
+      "role": "scale shaped line",
+      "fields": [
+        25
+      ],
+      "is_passing": false,
+      "beat": 31.5,
+      "voice": 24
+    },
+    {
+      "id": 173,
+      "part": "2-p3",
+      "instrument": 54,
+      "start": 29.520958,
+      "duration": 0.520134,
+      "pitch": 66.37741728590866,
+      "velocity": 42,
+      "role": "scale shaped line",
+      "fields": [
+        25
+      ],
+      "is_passing": false,
+      "beat": 31.5,
+      "voice": 23
+    },
+    {
+      "id": 159,
+      "part": "2-p2",
+      "instrument": 51,
+      "start": 29.922071,
+      "duration": 0.119022,
+      "pitch": 73.39696758513291,
+      "velocity": 44,
+      "role": "scale shaped line",
+      "fields": [
+        25
+      ],
+      "is_passing": false,
+      "beat": 32.0,
+      "voice": 22
+    },
+    {
+      "id": 160,
+      "part": "2-p2",
+      "instrument": 51,
+      "start": 30.335986,
+      "duration": 0.48814,
+      "pitch": 77.73528257156417,
+      "velocity": 42,
+      "role": "scale shaped line",
+      "fields": [
+        26
+      ],
+      "is_passing": false,
+      "beat": 32.5,
+      "voice": 22
+    },
+    {
+      "id": 150,
+      "part": "2-p1",
+      "instrument": 0,
+      "start": 30.337878,
+      "duration": 0.486249,
+      "pitch": 66.37741008023409,
+      "velocity": 46,
+      "role": "scale shaped line",
+      "fields": [
+        26
+      ],
+      "is_passing": false,
+      "beat": 32.5,
+      "voice": 21
+    },
+    {
+      "id": 174,
+      "part": "2-p3",
+      "instrument": 54,
+      "start": 30.728737,
+      "duration": 0.095389,
+      "pitch": 89.0931622685734,
+      "velocity": 42,
+      "role": "scale shaped line",
+      "fields": [
+        26
+      ],
+      "is_passing": false,
+      "beat": 33.0,
+      "voice": 23
+    },
+    {
+      "id": 142,
+      "part": "2-p0",
+      "instrument": 42,
+      "start": 30.73885,
+      "duration": 0.085276,
+      "pitch": 55.01954204225736,
+      "velocity": 45,
+      "role": "scale shaped line",
+      "fields": [
+        26
+      ],
+      "is_passing": false,
+      "beat": 33.0,
+      "voice": 24
+    },
+    {
+      "id": 175,
+      "part": "2-p3",
+      "instrument": 54,
+      "start": 31.046756,
+      "duration": 0.835839,
+      "pitch": 84.75484072620041,
+      "velocity": 44,
+      "role": "scale shaped line",
+      "fields": [
+        27
+      ],
+      "is_passing": false,
+      "beat": 33.375,
+      "voice": 23
+    },
+    {
+      "id": 184,
+      "part": "2-p4",
+      "instrument": 60,
+      "start": 31.141698,
+      "duration": 2.279387,
+      "pitch": 91.77439127360168,
+      "velocity": 46,
+      "role": "scale shaped line",
+      "fields": [
+        27
+      ],
+      "is_passing": false,
+      "beat": 33.5,
+      "voice": 19
+    },
+    {
+      "id": 143,
+      "part": "2-p0",
+      "instrument": 42,
+      "start": 31.952898,
+      "duration": 0.566775,
+      "pitch": 59.35786908927262,
+      "velocity": 44,
+      "role": "scale shaped line",
+      "fields": [
+        27
+      ],
+      "is_passing": false,
+      "beat": 34.5,
+      "voice": 24
+    },
+    {
+      "id": 176,
+      "part": "2-p3",
+      "instrument": 54,
+      "start": 31.967489,
+      "duration": 0.552184,
+      "pitch": 82.07361277246495,
+      "velocity": 45,
+      "role": "scale shaped line",
+      "fields": [
+        27
+      ],
+      "is_passing": false,
+      "beat": 34.5,
+      "voice": 23
+    },
+    {
+      "id": 161,
+      "part": "2-p2",
+      "instrument": 51,
+      "start": 32.518931,
+      "duration": 0.384648,
+      "pitch": 62.03909874403757,
+      "velocity": 42,
+      "role": "scale shaped line",
+      "fields": [
+        27
+      ],
+      "is_passing": false,
+      "beat": 35.2,
+      "voice": 22
+    },
+    {
+      "id": 177,
+      "part": "2-p3",
+      "instrument": 54,
+      "start": 32.573879,
+      "duration": 0.847207,
+      "pitch": 89.09316161883673,
+      "velocity": 46,
+      "role": "scale shaped line",
+      "fields": [
+        27
+      ],
+      "is_passing": false,
+      "beat": 35.25,
+      "voice": 23
+    },
+    {
+      "id": 144,
+      "part": "2-p0",
+      "instrument": 42,
+      "start": 32.57804,
+      "duration": 0.843046,
+      "pitch": 62.03909874403757,
+      "velocity": 42,
+      "role": "scale shaped line",
+      "fields": [
+        27
+      ],
+      "is_passing": false,
+      "beat": 35.25,
+      "voice": 24
+    },
+    {
+      "id": 162,
+      "part": "2-p2",
+      "instrument": 51,
+      "start": 32.931003,
+      "duration": 0.490082,
+      "pitch": 66.3774189869384,
+      "velocity": 44,
+      "role": "scale shaped line",
+      "fields": [
+        27
+      ],
+      "is_passing": false,
+      "beat": 35.7,
+      "voice": 22
+    },
+    {
+      "id": 151,
+      "part": "2-p1",
+      "instrument": 0,
+      "start": 33.577396,
+      "duration": 0.634943,
+      "pitch": 62.039100503653714,
+      "velocity": 45,
+      "role": "scale shaped line",
+      "fields": [
+        28
+      ],
+      "is_passing": false,
+      "beat": 36.5,
+      "voice": 21
+    },
+    {
+      "id": 163,
+      "part": "2-p2",
+      "instrument": 51,
+      "start": 33.744088,
+      "duration": 0.468252,
+      "pitch": 70.7157406241053,
+      "velocity": 45,
+      "role": "scale shaped line",
+      "fields": [
+        28
+      ],
+      "is_passing": false,
+      "beat": 36.7,
+      "voice": 22
+    },
+    {
+      "id": 178,
+      "part": "2-p3",
+      "instrument": 54,
+      "start": 33.798626,
+      "duration": 0.272889,
+      "pitch": 84.75484047802348,
+      "velocity": 46,
+      "role": "scale shaped line",
+      "fields": [
+        28
+      ],
+      "is_passing": false,
+      "beat": 36.75,
+      "voice": 23
+    },
+    {
+      "id": 179,
+      "part": "2-p3",
+      "instrument": 54,
+      "start": 34.098786,
+      "duration": 0.113553,
+      "pitch": 80.41652054188617,
+      "velocity": 45,
+      "role": "scale shaped line",
+      "fields": [
+        28
+      ],
+      "is_passing": false,
+      "beat": 37.125,
+      "voice": 23
+    },
+    {
+      "id": 152,
+      "part": "2-p1",
+      "instrument": 0,
+      "start": 34.406878,
+      "duration": 0.596715,
+      "pitch": 59.35787029394839,
+      "velocity": 44,
+      "role": "scale shaped line",
+      "fields": [
+        29
+      ],
+      "is_passing": false,
+      "beat": 37.5,
+      "voice": 21
+    },
+    {
+      "id": 185,
+      "part": "2-p4",
+      "instrument": 60,
+      "start": 35.210979,
+      "duration": 0.583869,
+      "pitch": 96.11271151650251,
+      "velocity": 46,
+      "role": "scale shaped line",
+      "fields": [
+        30
+      ],
+      "is_passing": false,
+      "beat": 38.5,
+      "voice": 19
+    },
+    {
+      "id": 164,
+      "part": "2-p2",
+      "instrument": 51,
+      "start": 35.372065,
+      "duration": 0.422783,
+      "pitch": 77.7352909233297,
+      "velocity": 46,
+      "role": "scale shaped line",
+      "fields": [
+        30
+      ],
+      "is_passing": false,
+      "beat": 38.7,
+      "voice": 22
+    },
+    {
+      "id": 180,
+      "part": "2-p3",
+      "instrument": 54,
+      "start": 35.636034,
+      "duration": 0.158814,
+      "pitch": 70.71574094469919,
+      "velocity": 42,
+      "role": "scale shaped line",
+      "fields": [
+        30
+      ],
+      "is_passing": false,
+      "beat": 39.0,
+      "voice": 23
+    },
+    {
+      "id": 145,
+      "part": "2-p0",
+      "instrument": 42,
+      "start": 35.870285,
+      "duration": 0.56271,
+      "pitch": 48.0,
+      "velocity": 42,
+      "role": "scale shaped line",
+      "fields": [
+        31
+      ],
+      "is_passing": false,
+      "beat": 39.3,
+      "voice": 24
+    },
+    {
+      "id": 165,
+      "part": "2-p2",
+      "instrument": 51,
+      "start": 36.199915,
+      "duration": 0.241216,
+      "pitch": 80.41652052479081,
+      "velocity": 46,
+      "role": "scale shaped line",
+      "fields": [
+        31
+      ],
+      "is_passing": false,
+      "beat": 39.7,
+      "voice": 22
+    },
+    {
+      "id": 186,
+      "part": "3-p0",
+      "instrument": 61,
+      "start": 36.447862,
+      "duration": 0.13824,
+      "pitch": 63.6961909917117,
+      "velocity": 34,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        31
+      ],
+      "is_passing": false,
+      "beat": 40.0,
+      "voice": 25
+    },
+    {
+      "id": 193,
+      "part": "3-p2",
+      "instrument": 76,
+      "start": 36.647301,
+      "duration": 0.730056,
+      "pitch": 66.37742049837767,
+      "velocity": 34,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        32
+      ],
+      "is_passing": false,
+      "beat": 40.24,
+      "voice": 26
+    },
+    {
+      "id": 196,
+      "part": "3-p3",
+      "instrument": 67,
+      "start": 36.730874,
+      "duration": 0.646482,
+      "pitch": 66.37742052075578,
+      "velocity": 34,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        32
+      ],
+      "is_passing": false,
+      "beat": 40.36,
+      "voice": 27
+    },
+    {
+      "id": 201,
+      "part": "3-p4",
+      "instrument": 35,
+      "start": 36.839953,
+      "duration": 0.537403,
+      "pitch": 66.37742052075578,
+      "velocity": 34,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        32
+      ],
+      "is_passing": false,
+      "beat": 40.48,
+      "voice": 28
+    },
+    {
+      "id": 204,
+      "part": "3-p5",
+      "instrument": 94,
+      "start": 36.941196,
+      "duration": 0.43616,
+      "pitch": 70.71574099147321,
+      "velocity": 34,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        32
+      ],
+      "is_passing": false,
+      "beat": 40.6,
+      "voice": 29
+    },
+    {
+      "id": 207,
+      "part": "3-p6",
+      "instrument": 80,
+      "start": 37.035012,
+      "duration": 0.342344,
+      "pitch": 70.71574100856857,
+      "velocity": 34,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        32
+      ],
+      "is_passing": false,
+      "beat": 40.72,
+      "voice": 30
+    },
+    {
+      "id": 211,
+      "part": "3-p7",
+      "instrument": 64,
+      "start": 37.138786,
+      "duration": 0.23857,
+      "pitch": 73.39697050793394,
+      "velocity": 34,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        32
+      ],
+      "is_passing": false,
+      "beat": 40.84,
+      "voice": 31
+    },
+    {
+      "id": 214,
+      "part": "3-p8",
+      "instrument": 24,
+      "start": 37.234629,
+      "duration": 0.142727,
+      "pitch": 73.3969705250293,
+      "velocity": 34,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        32
+      ],
+      "is_passing": false,
+      "beat": 40.96,
+      "voice": 32
+    },
+    {
+      "id": 448,
+      "part": "field-lens",
+      "instrument": 84,
+      "start": 37.414356,
+      "duration": 0.675478,
+      "pitch": 52.33832048579496,
+      "velocity": 29,
+      "role": "field coverage",
+      "fields": [
+        33
+      ],
+      "is_passing": false,
+      "voice": 33
+    },
+    {
+      "id": 187,
+      "part": "3-p0",
+      "instrument": 61,
+      "start": 38.640136,
+      "duration": 0.198177,
+      "pitch": 59.35787049736907,
+      "velocity": 37,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        34
+      ],
+      "is_passing": false,
+      "beat": 42.7,
+      "voice": 25
+    },
+    {
+      "id": 197,
+      "part": "3-p3",
+      "instrument": 67,
+      "start": 38.932792,
+      "duration": 0.635999,
+      "pitch": 66.37742050366042,
+      "velocity": 37,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        35
+      ],
+      "is_passing": false,
+      "beat": 43.06,
+      "voice": 27
+    },
+    {
+      "id": 208,
+      "part": "3-p6",
+      "instrument": 80,
+      "start": 39.224949,
+      "duration": 0.343842,
+      "pitch": 73.39697051398744,
+      "velocity": 37,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        35
+      ],
+      "is_passing": false,
+      "beat": 43.42,
+      "voice": 30
+    },
+    {
+      "id": 202,
+      "part": "3-p4",
+      "instrument": 35,
+      "start": 39.838927,
+      "duration": 0.460342,
+      "pitch": 66.37742051019026,
+      "velocity": 37,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        36
+      ],
+      "is_passing": false,
+      "beat": 44.18,
+      "voice": 28
+    },
+    {
+      "id": 212,
+      "part": "3-p7",
+      "instrument": 64,
+      "start": 40.150632,
+      "duration": 0.148637,
+      "pitch": 77.73529100631225,
+      "velocity": 37,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        36
+      ],
+      "is_passing": false,
+      "beat": 44.540000000000006,
+      "voice": 31
+    },
+    {
+      "id": 194,
+      "part": "3-p2",
+      "instrument": 76,
+      "start": 40.47322,
+      "duration": 0.556528,
+      "pitch": 59.357870499863246,
+      "velocity": 37,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        37
+      ],
+      "is_passing": false,
+      "beat": 44.940000000000005,
+      "voice": 26
+    },
+    {
+      "id": 205,
+      "part": "3-p5",
+      "instrument": 94,
+      "start": 40.767549,
+      "duration": 0.262199,
+      "pitch": 70.71574099990845,
+      "velocity": 37,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        37
+      ],
+      "is_passing": false,
+      "beat": 45.300000000000004,
+      "voice": 29
+    },
+    {
+      "id": 188,
+      "part": "3-p0",
+      "instrument": 61,
+      "start": 40.840054,
+      "duration": 0.189694,
+      "pitch": 52.33832049096526,
+      "velocity": 38,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        37
+      ],
+      "is_passing": false,
+      "beat": 45.400000000000006,
+      "voice": 25
+    },
+    {
+      "id": 215,
+      "part": "3-p8",
+      "instrument": 24,
+      "start": 41.056484,
+      "duration": 0.948989,
+      "pitch": 82.07361149977169,
+      "velocity": 37,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        38
+      ],
+      "is_passing": false,
+      "beat": 45.660000000000004,
+      "voice": 32
+    },
+    {
+      "id": 198,
+      "part": "3-p3",
+      "instrument": 67,
+      "start": 41.13791,
+      "duration": 0.867563,
+      "pitch": 63.69619099082851,
+      "velocity": 38,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        38
+      ],
+      "is_passing": false,
+      "beat": 45.760000000000005,
+      "voice": 27
+    },
+    {
+      "id": 209,
+      "part": "3-p6",
+      "instrument": 80,
+      "start": 41.423948,
+      "duration": 0.581525,
+      "pitch": 73.39697051754676,
+      "velocity": 38,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        38
+      ],
+      "is_passing": false,
+      "beat": 46.120000000000005,
+      "voice": 30
+    },
+    {
+      "id": 217,
+      "part": "3-p9",
+      "instrument": 25,
+      "start": 41.708277,
+      "duration": 0.297196,
+      "pitch": 89.09316150789893,
+      "velocity": 38,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        38
+      ],
+      "is_passing": false,
+      "beat": 46.480000000000004,
+      "voice": 34
+    },
+    {
+      "id": 191,
+      "part": "3-p1",
+      "instrument": 31,
+      "start": 42.562003,
+      "duration": 0.419196,
+      "pitch": 52.33832049112067,
+      "velocity": 38,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        39
+      ],
+      "is_passing": false,
+      "beat": 47.52,
+      "voice": 20
+    },
+    {
+      "id": 203,
+      "part": "3-p4",
+      "instrument": 35,
+      "start": 42.84369,
+      "duration": 0.137509,
+      "pitch": 66.37742050864877,
+      "velocity": 38,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        39
+      ],
+      "is_passing": false,
+      "beat": 47.88,
+      "voice": 28
+    },
+    {
+      "id": 189,
+      "part": "3-p0",
+      "instrument": 61,
+      "start": 43.012015,
+      "duration": 0.944909,
+      "pitch": 48.0,
+      "velocity": 37,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        40
+      ],
+      "is_passing": false,
+      "beat": 48.10000000000001,
+      "voice": 25
+    },
+    {
+      "id": 213,
+      "part": "3-p7",
+      "instrument": 64,
+      "start": 43.11288,
+      "duration": 0.844045,
+      "pitch": 82.07361149927894,
+      "velocity": 38,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        40
+      ],
+      "is_passing": false,
+      "beat": 48.24000000000001,
+      "voice": 31
+    },
+    {
+      "id": 199,
+      "part": "3-p3",
+      "instrument": 67,
+      "start": 43.267729,
+      "duration": 0.689196,
+      "pitch": 62.03910001722358,
+      "velocity": 37,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        40
+      ],
+      "is_passing": false,
+      "beat": 48.46000000000001,
+      "voice": 27
+    },
+    {
+      "id": 210,
+      "part": "3-p6",
+      "instrument": 80,
+      "start": 43.547027,
+      "duration": 0.409897,
+      "pitch": 77.73529100803569,
+      "velocity": 37,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        40
+      ],
+      "is_passing": false,
+      "beat": 48.82000000000001,
+      "voice": 30
+    },
+    {
+      "id": 218,
+      "part": "3-p9",
+      "instrument": 25,
+      "start": 43.806491,
+      "duration": 0.150434,
+      "pitch": 96.11271151650251,
+      "velocity": 37,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        40
+      ],
+      "is_passing": false,
+      "beat": 49.18000000000001,
+      "voice": 34
+    },
+    {
+      "id": 195,
+      "part": "3-p2",
+      "instrument": 76,
+      "start": 44.144962,
+      "duration": 0.787688,
+      "pitch": 55.01955000865668,
+      "velocity": 38,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        41
+      ],
+      "is_passing": false,
+      "beat": 49.64000000000001,
+      "voice": 26
+    },
+    {
+      "id": 206,
+      "part": "3-p5",
+      "instrument": 94,
+      "start": 44.395679,
+      "duration": 0.536971,
+      "pitch": 70.71574099949146,
+      "velocity": 38,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        41
+      ],
+      "is_passing": false,
+      "beat": 50.00000000000001,
+      "voice": 29
+    },
+    {
+      "id": 216,
+      "part": "3-p8",
+      "instrument": 24,
+      "start": 44.663245,
+      "duration": 0.269405,
+      "pitch": 91.77439102541854,
+      "velocity": 38,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        41
+      ],
+      "is_passing": false,
+      "beat": 50.36000000000001,
+      "voice": 32
+    },
+    {
+      "id": 190,
+      "part": "3-p0",
+      "instrument": 61,
+      "start": 44.975773,
+      "duration": 0.596684,
+      "pitch": 48.0,
+      "velocity": 34,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        42
+      ],
+      "is_passing": false,
+      "beat": 50.80000000000001,
+      "voice": 25
+    },
+    {
+      "id": 200,
+      "part": "3-p3",
+      "instrument": 67,
+      "start": 45.236924,
+      "duration": 0.335533,
+      "pitch": 59.35787049972425,
+      "velocity": 34,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        42
+      ],
+      "is_passing": false,
+      "beat": 51.16000000000001,
+      "voice": 27
+    },
+    {
+      "id": 192,
+      "part": "3-p1",
+      "instrument": 31,
+      "start": 45.270505,
+      "duration": 0.301952,
+      "pitch": 48.0,
+      "velocity": 37,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        42
+      ],
+      "is_passing": false,
+      "beat": 51.220000000000006,
+      "voice": 20
+    },
+    {
+      "id": 254,
+      "part": "4-p10",
+      "instrument": 87,
+      "start": 45.832306,
+      "duration": 0.379958,
+      "pitch": 73.39697051702986,
+      "velocity": 28,
+      "role": "quiet sustained field member",
+      "fields": [
+        43
+      ],
+      "is_passing": false,
+      "beat": 52.0,
+      "voice": 35
+    },
+    {
+      "id": 219,
+      "part": "4-p0",
+      "instrument": 64,
+      "start": 45.837484,
+      "duration": 0.331277,
+      "pitch": 80.41652052569279,
+      "velocity": 37,
+      "role": "cue network cell",
+      "fields": [
+        43
+      ],
+      "is_passing": false,
+      "beat": 52.0,
+      "voice": 31
+    },
+    {
+      "id": 222,
+      "part": "4-p1",
+      "instrument": 24,
+      "start": 46.278038,
+      "duration": 0.574033,
+      "pitch": 82.07361149920703,
+      "velocity": 37,
+      "role": "cue network cell",
+      "fields": [
+        44
+      ],
+      "is_passing": false,
+      "beat": 52.6,
+      "voice": 32
+    },
+    {
+      "id": 220,
+      "part": "4-p0",
+      "instrument": 64,
+      "start": 46.554043,
+      "duration": 0.298028,
+      "pitch": 89.09316150784971,
+      "velocity": 39,
+      "role": "cue network cell",
+      "fields": [
+        44
+      ],
+      "is_passing": false,
+      "beat": 53.0,
+      "voice": 31
+    },
+    {
+      "id": 226,
+      "part": "4-p2",
+      "instrument": 25,
+      "start": 46.700479,
+      "duration": 0.151592,
+      "pitch": 84.75484101676811,
+      "velocity": 37,
+      "role": "cue network cell",
+      "fields": [
+        44
+      ],
+      "is_passing": false,
+      "beat": 53.2,
+      "voice": 34
+    },
+    {
+      "id": 223,
+      "part": "4-p1",
+      "instrument": 24,
+      "start": 46.97736,
+      "duration": 0.514518,
+      "pitch": 84.7548410167353,
+      "velocity": 38,
+      "role": "cue network cell",
+      "fields": [
+        45
+      ],
+      "is_passing": false,
+      "beat": 53.6,
+      "voice": 32
+    },
+    {
+      "id": 227,
+      "part": "4-p2",
+      "instrument": 25,
+      "start": 47.048534,
+      "duration": 0.34536,
+      "pitch": 89.09316150781927,
+      "velocity": 38,
+      "role": "cue network cell",
+      "fields": [
+        45
+      ],
+      "is_passing": false,
+      "beat": 53.7,
+      "voice": 34
+    },
+    {
+      "id": 221,
+      "part": "4-p0",
+      "instrument": 64,
+      "start": 47.088317,
+      "duration": 0.40356,
+      "pitch": 84.7548410167353,
+      "velocity": 40,
+      "role": "cue network cell",
+      "fields": [
+        45
+      ],
+      "is_passing": false,
+      "beat": 53.75,
+      "voice": 31
+    },
+    {
+      "id": 229,
+      "part": "4-p3",
+      "instrument": 14,
+      "start": 47.133805,
+      "duration": 0.358073,
+      "pitch": 84.7548410167353,
+      "velocity": 37,
+      "role": "cue network cell",
+      "fields": [
+        45
+      ],
+      "is_passing": false,
+      "beat": 53.8,
+      "voice": 36
+    },
+    {
+      "id": 256,
+      "part": "4-p11",
+      "instrument": 92,
+      "start": 47.26854,
+      "duration": 0.223337,
+      "pitch": 84.7548410167353,
+      "velocity": 25,
+      "role": "quiet sustained field member",
+      "fields": [
+        45
+      ],
+      "is_passing": false,
+      "beat": 54.0,
+      "voice": 37
+    },
+    {
+      "id": 235,
+      "part": "4-p4",
+      "instrument": 2,
+      "start": 47.56845,
+      "duration": 0.495349,
+      "pitch": 89.09316150784436,
+      "velocity": 37,
+      "role": "cue network cell",
+      "fields": [
+        46
+      ],
+      "is_passing": false,
+      "beat": 54.4,
+      "voice": 38
+    },
+    {
+      "id": 224,
+      "part": "4-p1",
+      "instrument": 24,
+      "start": 47.704046,
+      "duration": 0.557793,
+      "pitch": 91.77439102542388,
+      "velocity": 39,
+      "role": "cue network cell",
+      "fields": [
+        46
+      ],
+      "is_passing": false,
+      "beat": 54.6,
+      "voice": 32
+    },
+    {
+      "id": 230,
+      "part": "4-p3",
+      "instrument": 14,
+      "start": 47.857584,
+      "duration": 0.404255,
+      "pitch": 89.09316150784436,
+      "velocity": 38,
+      "role": "cue network cell",
+      "fields": [
+        46
+      ],
+      "is_passing": false,
+      "beat": 54.8,
+      "voice": 36
+    },
+    {
+      "id": 228,
+      "part": "4-p2",
+      "instrument": 25,
+      "start": 47.967742,
+      "duration": 0.294097,
+      "pitch": 91.77439102542388,
+      "velocity": 40,
+      "role": "cue network cell",
+      "fields": [
+        46
+      ],
+      "is_passing": false,
+      "beat": 54.95,
+      "voice": 34
+    },
+    {
+      "id": 236,
+      "part": "4-p4",
+      "instrument": 2,
+      "start": 48.108495,
+      "duration": 0.153344,
+      "pitch": 91.77439102542388,
+      "velocity": 38,
+      "role": "cue network cell",
+      "fields": [
+        46
+      ],
+      "is_passing": false,
+      "beat": 55.15,
+      "voice": 38
+    },
+    {
+      "id": 239,
+      "part": "4-p5",
+      "instrument": 84,
+      "start": 48.298428,
+      "duration": 0.733373,
+      "pitch": 89.0931615078488,
+      "velocity": 37,
+      "role": "cue network cell",
+      "fields": [
+        47
+      ],
+      "is_passing": false,
+      "beat": 55.4125,
+      "voice": 33
+    },
+    {
+      "id": 233,
+      "part": "4-p3",
+      "instrument": 14,
+      "start": 48.316909,
+      "duration": 0.714892,
+      "pitch": 96.11271151650251,
+      "velocity": 38,
+      "role": "cue network cell",
+      "fields": [
+        47
+      ],
+      "is_passing": false,
+      "beat": 55.4625,
+      "voice": 36
+    },
+    {
+      "id": 231,
+      "part": "4-p3",
+      "instrument": 14,
+      "start": 48.578456,
+      "duration": 0.453345,
+      "pitch": 96.11271151650251,
+      "velocity": 39,
+      "role": "cue network cell",
+      "fields": [
+        47
+      ],
+      "is_passing": false,
+      "beat": 55.8,
+      "voice": 39
+    },
+    {
+      "id": 237,
+      "part": "4-p4",
+      "instrument": 2,
+      "start": 48.641984,
+      "duration": 0.389816,
+      "pitch": 96.11271151650251,
+      "velocity": 39,
+      "role": "cue network cell",
+      "fields": [
+        47
+      ],
+      "is_passing": false,
+      "beat": 55.9,
+      "voice": 38
+    },
+    {
+      "id": 225,
+      "part": "4-p1",
+      "instrument": 24,
+      "start": 48.785596,
+      "duration": 0.246205,
+      "pitch": 89.0931615078488,
+      "velocity": 40,
+      "role": "cue network cell",
+      "fields": [
+        47
+      ],
+      "is_passing": false,
+      "beat": 56.1,
+      "voice": 32
+    },
+    {
+      "id": 240,
+      "part": "4-p5",
+      "instrument": 84,
+      "start": 49.18108,
+      "duration": 0.620682,
+      "pitch": 96.11271151650251,
+      "velocity": 38,
+      "role": "cue network cell",
+      "fields": [
+        48
+      ],
+      "is_passing": false,
+      "beat": 56.6625,
+      "voice": 33
+    },
+    {
+      "id": 234,
+      "part": "4-p3",
+      "instrument": 14,
+      "start": 49.224059,
+      "duration": 0.577703,
+      "pitch": 89.09316150784802,
+      "velocity": 39,
+      "role": "cue network cell",
+      "fields": [
+        48
+      ],
+      "is_passing": false,
+      "beat": 56.7125,
+      "voice": 36
+    },
+    {
+      "id": 255,
+      "part": "4-p10",
+      "instrument": 87,
+      "start": 49.424721,
+      "duration": 0.377041,
+      "pitch": 77.73529100811623,
+      "velocity": 27,
+      "role": "quiet sustained field member",
+      "fields": [
+        48
+      ],
+      "is_passing": false,
+      "beat": 57.0,
+      "voice": 35
+    },
+    {
+      "id": 238,
+      "part": "4-p4",
+      "instrument": 2,
+      "start": 49.443602,
+      "duration": 0.35816,
+      "pitch": 96.11271151650251,
+      "velocity": 40,
+      "role": "cue network cell",
+      "fields": [
+        48
+      ],
+      "is_passing": false,
+      "beat": 57.025,
+      "voice": 38
+    },
+    {
+      "id": 242,
+      "part": "4-p5",
+      "instrument": 84,
+      "start": 49.460075,
+      "duration": 0.325502,
+      "pitch": 82.07361149919409,
+      "velocity": 37,
+      "role": "cue network cell",
+      "fields": [
+        48
+      ],
+      "is_passing": false,
+      "beat": 57.025,
+      "voice": 40
+    },
+    {
+      "id": 232,
+      "part": "4-p3",
+      "instrument": 14,
+      "start": 49.652719,
+      "duration": 0.149043,
+      "pitch": 91.77439102542466,
+      "velocity": 40,
+      "role": "cue network cell",
+      "fields": [
+        48
+      ],
+      "is_passing": false,
+      "beat": 57.3,
+      "voice": 39
+    },
+    {
+      "id": 245,
+      "part": "4-p8",
+      "instrument": 82,
+      "start": 49.941506,
+      "duration": 0.342628,
+      "pitch": 84.75484101677085,
+      "velocity": 37,
+      "role": "cue network cell",
+      "fields": [
+        49
+      ],
+      "is_passing": false,
+      "beat": 57.71875,
+      "voice": 41
+    },
+    {
+      "id": 241,
+      "part": "4-p5",
+      "instrument": 84,
+      "start": 50.098014,
+      "duration": 0.47371,
+      "pitch": 91.77439102542485,
+      "velocity": 39,
+      "role": "cue network cell",
+      "fields": [
+        49
+      ],
+      "is_passing": false,
+      "beat": 57.9125,
+      "voice": 33
+    },
+    {
+      "id": 243,
+      "part": "4-p5",
+      "instrument": 84,
+      "start": 50.173857,
+      "duration": 0.397866,
+      "pitch": 84.75484101677085,
+      "velocity": 39,
+      "role": "cue network cell",
+      "fields": [
+        49
+      ],
+      "is_passing": false,
+      "beat": 58.025,
+      "voice": 40
+    },
+    {
+      "id": 246,
+      "part": "4-p8",
+      "instrument": 82,
+      "start": 50.307408,
+      "duration": 0.264315,
+      "pitch": 91.77439102542485,
+      "velocity": 38,
+      "role": "cue network cell",
+      "fields": [
+        49
+      ],
+      "is_passing": false,
+      "beat": 58.21875,
+      "voice": 41
+    },
+    {
+      "id": 249,
+      "part": "4-p7",
+      "instrument": 74,
+      "start": 50.31413,
+      "duration": 0.257594,
+      "pitch": 96.11271151650251,
+      "velocity": 37,
+      "role": "cue network cell",
+      "fields": [
+        49
+      ],
+      "is_passing": false,
+      "beat": 58.224999999999994,
+      "voice": 42
+    },
+    {
+      "id": 247,
+      "part": "4-p8",
+      "instrument": 82,
+      "start": 50.660904,
+      "duration": 0.512404,
+      "pitch": 89.09316150784865,
+      "velocity": 39,
+      "role": "cue network cell",
+      "fields": [
+        50
+      ],
+      "is_passing": false,
+      "beat": 58.71875,
+      "voice": 41
+    },
+    {
+      "id": 250,
+      "part": "4-p7",
+      "instrument": 74,
+      "start": 50.684973,
+      "duration": 0.324473,
+      "pitch": 96.11271151650251,
+      "velocity": 38,
+      "role": "cue network cell",
+      "fields": [
+        50
+      ],
+      "is_passing": false,
+      "beat": 58.724999999999994,
+      "voice": 42
+    },
+    {
+      "id": 244,
+      "part": "4-p5",
+      "instrument": 84,
+      "start": 50.717587,
+      "duration": 0.664847,
+      "pitch": 80.4165205256932,
+      "velocity": 40,
+      "role": "cue network cell",
+      "fields": [
+        50
+      ],
+      "is_passing": false,
+      "beat": 58.775,
+      "voice": 33
+    },
+    {
+      "id": 251,
+      "part": "4-p7",
+      "instrument": 74,
+      "start": 51.033672,
+      "duration": 0.416297,
+      "pitch": 96.11271151650251,
+      "velocity": 39,
+      "role": "cue network cell",
+      "fields": [
+        50
+      ],
+      "is_passing": false,
+      "beat": 59.224999999999994,
+      "voice": 42
+    },
+    {
+      "id": 252,
+      "part": "4-p9",
+      "instrument": 17,
+      "start": 51.044881,
+      "duration": 0.405088,
+      "pitch": 84.75484101677085,
+      "velocity": 37,
+      "role": "cue network cell",
+      "fields": [
+        50
+      ],
+      "is_passing": false,
+      "beat": 59.2375,
+      "voice": 43
+    },
+    {
+      "id": 248,
+      "part": "4-p8",
+      "instrument": 82,
+      "start": 51.213142,
+      "duration": 0.236827,
+      "pitch": 82.07361149919502,
+      "velocity": 40,
+      "role": "cue network cell",
+      "fields": [
+        50
+      ],
+      "is_passing": false,
+      "beat": 59.46875,
+      "voice": 41
+    },
+    {
+      "id": 253,
+      "part": "4-p1",
+      "instrument": 24,
+      "start": 51.360247,
+      "duration": 0.089722,
+      "pitch": 84.75484101677085,
+      "velocity": 37,
+      "role": "cue network cell",
+      "fields": [
+        50
+      ],
+      "is_passing": false,
+      "beat": 59.68749999999999,
+      "voice": 32
+    },
+    {
+      "id": 257,
+      "part": "5-p0",
+      "instrument": 74,
+      "start": 51.596088,
+      "duration": 0.660701,
+      "pitch": 59.35787049973156,
+      "velocity": 35,
+      "role": "scale shaped line",
+      "fields": [
+        51
+      ],
+      "is_passing": false,
+      "beat": 60.0,
+      "voice": 42
+    },
+    {
+      "id": 263,
+      "part": "5-p1",
+      "instrument": 82,
+      "start": 51.69199,
+      "duration": 0.636224,
+      "pitch": 66.37742050838537,
+      "velocity": 35,
+      "role": "scale shaped line",
+      "fields": [
+        51
+      ],
+      "is_passing": false,
+      "beat": 60.13,
+      "voice": 41
+    },
+    {
+      "id": 271,
+      "part": "5-p2",
+      "instrument": 17,
+      "start": 51.789001,
+      "duration": 0.539214,
+      "pitch": 77.73529100811693,
+      "velocity": 35,
+      "role": "scale shaped line",
+      "fields": [
+        51
+      ],
+      "is_passing": false,
+      "beat": 60.26,
+      "voice": 43
+    },
+    {
+      "id": 314,
+      "part": "5-p6",
+      "instrument": 36,
+      "start": 51.84549,
+      "duration": 0.482725,
+      "pitch": 77.73529100811693,
+      "velocity": 26,
+      "role": "quiet sustained field member",
+      "fields": [
+        51
+      ],
+      "is_passing": false,
+      "beat": 60.36,
+      "voice": 44
+    },
+    {
+      "id": 318,
+      "part": "5-p7",
+      "instrument": 45,
+      "start": 51.89681,
+      "duration": 0.431405,
+      "pitch": 77.73529100811693,
+      "velocity": 28,
+      "role": "quiet sustained field member",
+      "fields": [
+        51
+      ],
+      "is_passing": false,
+      "beat": 60.42,
+      "voice": 45
+    },
+    {
+      "id": 321,
+      "part": "5-p8",
+      "instrument": 32,
+      "start": 51.935187,
+      "duration": 0.393027,
+      "pitch": 77.73529100811693,
+      "velocity": 29,
+      "role": "quiet sustained field member",
+      "fields": [
+        51
+      ],
+      "is_passing": false,
+      "beat": 60.48,
+      "voice": 46
+    },
+    {
+      "id": 272,
+      "part": "5-p2",
+      "instrument": 17,
+      "start": 52.50718,
+      "duration": 0.325257,
+      "pitch": 70.71574099946314,
+      "velocity": 36,
+      "role": "scale shaped line",
+      "fields": [
+        52
+      ],
+      "is_passing": false,
+      "beat": 61.26,
+      "voice": 43
+    },
+    {
+      "id": 258,
+      "part": "5-p0",
+      "instrument": 74,
+      "start": 52.67362,
+      "duration": 0.53284,
+      "pitch": 55.019550008653844,
+      "velocity": 38,
+      "role": "scale shaped line",
+      "fields": [
+        52
+      ],
+      "is_passing": false,
+      "beat": 61.5,
+      "voice": 42
+    },
+    {
+      "id": 264,
+      "part": "5-p1",
+      "instrument": 82,
+      "start": 52.766898,
+      "duration": 0.332206,
+      "pitch": 62.03910001730772,
+      "velocity": 36,
+      "role": "scale shaped line",
+      "fields": [
+        52
+      ],
+      "is_passing": false,
+      "beat": 61.63,
+      "voice": 41
+    },
+    {
+      "id": 273,
+      "part": "5-p2",
+      "instrument": 17,
+      "start": 52.85422,
+      "duration": 0.35224,
+      "pitch": 73.39697051703932,
+      "velocity": 38,
+      "role": "scale shaped line",
+      "fields": [
+        52
+      ],
+      "is_passing": false,
+      "beat": 61.76,
+      "voice": 43
+    },
+    {
+      "id": 259,
+      "part": "5-p0",
+      "instrument": 74,
+      "start": 53.768699,
+      "duration": 0.316006,
+      "pitch": 48.0,
+      "velocity": 38,
+      "role": "scale shaped line",
+      "fields": [
+        53
+      ],
+      "is_passing": false,
+      "beat": 63.0,
+      "voice": 42
+    },
+    {
+      "id": 265,
+      "part": "5-p1",
+      "instrument": 82,
+      "start": 53.85714,
+      "duration": 0.227566,
+      "pitch": 59.35787049973158,
+      "velocity": 38,
+      "role": "scale shaped line",
+      "fields": [
+        53
+      ],
+      "is_passing": false,
+      "beat": 63.13,
+      "voice": 41
+    },
+    {
+      "id": 274,
+      "part": "5-p2",
+      "instrument": 17,
+      "start": 53.946755,
+      "duration": 0.13795,
+      "pitch": 66.37742050838546,
+      "velocity": 38,
+      "role": "scale shaped line",
+      "fields": [
+        53
+      ],
+      "is_passing": false,
+      "beat": 63.26,
+      "voice": 43
+    },
+    {
+      "id": 260,
+      "part": "5-p0",
+      "instrument": 74,
+      "start": 54.492601,
+      "duration": 0.347395,
+      "pitch": 59.35787049973158,
+      "velocity": 38,
+      "role": "scale shaped line",
+      "fields": [
+        54
+      ],
+      "is_passing": false,
+      "beat": 64.0,
+      "voice": 42
+    },
+    {
+      "id": 275,
+      "part": "5-p2",
+      "instrument": 17,
+      "start": 54.665808,
+      "duration": 0.174188,
+      "pitch": 77.73529100811703,
+      "velocity": 38,
+      "role": "scale shaped line",
+      "fields": [
+        54
+      ],
+      "is_passing": false,
+      "beat": 64.25999999999999,
+      "voice": 43
+    },
+    {
+      "id": 315,
+      "part": "5-p6",
+      "instrument": 36,
+      "start": 54.735568,
+      "duration": 0.104428,
+      "pitch": 84.75484101677091,
+      "velocity": 28,
+      "role": "quiet sustained field member",
+      "fields": [
+        54
+      ],
+      "is_passing": false,
+      "beat": 64.36,
+      "voice": 44
+    },
+    {
+      "id": 266,
+      "part": "5-p1",
+      "instrument": 82,
+      "start": 55.292734,
+      "duration": 0.302553,
+      "pitch": 66.37742050838546,
+      "velocity": 38,
+      "role": "scale shaped line",
+      "fields": [
+        55
+      ],
+      "is_passing": false,
+      "beat": 65.13,
+      "voice": 41
+    },
+    {
+      "id": 261,
+      "part": "5-p0",
+      "instrument": 74,
+      "start": 55.931575,
+      "duration": 0.331898,
+      "pitch": 62.03910001730775,
+      "velocity": 36,
+      "role": "scale shaped line",
+      "fields": [
+        56
+      ],
+      "is_passing": false,
+      "beat": 66.0,
+      "voice": 42
+    },
+    {
+      "id": 267,
+      "part": "5-p1",
+      "instrument": 82,
+      "start": 56.031726,
+      "duration": 0.318851,
+      "pitch": 70.71574099946316,
+      "velocity": 36,
+      "role": "scale shaped line",
+      "fields": [
+        56
+      ],
+      "is_passing": false,
+      "beat": 66.13,
+      "voice": 41
+    },
+    {
+      "id": 276,
+      "part": "5-p2",
+      "instrument": 17,
+      "start": 56.127112,
+      "duration": 0.223465,
+      "pitch": 80.4165205256932,
+      "velocity": 36,
+      "role": "scale shaped line",
+      "fields": [
+        56
+      ],
+      "is_passing": false,
+      "beat": 66.25999999999999,
+      "voice": 43
+    },
+    {
+      "id": 277,
+      "part": "5-p2",
+      "instrument": 17,
+      "start": 56.493264,
+      "duration": 0.612604,
+      "pitch": 77.73529100811703,
+      "velocity": 35,
+      "role": "scale shaped line",
+      "fields": [
+        57
+      ],
+      "is_passing": false,
+      "beat": 66.75999999999999,
+      "voice": 43
+    },
+    {
+      "id": 268,
+      "part": "5-p1",
+      "instrument": 82,
+      "start": 56.747057,
+      "duration": 0.358811,
+      "pitch": 66.37742050838546,
+      "velocity": 35,
+      "role": "scale shaped line",
+      "fields": [
+        57
+      ],
+      "is_passing": false,
+      "beat": 67.13,
+      "voice": 41
+    },
+    {
+      "id": 449,
+      "part": "field-lens",
+      "instrument": 65,
+      "start": 57.142868,
+      "duration": 0.515533,
+      "pitch": 77.73529100811704,
+      "velocity": 29,
+      "role": "field coverage",
+      "fields": [
+        58
+      ],
+      "is_passing": false,
+      "voice": 47
+    },
+    {
+      "id": 269,
+      "part": "5-p1",
+      "instrument": 82,
+      "start": 57.707408,
+      "duration": 0.539526,
+      "pitch": 70.71574099946316,
+      "velocity": 35,
+      "role": "scale shaped line",
+      "fields": [
+        59
+      ],
+      "is_passing": false,
+      "beat": 68.42999999999999,
+      "voice": 41
+    },
+    {
+      "id": 322,
+      "part": "5-p8",
+      "instrument": 32,
+      "start": 57.727851,
+      "duration": 0.519083,
+      "pitch": 59.35787049973159,
+      "velocity": 26,
+      "role": "quiet sustained field member",
+      "fields": [
+        59
+      ],
+      "is_passing": false,
+      "beat": 68.47999999999999,
+      "voice": 46
+    },
+    {
+      "id": 280,
+      "part": "5-p3",
+      "instrument": 87,
+      "start": 58.25956,
+      "duration": 0.557907,
+      "pitch": 55.01955000865388,
+      "velocity": 34,
+      "role": "scale shaped line",
+      "fields": [
+        60
+      ],
+      "is_passing": false,
+      "beat": 69.2,
+      "voice": 35
+    },
+    {
+      "id": 291,
+      "part": "5-p4",
+      "instrument": 92,
+      "start": 58.393374,
+      "duration": 0.424093,
+      "pitch": 66.37742050838546,
+      "velocity": 34,
+      "role": "scale shaped line",
+      "fields": [
+        60
+      ],
+      "is_passing": false,
+      "beat": 69.4,
+      "voice": 37
+    },
+    {
+      "id": 278,
+      "part": "5-p2",
+      "instrument": 17,
+      "start": 58.445519,
+      "duration": 0.371948,
+      "pitch": 80.4165205256932,
+      "velocity": 35,
+      "role": "scale shaped line",
+      "fields": [
+        60
+      ],
+      "is_passing": false,
+      "beat": 69.45999999999998,
+      "voice": 43
+    },
+    {
+      "id": 303,
+      "part": "5-p5",
+      "instrument": 28,
+      "start": 58.55034,
+      "duration": 0.267127,
+      "pitch": 77.73529100811703,
+      "velocity": 34,
+      "role": "scale shaped line",
+      "fields": [
+        60
+      ],
+      "is_passing": false,
+      "beat": 69.6,
+      "voice": 18
+    },
+    {
+      "id": 292,
+      "part": "5-p4",
+      "instrument": 92,
+      "start": 58.93973,
+      "duration": 0.25808,
+      "pitch": 70.71574099946316,
+      "velocity": 35,
+      "role": "scale shaped line",
+      "fields": [
+        61
+      ],
+      "is_passing": false,
+      "beat": 70.15,
+      "voice": 37
+    },
+    {
+      "id": 262,
+      "part": "5-p0",
+      "instrument": 74,
+      "start": 58.993281,
+      "duration": 0.324927,
+      "pitch": 55.01955000865388,
+      "velocity": 36,
+      "role": "scale shaped line",
+      "fields": [
+        61
+      ],
+      "is_passing": false,
+      "beat": 70.19999999999999,
+      "voice": 42
+    },
+    {
+      "id": 281,
+      "part": "5-p3",
+      "instrument": 87,
+      "start": 59.071356,
+      "duration": 0.254149,
+      "pitch": 59.35787049973159,
+      "velocity": 35,
+      "role": "scale shaped line",
+      "fields": [
+        61
+      ],
+      "is_passing": false,
+      "beat": 70.325,
+      "voice": 35
+    },
+    {
+      "id": 270,
+      "part": "5-p1",
+      "instrument": 82,
+      "start": 59.142812,
+      "duration": 0.245188,
+      "pitch": 66.37742050838546,
+      "velocity": 38,
+      "role": "scale shaped line",
+      "fields": [
+        61
+      ],
+      "is_passing": false,
+      "beat": 70.42999999999999,
+      "voice": 41
+    },
+    {
+      "id": 319,
+      "part": "5-p7",
+      "instrument": 45,
+      "start": 59.14339,
+      "duration": 0.24461,
+      "pitch": 59.35787049973159,
+      "velocity": 28,
+      "role": "quiet sustained field member",
+      "fields": [
+        61
+      ],
+      "is_passing": false,
+      "beat": 70.42,
+      "voice": 45
+    },
+    {
+      "id": 279,
+      "part": "5-p2",
+      "instrument": 17,
+      "start": 59.18316,
+      "duration": 0.20484,
+      "pitch": 73.39697051703932,
+      "velocity": 36,
+      "role": "scale shaped line",
+      "fields": [
+        61
+      ],
+      "is_passing": false,
+      "beat": 70.45999999999998,
+      "voice": 43
+    },
+    {
+      "id": 293,
+      "part": "5-p4",
+      "instrument": 92,
+      "start": 59.222353,
+      "duration": 0.165647,
+      "pitch": 66.37742050838546,
+      "velocity": 37,
+      "role": "scale shaped line",
+      "fields": [
+        61
+      ],
+      "is_passing": false,
+      "beat": 70.525,
+      "voice": 37
+    },
+    {
+      "id": 304,
+      "part": "5-p5",
+      "instrument": 28,
+      "start": 59.632524,
+      "duration": 0.509265,
+      "pitch": 77.73529100811703,
+      "velocity": 37,
+      "role": "scale shaped line",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 71.1,
+      "voice": 18
+    },
+    {
+      "id": 282,
+      "part": "5-p3",
+      "instrument": 87,
+      "start": 59.896481,
+      "duration": 1.166349,
+      "pitch": 48.0,
+      "velocity": 37,
+      "role": "scale shaped line",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 71.45,
+      "voice": 35
+    },
+    {
+      "id": 294,
+      "part": "5-p4",
+      "instrument": 92,
+      "start": 60.043424,
+      "duration": 0.565972,
+      "pitch": 59.35787049973159,
+      "velocity": 37,
+      "role": "scale shaped line",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 71.65,
+      "voice": 37
+    },
+    {
+      "id": 305,
+      "part": "5-p5",
+      "instrument": 28,
+      "start": 60.189837,
+      "duration": 1.243886,
+      "pitch": 66.37742050838546,
+      "velocity": 37,
+      "role": "scale shaped line",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 71.85,
+      "voice": 18
+    },
+    {
+      "id": 316,
+      "part": "5-p6",
+      "instrument": 36,
+      "start": 60.620027,
+      "duration": 3.601613,
+      "pitch": 55.01955000865388,
+      "velocity": 28,
+      "role": "quiet sustained field member",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 72.36,
+      "voice": 44
+    },
+    {
+      "id": 295,
+      "part": "5-p4",
+      "instrument": 92,
+      "start": 60.657407,
+      "duration": 1.287048,
+      "pitch": 63.6961909908093,
+      "velocity": 37,
+      "role": "scale shaped line",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 72.4,
+      "voice": 37
+    },
+    {
+      "id": 323,
+      "part": "5-p8",
+      "instrument": 32,
+      "start": 60.734874,
+      "duration": 3.598185,
+      "pitch": 66.37742050838546,
+      "velocity": 25,
+      "role": "quiet sustained field member",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 72.47999999999999,
+      "voice": 46
+    },
+    {
+      "id": 283,
+      "part": "5-p3",
+      "instrument": 87,
+      "start": 61.168591,
+      "duration": 0.645859,
+      "pitch": 52.33832049107771,
+      "velocity": 37,
+      "role": "scale shaped line",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 72.95,
+      "voice": 35
+    },
+    {
+      "id": 306,
+      "part": "5-p5",
+      "instrument": 28,
+      "start": 61.537828,
+      "duration": 0.648017,
+      "pitch": 73.39697051703932,
+      "velocity": 37,
+      "role": "scale shaped line",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 73.35,
+      "voice": 18
+    },
+    {
+      "id": 284,
+      "part": "5-p3",
+      "instrument": 87,
+      "start": 61.875123,
+      "duration": 0.63533,
+      "pitch": 48.0,
+      "velocity": 35,
+      "role": "scale shaped line",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 73.7,
+      "voice": 35
+    },
+    {
+      "id": 296,
+      "part": "5-p4",
+      "instrument": 92,
+      "start": 62.048333,
+      "duration": 0.32764,
+      "pitch": 62.03910001730775,
+      "velocity": 35,
+      "role": "scale shaped line",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 73.9,
+      "voice": 37
+    },
+    {
+      "id": 307,
+      "part": "5-p5",
+      "instrument": 28,
+      "start": 62.247754,
+      "duration": 0.633678,
+      "pitch": 70.71574099946316,
+      "velocity": 35,
+      "role": "scale shaped line",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 74.1,
+      "voice": 18
+    },
+    {
+      "id": 297,
+      "part": "5-p4",
+      "instrument": 92,
+      "start": 62.415028,
+      "duration": 1.329136,
+      "pitch": 66.37742050838546,
+      "velocity": 34,
+      "role": "scale shaped line",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 74.275,
+      "voice": 37
+    },
+    {
+      "id": 285,
+      "part": "5-p3",
+      "instrument": 87,
+      "start": 62.564731,
+      "duration": 0.449326,
+      "pitch": 55.01955000865388,
+      "velocity": 34,
+      "role": "scale shaped line",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 74.45,
+      "voice": 35
+    },
+    {
+      "id": 308,
+      "part": "5-p5",
+      "instrument": 28,
+      "start": 62.929812,
+      "duration": 0.453612,
+      "pitch": 77.73529100811703,
+      "velocity": 34,
+      "role": "scale shaped line",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 74.85,
+      "voice": 18
+    },
+    {
+      "id": 320,
+      "part": "5-p7",
+      "instrument": 45,
+      "start": 63.456412,
+      "duration": 4.239163,
+      "pitch": 62.03910001730775,
+      "velocity": 26,
+      "role": "quiet sustained field member",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 75.42,
+      "voice": 45
+    },
+    {
+      "id": 286,
+      "part": "5-p3",
+      "instrument": 87,
+      "start": 63.457575,
+      "duration": 0.968332,
+      "pitch": 59.35787049973159,
+      "velocity": 34,
+      "role": "scale shaped line",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 75.42500000000001,
+      "voice": 35
+    },
+    {
+      "id": 309,
+      "part": "5-p5",
+      "instrument": 28,
+      "start": 63.82731,
+      "duration": 0.969992,
+      "pitch": 80.4165205256932,
+      "velocity": 34,
+      "role": "scale shaped line",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 75.825,
+      "voice": 18
+    },
+    {
+      "id": 298,
+      "part": "5-p4",
+      "instrument": 92,
+      "start": 64.271514,
+      "duration": 0.64649,
+      "pitch": 70.71574099946316,
+      "velocity": 34,
+      "role": "scale shaped line",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 76.30000000000001,
+      "voice": 37
+    },
+    {
+      "id": 317,
+      "part": "5-p6",
+      "instrument": 36,
+      "start": 64.323466,
+      "duration": 3.37211,
+      "pitch": 59.35787049973159,
+      "velocity": 26,
+      "role": "quiet sustained field member",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 76.36,
+      "voice": 44
+    },
+    {
+      "id": 324,
+      "part": "5-p8",
+      "instrument": 32,
+      "start": 64.444322,
+      "duration": 3.251254,
+      "pitch": 70.71574099946316,
+      "velocity": 26,
+      "role": "quiet sustained field member",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 76.47999999999999,
+      "voice": 46
+    },
+    {
+      "id": 287,
+      "part": "5-p3",
+      "instrument": 87,
+      "start": 64.51108,
+      "duration": 0.318718,
+      "pitch": 62.03910001730775,
+      "velocity": 35,
+      "role": "scale shaped line",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 76.55000000000001,
+      "voice": 35
+    },
+    {
+      "id": 288,
+      "part": "5-p3",
+      "instrument": 87,
+      "start": 64.860616,
+      "duration": 0.637224,
+      "pitch": 59.35787049973159,
+      "velocity": 37,
+      "role": "scale shaped line",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 76.92500000000001,
+      "voice": 35
+    },
+    {
+      "id": 310,
+      "part": "5-p5",
+      "instrument": 28,
+      "start": 64.883824,
+      "duration": 0.317144,
+      "pitch": 82.07361149919475,
+      "velocity": 35,
+      "role": "scale shaped line",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 76.95,
+      "voice": 18
+    },
+    {
+      "id": 299,
+      "part": "5-p4",
+      "instrument": 92,
+      "start": 64.969135,
+      "duration": 0.324605,
+      "pitch": 73.39697051703932,
+      "velocity": 35,
+      "role": "scale shaped line",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 77.05000000000001,
+      "voice": 37
+    },
+    {
+      "id": 311,
+      "part": "5-p5",
+      "instrument": 28,
+      "start": 65.227902,
+      "duration": 0.640959,
+      "pitch": 80.4165205256932,
+      "velocity": 37,
+      "role": "scale shaped line",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 77.325,
+      "voice": 18
+    },
+    {
+      "id": 300,
+      "part": "5-p4",
+      "instrument": 92,
+      "start": 65.329789,
+      "duration": 0.949857,
+      "pitch": 70.71574099946316,
+      "velocity": 37,
+      "role": "scale shaped line",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 77.42500000000001,
+      "voice": 37
+    },
+    {
+      "id": 289,
+      "part": "5-p3",
+      "instrument": 87,
+      "start": 65.54234,
+      "duration": 1.286247,
+      "pitch": 48.0,
+      "velocity": 37,
+      "role": "scale shaped line",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 77.67500000000001,
+      "voice": 35
+    },
+    {
+      "id": 312,
+      "part": "5-p5",
+      "instrument": 28,
+      "start": 65.933291,
+      "duration": 1.262275,
+      "pitch": 70.71574099946316,
+      "velocity": 37,
+      "role": "scale shaped line",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 78.075,
+      "voice": 18
+    },
+    {
+      "id": 301,
+      "part": "5-p4",
+      "instrument": 92,
+      "start": 66.352474,
+      "duration": 0.645842,
+      "pitch": 62.03910001730775,
+      "velocity": 37,
+      "role": "scale shaped line",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 78.55000000000001,
+      "voice": 37
+    },
+    {
+      "id": 290,
+      "part": "5-p3",
+      "instrument": 87,
+      "start": 66.932305,
+      "duration": 0.639415,
+      "pitch": 55.01955000865388,
+      "velocity": 37,
+      "role": "scale shaped line",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 79.17500000000001,
+      "voice": 35
+    },
+    {
+      "id": 302,
+      "part": "5-p4",
+      "instrument": 92,
+      "start": 67.053673,
+      "duration": 0.641902,
+      "pitch": 66.37742050838546,
+      "velocity": 37,
+      "role": "scale shaped line",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 79.30000000000001,
+      "voice": 37
+    },
+    {
+      "id": 313,
+      "part": "5-p5",
+      "instrument": 28,
+      "start": 67.312153,
+      "duration": 0.383423,
+      "pitch": 77.73529100811703,
+      "velocity": 37,
+      "role": "scale shaped line",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 79.575,
+      "voice": 18
+    },
+    {
+      "id": 325,
+      "part": "6-p0",
+      "instrument": 45,
+      "start": 67.695576,
+      "duration": 0.431507,
+      "pitch": 63.6961909908093,
+      "velocity": 31,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 80.0,
+      "voice": 45
+    },
+    {
+      "id": 387,
+      "part": "6-p10",
+      "instrument": 27,
+      "start": 67.705848,
+      "duration": 4.458974,
+      "pitch": 84.75484101677091,
+      "velocity": 22,
+      "role": "quiet sustained field member",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 80.0,
+      "voice": 48
+    },
+    {
+      "id": 326,
+      "part": "6-p0",
+      "instrument": 45,
+      "start": 68.158993,
+      "duration": 0.432075,
+      "pitch": 66.37742050838546,
+      "velocity": 32,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 80.5,
+      "voice": 45
+    },
+    {
+      "id": 329,
+      "part": "6-p1",
+      "instrument": 32,
+      "start": 68.257884,
+      "duration": 0.855176,
+      "pitch": 66.37742050838546,
+      "velocity": 31,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 80.6,
+      "voice": 46
+    },
+    {
+      "id": 327,
+      "part": "6-p0",
+      "instrument": 45,
+      "start": 68.6205,
+      "duration": 0.647265,
+      "pitch": 73.39697051703932,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 81.0,
+      "voice": 45
+    },
+    {
+      "id": 333,
+      "part": "6-p2",
+      "instrument": 53,
+      "start": 68.801639,
+      "duration": 0.436109,
+      "pitch": 66.37742050838546,
+      "velocity": 31,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 81.2,
+      "voice": 49
+    },
+    {
+      "id": 330,
+      "part": "6-p1",
+      "instrument": 32,
+      "start": 69.174093,
+      "duration": 0.859548,
+      "pitch": 70.71574099946316,
+      "velocity": 32,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 81.6,
+      "voice": 46
+    },
+    {
+      "id": 334,
+      "part": "6-p2",
+      "instrument": 53,
+      "start": 69.269482,
+      "duration": 0.429128,
+      "pitch": 70.71574099946316,
+      "velocity": 32,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 81.7,
+      "voice": 49
+    },
+    {
+      "id": 328,
+      "part": "6-p0",
+      "instrument": 45,
+      "start": 69.309662,
+      "duration": 0.861663,
+      "pitch": 70.71574099946316,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 81.75,
+      "voice": 45
+    },
+    {
+      "id": 337,
+      "part": "6-p3",
+      "instrument": 3,
+      "start": 69.3606,
+      "duration": 0.856619,
+      "pitch": 70.71574099946316,
+      "velocity": 31,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 81.8,
+      "voice": 50
+    },
+    {
+      "id": 390,
+      "part": "6-p11",
+      "instrument": 69,
+      "start": 69.546459,
+      "duration": 6.230404,
+      "pitch": 89.09316150784863,
+      "velocity": 19,
+      "role": "quiet sustained field member",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 82.0,
+      "voice": 16
+    },
+    {
+      "id": 335,
+      "part": "6-p2",
+      "instrument": 53,
+      "start": 69.725165,
+      "duration": 0.645801,
+      "pitch": 77.73529100811703,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 82.2,
+      "voice": 49
+    },
+    {
+      "id": 341,
+      "part": "6-p3",
+      "instrument": 3,
+      "start": 69.733661,
+      "duration": 1.074249,
+      "pitch": 66.37742050838546,
+      "velocity": 31,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 82.2125,
+      "voice": 51
+    },
+    {
+      "id": 345,
+      "part": "6-p4",
+      "instrument": 66,
+      "start": 69.91685,
+      "duration": 0.637344,
+      "pitch": 73.39697051703932,
+      "velocity": 31,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 82.4,
+      "voice": 52
+    },
+    {
+      "id": 331,
+      "part": "6-p1",
+      "instrument": 32,
+      "start": 70.104555,
+      "duration": 1.270214,
+      "pitch": 77.73529100811703,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 82.6,
+      "voice": 46
+    },
+    {
+      "id": 338,
+      "part": "6-p3",
+      "instrument": 3,
+      "start": 70.280981,
+      "duration": 0.851501,
+      "pitch": 73.39697051703932,
+      "velocity": 32,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 82.8,
+      "voice": 50
+    },
+    {
+      "id": 336,
+      "part": "6-p2",
+      "instrument": 53,
+      "start": 70.424032,
+      "duration": 0.845594,
+      "pitch": 73.39697051703932,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 82.95,
+      "voice": 49
+    },
+    {
+      "id": 346,
+      "part": "6-p4",
+      "instrument": 66,
+      "start": 70.596662,
+      "duration": 0.643249,
+      "pitch": 77.73529100811703,
+      "velocity": 32,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 83.15,
+      "voice": 52
+    },
+    {
+      "id": 349,
+      "part": "6-p5",
+      "instrument": 22,
+      "start": 70.853154,
+      "duration": 1.057542,
+      "pitch": 70.71574099946316,
+      "velocity": 31,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 83.41250000000001,
+      "voice": 53
+    },
+    {
+      "id": 342,
+      "part": "6-p3",
+      "instrument": 3,
+      "start": 70.896907,
+      "duration": 1.059994,
+      "pitch": 70.71574099946316,
+      "velocity": 32,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 83.4625,
+      "voice": 51
+    },
+    {
+      "id": 339,
+      "part": "6-p3",
+      "instrument": 3,
+      "start": 71.191107,
+      "duration": 1.291409,
+      "pitch": 80.4165205256932,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 83.8,
+      "voice": 50
+    },
+    {
+      "id": 347,
+      "part": "6-p4",
+      "instrument": 66,
+      "start": 71.29182,
+      "duration": 0.961946,
+      "pitch": 82.07361149919475,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 83.9,
+      "voice": 52
+    },
+    {
+      "id": 332,
+      "part": "6-p1",
+      "instrument": 32,
+      "start": 71.469058,
+      "duration": 1.716001,
+      "pitch": 73.39697051703932,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 84.1,
+      "voice": 46
+    },
+    {
+      "id": 350,
+      "part": "6-p5",
+      "instrument": 22,
+      "start": 71.988803,
+      "duration": 1.072277,
+      "pitch": 77.73529100811703,
+      "velocity": 32,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 84.66250000000001,
+      "voice": 53
+    },
+    {
+      "id": 343,
+      "part": "6-p3",
+      "instrument": 3,
+      "start": 72.035508,
+      "duration": 1.603503,
+      "pitch": 63.6961909908093,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 84.7125,
+      "voice": 51
+    },
+    {
+      "id": 388,
+      "part": "6-p10",
+      "instrument": 27,
+      "start": 72.302138,
+      "duration": 4.445126,
+      "pitch": 52.33832049107771,
+      "velocity": 21,
+      "role": "quiet sustained field member",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 85.0,
+      "voice": 48
+    },
+    {
+      "id": 348,
+      "part": "6-p4",
+      "instrument": 66,
+      "start": 72.326821,
+      "duration": 1.279041,
+      "pitch": 80.4165205256932,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 85.025,
+      "voice": 52
+    },
+    {
+      "id": 353,
+      "part": "6-p5",
+      "instrument": 22,
+      "start": 72.327297,
+      "duration": 0.426134,
+      "pitch": 63.6961909908093,
+      "velocity": 31,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 85.02499999999999,
+      "voice": 54
+    },
+    {
+      "id": 340,
+      "part": "6-p3",
+      "instrument": 3,
+      "start": 72.583394,
+      "duration": 1.699206,
+      "pitch": 77.73529100811703,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 85.3,
+      "voice": 50
+    },
+    {
+      "id": 354,
+      "part": "6-p5",
+      "instrument": 22,
+      "start": 72.778102,
+      "duration": 0.434507,
+      "pitch": 70.71574099946316,
+      "velocity": 32,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 85.52499999999999,
+      "voice": 54
+    },
+    {
+      "id": 357,
+      "part": "6-p8",
+      "instrument": 43,
+      "start": 72.966958,
+      "duration": 0.422865,
+      "pitch": 70.71574099946316,
+      "velocity": 31,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 85.71875,
+      "voice": 55
+    },
+    {
+      "id": 351,
+      "part": "6-p5",
+      "instrument": 22,
+      "start": 73.151785,
+      "duration": 1.584757,
+      "pitch": 73.39697051703932,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 85.91250000000001,
+      "voice": 53
+    },
+    {
+      "id": 355,
+      "part": "6-p5",
+      "instrument": 22,
+      "start": 73.246854,
+      "duration": 0.635629,
+      "pitch": 66.37742050838546,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 86.02499999999999,
+      "voice": 54
+    },
+    {
+      "id": 361,
+      "part": "6-p7",
+      "instrument": 81,
+      "start": 73.419555,
+      "duration": 0.433208,
+      "pitch": 80.4165205256932,
+      "velocity": 31,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 86.225,
+      "voice": 56
+    },
+    {
+      "id": 358,
+      "part": "6-p8",
+      "instrument": 43,
+      "start": 73.429406,
+      "duration": 0.417641,
+      "pitch": 77.73529100811703,
+      "velocity": 32,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 86.21875,
+      "voice": 55
+    },
+    {
+      "id": 344,
+      "part": "6-p3",
+      "instrument": 3,
+      "start": 73.751015,
+      "duration": 2.138405,
+      "pitch": 62.03910001730775,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 86.5875,
+      "voice": 51
+    },
+    {
+      "id": 359,
+      "part": "6-p8",
+      "instrument": 43,
+      "start": 73.869069,
+      "duration": 0.647935,
+      "pitch": 73.39697051703932,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 86.71875,
+      "voice": 55
+    },
+    {
+      "id": 362,
+      "part": "6-p7",
+      "instrument": 81,
+      "start": 73.890966,
+      "duration": 0.419077,
+      "pitch": 82.07361149919475,
+      "velocity": 32,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 86.725,
+      "voice": 56
+    },
+    {
+      "id": 356,
+      "part": "6-p5",
+      "instrument": 22,
+      "start": 73.934739,
+      "duration": 0.846396,
+      "pitch": 62.03910001730775,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 86.77499999999999,
+      "voice": 54
+    },
+    {
+      "id": 363,
+      "part": "6-p7",
+      "instrument": 81,
+      "start": 74.353637,
+      "duration": 0.626455,
+      "pitch": 77.73529100811703,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 87.225,
+      "voice": 56
+    },
+    {
+      "id": 365,
+      "part": "6-p9",
+      "instrument": 8,
+      "start": 74.355781,
+      "duration": 1.062737,
+      "pitch": 63.6961909908093,
+      "velocity": 31,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 87.2375,
+      "voice": 15
+    },
+    {
+      "id": 360,
+      "part": "6-p8",
+      "instrument": 43,
+      "start": 74.553315,
+      "duration": 0.864055,
+      "pitch": 66.37742050838546,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 87.46875,
+      "voice": 55
+    },
+    {
+      "id": 369,
+      "part": "6-p6",
+      "instrument": 44,
+      "start": 74.806642,
+      "duration": 0.649778,
+      "pitch": 73.39697051703932,
+      "velocity": 31,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 87.74375,
+      "voice": 57
+    },
+    {
+      "id": 352,
+      "part": "6-p5",
+      "instrument": 22,
+      "start": 74.865998,
+      "duration": 2.121347,
+      "pitch": 66.37742050838546,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 87.78750000000001,
+      "voice": 53
+    },
+    {
+      "id": 373,
+      "part": "6-p1",
+      "instrument": 32,
+      "start": 74.998646,
+      "duration": 0.630055,
+      "pitch": 80.4165205256932,
+      "velocity": 31,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 87.93125,
+      "voice": 46
+    },
+    {
+      "id": 364,
+      "part": "6-p7",
+      "instrument": 81,
+      "start": 75.031819,
+      "duration": 0.850711,
+      "pitch": 73.39697051703932,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 87.975,
+      "voice": 56
+    },
+    {
+      "id": 377,
+      "part": "6-p1",
+      "instrument": 32,
+      "start": 75.459427,
+      "duration": 0.846522,
+      "pitch": 70.71574099946316,
+      "velocity": 31,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 88.4375,
+      "voice": 58
+    },
+    {
+      "id": 366,
+      "part": "6-p9",
+      "instrument": 8,
+      "start": 75.49156,
+      "duration": 1.072776,
+      "pitch": 62.03910001730775,
+      "velocity": 32,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 88.4875,
+      "voice": 15
+    },
+    {
+      "id": 370,
+      "part": "6-p6",
+      "instrument": 44,
+      "start": 75.493768,
+      "duration": 0.650976,
+      "pitch": 66.37742050838546,
+      "velocity": 32,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 88.49375,
+      "voice": 57
+    },
+    {
+      "id": 374,
+      "part": "6-p1",
+      "instrument": 32,
+      "start": 75.665558,
+      "duration": 0.650681,
+      "pitch": 77.73529100811703,
+      "velocity": 32,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 88.68125,
+      "voice": 46
+    },
+    {
+      "id": 380,
+      "part": "6-p8",
+      "instrument": 43,
+      "start": 75.916787,
+      "duration": 0.8522,
+      "pitch": 70.71574099946316,
+      "velocity": 31,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 88.94375000000001,
+      "voice": 55
+    },
+    {
+      "id": 391,
+      "part": "6-p11",
+      "instrument": 69,
+      "start": 75.964294,
+      "duration": 2.753278,
+      "pitch": 59.35787049973159,
+      "velocity": 20,
+      "role": "quiet sustained field member",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 89.0,
+      "voice": 16
+    },
+    {
+      "id": 371,
+      "part": "6-p6",
+      "instrument": 44,
+      "start": 76.187678,
+      "duration": 0.961998,
+      "pitch": 63.6961909908093,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 89.24375,
+      "voice": 57
+    },
+    {
+      "id": 375,
+      "part": "6-p1",
+      "instrument": 32,
+      "start": 76.371701,
+      "duration": 0.949449,
+      "pitch": 70.71574099946316,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 89.43125,
+      "voice": 46
+    },
+    {
+      "id": 378,
+      "part": "6-p1",
+      "instrument": 32,
+      "start": 76.371891,
+      "duration": 0.848661,
+      "pitch": 73.39697051703932,
+      "velocity": 32,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 89.4375,
+      "voice": 58
+    },
+    {
+      "id": 367,
+      "part": "6-p9",
+      "instrument": 8,
+      "start": 76.646589,
+      "duration": 1.59447,
+      "pitch": 55.01955000865388,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 89.7375,
+      "voice": 15
+    },
+    {
+      "id": 381,
+      "part": "6-p8",
+      "instrument": 43,
+      "start": 76.824659,
+      "duration": 0.858876,
+      "pitch": 77.73529100811703,
+      "velocity": 32,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 89.94375000000001,
+      "voice": 55
+    },
+    {
+      "id": 389,
+      "part": "6-p10",
+      "instrument": 27,
+      "start": 76.884412,
+      "duration": 1.833159,
+      "pitch": 55.01955000865388,
+      "velocity": 22,
+      "role": "quiet sustained field member",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 90.0,
+      "voice": 48
+    },
+    {
+      "id": 372,
+      "part": "6-p6",
+      "instrument": 44,
+      "start": 77.210374,
+      "duration": 1.290183,
+      "pitch": 70.71574099946316,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 90.36875,
+      "voice": 57
+    },
+    {
+      "id": 379,
+      "part": "6-p1",
+      "instrument": 32,
+      "start": 77.277108,
+      "duration": 1.286601,
+      "pitch": 80.4165205256932,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 90.4375,
+      "voice": 58
+    },
+    {
+      "id": 376,
+      "part": "6-p1",
+      "instrument": 32,
+      "start": 77.396763,
+      "duration": 1.276028,
+      "pitch": 73.39697051703932,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 90.55625,
+      "voice": 46
+    },
+    {
+      "id": 382,
+      "part": "6-p8",
+      "instrument": 43,
+      "start": 77.738353,
+      "duration": 0.979218,
+      "pitch": 80.4165205256932,
+      "velocity": 33,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 90.94375000000001,
+      "voice": 55
+    },
+    {
+      "id": 383,
+      "part": "6-p0",
+      "instrument": 45,
+      "start": 77.852938,
+      "duration": 0.864633,
+      "pitch": 73.39697051703932,
+      "velocity": 31,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 91.0625,
+      "voice": 45
+    },
+    {
+      "id": 384,
+      "part": "6-p4",
+      "instrument": 66,
+      "start": 78.028466,
+      "duration": 0.427311,
+      "pitch": 70.71574099946316,
+      "velocity": 31,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 91.25,
+      "voice": 52
+    },
+    {
+      "id": 386,
+      "part": "6-p5",
+      "instrument": 22,
+      "start": 78.12308,
+      "duration": 0.594491,
+      "pitch": 77.73529100811703,
+      "velocity": 31,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 91.3625,
+      "voice": 53
+    },
+    {
+      "id": 368,
+      "part": "6-p9",
+      "instrument": 8,
+      "start": 78.357564,
+      "duration": 0.360007,
+      "pitch": 59.35787049973159,
+      "velocity": 34,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 91.6125,
+      "voice": 15
+    },
+    {
+      "id": 385,
+      "part": "6-p4",
+      "instrument": 66,
+      "start": 78.485047,
+      "duration": 0.232524,
+      "pitch": 66.37742050838546,
+      "velocity": 32,
+      "role": "cue network cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 91.75,
+      "voice": 52
+    },
+    {
+      "id": 392,
+      "part": "7-p0",
+      "instrument": 81,
+      "start": 78.721505,
+      "duration": 2.284346,
+      "pitch": 63.6961909908093,
+      "velocity": 27,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 92.0,
+      "voice": 56
+    },
+    {
+      "id": 398,
+      "part": "7-p1",
+      "instrument": 43,
+      "start": 78.824661,
+      "duration": 3.213022,
+      "pitch": 66.37742050838546,
+      "velocity": 27,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 92.12,
+      "voice": 55
+    },
+    {
+      "id": 403,
+      "part": "7-p2",
+      "instrument": 8,
+      "start": 78.94153,
+      "duration": 4.019653,
+      "pitch": 66.37742050838546,
+      "velocity": 27,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 92.24,
+      "voice": 15
+    },
+    {
+      "id": 407,
+      "part": "7-p3",
+      "instrument": 27,
+      "start": 79.052866,
+      "duration": 2.283504,
+      "pitch": 66.37742050838547,
+      "velocity": 27,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 92.36,
+      "voice": 48
+    },
+    {
+      "id": 413,
+      "part": "7-p4",
+      "instrument": 69,
+      "start": 79.159011,
+      "duration": 3.211254,
+      "pitch": 66.37742050838547,
+      "velocity": 27,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 92.48,
+      "voice": 16
+    },
+    {
+      "id": 417,
+      "part": "7-p5",
+      "instrument": 38,
+      "start": 79.259978,
+      "duration": 3.979981,
+      "pitch": 70.71574099946316,
+      "velocity": 27,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 92.6,
+      "voice": 59
+    },
+    {
+      "id": 421,
+      "part": "7-p6",
+      "instrument": 46,
+      "start": 79.372388,
+      "duration": 2.295761,
+      "pitch": 70.71574099946318,
+      "velocity": 27,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 92.72,
+      "voice": 60
+    },
+    {
+      "id": 427,
+      "part": "7-p7",
+      "instrument": 86,
+      "start": 79.47426,
+      "duration": 3.177496,
+      "pitch": 73.39697051703932,
+      "velocity": 27,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 92.84,
+      "voice": 61
+    },
+    {
+      "id": 431,
+      "part": "7-p8",
+      "instrument": 16,
+      "start": 79.604015,
+      "duration": 3.915475,
+      "pitch": 73.39697051703935,
+      "velocity": 27,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 92.96,
+      "voice": 62
+    },
+    {
+      "id": 434,
+      "part": "7-p9",
+      "instrument": 65,
+      "start": 79.697234,
+      "duration": 2.303496,
+      "pitch": 73.39697051703935,
+      "velocity": 27,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 93.08,
+      "voice": 47
+    },
+    {
+      "id": 393,
+      "part": "7-p0",
+      "instrument": 81,
+      "start": 81.19697,
+      "duration": 2.120636,
+      "pitch": 59.35787049973159,
+      "velocity": 29,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 94.7,
+      "voice": 56
+    },
+    {
+      "id": 408,
+      "part": "7-p3",
+      "instrument": 27,
+      "start": 81.521695,
+      "duration": 2.075442,
+      "pitch": 66.37742050838546,
+      "velocity": 29,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 95.06,
+      "voice": 48
+    },
+    {
+      "id": 422,
+      "part": "7-p6",
+      "instrument": 46,
+      "start": 81.857059,
+      "duration": 2.019609,
+      "pitch": 73.39697051703932,
+      "velocity": 29,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 95.42,
+      "voice": 60
+    },
+    {
+      "id": 435,
+      "part": "7-p9",
+      "instrument": 65,
+      "start": 82.197092,
+      "duration": 1.960457,
+      "pitch": 80.4165205256932,
+      "velocity": 29,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 95.78,
+      "voice": 47
+    },
+    {
+      "id": 399,
+      "part": "7-p1",
+      "instrument": 43,
+      "start": 82.210973,
+      "duration": 2.760337,
+      "pitch": 59.35787049973159,
+      "velocity": 29,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 95.82000000000001,
+      "voice": 55
+    },
+    {
+      "id": 414,
+      "part": "7-p4",
+      "instrument": 69,
+      "start": 82.532671,
+      "duration": 2.721275,
+      "pitch": 66.37742050838547,
+      "velocity": 29,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 96.18,
+      "voice": 16
+    },
+    {
+      "id": 428,
+      "part": "7-p7",
+      "instrument": 86,
+      "start": 82.794658,
+      "duration": 2.741563,
+      "pitch": 77.73529100811703,
+      "velocity": 29,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 96.54,
+      "voice": 61
+    },
+    {
+      "id": 404,
+      "part": "7-p2",
+      "instrument": 8,
+      "start": 83.121168,
+      "duration": 3.503697,
+      "pitch": 62.03910001730775,
+      "velocity": 29,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 96.94,
+      "voice": 15
+    },
+    {
+      "id": 418,
+      "part": "7-p5",
+      "instrument": 38,
+      "start": 83.388586,
+      "duration": 3.517391,
+      "pitch": 70.71574099946316,
+      "velocity": 29,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 97.3,
+      "voice": 59
+    },
+    {
+      "id": 394,
+      "part": "7-p0",
+      "instrument": 81,
+      "start": 83.476447,
+      "duration": 1.95022,
+      "pitch": 55.01955000865388,
+      "velocity": 31,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 97.4,
+      "voice": 56
+    },
+    {
+      "id": 432,
+      "part": "7-p8",
+      "instrument": 16,
+      "start": 83.685053,
+      "duration": 3.502678,
+      "pitch": 80.4165205256932,
+      "velocity": 29,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 97.66,
+      "voice": 62
+    },
+    {
+      "id": 409,
+      "part": "7-p3",
+      "instrument": 27,
+      "start": 83.742338,
+      "duration": 1.964627,
+      "pitch": 63.6961909908093,
+      "velocity": 31,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 97.76,
+      "voice": 48
+    },
+    {
+      "id": 423,
+      "part": "7-p6",
+      "instrument": 46,
+      "start": 84.021674,
+      "duration": 1.964688,
+      "pitch": 73.39697051703935,
+      "velocity": 31,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 98.12,
+      "voice": 60
+    },
+    {
+      "id": 436,
+      "part": "7-p9",
+      "instrument": 65,
+      "start": 84.32461,
+      "duration": 1.941151,
+      "pitch": 84.75484101677091,
+      "velocity": 31,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 98.48,
+      "voice": 47
+    },
+    {
+      "id": 400,
+      "part": "7-p1",
+      "instrument": 43,
+      "start": 85.120115,
+      "duration": 2.742625,
+      "pitch": 55.01955000865388,
+      "velocity": 31,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 99.52000000000001,
+      "voice": 55
+    },
+    {
+      "id": 415,
+      "part": "7-p4",
+      "instrument": 69,
+      "start": 85.418143,
+      "duration": 2.727449,
+      "pitch": 66.37742050838547,
+      "velocity": 31,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 99.88000000000001,
+      "voice": 16
+    },
+    {
+      "id": 395,
+      "part": "7-p0",
+      "instrument": 81,
+      "start": 85.583859,
+      "duration": 1.949217,
+      "pitch": 48.0,
+      "velocity": 29,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 100.10000000000001,
+      "voice": 56
+    },
+    {
+      "id": 429,
+      "part": "7-p7",
+      "instrument": 86,
+      "start": 85.682872,
+      "duration": 2.745571,
+      "pitch": 80.4165205256932,
+      "velocity": 31,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 100.24000000000001,
+      "voice": 61
+    },
+    {
+      "id": 410,
+      "part": "7-p3",
+      "instrument": 27,
+      "start": 85.866559,
+      "duration": 1.949072,
+      "pitch": 62.03910001730775,
+      "velocity": 29,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 100.46000000000001,
+      "voice": 48
+    },
+    {
+      "id": 424,
+      "part": "7-p6",
+      "instrument": 46,
+      "start": 86.152602,
+      "duration": 1.945847,
+      "pitch": 77.73529100811703,
+      "velocity": 29,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 100.82000000000001,
+      "voice": 60
+    },
+    {
+      "id": 437,
+      "part": "7-p9",
+      "instrument": 65,
+      "start": 86.412721,
+      "duration": 1.968581,
+      "pitch": 89.09316150784863,
+      "velocity": 29,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 101.18,
+      "voice": 47
+    },
+    {
+      "id": 405,
+      "part": "7-p2",
+      "instrument": 8,
+      "start": 86.787938,
+      "duration": 3.519861,
+      "pitch": 55.01955000865388,
+      "velocity": 31,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 101.64,
+      "voice": 15
+    },
+    {
+      "id": 419,
+      "part": "7-p5",
+      "instrument": 38,
+      "start": 87.050782,
+      "duration": 3.539899,
+      "pitch": 70.71574099946318,
+      "velocity": 31,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 102.0,
+      "voice": 59
+    },
+    {
+      "id": 433,
+      "part": "7-p8",
+      "instrument": 16,
+      "start": 87.352065,
+      "duration": 3.521498,
+      "pitch": 84.75484101677091,
+      "velocity": 31,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 102.36,
+      "voice": 62
+    },
+    {
+      "id": 396,
+      "part": "7-p0",
+      "instrument": 81,
+      "start": 87.689275,
+      "duration": 1.959276,
+      "pitch": 48.0,
+      "velocity": 26,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 102.80000000000001,
+      "voice": 56
+    },
+    {
+      "id": 411,
+      "part": "7-p3",
+      "instrument": 27,
+      "start": 87.984511,
+      "duration": 1.946505,
+      "pitch": 62.03910001730775,
+      "velocity": 26,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 103.16000000000001,
+      "voice": 48
+    },
+    {
+      "id": 401,
+      "part": "7-p1",
+      "instrument": 43,
+      "start": 88.009065,
+      "duration": 2.754488,
+      "pitch": 48.0,
+      "velocity": 29,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 103.22000000000001,
+      "voice": 55
+    },
+    {
+      "id": 425,
+      "part": "7-p6",
+      "instrument": 46,
+      "start": 88.265674,
+      "duration": 1.947831,
+      "pitch": 77.73529100811703,
+      "velocity": 26,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 103.52000000000001,
+      "voice": 60
+    },
+    {
+      "id": 416,
+      "part": "7-p4",
+      "instrument": 69,
+      "start": 88.311464,
+      "duration": 2.734765,
+      "pitch": 66.37742050838546,
+      "velocity": 29,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 103.58000000000001,
+      "voice": 16
+    },
+    {
+      "id": 438,
+      "part": "7-p9",
+      "instrument": 65,
+      "start": 88.528942,
+      "duration": 1.967445,
+      "pitch": 96.11271151650251,
+      "velocity": 26,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 103.88000000000001,
+      "voice": 47
+    },
+    {
+      "id": 430,
+      "part": "7-p7",
+      "instrument": 86,
+      "start": 88.581487,
+      "duration": 2.4865130000000026,
+      "pitch": 82.07361149919475,
+      "velocity": 29,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 103.94000000000001,
+      "voice": 61
+    },
+    {
+      "id": 397,
+      "part": "7-p0",
+      "instrument": 81,
+      "start": 89.804362,
+      "duration": 1.2636380000000007,
+      "pitch": 48.0,
+      "velocity": 24,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 105.50000000000001,
+      "voice": 56
+    },
+    {
+      "id": 412,
+      "part": "7-p3",
+      "instrument": 27,
+      "start": 90.095,
+      "duration": 0.9729999999999994,
+      "pitch": 59.35787049973159,
+      "velocity": 24,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 105.86000000000001,
+      "voice": 48
+    },
+    {
+      "id": 426,
+      "part": "7-p6",
+      "instrument": 46,
+      "start": 90.376988,
+      "duration": 0.6910120000000011,
+      "pitch": 77.73529100811706,
+      "velocity": 24,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 106.22000000000001,
+      "voice": 60
+    },
+    {
+      "id": 406,
+      "part": "7-p2",
+      "instrument": 8,
+      "start": 90.473167,
+      "duration": 0.5948329999999946,
+      "pitch": 52.33832049107771,
+      "velocity": 29,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 106.34,
+      "voice": 15
+    },
+    {
+      "id": 439,
+      "part": "7-p9",
+      "instrument": 65,
+      "start": 90.66109,
+      "duration": 0.4069099999999968,
+      "pitch": 96.11271151650251,
+      "velocity": 24,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 106.58000000000001,
+      "voice": 47
+    },
+    {
+      "id": 420,
+      "part": "7-p5",
+      "instrument": 38,
+      "start": 90.743602,
+      "duration": 0.32439800000000263,
+      "pitch": 73.39697051703932,
+      "velocity": 29,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 106.7,
+      "voice": 59
+    },
+    {
+      "id": 402,
+      "part": "7-p1",
+      "instrument": 43,
+      "start": 90.925436,
+      "duration": 0.14256399999999347,
+      "pitch": 48.0,
+      "velocity": 26,
+      "role": "unisons opening/closing into field",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "beat": 106.92000000000002,
+      "voice": 55
+    },
+    {
+      "id": 440,
+      "part": "ending-0",
+      "instrument": 12,
+      "start": 91.08,
+      "duration": 0.7128,
+      "pitch": 62.03910001730775,
+      "velocity": 34,
+      "role": "ending: a rhythmic mirror closes the cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "voice": 63
+    },
+    {
+      "id": 441,
+      "part": "ending-1",
+      "instrument": 71,
+      "start": 92.1888,
+      "duration": 0.396,
+      "pitch": 77.73529100811703,
+      "velocity": 34,
+      "role": "ending: a rhythmic mirror closes the cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "voice": 64
+    },
+    {
+      "id": 442,
+      "part": "ending-2",
+      "instrument": 33,
+      "start": 92.8224,
+      "duration": 0.792,
+      "pitch": 66.37742050838547,
+      "velocity": 34,
+      "role": "ending: a rhythmic mirror closes the cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "voice": 65
+    },
+    {
+      "id": 443,
+      "part": "ending-3",
+      "instrument": 6,
+      "start": 93.9312,
+      "duration": 0.4752,
+      "pitch": 84.75484101677091,
+      "velocity": 34,
+      "role": "ending: a rhythmic mirror closes the cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "voice": 66
+    },
+    {
+      "id": 444,
+      "part": "ending-4",
+      "instrument": 6,
+      "start": 95.436,
+      "duration": 0.4752,
+      "pitch": 84.75484101677091,
+      "velocity": 34,
+      "role": "ending: a rhythmic mirror closes the cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "voice": 66
+    },
+    {
+      "id": 445,
+      "part": "ending-5",
+      "instrument": 33,
+      "start": 96.228,
+      "duration": 0.792,
+      "pitch": 66.37742050838547,
+      "velocity": 34,
+      "role": "ending: a rhythmic mirror closes the cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "voice": 65
+    },
+    {
+      "id": 446,
+      "part": "ending-6",
+      "instrument": 71,
+      "start": 97.2576,
+      "duration": 0.396,
+      "pitch": 77.73529100811703,
+      "velocity": 34,
+      "role": "ending: a rhythmic mirror closes the cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "voice": 64
+    },
+    {
+      "id": 447,
+      "part": "ending-7",
+      "instrument": 12,
+      "start": 98.0496,
+      "duration": 0.7128,
+      "pitch": 62.03910001730775,
+      "velocity": 34,
+      "role": "ending: a rhythmic mirror closes the cell",
+      "fields": [
+        62
+      ],
+      "is_passing": false,
+      "voice": 63
+    }
+  ],
+  "voices": [
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 47
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 91
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 26
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 56
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 29
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 49
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 78
+    },
+    {
+      "part": "nonoverlapping instrument lane 1",
+      "instrument": 29
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 30
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 18
+    },
+    {
+      "part": "nonoverlapping instrument lane 1",
+      "instrument": 30
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 34
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 75
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 7
+    },
+    {
+      "part": "nonoverlapping instrument lane 1",
+      "instrument": 26
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 8
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 69
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 50
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 28
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 60
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 31
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 0
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 51
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 54
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 42
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 61
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 76
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 67
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 35
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 94
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 80
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 64
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 24
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 84
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 25
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 87
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 14
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 92
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 2
+    },
+    {
+      "part": "nonoverlapping instrument lane 1",
+      "instrument": 14
+    },
+    {
+      "part": "nonoverlapping instrument lane 1",
+      "instrument": 84
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 82
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 74
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 17
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 36
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 45
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 32
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 65
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 27
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 53
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 3
+    },
+    {
+      "part": "nonoverlapping instrument lane 1",
+      "instrument": 3
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 66
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 22
+    },
+    {
+      "part": "nonoverlapping instrument lane 1",
+      "instrument": 22
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 43
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 81
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 44
+    },
+    {
+      "part": "nonoverlapping instrument lane 1",
+      "instrument": 32
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 38
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 46
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 86
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 16
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 12
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 71
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 33
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 6
+    }
+  ],
+  "sections": [
+    {
+      "start": 0.0,
+      "end": 15.671924,
+      "texture": "relay",
+      "start_beat": 0.0,
+      "end_beat": 16.0,
+      "ensemble": [
+        7,
+        18,
+        26,
+        29,
+        30,
+        34,
+        47,
+        49,
+        56,
+        75,
+        78,
+        91
+      ],
+      "section_level": 37.317135409997825,
+      "form": "rooms",
+      "act": 1,
+      "actual_instruments": [
+        7,
+        18,
+        26,
+        29,
+        30,
+        34,
+        47,
+        49,
+        56,
+        75,
+        78,
+        91
+      ]
+    },
+    {
+      "start": 15.671924,
+      "end": 23.450456,
+      "texture": "invention",
+      "start_beat": 16.0,
+      "end_beat": 24.0,
+      "ensemble": [
+        8,
+        28,
+        31,
+        47,
+        50,
+        60,
+        69,
+        75
+      ],
+      "section_level": 43.27724870107379,
+      "form": "rooms",
+      "act": 1,
+      "actual_instruments": [
+        8,
+        28,
+        31,
+        47,
+        50,
+        60,
+        69,
+        75
+      ]
+    },
+    {
+      "start": 23.450456,
+      "end": 36.441131,
+      "texture": "chamber",
+      "start_beat": 24.0,
+      "end_beat": 40.0,
+      "ensemble": [
+        0,
+        42,
+        51,
+        54,
+        60
+      ],
+      "section_level": 44.61080270644393,
+      "form": "rooms",
+      "act": 2,
+      "actual_instruments": [
+        0,
+        42,
+        51,
+        54,
+        60
+      ]
+    },
+    {
+      "start": 36.441131,
+      "end": 45.832306,
+      "texture": "fan",
+      "start_beat": 40.0,
+      "end_beat": 52.0,
+      "ensemble": [
+        24,
+        25,
+        31,
+        35,
+        61,
+        64,
+        67,
+        76,
+        80,
+        94
+      ],
+      "section_level": 44.4514082922719,
+      "form": "rooms",
+      "act": 2,
+      "actual_instruments": [
+        24,
+        25,
+        31,
+        35,
+        61,
+        64,
+        67,
+        76,
+        80,
+        94
+      ]
+    },
+    {
+      "start": 45.832306,
+      "end": 51.596088,
+      "texture": "relay",
+      "start_beat": 52.0,
+      "end_beat": 60.0,
+      "ensemble": [
+        2,
+        14,
+        17,
+        24,
+        25,
+        64,
+        74,
+        82,
+        84,
+        87,
+        92
+      ],
+      "section_level": 41.12996977247846,
+      "form": "rooms",
+      "act": 3,
+      "actual_instruments": [
+        2,
+        14,
+        17,
+        24,
+        25,
+        64,
+        74,
+        82,
+        84,
+        87,
+        92
+      ]
+    },
+    {
+      "start": 51.596088,
+      "end": 67.695576,
+      "texture": "dialogue",
+      "start_beat": 60.0,
+      "end_beat": 80.0,
+      "ensemble": [
+        17,
+        28,
+        32,
+        36,
+        45,
+        74,
+        82,
+        87,
+        92
+      ],
+      "section_level": 37.005860721473816,
+      "form": "rooms",
+      "act": 3,
+      "actual_instruments": [
+        17,
+        28,
+        32,
+        36,
+        45,
+        74,
+        82,
+        87,
+        92
+      ]
+    },
+    {
+      "start": 67.695576,
+      "end": 78.717571,
+      "texture": "relay",
+      "start_beat": 80.0,
+      "end_beat": 92.0,
+      "ensemble": [
+        3,
+        8,
+        22,
+        27,
+        32,
+        43,
+        44,
+        45,
+        53,
+        66,
+        69,
+        81
+      ],
+      "section_level": 35.00862924166613,
+      "form": "rooms",
+      "act": 4,
+      "actual_instruments": [
+        3,
+        8,
+        22,
+        27,
+        32,
+        43,
+        44,
+        45,
+        53,
+        66,
+        69,
+        81
+      ]
+    },
+    {
+      "start": 78.717571,
+      "end": 91.08,
+      "texture": "fan",
+      "start_beat": 92.0,
+      "end_beat": 107.12311867286047,
+      "ensemble": [
+        8,
+        16,
+        27,
+        38,
+        43,
+        46,
+        65,
+        69,
+        81,
+        86
+      ],
+      "section_level": 36.5570025343439,
+      "form": "rooms",
+      "act": 4,
+      "actual_instruments": [
+        8,
+        16,
+        27,
+        38,
+        43,
+        46,
+        65,
+        69,
+        81,
+        86
+      ]
+    },
+    {
+      "start": 91.08,
+      "end": 99,
+      "texture": "ending: a rhythmic mirror closes the cell",
+      "start_beat": 107.12311867286047,
+      "end_beat": 117,
+      "ensemble": [
+        6,
+        12,
+        33,
+        71
+      ],
+      "section_level": 35,
+      "form": "composed ending"
+    }
+  ],
+  "sequences": [
+    {
+      "section": 3,
+      "part": "2-p0",
+      "mode": "scale",
+      "contour": [
+        0,
+        2,
+        3,
+        5,
+        6,
+        4,
+        5,
+        6
+      ],
+      "period_beats": 1.5,
+      "note_ids": [
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145
+      ]
+    },
+    {
+      "section": 3,
+      "part": "2-p1",
+      "mode": "scale",
+      "contour": [
+        6,
+        5,
+        4,
+        6,
+        5,
+        3,
+        2,
+        0
+      ],
+      "period_beats": 2,
+      "note_ids": [
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152
+      ]
+    },
+    {
+      "section": 3,
+      "part": "2-p2",
+      "mode": "scale",
+      "contour": [
+        0,
+        2,
+        3,
+        5,
+        6,
+        4,
+        5,
+        6
+      ],
+      "period_beats": 1,
+      "note_ids": [
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165
+      ]
+    },
+    {
+      "section": 3,
+      "part": "2-p3",
+      "mode": "scale",
+      "contour": [
+        6,
+        5,
+        4,
+        6,
+        5,
+        3,
+        2,
+        0
+      ],
+      "period_beats": 0.75,
+      "note_ids": [
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180
+      ]
+    },
+    {
+      "section": 3,
+      "part": "2-p4",
+      "mode": "scale",
+      "contour": [
+        0,
+        2,
+        3,
+        5,
+        6,
+        4,
+        5,
+        6
+      ],
+      "period_beats": 2.5,
+      "note_ids": [
+        181,
+        182,
+        183,
+        184,
+        185
+      ]
+    },
+    {
+      "section": 6,
+      "part": "5-p0",
+      "mode": "scale",
+      "contour": [
+        3,
+        1,
+        2,
+        0,
+        3,
+        4,
+        3
+      ],
+      "period_beats": 1,
+      "note_ids": [
+        257,
+        258,
+        259,
+        260,
+        261,
+        262
+      ]
+    },
+    {
+      "section": 6,
+      "part": "5-p1",
+      "mode": "scale",
+      "contour": [
+        3,
+        1,
+        2,
+        0,
+        3,
+        4,
+        3
+      ],
+      "period_beats": 1,
+      "note_ids": [
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270
+      ]
+    },
+    {
+      "section": 6,
+      "part": "5-p2",
+      "mode": "scale",
+      "contour": [
+        3,
+        1,
+        2,
+        0,
+        3,
+        4,
+        3
+      ],
+      "period_beats": 1,
+      "note_ids": [
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279
+      ]
+    },
+    {
+      "section": 6,
+      "part": "5-p3",
+      "mode": "scale",
+      "contour": [
+        3,
+        4,
+        3,
+        0,
+        2,
+        1,
+        3
+      ],
+      "period_beats": 0.75,
+      "note_ids": [
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290
+      ]
+    },
+    {
+      "section": 6,
+      "part": "5-p4",
+      "mode": "scale",
+      "contour": [
+        3,
+        4,
+        3,
+        0,
+        2,
+        1,
+        3
+      ],
+      "period_beats": 0.75,
+      "note_ids": [
+        291,
+        292,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302
+      ]
+    },
+    {
+      "section": 6,
+      "part": "5-p5",
+      "mode": "scale",
+      "contour": [
+        3,
+        4,
+        3,
+        0,
+        2,
+        1,
+        3
+      ],
+      "period_beats": 0.75,
+      "note_ids": [
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310,
+        311,
+        312,
+        313
+      ]
+    }
+  ],
+  "cue_network": [
+    {
+      "section": 1,
+      "from_player": 0,
+      "to_player": 3,
+      "trigger_beat": 2.2125,
+      "note_ids": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "section": 1,
+      "from_player": 1,
+      "to_player": 5,
+      "trigger_beat": 5.0249999999999995,
+      "note_ids": [
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "section": 1,
+      "from_player": 2,
+      "to_player": 5,
+      "trigger_beat": 3.4125,
+      "note_ids": [
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "section": 1,
+      "from_player": 3,
+      "to_player": 7,
+      "trigger_beat": 6.225,
+      "note_ids": [
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "section": 1,
+      "from_player": 3,
+      "to_player": 6,
+      "trigger_beat": 7.74375,
+      "note_ids": [
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "section": 1,
+      "from_player": 4,
+      "to_player": 8,
+      "trigger_beat": 5.71875,
+      "note_ids": [
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "section": 1,
+      "from_player": 5,
+      "to_player": 8,
+      "trigger_beat": 8.94375,
+      "note_ids": [
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "section": 1,
+      "from_player": 5,
+      "to_player": 9,
+      "trigger_beat": 7.2375,
+      "note_ids": [
+        28,
+        29,
+        30,
+        31
+      ]
+    },
+    {
+      "section": 1,
+      "from_player": 8,
+      "to_player": 1,
+      "trigger_beat": 7.93125,
+      "note_ids": [
+        32,
+        33,
+        34,
+        35
+      ]
+    },
+    {
+      "section": 1,
+      "from_player": 7,
+      "to_player": 1,
+      "trigger_beat": 8.4375,
+      "note_ids": [
+        36,
+        37,
+        38,
+        39
+      ]
+    },
+    {
+      "section": 1,
+      "from_player": 9,
+      "to_player": 2,
+      "trigger_beat": 12.76875,
+      "note_ids": [
+        40,
+        41,
+        42,
+        43
+      ]
+    },
+    {
+      "section": 1,
+      "from_player": 6,
+      "to_player": 0,
+      "trigger_beat": 11.0625,
+      "note_ids": [
+        44,
+        45,
+        46,
+        47
+      ]
+    },
+    {
+      "section": 1,
+      "from_player": 1,
+      "to_player": 4,
+      "trigger_beat": 11.25,
+      "note_ids": [
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "section": 1,
+      "from_player": 1,
+      "to_player": 5,
+      "trigger_beat": 12.8625,
+      "note_ids": [
+        51,
+        52,
+        53
+      ]
+    },
+    {
+      "section": 1,
+      "from_player": 8,
+      "to_player": 1,
+      "trigger_beat": 13.36875,
+      "note_ids": [
+        54,
+        55,
+        56,
+        57
+      ]
+    },
+    {
+      "section": 1,
+      "from_player": 0,
+      "to_player": 4,
+      "trigger_beat": 16.59375,
+      "note_ids": [
+        58,
+        59,
+        60,
+        61
+      ]
+    },
+    {
+      "section": 1,
+      "from_player": 4,
+      "to_player": 7,
+      "trigger_beat": 13.4625,
+      "note_ids": [
+        62,
+        63,
+        64,
+        65
+      ]
+    },
+    {
+      "section": 1,
+      "from_player": 2,
+      "to_player": 6,
+      "trigger_beat": 16.425,
+      "note_ids": [
+        66,
+        67,
+        68
+      ]
+    },
+    {
+      "section": 1,
+      "from_player": 5,
+      "to_player": 8,
+      "trigger_beat": 16.51875,
+      "note_ids": [
+        69,
+        70,
+        71
+      ]
+    },
+    {
+      "section": 1,
+      "from_player": 1,
+      "to_player": 5,
+      "trigger_beat": 15.58125,
+      "note_ids": [
+        72,
+        73,
+        74,
+        75
+      ]
+    },
+    {
+      "section": 1,
+      "from_player": 7,
+      "to_player": 0,
+      "trigger_beat": 15.7125,
+      "note_ids": [
+        76,
+        77
+      ]
+    },
+    {
+      "section": 1,
+      "from_player": 5,
+      "to_player": 9,
+      "trigger_beat": 16.63125,
+      "note_ids": [
+        78
+      ]
+    },
+    {
+      "section": 5,
+      "from_player": 0,
+      "to_player": 3,
+      "trigger_beat": 54.2125,
+      "note_ids": [
+        219,
+        220,
+        221
+      ]
+    },
+    {
+      "section": 5,
+      "from_player": 1,
+      "to_player": 5,
+      "trigger_beat": 57.025,
+      "note_ids": [
+        222,
+        223,
+        224,
+        225
+      ]
+    },
+    {
+      "section": 5,
+      "from_player": 2,
+      "to_player": 5,
+      "trigger_beat": 55.4125,
+      "note_ids": [
+        226,
+        227,
+        228
+      ]
+    },
+    {
+      "section": 5,
+      "from_player": 3,
+      "to_player": 7,
+      "trigger_beat": 58.224999999999994,
+      "note_ids": [
+        229,
+        230,
+        231,
+        232
+      ]
+    },
+    {
+      "section": 5,
+      "from_player": 3,
+      "to_player": 6,
+      "trigger_beat": 59.74375,
+      "note_ids": [
+        233,
+        234
+      ]
+    },
+    {
+      "section": 5,
+      "from_player": 4,
+      "to_player": 8,
+      "trigger_beat": 57.71875,
+      "note_ids": [
+        235,
+        236,
+        237,
+        238
+      ]
+    },
+    {
+      "section": 5,
+      "from_player": 5,
+      "to_player": 8,
+      "trigger_beat": 60.94375,
+      "note_ids": [
+        239,
+        240,
+        241
+      ]
+    },
+    {
+      "section": 5,
+      "from_player": 5,
+      "to_player": 9,
+      "trigger_beat": 59.2375,
+      "note_ids": [
+        242,
+        243,
+        244
+      ]
+    },
+    {
+      "section": 5,
+      "from_player": 8,
+      "to_player": 1,
+      "trigger_beat": 59.93125,
+      "note_ids": [
+        245,
+        246,
+        247,
+        248
+      ]
+    },
+    {
+      "section": 5,
+      "from_player": 7,
+      "to_player": 1,
+      "trigger_beat": 59.68749999999999,
+      "note_ids": [
+        249,
+        250,
+        251
+      ]
+    },
+    {
+      "section": 5,
+      "from_player": 9,
+      "to_player": 2,
+      "trigger_beat": 60.55,
+      "note_ids": [
+        252
+      ]
+    },
+    {
+      "section": 5,
+      "from_player": 1,
+      "to_player": 5,
+      "trigger_beat": 60.21249999999999,
+      "note_ids": [
+        253
+      ]
+    },
+    {
+      "section": 7,
+      "from_player": 0,
+      "to_player": 3,
+      "trigger_beat": 82.2125,
+      "note_ids": [
+        325,
+        326,
+        327,
+        328
+      ]
+    },
+    {
+      "section": 7,
+      "from_player": 1,
+      "to_player": 5,
+      "trigger_beat": 85.02499999999999,
+      "note_ids": [
+        329,
+        330,
+        331,
+        332
+      ]
+    },
+    {
+      "section": 7,
+      "from_player": 2,
+      "to_player": 5,
+      "trigger_beat": 83.41250000000001,
+      "note_ids": [
+        333,
+        334,
+        335,
+        336
+      ]
+    },
+    {
+      "section": 7,
+      "from_player": 3,
+      "to_player": 7,
+      "trigger_beat": 86.225,
+      "note_ids": [
+        337,
+        338,
+        339,
+        340
+      ]
+    },
+    {
+      "section": 7,
+      "from_player": 3,
+      "to_player": 6,
+      "trigger_beat": 87.74375,
+      "note_ids": [
+        341,
+        342,
+        343,
+        344
+      ]
+    },
+    {
+      "section": 7,
+      "from_player": 4,
+      "to_player": 8,
+      "trigger_beat": 85.71875,
+      "note_ids": [
+        345,
+        346,
+        347,
+        348
+      ]
+    },
+    {
+      "section": 7,
+      "from_player": 5,
+      "to_player": 8,
+      "trigger_beat": 88.94375000000001,
+      "note_ids": [
+        349,
+        350,
+        351,
+        352
+      ]
+    },
+    {
+      "section": 7,
+      "from_player": 5,
+      "to_player": 9,
+      "trigger_beat": 87.2375,
+      "note_ids": [
+        353,
+        354,
+        355,
+        356
+      ]
+    },
+    {
+      "section": 7,
+      "from_player": 8,
+      "to_player": 1,
+      "trigger_beat": 87.93125,
+      "note_ids": [
+        357,
+        358,
+        359,
+        360
+      ]
+    },
+    {
+      "section": 7,
+      "from_player": 7,
+      "to_player": 1,
+      "trigger_beat": 88.4375,
+      "note_ids": [
+        361,
+        362,
+        363,
+        364
+      ]
+    },
+    {
+      "section": 7,
+      "from_player": 9,
+      "to_player": 2,
+      "trigger_beat": 92.76875,
+      "note_ids": [
+        365,
+        366,
+        367,
+        368
+      ]
+    },
+    {
+      "section": 7,
+      "from_player": 6,
+      "to_player": 0,
+      "trigger_beat": 91.0625,
+      "note_ids": [
+        369,
+        370,
+        371,
+        372
+      ]
+    },
+    {
+      "section": 7,
+      "from_player": 1,
+      "to_player": 4,
+      "trigger_beat": 91.25,
+      "note_ids": [
+        373,
+        374,
+        375,
+        376
+      ]
+    },
+    {
+      "section": 7,
+      "from_player": 1,
+      "to_player": 5,
+      "trigger_beat": 91.3625,
+      "note_ids": [
+        377,
+        378,
+        379
+      ]
+    },
+    {
+      "section": 7,
+      "from_player": 8,
+      "to_player": 1,
+      "trigger_beat": 91.86875,
+      "note_ids": [
+        380,
+        381,
+        382
+      ]
+    },
+    {
+      "section": 7,
+      "from_player": 0,
+      "to_player": 4,
+      "trigger_beat": 92.375,
+      "note_ids": [
+        383
+      ]
+    },
+    {
+      "section": 7,
+      "from_player": 4,
+      "to_player": 7,
+      "trigger_beat": 92.15,
+      "note_ids": [
+        384,
+        385
+      ]
+    },
+    {
+      "section": 7,
+      "from_player": 5,
+      "to_player": 9,
+      "trigger_beat": 92.4125,
+      "note_ids": [
+        386
+      ]
+    }
+  ],
+  "metric_grid": [
+    0.0,
+    0.9768804949527842,
+    1.9593671592906508,
+    2.944059365892082,
+    3.9262186352939796,
+    4.908310745759655,
+    5.892999782127781,
+    6.875549187956242,
+    7.852520277977234,
+    8.837167897880159,
+    9.820079673812586,
+    10.79759711166418,
+    11.769333850419466,
+    12.752578455244675,
+    13.730639121180877,
+    14.702799972345883,
+    15.671923881329901,
+    16.650521994873827,
+    17.623130075261432,
+    18.592339711837727,
+    19.562803944360986,
+    20.535880180255567,
+    21.505213116284583,
+    22.475381000412803,
+    23.450455612291936,
+    24.2551349711318,
+    25.060155634832807,
+    25.869029828935552,
+    26.68293227914828,
+    27.487762622861478,
+    28.296208568754942,
+    29.109704612154133,
+    29.926621927003254,
+    30.734651207794606,
+    31.5477276921124,
+    32.36447705280968,
+    33.18129704521291,
+    33.99394287318162,
+    34.81049519271272,
+    35.62747128166005,
+    36.441131365035965,
+    37.257458521494094,
+    38.07456050945633,
+    38.888621185282005,
+    39.69766922446204,
+    40.51486629725669,
+    41.32931164769492,
+    42.13880061280952,
+    42.94413500646236,
+    43.67164591992445,
+    44.394803389075086,
+    45.11408100929171,
+    45.83230584025262,
+    46.55586659812384,
+    47.275396100430285,
+    47.993568618554505,
+    48.71388155227503,
+    49.43368453058762,
+    50.151832976299296,
+    50.871838891191025,
+    51.596087561163955,
+    52.31424029279391,
+    53.03395844930456,
+    53.75780186696968,
+    54.48582805400235,
+    55.205279122020045,
+    55.928717751738425,
+    56.656446990307344,
+    57.38616725912229,
+    58.10920354790617,
+    58.83661726962359,
+    59.56630023395833,
+    60.29476775847279,
+    61.220143808137685,
+    62.14874792719822,
+    63.07619558793189,
+    63.99880375471909,
+    64.92728917997826,
+    65.85501427632363,
+    66.77812771941636,
+    67.69557555189832,
+    68.6235469855996,
+    69.54715719461738,
+    70.46505089004934,
+    71.37934034342615,
+    72.30343637482925,
+    73.2217929891521,
+    74.13624165753797,
+    75.0509843586959,
+    75.96981868047408,
+    76.8844604935506,
+    77.79899461765696,
+    78.71757119520888,
+    79.63243913663513,
+    80.54679819480947,
+    81.46490470479284,
+    82.38874184766473,
+    83.1623112299095,
+    83.9387863849781,
+    84.72007843944965,
+    85.50517665336193,
+    86.28128304065531,
+    87.06215063652422,
+    87.84702617189915,
+    88.63272521538751,
+    89.41316227023846,
+    90.19778941377501,
+    90.98357288576067,
+    91.76677751263811,
+    92.5511317676584,
+    93.3369695077673,
+    94.12052264109212,
+    94.89940888757901,
+    95.68527046963185,
+    96.46915287322763,
+    97.24847408738451,
+    98.02341885742904,
+    98.5
+  ],
+  "final_chord_start": 59.4,
+  "final_chord_fraction": 0.4,
+  "instrument_pool": [
+    0,
+    2,
+    3,
+    6,
+    7,
+    8,
+    12,
+    14,
+    16,
+    17,
+    18,
+    22,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    38,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    49,
+    50,
+    51,
+    53,
+    54,
+    56,
+    60,
+    61,
+    64,
+    65,
+    66,
+    67,
+    69,
+    71,
+    74,
+    75,
+    76,
+    78,
+    80,
+    81,
+    82,
+    84,
+    86,
+    87,
+    91,
+    92,
+    94
+  ],
+  "tuning_mode": "exact Calcutta",
+  "ending": "a rhythmic mirror closes the cell",
+  "ending_start": 91.08,
+  "vocal_allowed": false,
+  "effects_allowed": false,
+  "gliss_allowed": false,
+  "miniature_scope": false,
+  "pitch_policy": "Exact original fields except 11 (12-ET) and 26 (continuous field-endpoint slides). Miniatures select seven original fields; longer works traverse all forty."
+}

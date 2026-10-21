@@ -1,0 +1,16 @@
+VOLUMES=[('One Long Door',1200,1),('Seven Unequal Rooms',1650,7),('The Trill and Its Neighbors',2460,3),('Eleven Small Machines',1380,11),('Two Continents',4320,2),('Voices of the Slope',2040,5),('A Different Distance',3480,4)]
+# title, duration, main procedural profile, ending specification
+GROUPS=[
+ [('The Door Remains Open',1200,'arch','counterpoint locks quietly into fifths')],
+ [('A Thread Above',43,'chamber','a single unanswered upper note'),('Walking Ground',388,'ground','the bass finishes alone'),('A Missing Footstep',75,'clock','the last bar returns with one attack missing'),('The Unwound Chord',604,'graph','the final chord unrolls backward'),('Smallest Reply',21,'jewel','silence, then one tiny pluck'),('Soft Mouths',232,'voice','a sung unison opens into a fifth'),('Borrowed Hands',275,'relay','two instruments exchange their final pitches')],
+ [('The Quiet Vestibule',127,'chorale','contrary motion closes the chorale'),('The Orchard Has No Center',1716,'trill','trills break into isolated impulses'),('An Ordinary Amen',613,'tonal','a plainly tonal F-to-C plagal cadence')],
+ [('Pin',15,'jewel','one bell, deliberately damped'),('Before the Phrase Ends',118,'concertino','the melody ends before its accompaniment'),('Down Is the Answer',22,'stair','a rising gesture receives a low answer'),('The Back of an Attack',211,'reverse','reversed attacks become a forward release'),('The Odd Pitch Out',94,'fan','one soft pitch breaks the unison'),('Three Marks',17,'jewel','a three-note question leaves silence'),('Subtract the Beginning',370,'invention','each repeat loses its first note'),('After Everyone',66,'clock','one low pulse after everyone has stopped'),('Registration',173,'ribbons','players leave from lowest to highest'),('A Cell Facing Itself',99,'relay','a rhythmic mirror closes the cell'),('Unequal Release',175,'still','two fixed pitches release at different times')],
+ [('The First Continent',1510,'atlas','a cadenza resolves onto one exposed upper pitch'),('Ground That Changes Its Name',2808,'long_ground','the ground finishes but the choir takes one extra step')],
+ [('Before the Soloist',71,'concertino','a low reply precedes the soloists final cutoff'),('The Slope Is Continuous',882,'gliss','a unison opens into separating slides'),('Brief Consonance',33,'chorale','a fragment disappears and leaves a consonance'),('Echoes Against the Living',857,'echo','echoes finish, then one last dry source note'),('The Longer Version of a Sentence',189,'stair','one phrase doubles in length, then steps aside')],
+ [('A Choir Across the Valley',1270,'voice','vowels leave one by one, leaving only breath'),('An Interval Without a Name',181,'graph','an interval is cut at the peak of its phrase'),('The Other Side of the Opening',1662,'arch','the opening returns in the opposite register, one pitch short'),('A Last Instrument',361,'concertino','the ensemble lands softly; a lone woodwind continues')]
+]
+PIECES=[]
+for vi,group in enumerate(GROUPS):
+ for title,duration,kind,ending in group:PIECES.append((title,duration,'New '+kind+' form with fresh note material.',ending,kind,vi+1))
+assert len(PIECES)==33
+for (name,duration,count),group in zip(VOLUMES,GROUPS):assert len(group)==count and sum(p[1] for p in group)+2*(count-1)==duration

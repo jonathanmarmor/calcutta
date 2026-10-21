@@ -1,0 +1,81 @@
+{
+  "master": {
+    "audio": "calcutta_seven_volumes_complete.mp3",
+    "duration": 16554,
+    "encoded_duration": "16554.024000",
+    "chapters": 33,
+    "bitrate": "192k"
+  },
+  "volumes": [
+    {
+      "audio": "calcutta_v01_one_long_door.mp3",
+      "duration": 1200,
+      "encoded_duration": "1200.024000",
+      "chapters": 1,
+      "bitrate": "256k",
+      "number": 1,
+      "title": "One Long Door",
+      "movements": 1
+    },
+    {
+      "audio": "calcutta_v02_seven_unequal_rooms.mp3",
+      "duration": 1650,
+      "encoded_duration": "1650.024000",
+      "chapters": 7,
+      "bitrate": "256k",
+      "number": 2,
+      "title": "Seven Unequal Rooms",
+      "movements": 7
+    },
+    {
+      "audio": "calcutta_v03_the_trill_and_its_neighbors.mp3",
+      "duration": 2460,
+      "encoded_duration": "2460.024000",
+      "chapters": 3,
+      "bitrate": "256k",
+      "number": 3,
+      "title": "The Trill and Its Neighbors",
+      "movements": 3
+    },
+    {
+      "audio": "calcutta_v04_eleven_small_machines.mp3",
+      "duration": 1380,
+      "encoded_duration": "1380.024000",
+      "chapters": 11,
+      "bitrate": "256k",
+      "number": 4,
+      "title": "Eleven Small Machines",
+      "movements": 11
+    },
+    {
+      "audio": "calcutta_v05_two_continents.mp3",
+      "duration": 4320,
+      "encoded_duration": "4320.024000",
+      "chapters": 2,
+      "bitrate": "256k",
+      "number": 5,
+      "title": "Two Continents",
+      "movements": 2
+    },
+    {
+      "audio": "calcutta_v06_voices_of_the_slope.mp3",
+      "duration": 2040,
+      "encoded_duration": "2040.024000",
+      "chapters": 5,
+      "bitrate": "256k",
+      "number": 6,
+      "title": "Voices of the Slope",
+      "movements": 5
+    },
+    {
+      "audio": "calcutta_v07_a_different_distance.mp3",
+      "duration": 3480,
+      "encoded_duration": "3480.024000",
+      "chapters": 4,
+      "bitrate": "256k",
+      "number": 7,
+      "title": "A Different Distance",
+      "movements": 4
+    }
+  ]
+}

@@ -355,5 +355,15 @@
     "audio": "iterations/33-four-volumes/audio/01_the_hinge_and_the_answer.mp3",
     "midi": "iterations/33-four-volumes/source/suite/midi/01.mid",
     "reproduction_status": "All sixteen scores regenerate identically; inherited instrumental coefficients, original formant singing synthesis, continuous glide curves, DSP settings, actual-time MIDI, portable renderer and validated listening files retained"
+  },
+  {
+    "id": "34-seven-unequal-volumes",
+    "title": "Seven Unequal Volumes",
+    "purpose": "Seven large volumes of 20, 27.5, 41, 23, 72, 34 and 58 minutes with 1/7/3/11/2/5/4 movements; 33 new works from 15 seconds to 46:48, full master 4:35:54, individual files and changing long-form acts.",
+    "composer": "compose_seven.py",
+    "brief_status": "Original request, public form/format specification and all thirty-three ending scores retained",
+    "audio": "iterations/34-seven-unequal-volumes/audio/01_the_door_remains_open.mp3",
+    "midi": "iterations/34-seven-unequal-volumes/source/suite/midi/01.mid",
+    "reproduction_status": "All 33 scores regenerate identically; compact model inputs, original vocal synthesis, bounded DSP/gliss/tuning exceptions, miniature field scopes, actual-time MIDI and complete audio validation retained"
   }
 ]
