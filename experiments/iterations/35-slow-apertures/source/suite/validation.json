@@ -1,0 +1,20 @@
+{
+  "duration": 840,
+  "notes": 4416,
+  "sustained_strands": 688,
+  "source_sounds": 58,
+  "all_40_source_fields": true,
+  "minimum_sustain_attack": 18.011159557671416,
+  "maximum_sustain_attack": 48.960311353476065,
+  "minimum_sustain_release": 22.029891998152415,
+  "maximum_sustain_release": 60.97345304857141,
+  "full_register_coverage_fraction": 1.0,
+  "only_final_field_after": 558,
+  "sustained_energy_fraction": 0.8343275604255974,
+  "peak": 0.4869384765625,
+  "rms": 0.0779859474517023,
+  "mp3_duration": 840.024,
+  "score_regeneration_identical": true,
+  "score_sha256": "a5929e61cfa02f2c64e73e8ed1f63dab1284a3cbf5e95319490d9a727ef468cc",
+  "pitch_check": "Each tone is a fixed exact source-field pitch; neighboring source fields overlap while fading."
+}

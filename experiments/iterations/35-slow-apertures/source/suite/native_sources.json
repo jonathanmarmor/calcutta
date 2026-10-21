@@ -1,0 +1,90 @@
+[
+  {
+    "engine": "Surge XT",
+    "name": "Open modular saw",
+    "family": "analog lead",
+    "state_path": "palette_frontier/lead_0.vststate",
+    "reference_rms": [
+      0.05248737707734108,
+      0.07392101734876633,
+      0.09058073908090591
+    ]
+  },
+  {
+    "engine": "Surge XT",
+    "name": "Resonant sequencer lead",
+    "family": "analog lead",
+    "state_path": "palette_frontier/lead_1.vststate",
+    "reference_rms": [
+      0.0885879397392273,
+      0.12848733365535736,
+      0.16494812071323395
+    ]
+  },
+  {
+    "engine": "OB-Xf",
+    "name": "Oberheim silver pulse",
+    "family": "Oberheim lead",
+    "state_path": "palette_frontier/lead_2.vststate",
+    "reference_rms": [
+      0.06768186390399933,
+      0.07184045761823654,
+      0.07808298617601395
+    ]
+  },
+  {
+    "engine": "OB-Xf",
+    "name": "Oberheim touch brass",
+    "family": "Oberheim lead",
+    "state_path": "palette_frontier/lead_3.vststate",
+    "reference_rms": [
+      0.040205176919698715,
+      0.04409528151154518,
+      0.04185783863067627
+    ]
+  },
+  {
+    "engine": "TAL-NoiseMaker",
+    "name": "TAL bright hollow lead",
+    "family": "single oscillator lead",
+    "state_path": "palette_frontier/lead_4.vststate",
+    "reference_rms": [
+      0.0416603721678257,
+      0.041380468755960464,
+      0.03992220759391785
+    ]
+  },
+  {
+    "engine": "TAL-NoiseMaker",
+    "name": "TAL rubber reed",
+    "family": "single oscillator lead",
+    "state_path": "palette_frontier/lead_5.vststate",
+    "reference_rms": [
+      0.07463241368532181,
+      0.07676105201244354,
+      0.08142626285552979
+    ]
+  },
+  {
+    "engine": "Dexed",
+    "name": "FM glass cantilena",
+    "family": "FM lead",
+    "state_path": "palette_frontier/lead_6.vststate",
+    "reference_rms": [
+      0.06342210620641708,
+      0.063912034034729,
+      0.06288493424654007
+    ]
+  },
+  {
+    "engine": "Dexed",
+    "name": "FM harmonic organ",
+    "family": "FM lead",
+    "state_path": "palette_frontier/lead_7.vststate",
+    "reference_rms": [
+      0.0471855103969574,
+      0.047697167843580246,
+      0.047697342932224274
+    ]
+  }
+]

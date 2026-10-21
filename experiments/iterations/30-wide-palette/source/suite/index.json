@@ -1,0 +1,52 @@
+[
+  {
+    "number": 1,
+    "title": "Changing Ensembles",
+    "slug": "changing_ensembles",
+    "duration": 401.83098876297794,
+    "final_chord_start": 241.59709175363062,
+    "final_chord_fraction": 0.3987594324236205,
+    "audio": "01_changing_ensembles.mp3",
+    "album_start": 0
+  },
+  {
+    "number": 2,
+    "title": "Reed, Wire, Metal",
+    "slug": "reed_wire_metal",
+    "duration": 320.73524508811306,
+    "final_chord_start": 200.3796511113214,
+    "final_chord_fraction": 0.375249043627018,
+    "audio": "02_reed_wire_metal.mp3",
+    "album_start": 403.83098876297794
+  },
+  {
+    "number": 3,
+    "title": "Dry Color Fields",
+    "slug": "dry_color_fields",
+    "duration": 382.00948270919827,
+    "final_chord_start": 222.81591456628243,
+    "final_chord_fraction": 0.41672674461879966,
+    "audio": "03_dry_color_fields.mp3",
+    "album_start": 726.566233851091
+  },
+  {
+    "number": 4,
+    "title": "Passing Instruments",
+    "slug": "passing_instruments",
+    "duration": 299.0974350080051,
+    "final_chord_start": 185.0101679323739,
+    "final_chord_fraction": 0.38143846694164313,
+    "audio": "04_passing_instruments.mp3",
+    "album_start": 1110.5757165602893
+  },
+  {
+    "number": 5,
+    "title": "A Wider Room",
+    "slug": "wider_room",
+    "duration": 429.3000108037776,
+    "final_chord_start": 263.46775954615686,
+    "final_chord_fraction": 0.38628522498085505,
+    "audio": "05_wider_room.mp3",
+    "album_start": 1411.6731515682943
+  }
+]

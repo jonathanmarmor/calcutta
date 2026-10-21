@@ -1,0 +1,122 @@
+[
+  {
+    "number": 1,
+    "title": "The Wrong Intermezzo",
+    "duration": 286,
+    "premise": "A lyrical ABACBA serenade is repeatedly interrupted by a different, dry electronic personality; a structural paraphrase of Bart\u00f3k\u2019s Interrupted Intermezzo, not a melodic transcription.",
+    "seed": 2026101800,
+    "notes": 455,
+    "voices": 11,
+    "sections": 27,
+    "audio": "01_wrong_intermezzo.mp3",
+    "album_start": 0
+  },
+  {
+    "number": 2,
+    "title": "Crossing on the Stairs",
+    "duration": 312,
+    "premise": "Opposing continuous acceleration/deceleration canons, inspired by the crossing speeds of Nancarrow\u2019s Study 21; shaped sentences and new instrumental speakers preserve a perceptible process.",
+    "seed": 2026101801,
+    "notes": 1158,
+    "voices": 12,
+    "sections": 26,
+    "audio": "02_crossing_stairs.mp3",
+    "album_start": 288
+  },
+  {
+    "number": 3,
+    "title": "Pocket Gongs, Plugged In",
+    "duration": 268,
+    "premise": "Nested gong-like cycles, split wind melodies, and unequal dance groups meet DI guitars and resonant leads; structural borrowings, not a claim to perform any one tradition authentically.",
+    "seed": 2026101802,
+    "notes": 770,
+    "voices": 14,
+    "sections": 26,
+    "audio": "03_pocket_gongs.mp3",
+    "album_start": 602
+  },
+  {
+    "number": 4,
+    "title": "The Counting Choir",
+    "duration": 334,
+    "premise": "An original synthetic speaking voice counts Fibonacci numbers and comments on the tuning; a fixed-pitch formant vocoder turns its syllables into a strange dry choir.",
+    "seed": 2026101803,
+    "notes": 552,
+    "voices": 8,
+    "sections": 30,
+    "audio": "04_counting_choir.mp3",
+    "album_start": 872
+  },
+  {
+    "number": 5,
+    "title": "One Room, Twenty Doors",
+    "duration": 302,
+    "premise": "Twenty short doors: a promenade-like returning figure connects different borrowed formal devices, places and composerly habits; only public-domain tunes are actually quoted.",
+    "seed": 2026101804,
+    "notes": 735,
+    "voices": 28,
+    "sections": 20,
+    "audio": "05_twenty_doors.mp3",
+    "album_start": 1208
+  },
+  {
+    "number": 6,
+    "title": "Brother Jacques at the Wrong Funeral",
+    "duration": 288,
+    "premise": "Fr\u00e8re Jacques, Dies irae and a tiny familiar cadential joke are re-pitched into the actual fields, passed between acoustic instruments and analog/FM leads, then contradicted.",
+    "seed": 2026101805,
+    "notes": 758,
+    "voices": 11,
+    "sections": 24,
+    "audio": "06_wrong_funeral.mp3",
+    "album_start": 1512
+  },
+  {
+    "number": 7,
+    "title": "Butterfly Relays",
+    "duration": 316,
+    "premise": "The only tremolo piece: soft continuous tremolo, deep square audio gates, and many independently pulsing sustained layers. No other piece uses periodic amplitude gates.",
+    "seed": 2026101806,
+    "notes": 679,
+    "voices": 13,
+    "sections": 33,
+    "audio": "07_butterfly_relays.mp3",
+    "album_start": 1802
+  },
+  {
+    "number": 8,
+    "title": "Five People, One Cable",
+    "duration": 294,
+    "premise": "A close, conversational five-player ensemble with tiny shared timing inflections, DI guitar, Rhodes and a modular voice; selected instrument bodies exchange their spectral color without room reverb.",
+    "seed": 2026101807,
+    "notes": 913,
+    "voices": 11,
+    "sections": 28,
+    "audio": "08_one_cable.mp3",
+    "album_start": 2120
+  },
+  {
+    "number": 9,
+    "title": "Take Your Cables Home",
+    "duration": 340,
+    "premise": "A reverse accumulation: players stop, exchange their last phrases, and leave. The ending borrows the departure mechanism of Haydn\u2019s Farewell, without a volume fade.",
+    "seed": 2026101808,
+    "notes": 1375,
+    "voices": 10,
+    "sections": 29,
+    "audio": "09_cables_home.mp3",
+    "album_start": 2416
+  },
+  {
+    "number": 10,
+    "title": "Jo, Ha, Trapdoor",
+    "duration": 310,
+    "premise": "Free introductions, drawn-out melody, asymmetric pulse and a fast exit: an original jo\u2013ha\u2013ky\u016b-inspired trajectory, with early previews, counterpoint, brief detours, and no borrowed gagaku melody.",
+    "seed": 2026101809,
+    "notes": 1022,
+    "voices": 12,
+    "sections": 29,
+    "audio": "10_jo_ha_trapdoor.mp3",
+    "album_start": 2758
+  }
+]

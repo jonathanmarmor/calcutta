@@ -1,0 +1,10 @@
+{
+  "score_regeneration": "All ten scores regenerate identically",
+  "isolated_audio_regeneration": "First WAV reproduces byte for byte without native plugins",
+  "first_wav_sha256": "8f2dff0283c9b5306ea32e524c7b68ec24853e68eb69eedffbecba8fc45dddb2",
+  "packages": {
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "mido": "1.3.3"
+  }
+}

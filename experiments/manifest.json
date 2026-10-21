@@ -286,5 +286,94 @@
     "midi": "iterations/26-bright-detours/calcutta_detours.mid",
     "archive": "iterations/26-bright-detours/source.zip",
     "reproduction_status": "frozen source, native states, exact score and patch-building code available; external sound engines required"
+  },
+  {
+    "id": "27-ten-detours",
+    "title": "Ten Detours",
+    "purpose": "Ten new contrasting pieces: formal collisions, crossing tempi, interlock, original synthetic vocals, public-domain quotation, one exclusive tremolo study, dry ensemble dialogue and disappearing players.",
+    "composer": "compose_ten.py",
+    "brief_status": "contemporaneous user-request summary and public plan retained; no hidden reasoning transcript",
+    "audio": "iterations/27-ten-detours/audio/01_wrong_intermezzo.mp3",
+    "reproduction_status": "portable frozen atoms and speech/formants, deterministic scores, MIDI and renderer; no native plugins needed to replay saved timbres"
+  },
+  {
+    "id": "28-ten-further-pieces",
+    "title": "Ten Further Pieces",
+    "purpose": "Return to internally developed counterpoint, moving sampled-instrument choirs, consonant chord sequences, multiple expressive tempos and varied dense/sparse textures. Fresh material; added pitches only validated passing connections; no outside research.",
+    "composer": "compose_return.py",
+    "brief_status": "Original user request and public implementation specification retained; not a hidden reasoning transcript",
+    "audio": "iterations/28-ten-further-pieces/audio/01_grain_and_line.mp3",
+    "midi": "iterations/28-ten-further-pieces/source/suite/midi/01.mid",
+    "reproduction_status": "Saved dry atoms, deterministic forms and note decisions, score/MIDI, renderer and validation; native plugins not required to render the supplied atoms"
+  },
+  {
+    "id": "29-pulse-convergence",
+    "title": "Pulse and Convergence",
+    "purpose": "Ten fuller pieces with an expressive primary pulse and advancing adjacent harmonic windows; each spends its last 37\u201342% exclusively in the final field while texture and internal chord sequences continue changing.",
+    "composer": "compose_flow.py",
+    "brief_status": "Original user request and public implementation specification retained; not a hidden reasoning transcript",
+    "audio": "iterations/29-pulse-convergence/audio/01_current_and_grain.mp3",
+    "midi": "iterations/29-pulse-convergence/source/suite/midi/01.mid",
+    "reproduction_status": "Saved dry atoms, deterministic window/form/pulse and note decisions, actual primary-beat MIDI tempo maps, renderer and validation; no native plugins required"
+  },
+  {
+    "id": "30-wide-palette",
+    "title": "Wide Palette",
+    "purpose": "Five new pieces, 64 source instrument sounds each with changing section ensembles; sample-derived fixed-frequency resynthesis removes vibrato, while corrected openings use the 2:3 or 3:5 field.",
+    "composer": "compose_wide.py",
+    "brief_status": "Original request, recovered earlier sound guidance and public implementation specification retained",
+    "audio": "iterations/30-wide-palette/audio/01_changing_ensembles.mp3",
+    "midi": "iterations/30-wide-palette/source/suite/midi/01.mid",
+    "reproduction_status": "Saved vibrato-free spectral models, deterministic forms, scores, instrument/section assignments, MIDI, renderer and validation; native engines not required"
+  },
+  {
+    "id": "31-prism-switchyard",
+    "title": "Prism Switchyard",
+    "purpose": "One new piece with all 97 source sounds, 33 changing ensembles, sixteen texture procedures and five dedicated layered amplitude-gate passages; advancing harmonic windows and the final 40% in the golden-ratio field.",
+    "composer": "compose_prism.py",
+    "brief_status": "Original request and public composition instructions retained in source/suite/BRIEF_PRISM.md",
+    "audio": "iterations/31-prism-switchyard/audio/calcutta_prism_switchyard.mp3",
+    "midi": "iterations/31-prism-switchyard/source/suite/midi/01.mid",
+    "reproduction_status": "Saved fixed-frequency models, deterministic score, gate DSP settings, source renderer, actual-tempo MIDI and validation; no native plugins needed"
+  },
+  {
+    "id": "32-other-doors",
+    "title": "Other Doors",
+    "purpose": "One hour-long album of twelve unequal pieces, from 41-second miniature to three large works: consonance-graph paths, cue-driven relays, construction endpoint clocks, multiple tempi, changing ensembles and one dedicated hard-gate work.",
+    "composer": "compose_doors.py",
+    "brief_status": "Original request and public composition specification retained in source/suite/BRIEF.md",
+    "audio": "iterations/32-other-doors/audio/01_the_small_door.mp3",
+    "midi": "iterations/32-other-doors/source/suite/midi/01.mid",
+    "reproduction_status": "All twelve scores regenerate identically; compact inherited models, exact harmonic fields, cue/sequence/gate decisions, actual-time MIDI, portable renderer and complete audio validation are retained"
+  },
+  {
+    "id": "33-four-volumes",
+    "title": "Four Volumes",
+    "purpose": "Four continuous volumes of 24, 28, 32 and 36 minutes; sixteen separately ended movements, traditional textures, two synthetic-vocal works, two effects works, a 12-ET diversion and a concentrated glissando study.",
+    "composer": "compose_volumes.py",
+    "brief_status": "Original user request, public specification, bounded exceptions and sixteen ending procedures retained in source/suite/BRIEF.md",
+    "audio": "iterations/33-four-volumes/audio/01_the_hinge_and_the_answer.mp3",
+    "midi": "iterations/33-four-volumes/source/suite/midi/01.mid",
+    "reproduction_status": "All sixteen scores regenerate identically; inherited instrumental coefficients, original formant singing synthesis, continuous glide curves, DSP settings, actual-time MIDI, portable renderer and validated listening files retained"
+  },
+  {
+    "id": "34-seven-unequal-volumes",
+    "title": "Seven Unequal Volumes",
+    "purpose": "Seven large volumes of 20, 27.5, 41, 23, 72, 34 and 58 minutes with 1/7/3/11/2/5/4 movements; 33 new works from 15 seconds to 46:48, full master 4:35:54, individual files and changing long-form acts.",
+    "composer": "compose_seven.py",
+    "brief_status": "Original request, public form/format specification and all thirty-three ending scores retained",
+    "audio": "iterations/34-seven-unequal-volumes/audio/01_the_door_remains_open.mp3",
+    "midi": "iterations/34-seven-unequal-volumes/source/suite/midi/01.mid",
+    "reproduction_status": "All 33 scores regenerate identically; compact model inputs, original vocal synthesis, bounded DSP/gliss/tuning exceptions, miniature field scopes, actual-time MIDI and complete audio validation retained"
+  },
+  {
+    "id": "35-slow-apertures",
+    "title": "Slow Apertures",
+    "purpose": "One 14-minute sustained movement across the full register: 688 long-envelope strands, eight slowly fading/densifying clouds, 58 timbral sources, fixed-pitch overlapping harmonic handoffs and the last third entirely in the final field.",
+    "composer": "compose_slow.py",
+    "brief_status": "Original request and public envelope/texture/source-field specification retained in source/suite/BRIEF.md",
+    "audio": "iterations/35-slow-apertures/audio/calcutta_slow_apertures.mp3",
+    "midi": "iterations/35-slow-apertures/source/suite/slow_apertures.mid",
+    "reproduction_status": "Saved steady spectral models, deterministic score/envelopes/clouds, expression-curve MIDI, renderer and pitch/register/audio/regeneration audits"
   }
 ]

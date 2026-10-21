@@ -1,0 +1,493 @@
+{
+  "score_sha256": "749ea4920580cdc838aebef4810e1b9990b175851f91592073390d924be9d938",
+  "score_regeneration_identical": true,
+  "gate_render_deterministic": true,
+  "gate_note_zero_sample_fraction": 0.5145101762660991,
+  "all_instruments": [
+    {
+      "id": 0,
+      "attacks": 27,
+      "written_seconds": 18.285697999999993
+    },
+    {
+      "id": 1,
+      "attacks": 24,
+      "written_seconds": 18.064387
+    },
+    {
+      "id": 2,
+      "attacks": 26,
+      "written_seconds": 19.607807755732182
+    },
+    {
+      "id": 3,
+      "attacks": 44,
+      "written_seconds": 20.49356900000001
+    },
+    {
+      "id": 4,
+      "attacks": 29,
+      "written_seconds": 31.958732974014573
+    },
+    {
+      "id": 5,
+      "attacks": 35,
+      "written_seconds": 27.03575056486918
+    },
+    {
+      "id": 6,
+      "attacks": 43,
+      "written_seconds": 29.738602
+    },
+    {
+      "id": 7,
+      "attacks": 10,
+      "written_seconds": 21.628185461578354
+    },
+    {
+      "id": 8,
+      "attacks": 36,
+      "written_seconds": 28.823521095087255
+    },
+    {
+      "id": 9,
+      "attacks": 19,
+      "written_seconds": 26.668046974014544
+    },
+    {
+      "id": 10,
+      "attacks": 13,
+      "written_seconds": 21.851333999999998
+    },
+    {
+      "id": 11,
+      "attacks": 33,
+      "written_seconds": 31.828661999999998
+    },
+    {
+      "id": 12,
+      "attacks": 9,
+      "written_seconds": 19.69049801005803
+    },
+    {
+      "id": 13,
+      "attacks": 21,
+      "written_seconds": 14.828796999999991
+    },
+    {
+      "id": 14,
+      "attacks": 21,
+      "written_seconds": 24.719180974014535
+    },
+    {
+      "id": 15,
+      "attacks": 14,
+      "written_seconds": 26.85894388785445
+    },
+    {
+      "id": 16,
+      "attacks": 11,
+      "written_seconds": 18.884163943469243
+    },
+    {
+      "id": 17,
+      "attacks": 32,
+      "written_seconds": 24.215204000000004
+    },
+    {
+      "id": 18,
+      "attacks": 24,
+      "written_seconds": 29.66212109508731
+    },
+    {
+      "id": 19,
+      "attacks": 32,
+      "written_seconds": 22.839985095087275
+    },
+    {
+      "id": 20,
+      "attacks": 34,
+      "written_seconds": 22.251255000000004
+    },
+    {
+      "id": 21,
+      "attacks": 27,
+      "written_seconds": 18.425679000000002
+    },
+    {
+      "id": 22,
+      "attacks": 25,
+      "written_seconds": 19.651738
+    },
+    {
+      "id": 23,
+      "attacks": 15,
+      "written_seconds": 20.05803694346925
+    },
+    {
+      "id": 24,
+      "attacks": 20,
+      "written_seconds": 18.894746755732125
+    },
+    {
+      "id": 25,
+      "attacks": 41,
+      "written_seconds": 20.211632
+    },
+    {
+      "id": 26,
+      "attacks": 30,
+      "written_seconds": 30.182247609924485
+    },
+    {
+      "id": 27,
+      "attacks": 26,
+      "written_seconds": 24.2814270950873
+    },
+    {
+      "id": 28,
+      "attacks": 16,
+      "written_seconds": 14.543362
+    },
+    {
+      "id": 29,
+      "attacks": 19,
+      "written_seconds": 29.208686
+    },
+    {
+      "id": 30,
+      "attacks": 16,
+      "written_seconds": 22.409664403759827
+    },
+    {
+      "id": 31,
+      "attacks": 43,
+      "written_seconds": 29.363255
+    },
+    {
+      "id": 32,
+      "attacks": 18,
+      "written_seconds": 24.949231770420983
+    },
+    {
+      "id": 33,
+      "attacks": 21,
+      "written_seconds": 19.81614299999997
+    },
+    {
+      "id": 34,
+      "attacks": 16,
+      "written_seconds": 18.640134
+    },
+    {
+      "id": 35,
+      "attacks": 19,
+      "written_seconds": 24.649893000000002
+    },
+    {
+      "id": 36,
+      "attacks": 18,
+      "written_seconds": 27.210576000000003
+    },
+    {
+      "id": 37,
+      "attacks": 13,
+      "written_seconds": 16.545328755732168
+    },
+    {
+      "id": 38,
+      "attacks": 17,
+      "written_seconds": 22.244072000000035
+    },
+    {
+      "id": 39,
+      "attacks": 28,
+      "written_seconds": 28.83621460992446
+    },
+    {
+      "id": 40,
+      "attacks": 24,
+      "written_seconds": 22.896817010058015
+    },
+    {
+      "id": 41,
+      "attacks": 35,
+      "written_seconds": 19.350346000000005
+    },
+    {
+      "id": 42,
+      "attacks": 16,
+      "written_seconds": 22.327196403759846
+    },
+    {
+      "id": 43,
+      "attacks": 13,
+      "written_seconds": 24.870374822004397
+    },
+    {
+      "id": 44,
+      "attacks": 22,
+      "written_seconds": 18.957149000000005
+    },
+    {
+      "id": 45,
+      "attacks": 24,
+      "written_seconds": 20.16650299999999
+    },
+    {
+      "id": 46,
+      "attacks": 17,
+      "written_seconds": 18.633191010058013
+    },
+    {
+      "id": 47,
+      "attacks": 19,
+      "written_seconds": 24.397852999999998
+    },
+    {
+      "id": 48,
+      "attacks": 21,
+      "written_seconds": 29.296741000000004
+    },
+    {
+      "id": 49,
+      "attacks": 24,
+      "written_seconds": 30.15565460992451
+    },
+    {
+      "id": 50,
+      "attacks": 33,
+      "written_seconds": 29.697607770420998
+    },
+    {
+      "id": 51,
+      "attacks": 26,
+      "written_seconds": 23.861039095087303
+    },
+    {
+      "id": 52,
+      "attacks": 21,
+      "written_seconds": 22.158114403759832
+    },
+    {
+      "id": 53,
+      "attacks": 12,
+      "written_seconds": 21.567785999999998
+    },
+    {
+      "id": 54,
+      "attacks": 13,
+      "written_seconds": 20.18025101005799
+    },
+    {
+      "id": 55,
+      "attacks": 32,
+      "written_seconds": 29.788441999999975
+    },
+    {
+      "id": 56,
+      "attacks": 27,
+      "written_seconds": 18.59792401005803
+    },
+    {
+      "id": 57,
+      "attacks": 33,
+      "written_seconds": 23.268725999999997
+    },
+    {
+      "id": 58,
+      "attacks": 15,
+      "written_seconds": 21.009477403759863
+    },
+    {
+      "id": 59,
+      "attacks": 38,
+      "written_seconds": 23.97993599999998
+    },
+    {
+      "id": 60,
+      "attacks": 18,
+      "written_seconds": 21.807297047950343
+    },
+    {
+      "id": 61,
+      "attacks": 22,
+      "written_seconds": 19.61205683206242
+    },
+    {
+      "id": 62,
+      "attacks": 11,
+      "written_seconds": 21.778259403759833
+    },
+    {
+      "id": 63,
+      "attacks": 11,
+      "written_seconds": 20.632920999999996
+    },
+    {
+      "id": 64,
+      "attacks": 15,
+      "written_seconds": 14.687316999999998
+    },
+    {
+      "id": 65,
+      "attacks": 11,
+      "written_seconds": 21.022761461578355
+    },
+    {
+      "id": 66,
+      "attacks": 36,
+      "written_seconds": 27.360567999999997
+    },
+    {
+      "id": 67,
+      "attacks": 24,
+      "written_seconds": 17.766915
+    },
+    {
+      "id": 68,
+      "attacks": 42,
+      "written_seconds": 27.258467999999997
+    },
+    {
+      "id": 69,
+      "attacks": 33,
+      "written_seconds": 28.42081
+    },
+    {
+      "id": 70,
+      "attacks": 11,
+      "written_seconds": 18.14711094346928
+    },
+    {
+      "id": 71,
+      "attacks": 18,
+      "written_seconds": 22.554729999999996
+    },
+    {
+      "id": 72,
+      "attacks": 24,
+      "written_seconds": 19.473572000000004
+    },
+    {
+      "id": 73,
+      "attacks": 19,
+      "written_seconds": 21.43676377042098
+    },
+    {
+      "id": 74,
+      "attacks": 24,
+      "written_seconds": 28.386091095087302
+    },
+    {
+      "id": 75,
+      "attacks": 22,
+      "written_seconds": 19.90332052615318
+    },
+    {
+      "id": 76,
+      "attacks": 20,
+      "written_seconds": 30.834453
+    },
+    {
+      "id": 77,
+      "attacks": 40,
+      "written_seconds": 29.153795000000002
+    },
+    {
+      "id": 78,
+      "attacks": 27,
+      "written_seconds": 26.96176882200439
+    },
+    {
+      "id": 79,
+      "attacks": 45,
+      "written_seconds": 25.530658999999996
+    },
+    {
+      "id": 80,
+      "attacks": 17,
+      "written_seconds": 27.973217
+    },
+    {
+      "id": 81,
+      "attacks": 12,
+      "written_seconds": 14.900864943469271
+    },
+    {
+      "id": 82,
+      "attacks": 16,
+      "written_seconds": 19.073536999999984
+    },
+    {
+      "id": 83,
+      "attacks": 23,
+      "written_seconds": 22.011343
+    },
+    {
+      "id": 84,
+      "attacks": 21,
+      "written_seconds": 20.311299943469255
+    },
+    {
+      "id": 85,
+      "attacks": 12,
+      "written_seconds": 25.935260999999997
+    },
+    {
+      "id": 86,
+      "attacks": 42,
+      "written_seconds": 27.490629000000002
+    },
+    {
+      "id": 87,
+      "attacks": 15,
+      "written_seconds": 24.48898697401456
+    },
+    {
+      "id": 88,
+      "attacks": 20,
+      "written_seconds": 21.95098809508731
+    },
+    {
+      "id": 89,
+      "attacks": 14,
+      "written_seconds": 20.82472388785444
+    },
+    {
+      "id": 90,
+      "attacks": 29,
+      "written_seconds": 29.282047
+    },
+    {
+      "id": 91,
+      "attacks": 18,
+      "written_seconds": 25.122142609924506
+    },
+    {
+      "id": 92,
+      "attacks": 18,
+      "written_seconds": 23.62581082200437
+    },
+    {
+      "id": 93,
+      "attacks": 32,
+      "written_seconds": 22.540535
+    },
+    {
+      "id": 94,
+      "attacks": 43,
+      "written_seconds": 25.194381999999987
+    },
+    {
+      "id": 95,
+      "attacks": 19,
+      "written_seconds": 32.636442
+    },
+    {
+      "id": 96,
+      "attacks": 18,
+      "written_seconds": 25.448227000000003
+    }
+  ]
+}

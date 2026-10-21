@@ -1,0 +1,134 @@
+[
+  {
+    "number": 1,
+    "title": "The Small Door",
+    "slug": "the_small_door",
+    "duration": 52,
+    "description": "A quick succession of chamber apertures; a miniature journey rather than an overture.",
+    "form": "jewel",
+    "final_chord_start": 31.2,
+    "audio": "01_the_small_door.mp3",
+    "album_start": 0
+  },
+  {
+    "number": 2,
+    "title": "Reed Exchange",
+    "slug": "reed_exchange",
+    "duration": 233,
+    "description": "Unequal answering choirs, long wind lines, keyboard interruptions and changing protagonists.",
+    "form": "dialogue",
+    "final_chord_start": 139.79999999999998,
+    "audio": "02_reed_exchange.mp3",
+    "album_start": 54
+  },
+  {
+    "number": 3,
+    "title": "Fifths Under Glass",
+    "slug": "fifths_under_glass",
+    "duration": 418,
+    "description": "Walks through a graph of overlapping triads and sevenths; the same route changes register and color.",
+    "form": "graph",
+    "final_chord_start": 250.79999999999998,
+    "audio": "03_fifths_under_glass.mp3",
+    "album_start": 289
+  },
+  {
+    "number": 4,
+    "title": "A Very Short Parade",
+    "slug": "a_very_short_parade",
+    "duration": 81,
+    "description": "Construction-tree endpoints become a moving instrumental genealogy, folding and unfolding.",
+    "form": "genealogy",
+    "final_chord_start": 48.6,
+    "audio": "04_a_very_short_parade.mp3",
+    "album_start": 709
+  },
+  {
+    "number": 5,
+    "title": "Three Unequal Rivers",
+    "slug": "three_unequal_rivers",
+    "duration": 575,
+    "description": "Three phrase clocks with changing rational relationships; broad currents and fast tributaries.",
+    "form": "rivers",
+    "final_chord_start": 345.0,
+    "audio": "05_three_unequal_rivers.mp3",
+    "album_start": 792
+  },
+  {
+    "number": 6,
+    "title": "The Switches Are Singing",
+    "slug": "the_switches_are_singing",
+    "duration": 195,
+    "description": "The sole amplitude-gate study: hard interlocks, ungated islands, variable duties and composite colors.",
+    "form": "gates",
+    "final_chord_start": 117.0,
+    "audio": "06_the_switches_are_singing.mp3",
+    "album_start": 1369
+  },
+  {
+    "number": 7,
+    "title": "One Window Left Open",
+    "slug": "one_window_left_open",
+    "duration": 41,
+    "description": "An intimate near-still miniature entirely within the destination field; a deliberate exception to the full journey.",
+    "form": "window",
+    "final_chord_start": 0.0,
+    "audio": "07_one_window_left_open.mp3",
+    "album_start": 1566
+  },
+  {
+    "number": 8,
+    "title": "Orchard of Circuits",
+    "slug": "orchard_of_circuits",
+    "duration": 370,
+    "description": "A cue-driven instrumental network: phrase endings hand energy, register and contour to another player.",
+    "form": "relay",
+    "final_chord_start": 222.0,
+    "audio": "08_orchard_of_circuits.mp3",
+    "album_start": 1609
+  },
+  {
+    "number": 9,
+    "title": "Thirty-Two Small Clocks",
+    "slug": "thirty-two_small_clocks",
+    "duration": 129,
+    "description": "Endpoint identities persist while unequal rhythmic clocks activate different branches of the construction.",
+    "form": "clocks",
+    "final_chord_start": 77.39999999999999,
+    "audio": "09_thirty-two_small_clocks.mp3",
+    "album_start": 1981
+  },
+  {
+    "number": 10,
+    "title": "Rooms in a Long House",
+    "slug": "rooms_in_a_long_house",
+    "duration": 648,
+    "description": "An episodic large form with returning rooms transformed by changing harmony, ensemble and temporal scale.",
+    "form": "rooms",
+    "final_chord_start": 388.8,
+    "audio": "10_rooms_in_a_long_house.mp3",
+    "album_start": 2112
+  },
+  {
+    "number": 11,
+    "title": "The Stair Remembers",
+    "slug": "the_stair_remembers",
+    "duration": 176,
+    "description": "Audible ascending and descending sequences through consonant chord subsets, with restrained mutations.",
+    "form": "stair",
+    "final_chord_start": 105.6,
+    "audio": "11_the_stair_remembers.mp3",
+    "album_start": 2762
+  },
+  {
+    "number": 12,
+    "title": "An Unfinished Atlas",
+    "slug": "an_unfinished_atlas",
+    "duration": 660,
+    "description": "A large additive/subtractive form: accumulate, clear, change direction, relocate, interrupt; a dry open-ended exit.",
+    "form": "atlas",
+    "final_chord_start": 396.0,
+    "audio": "12_an_unfinished_atlas.mp3",
+    "album_start": 2940
+  }
+]

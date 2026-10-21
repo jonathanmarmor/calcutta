@@ -1,0 +1,7823 @@
+{
+  "title": "The Counting Choir",
+  "number": 4,
+  "seed": 2026101803,
+  "duration": 334,
+  "premise": "An original synthetic speaking voice counts Fibonacci numbers and comments on the tuning; a fixed-pitch formant vocoder turns its syllables into a strange dry choir.",
+  "notes": [
+    {
+      "instrument": 8,
+      "start": 0.2,
+      "duration": 0.56,
+      "pitch": 55.127809113555934,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        0
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 0.7,
+      "duration": 1.15,
+      "pitch": 57.50374548474124,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        0
+      ],
+      "attack": 0.006,
+      "word": 0,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 0.9,
+      "duration": 0.36,
+      "pitch": 57.50374548474124,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        0
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 8,
+      "start": 1.35,
+      "duration": 1.12,
+      "pitch": 59.87968185592655,
+      "velocity": 51,
+      "role": "instrument answers voice",
+      "fields": [
+        0
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 2.07,
+      "duration": 1.6,
+      "pitch": 59.87968185592655,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        0
+      ],
+      "attack": 0.006,
+      "word": 1,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 2.75,
+      "duration": 0.72,
+      "pitch": 58.69171367033388,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        0
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 3.89,
+      "duration": 1.3,
+      "pitch": 58.69171367033388,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        0
+      ],
+      "attack": 0.006,
+      "word": 2,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 4.0985,
+      "duration": 0.56,
+      "pitch": 55.127809113555934,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        0
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 8,
+      "start": 4.7985,
+      "duration": 0.36,
+      "pitch": 57.50374548474124,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        0
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 8,
+      "start": 5.2485,
+      "duration": 1.12,
+      "pitch": 59.87968185592655,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        0
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 5.41,
+      "duration": 2.1,
+      "pitch": 62.25561822711185,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        0
+      ],
+      "attack": 0.006,
+      "word": 3,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 6.6485,
+      "duration": 0.72,
+      "pitch": 58.69171367033388,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        0
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 7.73,
+      "duration": 1.15,
+      "pitch": 58.392345687564536,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        1
+      ],
+      "attack": 0.006,
+      "word": 4,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 7.997,
+      "duration": 0.56,
+      "pitch": 54.23540741253873,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        1
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 8,
+      "start": 8.697,
+      "duration": 0.36,
+      "pitch": 58.392345687564536,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        1
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 9.1,
+      "duration": 1.6,
+      "pitch": 61.16363787091509,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        1
+      ],
+      "attack": 0.006,
+      "word": 5,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 9.147,
+      "duration": 1.12,
+      "pitch": 61.16363787091509,
+      "velocity": 52,
+      "role": "instrument answers voice",
+      "fields": [
+        1
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 8,
+      "start": 10.547,
+      "duration": 0.72,
+      "pitch": 59.5470507639606,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        1
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 14,
+      "start": 11.7,
+      "duration": 0.56,
+      "pitch": 54.23540741253873,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        1
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 12.2,
+      "duration": 1.6,
+      "pitch": 58.392345687564536,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        1
+      ],
+      "attack": 0.006,
+      "word": 1,
+      "voice": 1
+    },
+    {
+      "instrument": 14,
+      "start": 12.4,
+      "duration": 0.36,
+      "pitch": 58.392345687564536,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        1
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 12.58,
+      "duration": 1.248,
+      "pitch": 63.70398903898641,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        1
+      ],
+      "attack": 0.006,
+      "word": 3,
+      "voice": 3
+    },
+    {
+      "instrument": 14,
+      "start": 12.85,
+      "duration": 1.12,
+      "pitch": 61.16363787091509,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        1
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 14.02,
+      "duration": 1.12682,
+      "pitch": 61.16363787091509,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        1
+      ],
+      "attack": 0.006,
+      "word": 2,
+      "voice": 1
+    },
+    {
+      "instrument": 14,
+      "start": 14.25,
+      "duration": 0.72,
+      "pitch": 59.5470507639606,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        1
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 14.4,
+      "duration": 0.74682,
+      "pitch": 65.3205761459409,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        1
+      ],
+      "attack": 0.006,
+      "word": 4,
+      "voice": 3
+    },
+    {
+      "instrument": 27,
+      "start": 15.54,
+      "duration": 2.1,
+      "pitch": 62.38917763860244,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        2
+      ],
+      "attack": 0.006,
+      "word": 3,
+      "voice": 1
+    },
+    {
+      "instrument": 14,
+      "start": 15.5985,
+      "duration": 0.56,
+      "pitch": 55.04776047605017,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        2
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 15.92,
+      "duration": 1.638,
+      "pitch": 73.0900272947386,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        2
+      ],
+      "attack": 0.006,
+      "word": 5,
+      "voice": 3
+    },
+    {
+      "instrument": 14,
+      "start": 16.2985,
+      "duration": 0.36,
+      "pitch": 59.276416761680274,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        2
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 14,
+      "start": 16.7485,
+      "duration": 1.12,
+      "pitch": 63.681267059211635,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        2
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 17.86,
+      "duration": 1.15,
+      "pitch": 66.04226681868845,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        2
+      ],
+      "attack": 0.006,
+      "word": 4,
+      "voice": 1
+    },
+    {
+      "instrument": 14,
+      "start": 18.1485,
+      "duration": 0.72,
+      "pitch": 62.38917763860244,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        2
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 18.24,
+      "duration": 0.897,
+      "pitch": 63.681267059211635,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        2
+      ],
+      "attack": 0.006,
+      "word": 0,
+      "voice": 3
+    },
+    {
+      "instrument": 27,
+      "start": 19.23,
+      "duration": 1.6,
+      "pitch": 59.276416761680274,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        2
+      ],
+      "attack": 0.006,
+      "word": 5,
+      "voice": 1
+    },
+    {
+      "instrument": 14,
+      "start": 19.497,
+      "duration": 0.56,
+      "pitch": 55.04776047605017,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        2
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 19.61,
+      "duration": 1.248,
+      "pitch": 66.04226681868845,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        2
+      ],
+      "attack": 0.006,
+      "word": 1,
+      "voice": 3
+    },
+    {
+      "instrument": 14,
+      "start": 20.197,
+      "duration": 0.36,
+      "pitch": 59.276416761680274,
+      "velocity": 51,
+      "role": "instrument answers voice",
+      "fields": [
+        2
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 14,
+      "start": 20.647,
+      "duration": 1.12,
+      "pitch": 63.681267059211635,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        2
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 21.05,
+      "duration": 1.3,
+      "pitch": 63.681267059211635,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        2
+      ],
+      "attack": 0.006,
+      "word": 0,
+      "voice": 1
+    },
+    {
+      "instrument": 27,
+      "start": 21.43,
+      "duration": 1.014,
+      "pitch": 70.4471171162198,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        2
+      ],
+      "attack": 0.006,
+      "word": 2,
+      "voice": 3
+    },
+    {
+      "instrument": 14,
+      "start": 22.047,
+      "duration": 0.69073,
+      "pitch": 62.38917763860244,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        2
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 10,
+      "start": 23.2,
+      "duration": 0.56,
+      "pitch": 54.01408893956282,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        3
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 23.7,
+      "duration": 1.3,
+      "pitch": 57.02113340934422,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        3
+      ],
+      "attack": 0.006,
+      "word": 9,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 23.9,
+      "duration": 0.36,
+      "pitch": 57.02113340934422,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        3
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 24.35,
+      "duration": 1.12,
+      "pitch": 63.035222348907034,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        3
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 25.22,
+      "duration": 2.1,
+      "pitch": 63.035222348907034,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        3
+      ],
+      "attack": 0.006,
+      "word": 10,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 25.75,
+      "duration": 0.72,
+      "pitch": 60.028177879125636,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        3
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 27.0985,
+      "duration": 0.56,
+      "pitch": 54.01408893956282,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        3
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 27.54,
+      "duration": 1.15,
+      "pitch": 60.028177879125636,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        3
+      ],
+      "attack": 0.006,
+      "word": 11,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 27.7985,
+      "duration": 0.36,
+      "pitch": 57.02113340934422,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        3
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 28.2485,
+      "duration": 1.12,
+      "pitch": 63.035222348907034,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        3
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 28.91,
+      "duration": 1.41864,
+      "pitch": 66.04226681868845,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        3
+      ],
+      "attack": 0.006,
+      "word": 7,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 29.6485,
+      "duration": 0.68014,
+      "pitch": 60.028177879125636,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        3
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 30.73,
+      "duration": 1.3,
+      "pitch": 58.392345687564536,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        4
+      ],
+      "attack": 0.006,
+      "word": 8,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 30.997,
+      "duration": 0.56,
+      "pitch": 54.23540741253873,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        4
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 31.697,
+      "duration": 0.36,
+      "pitch": 58.392345687564536,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        4
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 32.147,
+      "duration": 1.12,
+      "pitch": 61.16363787091509,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        4
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 32.25,
+      "duration": 2.1,
+      "pitch": 61.16363787091509,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        4
+      ],
+      "attack": 0.006,
+      "word": 9,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 33.547,
+      "duration": 0.72,
+      "pitch": 59.5470507639606,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        4
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 5,
+      "start": 34.7,
+      "duration": 0.56,
+      "pitch": 54.23540741253873,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        4
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 6,
+      "start": 34.8,
+      "duration": 3.11955,
+      "pitch": 66.47528122233696,
+      "velocity": 43,
+      "role": "glass behind a vowel",
+      "fields": [
+        4
+      ],
+      "attack": 0.006,
+      "voice": 6
+    },
+    {
+      "instrument": 27,
+      "start": 35.2,
+      "duration": 2.1,
+      "pitch": 58.392345687564536,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        4
+      ],
+      "attack": 0.006,
+      "word": 10,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 35.4,
+      "duration": 0.36,
+      "pitch": 58.392345687564536,
+      "velocity": 51,
+      "role": "instrument answers voice",
+      "fields": [
+        4
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 35.85,
+      "duration": 1.12,
+      "pitch": 61.16363787091509,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        4
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 37.25,
+      "duration": 0.66955,
+      "pitch": 59.5470507639606,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        4
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 37.52,
+      "duration": 0.39955,
+      "pitch": 61.16363787091509,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        4
+      ],
+      "attack": 0.006,
+      "word": 11,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 38.5985,
+      "duration": 0.56,
+      "pitch": 54.89995680724044,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        5
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 38.89,
+      "duration": 1.6,
+      "pitch": 61.90772543959402,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        5
+      ],
+      "attack": 0.006,
+      "word": 7,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 39.2985,
+      "duration": 0.36,
+      "pitch": 59.21242981176572,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        5
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 39.7485,
+      "duration": 1.12,
+      "pitch": 63.70009703209984,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        5
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 40.71,
+      "duration": 1.3,
+      "pitch": 66.22019844411929,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        5
+      ],
+      "attack": 0.006,
+      "word": 8,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 41.1485,
+      "duration": 0.72,
+      "pitch": 61.90772543959402,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        5
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 42.23,
+      "duration": 2.1,
+      "pitch": 59.21242981176572,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        5
+      ],
+      "attack": 0.006,
+      "word": 9,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 42.497,
+      "duration": 0.56,
+      "pitch": 54.89995680724044,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        5
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 43.197,
+      "duration": 0.36,
+      "pitch": 59.21242981176572,
+      "velocity": 52,
+      "role": "instrument answers voice",
+      "fields": [
+        5
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 43.647,
+      "duration": 1.12,
+      "pitch": 63.70009703209984,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        5
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 44.55,
+      "duration": 0.96045,
+      "pitch": 63.70009703209984,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        5
+      ],
+      "attack": 0.006,
+      "word": 10,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 45.047,
+      "duration": 0.46345,
+      "pitch": 61.90772543959402,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        5
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 24,
+      "start": 46.2,
+      "duration": 0.56,
+      "pitch": 55.04776047605017,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        6
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 27,
+      "start": 46.7,
+      "duration": 1.15,
+      "pitch": 48.0,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        6
+      ],
+      "attack": 0.006,
+      "word": 11,
+      "voice": 1
+    },
+    {
+      "instrument": 24,
+      "start": 46.9,
+      "duration": 0.36,
+      "pitch": 59.276416761680274,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        6
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 24,
+      "start": 47.35,
+      "duration": 1.12,
+      "pitch": 63.681267059211635,
+      "velocity": 52,
+      "role": "instrument answers voice",
+      "fields": [
+        6
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 27,
+      "start": 48.07,
+      "duration": 1.6,
+      "pitch": 55.04776047605017,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        6
+      ],
+      "attack": 0.006,
+      "word": 7,
+      "voice": 1
+    },
+    {
+      "instrument": 24,
+      "start": 48.75,
+      "duration": 0.72,
+      "pitch": 62.38917763860244,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        6
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 27,
+      "start": 49.89,
+      "duration": 1.3,
+      "pitch": 52.404850297531354,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        6
+      ],
+      "attack": 0.006,
+      "word": 8,
+      "voice": 1
+    },
+    {
+      "instrument": 24,
+      "start": 50.0985,
+      "duration": 0.56,
+      "pitch": 55.04776047605017,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        6
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 24,
+      "start": 50.7985,
+      "duration": 0.36,
+      "pitch": 59.276416761680274,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        6
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 24,
+      "start": 51.2485,
+      "duration": 1.12,
+      "pitch": 63.681267059211635,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        6
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 27,
+      "start": 51.41,
+      "duration": 1.69136,
+      "pitch": 59.276416761680274,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        6
+      ],
+      "attack": 0.006,
+      "word": 9,
+      "voice": 1
+    },
+    {
+      "instrument": 24,
+      "start": 52.6485,
+      "duration": 0.45286,
+      "pitch": 62.38917763860244,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        6
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 27,
+      "start": 53.73,
+      "duration": 1.15,
+      "pitch": 48.0,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        7
+      ],
+      "attack": 0.006,
+      "word": 10,
+      "voice": 1
+    },
+    {
+      "instrument": 24,
+      "start": 53.997,
+      "duration": 0.56,
+      "pitch": 55.023905190617796,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        7
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 24,
+      "start": 54.697,
+      "duration": 0.36,
+      "pitch": 59.346308384844136,
+      "velocity": 51,
+      "role": "instrument answers voice",
+      "fields": [
+        7
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 27,
+      "start": 55.1,
+      "duration": 1.6,
+      "pitch": 55.023905190617796,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        7
+      ],
+      "attack": 0.006,
+      "word": 11,
+      "voice": 1
+    },
+    {
+      "instrument": 24,
+      "start": 55.147,
+      "duration": 1.12,
+      "pitch": 63.69444016951229,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        7
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 24,
+      "start": 56.547,
+      "duration": 0.72,
+      "pitch": 62.08961934070356,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        7
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 8,
+      "start": 57.7,
+      "duration": 0.56,
+      "pitch": 55.023905190617796,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        7
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 58.2,
+      "duration": 1.6,
+      "pitch": 59.346308384844136,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        7
+      ],
+      "attack": 0.006,
+      "word": 5,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 58.4,
+      "duration": 0.36,
+      "pitch": 59.346308384844136,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        7
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 8,
+      "start": 58.85,
+      "duration": 1.12,
+      "pitch": 63.69444016951229,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        7
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 60.02,
+      "duration": 0.67227,
+      "pitch": 63.69444016951229,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        7
+      ],
+      "attack": 0.006,
+      "word": 0,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 60.25,
+      "duration": 0.44227,
+      "pitch": 62.08961934070356,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        7
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 61.54,
+      "duration": 2.1,
+      "pitch": 62.019852943167464,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        8
+      ],
+      "attack": 0.006,
+      "word": 1,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 61.5985,
+      "duration": 0.56,
+      "pitch": 55.00198771000776,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        8
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 8,
+      "start": 62.2985,
+      "duration": 0.36,
+      "pitch": 59.33655153048875,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        8
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 8,
+      "start": 62.7485,
+      "duration": 1.12,
+      "pitch": 63.69682181702527,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        8
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 63.86,
+      "duration": 1.15,
+      "pitch": 66.35441676364844,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        8
+      ],
+      "attack": 0.006,
+      "word": 2,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 64.1485,
+      "duration": 0.72,
+      "pitch": 62.019852943167464,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        8
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 65.23,
+      "duration": 1.6,
+      "pitch": 59.33655153048875,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        8
+      ],
+      "attack": 0.006,
+      "word": 3,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 65.497,
+      "duration": 0.56,
+      "pitch": 55.00198771000776,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        8
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 8,
+      "start": 66.197,
+      "duration": 0.36,
+      "pitch": 59.33655153048875,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        8
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 8,
+      "start": 66.647,
+      "duration": 1.12,
+      "pitch": 63.69682181702527,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        8
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 67.05,
+      "duration": 1.23318,
+      "pitch": 63.69682181702527,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        8
+      ],
+      "attack": 0.006,
+      "word": 4,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 68.047,
+      "duration": 0.23618,
+      "pitch": 62.019852943167464,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        8
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 14,
+      "start": 69.2,
+      "duration": 0.56,
+      "pitch": 55.02019044192105,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        9
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 69.7,
+      "duration": 1.3,
+      "pitch": 59.35619042075464,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        9
+      ],
+      "attack": 0.006,
+      "word": 0,
+      "voice": 1
+    },
+    {
+      "instrument": 14,
+      "start": 69.9,
+      "duration": 0.36,
+      "pitch": 59.35619042075464,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        9
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 70.08,
+      "duration": 1.014,
+      "pitch": 66.37030803357369,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        9
+      ],
+      "attack": 0.006,
+      "word": 2,
+      "voice": 3
+    },
+    {
+      "instrument": 14,
+      "start": 70.35,
+      "duration": 1.12,
+      "pitch": 63.69594451212402,
+      "velocity": 51,
+      "role": "instrument answers voice",
+      "fields": [
+        9
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 71.22,
+      "duration": 2.1,
+      "pitch": 63.69594451212402,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        9
+      ],
+      "attack": 0.006,
+      "word": 1,
+      "voice": 1
+    },
+    {
+      "instrument": 27,
+      "start": 71.6,
+      "duration": 1.638,
+      "pitch": 70.71006212494306,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        9
+      ],
+      "attack": 0.006,
+      "word": 3,
+      "voice": 3
+    },
+    {
+      "instrument": 14,
+      "start": 71.75,
+      "duration": 0.72,
+      "pitch": 62.0464589708048,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        9
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 14,
+      "start": 73.0985,
+      "duration": 0.56,
+      "pitch": 55.02019044192105,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        9
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 73.54,
+      "duration": 1.15,
+      "pitch": 62.0464589708048,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        9
+      ],
+      "attack": 0.006,
+      "word": 2,
+      "voice": 1
+    },
+    {
+      "instrument": 14,
+      "start": 73.7985,
+      "duration": 0.36,
+      "pitch": 59.35619042075464,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        9
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 73.92,
+      "duration": 0.897,
+      "pitch": 73.39049847549474,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        9
+      ],
+      "attack": 0.006,
+      "word": 4,
+      "voice": 3
+    },
+    {
+      "instrument": 14,
+      "start": 74.2485,
+      "duration": 1.12,
+      "pitch": 63.69594451212402,
+      "velocity": 51,
+      "role": "instrument answers voice",
+      "fields": [
+        9
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 74.91,
+      "duration": 0.96409,
+      "pitch": 66.37030803357369,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        9
+      ],
+      "attack": 0.006,
+      "word": 3,
+      "voice": 1
+    },
+    {
+      "instrument": 27,
+      "start": 75.29,
+      "duration": 0.58409,
+      "pitch": 63.69594451212402,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        9
+      ],
+      "attack": 0.006,
+      "word": 5,
+      "voice": 3
+    },
+    {
+      "instrument": 14,
+      "start": 75.6485,
+      "duration": 0.22559,
+      "pitch": 62.0464589708048,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        9
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 76.73,
+      "duration": 1.3,
+      "pitch": 59.35475798022057,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        10
+      ],
+      "attack": 0.006,
+      "word": 4,
+      "voice": 1
+    },
+    {
+      "instrument": 14,
+      "start": 76.997,
+      "duration": 0.56,
+      "pitch": 55.01698526867563,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        10
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 77.11,
+      "duration": 1.014,
+      "pitch": 66.37406291344782,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        10
+      ],
+      "attack": 0.006,
+      "word": 0,
+      "voice": 3
+    },
+    {
+      "instrument": 14,
+      "start": 77.697,
+      "duration": 0.36,
+      "pitch": 59.35475798022057,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        10
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 14,
+      "start": 78.147,
+      "duration": 1.12,
+      "pitch": 63.69628433076721,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        10
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 78.25,
+      "duration": 2.1,
+      "pitch": 63.69628433076721,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        10
+      ],
+      "attack": 0.006,
+      "word": 5,
+      "voice": 1
+    },
+    {
+      "instrument": 27,
+      "start": 78.63,
+      "duration": 1.638,
+      "pitch": 70.71326959944285,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        10
+      ],
+      "attack": 0.006,
+      "word": 1,
+      "voice": 3
+    },
+    {
+      "instrument": 14,
+      "start": 79.547,
+      "duration": 0.72,
+      "pitch": 62.03629020190289,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        10
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 10,
+      "start": 80.7,
+      "duration": 0.56,
+      "pitch": 55.01698526867563,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        10
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 81.2,
+      "duration": 2.1,
+      "pitch": 59.35475798022057,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        10
+      ],
+      "attack": 0.006,
+      "word": 9,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 81.4,
+      "duration": 0.36,
+      "pitch": 59.35475798022057,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        10
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 81.85,
+      "duration": 1.12,
+      "pitch": 63.69628433076721,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        10
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 83.25,
+      "duration": 0.215,
+      "pitch": 62.03629020190289,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        10
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 83.52,
+      "duration": 1.15,
+      "pitch": 63.69615522047613,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        11
+      ],
+      "attack": 0.006,
+      "word": 10,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 84.5985,
+      "duration": 0.56,
+      "pitch": 55.019643553254774,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        11
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 84.89,
+      "duration": 1.6,
+      "pitch": 62.04017342514001,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        11
+      ],
+      "attack": 0.006,
+      "word": 11,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 85.2985,
+      "duration": 0.36,
+      "pitch": 59.35762552436728,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        11
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 85.7485,
+      "duration": 1.12,
+      "pitch": 63.69615522047613,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        11
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 86.71,
+      "duration": 1.3,
+      "pitch": 66.37638287088637,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        11
+      ],
+      "attack": 0.006,
+      "word": 7,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 87.1485,
+      "duration": 0.72,
+      "pitch": 62.04017342514001,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        11
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 88.23,
+      "duration": 2.1,
+      "pitch": 59.35762552436728,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        11
+      ],
+      "attack": 0.006,
+      "word": 8,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 88.497,
+      "duration": 0.56,
+      "pitch": 55.019643553254774,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        11
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 89.197,
+      "duration": 0.36,
+      "pitch": 59.35762552436728,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        11
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 89.647,
+      "duration": 1.12,
+      "pitch": 63.69615522047613,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        11
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 90.55,
+      "duration": 0.50591,
+      "pitch": 63.69615522047613,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        11
+      ],
+      "attack": 0.006,
+      "word": 9,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 92.2,
+      "duration": 0.56,
+      "pitch": 55.019495406320985,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        12
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 6,
+      "start": 92.3,
+      "duration": 4.2,
+      "pitch": 73.3969243511266,
+      "velocity": 43,
+      "role": "glass behind a vowel",
+      "fields": [
+        12
+      ],
+      "attack": 0.006,
+      "voice": 6
+    },
+    {
+      "instrument": 27,
+      "start": 92.7,
+      "duration": 1.15,
+      "pitch": 59.35780423834431,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        12
+      ],
+      "attack": 0.006,
+      "word": 10,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 92.9,
+      "duration": 0.36,
+      "pitch": 59.35780423834431,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        12
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 93.35,
+      "duration": 1.12,
+      "pitch": 63.696192982308446,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        12
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 94.07,
+      "duration": 1.6,
+      "pitch": 63.696192982308446,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        12
+      ],
+      "attack": 0.006,
+      "word": 11,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 94.75,
+      "duration": 0.72,
+      "pitch": 62.03904020084146,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        12
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 95.89,
+      "duration": 1.3,
+      "pitch": 62.03904020084146,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        12
+      ],
+      "attack": 0.006,
+      "word": 7,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 96.0985,
+      "duration": 0.56,
+      "pitch": 55.019495406320985,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        12
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 96.7985,
+      "duration": 0.36,
+      "pitch": 59.35780423834431,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        12
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 97.2485,
+      "duration": 1.12,
+      "pitch": 63.696192982308446,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        12
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 97.41,
+      "duration": 1.23682,
+      "pitch": 66.37734903286479,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        12
+      ],
+      "attack": 0.006,
+      "word": 8,
+      "voice": 1
+    },
+    {
+      "instrument": 27,
+      "start": 99.73,
+      "duration": 1.15,
+      "pitch": 59.357834761390656,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        13
+      ],
+      "attack": 0.006,
+      "word": 9,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 99.997,
+      "duration": 0.56,
+      "pitch": 55.0195636588966,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        13
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 100.697,
+      "duration": 0.36,
+      "pitch": 59.357834761390656,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        13
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 101.1,
+      "duration": 1.6,
+      "pitch": 63.696185776040295,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        13
+      ],
+      "attack": 0.006,
+      "word": 10,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 101.147,
+      "duration": 1.12,
+      "pitch": 63.696185776040295,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        13
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 102.547,
+      "duration": 0.72,
+      "pitch": 62.03925662010052,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        13
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 24,
+      "start": 103.7,
+      "duration": 0.56,
+      "pitch": 55.0195636588966,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        13
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 27,
+      "start": 104.2,
+      "duration": 1.6,
+      "pitch": 48.0,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        13
+      ],
+      "attack": 0.006,
+      "word": 11,
+      "voice": 1
+    },
+    {
+      "instrument": 24,
+      "start": 104.4,
+      "duration": 0.36,
+      "pitch": 59.357834761390656,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        13
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 24,
+      "start": 104.85,
+      "duration": 1.12,
+      "pitch": 63.696185776040295,
+      "velocity": 51,
+      "role": "instrument answers voice",
+      "fields": [
+        13
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 27,
+      "start": 106.02,
+      "duration": 0.21773,
+      "pitch": 55.0195636588966,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        13
+      ],
+      "attack": 0.006,
+      "word": 7,
+      "voice": 1
+    },
+    {
+      "instrument": 27,
+      "start": 107.54,
+      "duration": 2.1,
+      "pitch": 52.33824057776099,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        14
+      ],
+      "attack": 0.006,
+      "word": 8,
+      "voice": 1
+    },
+    {
+      "instrument": 24,
+      "start": 107.5985,
+      "duration": 0.56,
+      "pitch": 55.019175766264965,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        14
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 24,
+      "start": 108.2985,
+      "duration": 0.36,
+      "pitch": 59.35741634402595,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        14
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 24,
+      "start": 108.7485,
+      "duration": 1.12,
+      "pitch": 63.69620463669551,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        14
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 27,
+      "start": 109.86,
+      "duration": 1.15,
+      "pitch": 59.35741634402595,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        14
+      ],
+      "attack": 0.006,
+      "word": 9,
+      "voice": 1
+    },
+    {
+      "instrument": 24,
+      "start": 110.1485,
+      "duration": 0.72,
+      "pitch": 62.038690034447676,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        14
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 27,
+      "start": 111.23,
+      "duration": 1.6,
+      "pitch": 48.0,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        14
+      ],
+      "attack": 0.006,
+      "word": 10,
+      "voice": 1
+    },
+    {
+      "instrument": 24,
+      "start": 111.497,
+      "duration": 0.56,
+      "pitch": 55.019175766264965,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        14
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 24,
+      "start": 112.197,
+      "duration": 0.36,
+      "pitch": 59.35741634402595,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        14
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 24,
+      "start": 112.647,
+      "duration": 1.12,
+      "pitch": 63.69620463669551,
+      "velocity": 52,
+      "role": "instrument answers voice",
+      "fields": [
+        14
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 27,
+      "start": 113.05,
+      "duration": 0.77864,
+      "pitch": 55.019175766264965,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        14
+      ],
+      "attack": 0.006,
+      "word": 11,
+      "voice": 1
+    },
+    {
+      "instrument": 24,
+      "start": 114.047,
+      "duration": 0.72,
+      "pitch": 62.039122865234496,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        15
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 8,
+      "start": 115.2,
+      "duration": 0.56,
+      "pitch": 55.01955200024576,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        15
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 115.7,
+      "duration": 1.3,
+      "pitch": 59.35786528564354,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        15
+      ],
+      "attack": 0.006,
+      "word": 4,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 115.9,
+      "duration": 0.36,
+      "pitch": 59.35786528564354,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        15
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 8,
+      "start": 116.35,
+      "duration": 1.12,
+      "pitch": 63.696190230071004,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        15
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 117.22,
+      "duration": 2.1,
+      "pitch": 63.696190230071004,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        15
+      ],
+      "attack": 0.006,
+      "word": 5,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 117.75,
+      "duration": 0.72,
+      "pitch": 62.039122865234496,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        15
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 8,
+      "start": 119.0985,
+      "duration": 0.56,
+      "pitch": 55.01955200024576,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        15
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 119.54,
+      "duration": 1.15,
+      "pitch": 62.039122865234496,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        15
+      ],
+      "attack": 0.006,
+      "word": 0,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 119.7985,
+      "duration": 0.36,
+      "pitch": 59.35786528564354,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        15
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 8,
+      "start": 120.2485,
+      "duration": 1.12,
+      "pitch": 63.696190230071004,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        15
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 120.91,
+      "duration": 0.50955,
+      "pitch": 66.37739842119701,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        15
+      ],
+      "attack": 0.006,
+      "word": 1,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 121.6485,
+      "duration": 0.72,
+      "pitch": 62.03909129018648,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        16
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 122.73,
+      "duration": 1.3,
+      "pitch": 59.35786083230498,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        16
+      ],
+      "attack": 0.006,
+      "word": 2,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 122.997,
+      "duration": 0.56,
+      "pitch": 55.01954204225736,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        16
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 8,
+      "start": 123.697,
+      "duration": 0.36,
+      "pitch": 59.35786083230498,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        16
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 8,
+      "start": 124.147,
+      "duration": 1.12,
+      "pitch": 63.696191281377686,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        16
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 124.25,
+      "duration": 2.1,
+      "pitch": 63.696191281377686,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        16
+      ],
+      "attack": 0.006,
+      "word": 3,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 125.547,
+      "duration": 0.72,
+      "pitch": 62.03909129018648,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        16
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 14,
+      "start": 126.7,
+      "duration": 0.56,
+      "pitch": 55.01954204225736,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        16
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 127.2,
+      "duration": 1.81045,
+      "pitch": 59.35786083230498,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        16
+      ],
+      "attack": 0.006,
+      "word": 5,
+      "voice": 1
+    },
+    {
+      "instrument": 14,
+      "start": 127.4,
+      "duration": 0.36,
+      "pitch": 59.35786083230498,
+      "velocity": 52,
+      "role": "instrument answers voice",
+      "fields": [
+        16
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 127.58,
+      "duration": 1.43045,
+      "pitch": 66.37741008023409,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        16
+      ],
+      "attack": 0.006,
+      "word": 1,
+      "voice": 3
+    },
+    {
+      "instrument": 14,
+      "start": 127.85,
+      "duration": 1.12,
+      "pitch": 63.696191281377686,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        16
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 14,
+      "start": 129.25,
+      "duration": 0.72,
+      "pitch": 62.03910335077293,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        17
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 129.52,
+      "duration": 1.15,
+      "pitch": 63.69619087982092,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        17
+      ],
+      "attack": 0.006,
+      "word": 0,
+      "voice": 1
+    },
+    {
+      "instrument": 27,
+      "start": 129.9,
+      "duration": 0.897,
+      "pitch": 70.71573842672179,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        17
+      ],
+      "attack": 0.006,
+      "word": 2,
+      "voice": 3
+    },
+    {
+      "instrument": 14,
+      "start": 130.5985,
+      "duration": 0.56,
+      "pitch": 55.019550299224235,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        17
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 130.89,
+      "duration": 1.6,
+      "pitch": 62.03910335077293,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        17
+      ],
+      "attack": 0.006,
+      "word": 1,
+      "voice": 1
+    },
+    {
+      "instrument": 27,
+      "start": 131.27,
+      "duration": 1.248,
+      "pitch": 73.39696758513291,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        17
+      ],
+      "attack": 0.006,
+      "word": 3,
+      "voice": 3
+    },
+    {
+      "instrument": 14,
+      "start": 131.2985,
+      "duration": 0.36,
+      "pitch": 59.35786973900779,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        17
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 14,
+      "start": 131.7485,
+      "duration": 1.12,
+      "pitch": 63.69619087982092,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        17
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 132.71,
+      "duration": 1.3,
+      "pitch": 66.37741728590866,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        17
+      ],
+      "attack": 0.006,
+      "word": 2,
+      "voice": 1
+    },
+    {
+      "instrument": 27,
+      "start": 133.09,
+      "duration": 1.014,
+      "pitch": 63.69619087982092,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        17
+      ],
+      "attack": 0.006,
+      "word": 4,
+      "voice": 3
+    },
+    {
+      "instrument": 14,
+      "start": 133.1485,
+      "duration": 0.72,
+      "pitch": 62.03910335077293,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        17
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 134.23,
+      "duration": 2.1,
+      "pitch": 59.35786973900779,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        17
+      ],
+      "attack": 0.006,
+      "word": 3,
+      "voice": 1
+    },
+    {
+      "instrument": 14,
+      "start": 134.497,
+      "duration": 0.56,
+      "pitch": 55.019550299224235,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        17
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 134.61,
+      "duration": 1.638,
+      "pitch": 66.37741728590866,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        17
+      ],
+      "attack": 0.006,
+      "word": 5,
+      "voice": 3
+    },
+    {
+      "instrument": 14,
+      "start": 135.197,
+      "duration": 0.36,
+      "pitch": 59.35786973900779,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        17
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 14,
+      "start": 135.647,
+      "duration": 0.95436,
+      "pitch": 63.69619087982092,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        17
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 136.93,
+      "duration": 0.897,
+      "pitch": 70.71573987957471,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        18
+      ],
+      "attack": 0.006,
+      "word": 0,
+      "voice": 1
+    },
+    {
+      "instrument": 14,
+      "start": 137.047,
+      "duration": 0.72,
+      "pitch": 62.03909874403757,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        18
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 10,
+      "start": 138.2,
+      "duration": 0.56,
+      "pitch": 55.01954884637179,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        18
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 138.7,
+      "duration": 1.15,
+      "pitch": 59.35786908927262,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        18
+      ],
+      "attack": 0.006,
+      "word": 9,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 138.9,
+      "duration": 0.36,
+      "pitch": 59.35786908927262,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        18
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 139.35,
+      "duration": 1.12,
+      "pitch": 63.69619103320292,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        18
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 140.07,
+      "duration": 1.6,
+      "pitch": 63.69619103320292,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        18
+      ],
+      "attack": 0.006,
+      "word": 10,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 140.75,
+      "duration": 0.72,
+      "pitch": 62.03909874403757,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        18
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 141.89,
+      "duration": 1.3,
+      "pitch": 62.03909874403757,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        18
+      ],
+      "attack": 0.006,
+      "word": 11,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 142.0985,
+      "duration": 0.56,
+      "pitch": 55.01954884637179,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        18
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 142.7985,
+      "duration": 0.36,
+      "pitch": 59.35786908927262,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        18
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 143.2485,
+      "duration": 0.94377,
+      "pitch": 63.69619103320292,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        18
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 143.41,
+      "duration": 0.78227,
+      "pitch": 66.3774189869384,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        18
+      ],
+      "attack": 0.006,
+      "word": 7,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 144.6485,
+      "duration": 0.72,
+      "pitch": 62.039100503653714,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        19
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 145.73,
+      "duration": 1.15,
+      "pitch": 59.35787038874351,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        19
+      ],
+      "attack": 0.006,
+      "word": 8,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 145.997,
+      "duration": 0.56,
+      "pitch": 55.019550051047545,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        19
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 146.697,
+      "duration": 0.36,
+      "pitch": 59.35787038874351,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        19
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 147.1,
+      "duration": 1.6,
+      "pitch": 63.69619097461635,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        19
+      ],
+      "attack": 0.006,
+      "word": 9,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 147.147,
+      "duration": 1.12,
+      "pitch": 63.69619097461635,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        19
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 148.547,
+      "duration": 0.72,
+      "pitch": 62.039100503653714,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        19
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 5,
+      "start": 149.7,
+      "duration": 0.56,
+      "pitch": 55.019550051047545,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        19
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 6,
+      "start": 149.8,
+      "duration": 1.98318,
+      "pitch": 73.39697008927999,
+      "velocity": 43,
+      "role": "glass behind a vowel",
+      "fields": [
+        19
+      ],
+      "attack": 0.006,
+      "voice": 6
+    },
+    {
+      "instrument": 27,
+      "start": 150.2,
+      "duration": 1.58318,
+      "pitch": 59.35787038874351,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        19
+      ],
+      "attack": 0.006,
+      "word": 10,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 150.4,
+      "duration": 0.36,
+      "pitch": 59.35787038874351,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        19
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 150.85,
+      "duration": 0.93318,
+      "pitch": 63.69619097461635,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        19
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 152.02,
+      "duration": 1.3,
+      "pitch": 63.69619099699445,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        20
+      ],
+      "attack": 0.006,
+      "word": 11,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 152.25,
+      "duration": 0.72,
+      "pitch": 62.03909983154013,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        20
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 153.54,
+      "duration": 2.1,
+      "pitch": 62.03909983154013,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        20
+      ],
+      "attack": 0.006,
+      "word": 7,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 153.5985,
+      "duration": 0.56,
+      "pitch": 55.01954983907919,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        20
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 154.2985,
+      "duration": 0.36,
+      "pitch": 59.35787029394839,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        20
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 154.7485,
+      "duration": 1.12,
+      "pitch": 63.69619099699445,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        20
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 155.86,
+      "duration": 1.15,
+      "pitch": 66.37742028640932,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        20
+      ],
+      "attack": 0.006,
+      "word": 8,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 156.1485,
+      "duration": 0.72,
+      "pitch": 62.03909983154013,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        20
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 157.23,
+      "duration": 1.6,
+      "pitch": 59.35787029394839,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        20
+      ],
+      "attack": 0.006,
+      "word": 9,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 157.497,
+      "duration": 0.56,
+      "pitch": 55.01954983907919,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        20
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 158.197,
+      "duration": 0.36,
+      "pitch": 59.35787029394839,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        20
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 158.647,
+      "duration": 0.72709,
+      "pitch": 63.69619099699445,
+      "velocity": 51,
+      "role": "instrument answers voice",
+      "fields": [
+        20
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 159.05,
+      "duration": 0.32409,
+      "pitch": 63.69619099699445,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        20
+      ],
+      "attack": 0.006,
+      "word": 10,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 160.047,
+      "duration": 0.72,
+      "pitch": 62.039100088264675,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        21
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 24,
+      "start": 161.2,
+      "duration": 0.56,
+      "pitch": 55.019550014839034,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        21
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 27,
+      "start": 161.7,
+      "duration": 1.3,
+      "pitch": 48.0,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        21
+      ],
+      "attack": 0.006,
+      "word": 11,
+      "voice": 1
+    },
+    {
+      "instrument": 24,
+      "start": 161.9,
+      "duration": 0.36,
+      "pitch": 59.35787048353865,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        21
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 24,
+      "start": 162.35,
+      "duration": 1.12,
+      "pitch": 63.69619098844678,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        21
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 27,
+      "start": 163.22,
+      "duration": 2.1,
+      "pitch": 55.019550014839034,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        21
+      ],
+      "attack": 0.006,
+      "word": 7,
+      "voice": 1
+    },
+    {
+      "instrument": 24,
+      "start": 163.75,
+      "duration": 0.72,
+      "pitch": 62.039100088264675,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        21
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 24,
+      "start": 165.0985,
+      "duration": 0.56,
+      "pitch": 55.019550014839034,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        21
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 27,
+      "start": 165.54,
+      "duration": 1.15,
+      "pitch": 52.33832050490813,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        21
+      ],
+      "attack": 0.006,
+      "word": 8,
+      "voice": 1
+    },
+    {
+      "instrument": 24,
+      "start": 165.7985,
+      "duration": 0.36,
+      "pitch": 59.35787048353865,
+      "velocity": 51,
+      "role": "instrument answers voice",
+      "fields": [
+        21
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 24,
+      "start": 166.2485,
+      "duration": 0.7165,
+      "pitch": 63.69619098844678,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        21
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 24,
+      "start": 167.6485,
+      "duration": 0.72,
+      "pitch": 62.03909999020461,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 27,
+      "start": 168.73,
+      "duration": 1.3,
+      "pitch": 48.0,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "word": 10,
+      "voice": 1
+    },
+    {
+      "instrument": 24,
+      "start": 168.997,
+      "duration": 0.56,
+      "pitch": 55.01954998391326,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 24,
+      "start": 169.697,
+      "duration": 0.36,
+      "pitch": 59.35787046970822,
+      "velocity": 51,
+      "role": "instrument answers voice",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 24,
+      "start": 170.147,
+      "duration": 1.12,
+      "pitch": 63.6961909917117,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 27,
+      "start": 170.25,
+      "duration": 2.1,
+      "pitch": 55.01954998391326,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "word": 11,
+      "voice": 1
+    },
+    {
+      "instrument": 24,
+      "start": 171.547,
+      "duration": 0.72,
+      "pitch": 62.03909999020461,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 8,
+      "start": 172.7,
+      "duration": 0.56,
+      "pitch": 55.01954998391326,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 173.2,
+      "duration": 1.35591,
+      "pitch": 59.35787046970822,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "word": 3,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 173.4,
+      "duration": 0.36,
+      "pitch": 59.35787046970822,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 8,
+      "start": 173.85,
+      "duration": 0.70591,
+      "pitch": 63.6961909917117,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 8,
+      "start": 175.25,
+      "duration": 0.72,
+      "pitch": 62.03910002766023,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 175.52,
+      "duration": 1.15,
+      "pitch": 63.69619099046461,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "word": 4,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 176.5985,
+      "duration": 0.56,
+      "pitch": 55.019550009556276,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 176.89,
+      "duration": 1.6,
+      "pitch": 62.03910002766023,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "word": 5,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 177.2985,
+      "duration": 0.36,
+      "pitch": 59.35787049736907,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 8,
+      "start": 177.7485,
+      "duration": 1.12,
+      "pitch": 63.69619099046461,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 178.71,
+      "duration": 1.3,
+      "pitch": 66.37742049837767,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "word": 0,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 179.1485,
+      "duration": 0.72,
+      "pitch": 62.03910002766023,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 180.23,
+      "duration": 1.91682,
+      "pitch": 59.35787049736907,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "word": 1,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 180.497,
+      "duration": 0.56,
+      "pitch": 55.019550009556276,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 8,
+      "start": 181.197,
+      "duration": 0.36,
+      "pitch": 59.35787049736907,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 8,
+      "start": 181.647,
+      "duration": 0.49982,
+      "pitch": 63.69619099046461,
+      "velocity": 51,
+      "role": "instrument answers voice",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 182.55,
+      "duration": 1.15,
+      "pitch": 63.69619099082851,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "word": 2,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 183.047,
+      "duration": 0.72,
+      "pitch": 62.03910001673083,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 14,
+      "start": 184.2,
+      "duration": 0.56,
+      "pitch": 55.01955000812725,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 184.7,
+      "duration": 1.15,
+      "pitch": 59.357870499092506,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "word": 4,
+      "voice": 1
+    },
+    {
+      "instrument": 14,
+      "start": 184.9,
+      "duration": 0.36,
+      "pitch": 59.357870499092506,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 185.08,
+      "duration": 0.897,
+      "pitch": 66.37742050769609,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "word": 0,
+      "voice": 3
+    },
+    {
+      "instrument": 14,
+      "start": 185.35,
+      "duration": 1.12,
+      "pitch": 63.69619099082851,
+      "velocity": 51,
+      "role": "instrument answers voice",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 186.07,
+      "duration": 1.6,
+      "pitch": 63.69619099082851,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "word": 5,
+      "voice": 1
+    },
+    {
+      "instrument": 27,
+      "start": 186.45,
+      "duration": 1.248,
+      "pitch": 70.71574099895575,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "word": 1,
+      "voice": 3
+    },
+    {
+      "instrument": 14,
+      "start": 186.75,
+      "duration": 0.72,
+      "pitch": 62.03910001673083,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 187.89,
+      "duration": 1.3,
+      "pitch": 62.03910001673083,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "word": 0,
+      "voice": 1
+    },
+    {
+      "instrument": 14,
+      "start": 188.0985,
+      "duration": 0.56,
+      "pitch": 55.01955000812725,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 188.27,
+      "duration": 1.014,
+      "pitch": 73.39697051659408,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "word": 2,
+      "voice": 3
+    },
+    {
+      "instrument": 14,
+      "start": 188.7985,
+      "duration": 0.36,
+      "pitch": 59.357870499092506,
+      "velocity": 52,
+      "role": "instrument answers voice",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 14,
+      "start": 189.2485,
+      "duration": 0.48923,
+      "pitch": 63.69619099082851,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 189.41,
+      "duration": 0.32773,
+      "pitch": 66.37742050769609,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "word": 1,
+      "voice": 1
+    },
+    {
+      "instrument": 27,
+      "start": 189.79,
+      "duration": 1.638,
+      "pitch": 63.69619099075901,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "word": 3,
+      "voice": 1
+    },
+    {
+      "instrument": 14,
+      "start": 190.6485,
+      "duration": 0.72,
+      "pitch": 62.039100018818154,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 191.73,
+      "duration": 1.15,
+      "pitch": 59.3578704993869,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "word": 2,
+      "voice": 1
+    },
+    {
+      "instrument": 14,
+      "start": 191.997,
+      "duration": 0.56,
+      "pitch": 55.01955000878554,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 192.11,
+      "duration": 0.897,
+      "pitch": 66.37742050692535,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "word": 4,
+      "voice": 3
+    },
+    {
+      "instrument": 14,
+      "start": 192.697,
+      "duration": 0.36,
+      "pitch": 59.3578704993869,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 193.1,
+      "duration": 1.6,
+      "pitch": 63.69619099075901,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "word": 3,
+      "voice": 1
+    },
+    {
+      "instrument": 14,
+      "start": 193.147,
+      "duration": 1.12,
+      "pitch": 63.69619099075901,
+      "velocity": 51,
+      "role": "instrument answers voice",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 193.48,
+      "duration": 1.248,
+      "pitch": 70.71574099829746,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "word": 5,
+      "voice": 3
+    },
+    {
+      "instrument": 14,
+      "start": 194.547,
+      "duration": 0.72,
+      "pitch": 62.039100018818154,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 10,
+      "start": 195.7,
+      "duration": 0.56,
+      "pitch": 55.01955000878554,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 196.2,
+      "duration": 1.12864,
+      "pitch": 59.3578704993869,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "word": 9,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 196.4,
+      "duration": 0.36,
+      "pitch": 59.3578704993869,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 196.85,
+      "duration": 0.47864,
+      "pitch": 63.69619099075901,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 198.02,
+      "duration": 1.3,
+      "pitch": 63.696190990940956,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "word": 10,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 198.25,
+      "duration": 0.72,
+      "pitch": 62.039100013353455,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 199.54,
+      "duration": 2.1,
+      "pitch": 62.039100013353455,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "word": 11,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 199.5985,
+      "duration": 0.56,
+      "pitch": 55.019550005044266,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 200.2985,
+      "duration": 0.36,
+      "pitch": 59.357870495351236,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 200.7485,
+      "duration": 1.12,
+      "pitch": 63.696190990940956,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 201.86,
+      "duration": 1.15,
+      "pitch": 66.37742050366042,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "word": 7,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 202.1485,
+      "duration": 0.72,
+      "pitch": 62.039100013353455,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 203.23,
+      "duration": 1.6,
+      "pitch": 59.357870495351236,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "word": 8,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 203.497,
+      "duration": 0.56,
+      "pitch": 55.019550005044266,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 204.197,
+      "duration": 0.36,
+      "pitch": 59.357870495351236,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 204.647,
+      "duration": 0.27255,
+      "pitch": 63.696190990940956,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 205.05,
+      "duration": 1.3,
+      "pitch": 63.696190990801966,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "word": 9,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 206.047,
+      "duration": 0.72,
+      "pitch": 62.039100017528106,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 5,
+      "start": 207.2,
+      "duration": 0.56,
+      "pitch": 55.019550008673086,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 6,
+      "start": 207.3,
+      "duration": 4.2,
+      "pitch": 73.39697051684553,
+      "velocity": 43,
+      "role": "glass behind a vowel",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 6
+    },
+    {
+      "instrument": 27,
+      "start": 207.7,
+      "duration": 1.3,
+      "pitch": 59.357870499681304,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "word": 10,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 207.9,
+      "duration": 0.36,
+      "pitch": 59.357870499681304,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 208.35,
+      "duration": 1.12,
+      "pitch": 63.696190990801966,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 209.22,
+      "duration": 2.1,
+      "pitch": 63.696190990801966,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "word": 11,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 209.75,
+      "duration": 0.72,
+      "pitch": 62.039100017528106,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 211.0985,
+      "duration": 0.56,
+      "pitch": 55.019550008673086,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 211.54,
+      "duration": 0.97045,
+      "pitch": 62.039100017528106,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "word": 7,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 211.7985,
+      "duration": 0.36,
+      "pitch": 59.357870499681304,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 212.2485,
+      "duration": 0.26195,
+      "pitch": 63.696190990801966,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 212.91,
+      "duration": 1.6,
+      "pitch": 66.37742050828489,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        28
+      ],
+      "attack": 0.006,
+      "word": 8,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 213.6485,
+      "duration": 0.72,
+      "pitch": 62.03910001722358,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        28
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 214.73,
+      "duration": 1.3,
+      "pitch": 59.357870499638345,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        28
+      ],
+      "attack": 0.006,
+      "word": 9,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 214.997,
+      "duration": 0.56,
+      "pitch": 55.01955000857704,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        28
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 215.697,
+      "duration": 0.36,
+      "pitch": 59.357870499638345,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        28
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 216.147,
+      "duration": 1.12,
+      "pitch": 63.6961909908121,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        28
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 216.25,
+      "duration": 2.1,
+      "pitch": 63.6961909908121,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        28
+      ],
+      "attack": 0.006,
+      "word": 10,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 217.547,
+      "duration": 0.72,
+      "pitch": 62.03910001722358,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        28
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 24,
+      "start": 218.7,
+      "duration": 0.56,
+      "pitch": 55.01955000857704,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        28
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 27,
+      "start": 219.2,
+      "duration": 0.90136,
+      "pitch": 48.0,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        28
+      ],
+      "attack": 0.006,
+      "word": 11,
+      "voice": 1
+    },
+    {
+      "instrument": 24,
+      "start": 219.4,
+      "duration": 0.36,
+      "pitch": 59.357870499638345,
+      "velocity": 51,
+      "role": "instrument answers voice",
+      "fields": [
+        28
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 24,
+      "start": 219.85,
+      "duration": 0.25136,
+      "pitch": 63.6961909908121,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        28
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 24,
+      "start": 221.25,
+      "duration": 0.72,
+      "pitch": 62.039100017339905,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        29
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 27,
+      "start": 221.52,
+      "duration": 1.15,
+      "pitch": 55.01955000865668,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        29
+      ],
+      "attack": 0.006,
+      "word": 7,
+      "voice": 1
+    },
+    {
+      "instrument": 24,
+      "start": 222.5985,
+      "duration": 0.56,
+      "pitch": 55.01955000865668,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        29
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 27,
+      "start": 222.89,
+      "duration": 1.6,
+      "pitch": 52.33832049108398,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        29
+      ],
+      "attack": 0.006,
+      "word": 8,
+      "voice": 1
+    },
+    {
+      "instrument": 24,
+      "start": 223.2985,
+      "duration": 0.36,
+      "pitch": 59.35787049972425,
+      "velocity": 51,
+      "role": "instrument answers voice",
+      "fields": [
+        29
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 24,
+      "start": 223.7485,
+      "duration": 1.12,
+      "pitch": 63.696190990808226,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        29
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 27,
+      "start": 224.71,
+      "duration": 1.3,
+      "pitch": 59.35787049972425,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        29
+      ],
+      "attack": 0.006,
+      "word": 9,
+      "voice": 1
+    },
+    {
+      "instrument": 24,
+      "start": 225.1485,
+      "duration": 0.72,
+      "pitch": 62.039100017339905,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        29
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 27,
+      "start": 226.23,
+      "duration": 1.46227,
+      "pitch": 48.0,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        29
+      ],
+      "attack": 0.006,
+      "word": 10,
+      "voice": 1
+    },
+    {
+      "instrument": 24,
+      "start": 226.497,
+      "duration": 0.56,
+      "pitch": 55.01955000865668,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        29
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 24,
+      "start": 227.197,
+      "duration": 0.36,
+      "pitch": 59.35787049972425,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        29
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 27,
+      "start": 228.55,
+      "duration": 1.15,
+      "pitch": 55.01955000864266,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        30
+      ],
+      "attack": 0.006,
+      "word": 11,
+      "voice": 1
+    },
+    {
+      "instrument": 24,
+      "start": 229.047,
+      "duration": 0.72,
+      "pitch": 62.03910001729547,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        30
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 8,
+      "start": 230.2,
+      "duration": 0.56,
+      "pitch": 55.01955000864266,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        30
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 230.7,
+      "duration": 1.15,
+      "pitch": 59.35787049971798,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        30
+      ],
+      "attack": 0.006,
+      "word": 2,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 230.9,
+      "duration": 0.36,
+      "pitch": 59.35787049971798,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        30
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 8,
+      "start": 231.35,
+      "duration": 1.12,
+      "pitch": 63.69619099080971,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        30
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 232.07,
+      "duration": 1.6,
+      "pitch": 63.69619099080971,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        30
+      ],
+      "attack": 0.006,
+      "word": 3,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 232.75,
+      "duration": 0.72,
+      "pitch": 62.03910001729547,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        30
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 233.89,
+      "duration": 1.3,
+      "pitch": 62.03910001729547,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        30
+      ],
+      "attack": 0.006,
+      "word": 4,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 234.0985,
+      "duration": 0.56,
+      "pitch": 55.01955000864266,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        30
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 8,
+      "start": 234.7985,
+      "duration": 0.36,
+      "pitch": 59.35787049971798,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        30
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 235.41,
+      "duration": 2.1,
+      "pitch": 66.37742050838092,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        31
+      ],
+      "attack": 0.006,
+      "word": 5,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 236.6485,
+      "duration": 0.72,
+      "pitch": 62.03910001731244,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        31
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 237.73,
+      "duration": 1.15,
+      "pitch": 59.35787049973052,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        31
+      ],
+      "attack": 0.006,
+      "word": 0,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 237.997,
+      "duration": 0.56,
+      "pitch": 55.019550008654285,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        31
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 8,
+      "start": 238.697,
+      "duration": 0.36,
+      "pitch": 59.35787049973052,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        31
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 239.1,
+      "duration": 1.6,
+      "pitch": 63.69619099080914,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        31
+      ],
+      "attack": 0.006,
+      "word": 1,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 239.147,
+      "duration": 1.12,
+      "pitch": 63.69619099080914,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        31
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 8,
+      "start": 240.547,
+      "duration": 0.72,
+      "pitch": 62.03910001731244,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        31
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 14,
+      "start": 241.7,
+      "duration": 0.56,
+      "pitch": 55.019550008654285,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        31
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 242.2,
+      "duration": 0.67409,
+      "pitch": 59.35787049973052,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        31
+      ],
+      "attack": 0.006,
+      "word": 3,
+      "voice": 1
+    },
+    {
+      "instrument": 14,
+      "start": 242.4,
+      "duration": 0.36,
+      "pitch": 59.35787049973052,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        31
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 242.58,
+      "duration": 0.29409,
+      "pitch": 66.37742050838092,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        31
+      ],
+      "attack": 0.006,
+      "word": 5,
+      "voice": 3
+    },
+    {
+      "instrument": 27,
+      "start": 244.02,
+      "duration": 1.3,
+      "pitch": 63.696190990809356,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        32
+      ],
+      "attack": 0.006,
+      "word": 4,
+      "voice": 1
+    },
+    {
+      "instrument": 14,
+      "start": 244.25,
+      "duration": 0.72,
+      "pitch": 62.039100017305955,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        32
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 244.4,
+      "duration": 1.014,
+      "pitch": 70.7157409994616,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        32
+      ],
+      "attack": 0.006,
+      "word": 0,
+      "voice": 3
+    },
+    {
+      "instrument": 27,
+      "start": 245.54,
+      "duration": 2.1,
+      "pitch": 62.039100017305955,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        32
+      ],
+      "attack": 0.006,
+      "word": 5,
+      "voice": 1
+    },
+    {
+      "instrument": 14,
+      "start": 245.5985,
+      "duration": 0.56,
+      "pitch": 55.01955000865224,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        32
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 245.92,
+      "duration": 1.638,
+      "pitch": 73.39697051703796,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        32
+      ],
+      "attack": 0.006,
+      "word": 1,
+      "voice": 3
+    },
+    {
+      "instrument": 14,
+      "start": 246.2985,
+      "duration": 0.36,
+      "pitch": 59.3578704997296,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        32
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 14,
+      "start": 246.7485,
+      "duration": 1.12,
+      "pitch": 63.696190990809356,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        32
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 247.86,
+      "duration": 1.15,
+      "pitch": 66.37742050838332,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        32
+      ],
+      "attack": 0.006,
+      "word": 0,
+      "voice": 1
+    },
+    {
+      "instrument": 14,
+      "start": 248.1485,
+      "duration": 0.72,
+      "pitch": 62.039100017305955,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        32
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 248.24,
+      "duration": 0.897,
+      "pitch": 63.696190990809356,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        32
+      ],
+      "attack": 0.006,
+      "word": 2,
+      "voice": 3
+    },
+    {
+      "instrument": 27,
+      "start": 249.23,
+      "duration": 1.235,
+      "pitch": 59.3578704997296,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        32
+      ],
+      "attack": 0.006,
+      "word": 1,
+      "voice": 1
+    },
+    {
+      "instrument": 14,
+      "start": 249.497,
+      "duration": 0.56,
+      "pitch": 55.01955000865224,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        32
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 249.61,
+      "duration": 0.855,
+      "pitch": 66.37742050838332,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        32
+      ],
+      "attack": 0.006,
+      "word": 3,
+      "voice": 3
+    },
+    {
+      "instrument": 14,
+      "start": 250.197,
+      "duration": 0.268,
+      "pitch": 59.3578704997296,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        32
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 14,
+      "start": 250.647,
+      "duration": 1.12,
+      "pitch": 63.696190990809285,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        33
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 251.05,
+      "duration": 1.3,
+      "pitch": 63.696190990809285,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        33
+      ],
+      "attack": 0.006,
+      "word": 2,
+      "voice": 1
+    },
+    {
+      "instrument": 27,
+      "start": 251.43,
+      "duration": 1.014,
+      "pitch": 70.71574099946265,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        33
+      ],
+      "attack": 0.006,
+      "word": 4,
+      "voice": 3
+    },
+    {
+      "instrument": 14,
+      "start": 252.047,
+      "duration": 0.72,
+      "pitch": 62.03910001730843,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        33
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 10,
+      "start": 253.2,
+      "duration": 0.56,
+      "pitch": 55.01955000865393,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        33
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 253.7,
+      "duration": 1.3,
+      "pitch": 59.35787049973143,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        33
+      ],
+      "attack": 0.006,
+      "word": 9,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 253.9,
+      "duration": 0.36,
+      "pitch": 59.35787049973143,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        33
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 254.35,
+      "duration": 1.12,
+      "pitch": 63.696190990809285,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        33
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 255.22,
+      "duration": 2.1,
+      "pitch": 63.696190990809285,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        33
+      ],
+      "attack": 0.006,
+      "word": 10,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 255.75,
+      "duration": 0.72,
+      "pitch": 62.03910001730843,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        33
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 257.0985,
+      "duration": 0.56,
+      "pitch": 55.01955000865393,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        33
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 257.54,
+      "duration": 0.51591,
+      "pitch": 62.03910001730843,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        33
+      ],
+      "attack": 0.006,
+      "word": 11,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 257.7985,
+      "duration": 0.25741,
+      "pitch": 59.35787049973143,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        33
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 258.2485,
+      "duration": 1.12,
+      "pitch": 63.69619099080932,
+      "velocity": 51,
+      "role": "instrument answers voice",
+      "fields": [
+        34
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 258.91,
+      "duration": 1.6,
+      "pitch": 66.37742050838514,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        34
+      ],
+      "attack": 0.006,
+      "word": 7,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 259.6485,
+      "duration": 0.72,
+      "pitch": 62.03910001730748,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        34
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 260.73,
+      "duration": 1.3,
+      "pitch": 59.3578704997313,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        34
+      ],
+      "attack": 0.006,
+      "word": 8,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 260.997,
+      "duration": 0.56,
+      "pitch": 55.01955000865363,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        34
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 261.697,
+      "duration": 0.36,
+      "pitch": 59.3578704997313,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        34
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 262.147,
+      "duration": 1.12,
+      "pitch": 63.69619099080932,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        34
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 262.25,
+      "duration": 2.1,
+      "pitch": 63.69619099080932,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        34
+      ],
+      "attack": 0.006,
+      "word": 9,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 263.547,
+      "duration": 0.72,
+      "pitch": 62.03910001730748,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        34
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 5,
+      "start": 264.7,
+      "duration": 0.56,
+      "pitch": 55.01955000865363,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        34
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 6,
+      "start": 264.8,
+      "duration": 0.84682,
+      "pitch": 73.39697051703914,
+      "velocity": 43,
+      "role": "glass behind a vowel",
+      "fields": [
+        34
+      ],
+      "attack": 0.006,
+      "voice": 6
+    },
+    {
+      "instrument": 27,
+      "start": 265.2,
+      "duration": 0.44682,
+      "pitch": 59.3578704997313,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        34
+      ],
+      "attack": 0.006,
+      "word": 10,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 265.4,
+      "duration": 0.24682,
+      "pitch": 59.3578704997313,
+      "velocity": 52,
+      "role": "instrument answers voice",
+      "fields": [
+        34
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 265.85,
+      "duration": 1.12,
+      "pitch": 63.69619099080929,
+      "velocity": 51,
+      "role": "instrument answers voice",
+      "fields": [
+        35
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 267.25,
+      "duration": 0.72,
+      "pitch": 62.03910001730785,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        35
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 267.52,
+      "duration": 1.15,
+      "pitch": 63.69619099080929,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        35
+      ],
+      "attack": 0.006,
+      "word": 11,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 268.5985,
+      "duration": 0.56,
+      "pitch": 55.01955000865389,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        35
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 268.89,
+      "duration": 1.6,
+      "pitch": 62.03910001730785,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        35
+      ],
+      "attack": 0.006,
+      "word": 7,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 269.2985,
+      "duration": 0.36,
+      "pitch": 59.35787049973156,
+      "velocity": 51,
+      "role": "instrument answers voice",
+      "fields": [
+        35
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 269.7485,
+      "duration": 1.12,
+      "pitch": 63.69619099080929,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        35
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 270.71,
+      "duration": 1.3,
+      "pitch": 66.37742050838537,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        35
+      ],
+      "attack": 0.006,
+      "word": 8,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 271.1485,
+      "duration": 0.72,
+      "pitch": 62.03910001730785,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        35
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 272.23,
+      "duration": 1.00773,
+      "pitch": 59.35787049973156,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        35
+      ],
+      "attack": 0.006,
+      "word": 9,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 272.497,
+      "duration": 0.56,
+      "pitch": 55.01955000865389,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        35
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 273.647,
+      "duration": 1.12,
+      "pitch": 63.6961909908093,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        36
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 274.55,
+      "duration": 1.15,
+      "pitch": 63.6961909908093,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        36
+      ],
+      "attack": 0.006,
+      "word": 10,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 275.047,
+      "duration": 0.72,
+      "pitch": 62.039100017307746,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        36
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 24,
+      "start": 276.2,
+      "duration": 0.56,
+      "pitch": 55.019550008653866,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        36
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 27,
+      "start": 276.7,
+      "duration": 1.15,
+      "pitch": 48.0,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        36
+      ],
+      "attack": 0.006,
+      "word": 11,
+      "voice": 1
+    },
+    {
+      "instrument": 24,
+      "start": 276.9,
+      "duration": 0.36,
+      "pitch": 59.35787049973158,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        36
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 24,
+      "start": 277.35,
+      "duration": 1.12,
+      "pitch": 63.6961909908093,
+      "velocity": 52,
+      "role": "instrument answers voice",
+      "fields": [
+        36
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 27,
+      "start": 278.07,
+      "duration": 1.6,
+      "pitch": 55.019550008653866,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        36
+      ],
+      "attack": 0.006,
+      "word": 7,
+      "voice": 1
+    },
+    {
+      "instrument": 24,
+      "start": 278.75,
+      "duration": 0.72,
+      "pitch": 62.039100017307746,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        36
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 27,
+      "start": 279.89,
+      "duration": 0.93864,
+      "pitch": 52.33832049107771,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        36
+      ],
+      "attack": 0.006,
+      "word": 8,
+      "voice": 1
+    },
+    {
+      "instrument": 24,
+      "start": 280.0985,
+      "duration": 0.56,
+      "pitch": 55.019550008653866,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        36
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 24,
+      "start": 281.2485,
+      "duration": 1.12,
+      "pitch": 63.6961909908093,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        37
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 27,
+      "start": 281.41,
+      "duration": 2.1,
+      "pitch": 59.35787049973158,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        37
+      ],
+      "attack": 0.006,
+      "word": 9,
+      "voice": 1
+    },
+    {
+      "instrument": 24,
+      "start": 282.6485,
+      "duration": 0.72,
+      "pitch": 62.03910001730777,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        37
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 27,
+      "start": 283.73,
+      "duration": 1.15,
+      "pitch": 48.0,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        37
+      ],
+      "attack": 0.006,
+      "word": 10,
+      "voice": 1
+    },
+    {
+      "instrument": 24,
+      "start": 283.997,
+      "duration": 0.56,
+      "pitch": 55.01955000865388,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        37
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 24,
+      "start": 284.697,
+      "duration": 0.36,
+      "pitch": 59.35787049973158,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        37
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 27,
+      "start": 285.1,
+      "duration": 1.6,
+      "pitch": 55.01955000865388,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        37
+      ],
+      "attack": 0.006,
+      "word": 11,
+      "voice": 1
+    },
+    {
+      "instrument": 24,
+      "start": 285.147,
+      "duration": 1.12,
+      "pitch": 63.6961909908093,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        37
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 24,
+      "start": 286.547,
+      "duration": 0.72,
+      "pitch": 62.03910001730777,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        37
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 8,
+      "start": 287.7,
+      "duration": 0.56,
+      "pitch": 55.01955000865388,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        37
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 288.2,
+      "duration": 0.21955,
+      "pitch": 59.35787049973158,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        37
+      ],
+      "attack": 0.006,
+      "word": 1,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 288.85,
+      "duration": 1.12,
+      "pitch": 63.6961909908093,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        38
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 290.02,
+      "duration": 1.3,
+      "pitch": 63.6961909908093,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        38
+      ],
+      "attack": 0.006,
+      "word": 2,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 290.25,
+      "duration": 0.72,
+      "pitch": 62.03910001730772,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        38
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 291.54,
+      "duration": 2.1,
+      "pitch": 62.03910001730772,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        38
+      ],
+      "attack": 0.006,
+      "word": 3,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 291.5985,
+      "duration": 0.56,
+      "pitch": 55.019550008653844,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        38
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 8,
+      "start": 292.2985,
+      "duration": 0.36,
+      "pitch": 59.35787049973155,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        38
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 8,
+      "start": 292.7485,
+      "duration": 1.12,
+      "pitch": 63.6961909908093,
+      "velocity": 52,
+      "role": "instrument answers voice",
+      "fields": [
+        38
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 293.86,
+      "duration": 1.15,
+      "pitch": 66.37742050838543,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        38
+      ],
+      "attack": 0.006,
+      "word": 4,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 294.1485,
+      "duration": 0.72,
+      "pitch": 62.03910001730772,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        38
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 295.23,
+      "duration": 0.78045,
+      "pitch": 59.35787049973155,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        38
+      ],
+      "attack": 0.006,
+      "word": 5,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 295.497,
+      "duration": 0.51345,
+      "pitch": 55.019550008653844,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        38
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 8,
+      "start": 296.197,
+      "duration": 0.36,
+      "pitch": 59.35787049973159,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        39
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 8,
+      "start": 296.647,
+      "duration": 1.12,
+      "pitch": 63.6961909908093,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        39
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 27,
+      "start": 297.05,
+      "duration": 1.3,
+      "pitch": 63.6961909908093,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        39
+      ],
+      "attack": 0.006,
+      "word": 0,
+      "voice": 1
+    },
+    {
+      "instrument": 8,
+      "start": 298.047,
+      "duration": 0.72,
+      "pitch": 62.03910001730775,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        39
+      ],
+      "attack": 0.006,
+      "voice": 0
+    },
+    {
+      "instrument": 14,
+      "start": 299.2,
+      "duration": 0.56,
+      "pitch": 55.01955000865388,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        39
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 299.7,
+      "duration": 1.3,
+      "pitch": 59.35787049973159,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        39
+      ],
+      "attack": 0.006,
+      "word": 2,
+      "voice": 1
+    },
+    {
+      "instrument": 14,
+      "start": 299.9,
+      "duration": 0.36,
+      "pitch": 59.35787049973159,
+      "velocity": 51,
+      "role": "instrument answers voice",
+      "fields": [
+        39
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 300.08,
+      "duration": 1.014,
+      "pitch": 66.37742050838546,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        39
+      ],
+      "attack": 0.006,
+      "word": 4,
+      "voice": 3
+    },
+    {
+      "instrument": 14,
+      "start": 300.35,
+      "duration": 1.12,
+      "pitch": 63.6961909908093,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        39
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 301.22,
+      "duration": 2.1,
+      "pitch": 63.6961909908093,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        39
+      ],
+      "attack": 0.006,
+      "word": 3,
+      "voice": 1
+    },
+    {
+      "instrument": 27,
+      "start": 301.6,
+      "duration": 1.638,
+      "pitch": 70.71574099946316,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        39
+      ],
+      "attack": 0.006,
+      "word": 5,
+      "voice": 3
+    },
+    {
+      "instrument": 14,
+      "start": 301.75,
+      "duration": 0.72,
+      "pitch": 62.03910001730775,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        39
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 14,
+      "start": 303.0985,
+      "duration": 0.50286,
+      "pitch": 55.01955000865388,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        39
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 14,
+      "start": 303.7985,
+      "duration": 0.36,
+      "pitch": 59.35787049973159,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        40
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 303.92,
+      "duration": 0.897,
+      "pitch": 73.39697051703932,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        40
+      ],
+      "attack": 0.006,
+      "word": 0,
+      "voice": 1
+    },
+    {
+      "instrument": 14,
+      "start": 304.2485,
+      "duration": 1.12,
+      "pitch": 63.6961909908093,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        40
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 304.91,
+      "duration": 1.6,
+      "pitch": 66.37742050838546,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        40
+      ],
+      "attack": 0.006,
+      "word": 5,
+      "voice": 1
+    },
+    {
+      "instrument": 27,
+      "start": 305.29,
+      "duration": 1.248,
+      "pitch": 63.6961909908093,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        40
+      ],
+      "attack": 0.006,
+      "word": 1,
+      "voice": 3
+    },
+    {
+      "instrument": 14,
+      "start": 305.6485,
+      "duration": 0.72,
+      "pitch": 62.03910001730775,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        40
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 306.73,
+      "duration": 1.3,
+      "pitch": 59.35787049973159,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        40
+      ],
+      "attack": 0.006,
+      "word": 0,
+      "voice": 1
+    },
+    {
+      "instrument": 14,
+      "start": 306.997,
+      "duration": 0.56,
+      "pitch": 55.01955000865388,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        40
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 307.11,
+      "duration": 1.014,
+      "pitch": 66.37742050838546,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        40
+      ],
+      "attack": 0.006,
+      "word": 2,
+      "voice": 3
+    },
+    {
+      "instrument": 14,
+      "start": 307.697,
+      "duration": 0.36,
+      "pitch": 59.35787049973159,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        40
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 14,
+      "start": 308.147,
+      "duration": 1.12,
+      "pitch": 63.6961909908093,
+      "velocity": 51,
+      "role": "instrument answers voice",
+      "fields": [
+        40
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 27,
+      "start": 308.25,
+      "duration": 2.1,
+      "pitch": 63.6961909908093,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        40
+      ],
+      "attack": 0.006,
+      "word": 1,
+      "voice": 1
+    },
+    {
+      "instrument": 27,
+      "start": 308.63,
+      "duration": 1.638,
+      "pitch": 70.71574099946316,
+      "velocity": 41,
+      "role": "second counting choir",
+      "fields": [
+        40
+      ],
+      "attack": 0.006,
+      "word": 3,
+      "voice": 3
+    },
+    {
+      "instrument": 14,
+      "start": 309.547,
+      "duration": 0.72,
+      "pitch": 62.03910001730775,
+      "velocity": 45,
+      "role": "instrument answers voice",
+      "fields": [
+        40
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 10,
+      "start": 310.7,
+      "duration": 0.49227,
+      "pitch": 55.01955000865388,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        40
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 311.4,
+      "duration": 0.36,
+      "pitch": 59.35787049973159,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        41
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 311.85,
+      "duration": 1.12,
+      "pitch": 63.6961909908093,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        41
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 313.25,
+      "duration": 0.72,
+      "pitch": 62.03910001730775,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        41
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 313.52,
+      "duration": 1.15,
+      "pitch": 63.6961909908093,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        41
+      ],
+      "attack": 0.006,
+      "word": 10,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 314.5985,
+      "duration": 0.56,
+      "pitch": 55.01955000865388,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        41
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 314.89,
+      "duration": 1.6,
+      "pitch": 62.03910001730775,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        41
+      ],
+      "attack": 0.006,
+      "word": 11,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 315.2985,
+      "duration": 0.36,
+      "pitch": 59.35787049973159,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        41
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 315.7485,
+      "duration": 1.12,
+      "pitch": 63.6961909908093,
+      "velocity": 52,
+      "role": "instrument answers voice",
+      "fields": [
+        41
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 316.71,
+      "duration": 1.3,
+      "pitch": 66.37742050838546,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        41
+      ],
+      "attack": 0.006,
+      "word": 7,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 317.1485,
+      "duration": 0.72,
+      "pitch": 62.03910001730775,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        41
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 318.23,
+      "duration": 0.55318,
+      "pitch": 59.35787049973159,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        41
+      ],
+      "attack": 0.006,
+      "word": 8,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 318.497,
+      "duration": 0.28618,
+      "pitch": 55.01955000865388,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        41
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 319.197,
+      "duration": 0.36,
+      "pitch": 59.35787049973159,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        42
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 10,
+      "start": 319.647,
+      "duration": 1.12,
+      "pitch": 63.6961909908093,
+      "velocity": 48,
+      "role": "instrument answers voice",
+      "fields": [
+        42
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 27,
+      "start": 320.55,
+      "duration": 1.15,
+      "pitch": 63.6961909908093,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        42
+      ],
+      "attack": 0.006,
+      "word": 9,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 321.047,
+      "duration": 0.72,
+      "pitch": 62.03910001730775,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        42
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 5,
+      "start": 322.2,
+      "duration": 0.56,
+      "pitch": 55.01955000865388,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        42
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 6,
+      "start": 322.3,
+      "duration": 4.07409,
+      "pitch": 73.39697051703932,
+      "velocity": 43,
+      "role": "glass behind a vowel",
+      "fields": [
+        42
+      ],
+      "attack": 0.006,
+      "voice": 6
+    },
+    {
+      "instrument": 27,
+      "start": 322.7,
+      "duration": 1.15,
+      "pitch": 59.35787049973159,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        42
+      ],
+      "attack": 0.006,
+      "word": 10,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 322.9,
+      "duration": 0.36,
+      "pitch": 59.35787049973159,
+      "velocity": 51,
+      "role": "instrument answers voice",
+      "fields": [
+        42
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 323.35,
+      "duration": 1.12,
+      "pitch": 63.6961909908093,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        42
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 324.07,
+      "duration": 1.6,
+      "pitch": 63.6961909908093,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        42
+      ],
+      "attack": 0.006,
+      "word": 11,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 324.75,
+      "duration": 0.72,
+      "pitch": 62.03910001730775,
+      "velocity": 44,
+      "role": "instrument answers voice",
+      "fields": [
+        42
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 325.89,
+      "duration": 0.48409,
+      "pitch": 62.03910001730775,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        42
+      ],
+      "attack": 0.006,
+      "word": 7,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 326.0985,
+      "duration": 0.27559,
+      "pitch": 55.01955000865388,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        42
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 326.7985,
+      "duration": 0.36,
+      "pitch": 59.35787049973159,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        43
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 327.2485,
+      "duration": 1.12,
+      "pitch": 63.6961909908093,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        43
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 327.41,
+      "duration": 2.1,
+      "pitch": 66.37742050838546,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        43
+      ],
+      "attack": 0.006,
+      "word": 8,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 328.6485,
+      "duration": 0.72,
+      "pitch": 62.03910001730775,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        43
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 329.73,
+      "duration": 1.15,
+      "pitch": 59.35787049973159,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        43
+      ],
+      "attack": 0.006,
+      "word": 9,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 329.997,
+      "duration": 0.56,
+      "pitch": 55.01955000865388,
+      "velocity": 49,
+      "role": "instrument answers voice",
+      "fields": [
+        43
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 330.697,
+      "duration": 0.36,
+      "pitch": 59.35787049973159,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        43
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 27,
+      "start": 331.1,
+      "duration": 1.6,
+      "pitch": 63.6961909908093,
+      "velocity": 60,
+      "role": "fixed-pitch speaking choir",
+      "fields": [
+        43
+      ],
+      "attack": 0.006,
+      "word": 10,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 331.147,
+      "duration": 1.12,
+      "pitch": 63.6961909908093,
+      "velocity": 50,
+      "role": "instrument answers voice",
+      "fields": [
+        43
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 5,
+      "start": 332.547,
+      "duration": 0.72,
+      "pitch": 62.03910001730775,
+      "velocity": 46,
+      "role": "instrument answers voice",
+      "fields": [
+        43
+      ],
+      "attack": 0.006,
+      "voice": 5
+    },
+    {
+      "instrument": 24,
+      "start": 333.7,
+      "duration": 0.255,
+      "pitch": 55.01955000865388,
+      "velocity": 47,
+      "role": "instrument answers voice",
+      "fields": [
+        43
+      ],
+      "attack": 0.006,
+      "voice": 7
+    }
+  ],
+  "unpitched_speech": [
+    {
+      "start": 0.05,
+      "word": 6,
+      "gain": 0.07
+    },
+    {
+      "start": 57.55,
+      "word": 7,
+      "gain": 0.07
+    },
+    {
+      "start": 149.55,
+      "word": 8,
+      "gain": 0.07
+    },
+    {
+      "start": 241.55,
+      "word": 9,
+      "gain": 0.07
+    }
+  ],
+  "harmonies": [
+    {
+      "chord": 1,
+      "start": 0.0,
+      "end": 7.590909090909091
+    },
+    {
+      "chord": 2,
+      "start": 7.590909090909091,
+      "end": 15.181818181818182
+    },
+    {
+      "chord": 3,
+      "start": 15.181818181818182,
+      "end": 22.772727272727273
+    },
+    {
+      "chord": 0,
+      "start": 22.772727272727273,
+      "end": 30.363636363636363
+    },
+    {
+      "chord": 2,
+      "start": 30.363636363636363,
+      "end": 37.95454545454545
+    },
+    {
+      "chord": 4,
+      "start": 37.95454545454545,
+      "end": 45.54545454545455
+    },
+    {
+      "chord": 3,
+      "start": 45.54545454545455,
+      "end": 53.13636363636363
+    },
+    {
+      "chord": 5,
+      "start": 53.13636363636363,
+      "end": 60.72727272727273
+    },
+    {
+      "chord": 6,
+      "start": 60.72727272727273,
+      "end": 68.31818181818181
+    },
+    {
+      "chord": 7,
+      "start": 68.31818181818181,
+      "end": 75.9090909090909
+    },
+    {
+      "chord": 8,
+      "start": 75.9090909090909,
+      "end": 83.5
+    },
+    {
+      "chord": 9,
+      "start": 83.5,
+      "end": 91.0909090909091
+    },
+    {
+      "chord": 12,
+      "start": 91.0909090909091,
+      "end": 98.68181818181819
+    },
+    {
+      "chord": 11,
+      "start": 98.68181818181819,
+      "end": 106.27272727272727
+    },
+    {
+      "chord": 10,
+      "start": 106.27272727272727,
+      "end": 113.86363636363636
+    },
+    {
+      "chord": 13,
+      "start": 113.86363636363636,
+      "end": 121.45454545454545
+    },
+    {
+      "chord": 14,
+      "start": 121.45454545454545,
+      "end": 129.04545454545453
+    },
+    {
+      "chord": 15,
+      "start": 129.04545454545453,
+      "end": 136.63636363636363
+    },
+    {
+      "chord": 16,
+      "start": 136.63636363636363,
+      "end": 144.22727272727272
+    },
+    {
+      "chord": 17,
+      "start": 144.22727272727272,
+      "end": 151.8181818181818
+    },
+    {
+      "chord": 18,
+      "start": 151.8181818181818,
+      "end": 159.4090909090909
+    },
+    {
+      "chord": 19,
+      "start": 159.4090909090909,
+      "end": 167.0
+    },
+    {
+      "chord": 20,
+      "start": 167.0,
+      "end": 174.5909090909091
+    },
+    {
+      "chord": 21,
+      "start": 174.5909090909091,
+      "end": 182.1818181818182
+    },
+    {
+      "chord": 24,
+      "start": 182.1818181818182,
+      "end": 189.77272727272728
+    },
+    {
+      "chord": 23,
+      "start": 189.77272727272728,
+      "end": 197.36363636363637
+    },
+    {
+      "chord": 22,
+      "start": 197.36363636363637,
+      "end": 204.95454545454544
+    },
+    {
+      "chord": 25,
+      "start": 204.95454545454544,
+      "end": 212.54545454545453
+    },
+    {
+      "chord": 26,
+      "start": 212.54545454545453,
+      "end": 220.13636363636363
+    },
+    {
+      "chord": 27,
+      "start": 220.13636363636363,
+      "end": 227.72727272727272
+    },
+    {
+      "chord": 28,
+      "start": 227.72727272727272,
+      "end": 235.3181818181818
+    },
+    {
+      "chord": 29,
+      "start": 235.3181818181818,
+      "end": 242.9090909090909
+    },
+    {
+      "chord": 30,
+      "start": 242.9090909090909,
+      "end": 250.5
+    },
+    {
+      "chord": 31,
+      "start": 250.5,
+      "end": 258.09090909090907
+    },
+    {
+      "chord": 32,
+      "start": 258.09090909090907,
+      "end": 265.6818181818182
+    },
+    {
+      "chord": 33,
+      "start": 265.6818181818182,
+      "end": 273.27272727272725
+    },
+    {
+      "chord": 36,
+      "start": 273.27272727272725,
+      "end": 280.8636363636364
+    },
+    {
+      "chord": 35,
+      "start": 280.8636363636364,
+      "end": 288.45454545454544
+    },
+    {
+      "chord": 34,
+      "start": 288.45454545454544,
+      "end": 296.04545454545456
+    },
+    {
+      "chord": 37,
+      "start": 296.04545454545456,
+      "end": 303.6363636363636
+    },
+    {
+      "chord": 38,
+      "start": 303.6363636363636,
+      "end": 311.22727272727275
+    },
+    {
+      "chord": 39,
+      "start": 311.22727272727275,
+      "end": 318.8181818181818
+    },
+    {
+      "chord": 38,
+      "start": 318.8181818181818,
+      "end": 326.4090909090909
+    },
+    {
+      "chord": 39,
+      "start": 326.4090909090909,
+      "end": 334.0
+    }
+  ],
+  "sections": [
+    {
+      "start": 0.0,
+      "end": 11.5,
+      "name": "numbers become song"
+    },
+    {
+      "start": 11.5,
+      "end": 23.0,
+      "name": "three speaking choirs"
+    },
+    {
+      "start": 23.0,
+      "end": 34.5,
+      "name": "the tuning comments"
+    },
+    {
+      "start": 34.5,
+      "end": 46.0,
+      "name": "one long vowel / short instruments"
+    },
+    {
+      "start": 46.0,
+      "end": 57.5,
+      "name": "voice becomes bass"
+    },
+    {
+      "start": 57.5,
+      "end": 69.0,
+      "name": "numbers become song"
+    },
+    {
+      "start": 69.0,
+      "end": 80.5,
+      "name": "three speaking choirs"
+    },
+    {
+      "start": 80.5,
+      "end": 92.0,
+      "name": "the tuning comments"
+    },
+    {
+      "start": 92.0,
+      "end": 103.5,
+      "name": "one long vowel / short instruments"
+    },
+    {
+      "start": 103.5,
+      "end": 115.0,
+      "name": "voice becomes bass"
+    },
+    {
+      "start": 115.0,
+      "end": 126.5,
+      "name": "numbers become song"
+    },
+    {
+      "start": 126.5,
+      "end": 138.0,
+      "name": "three speaking choirs"
+    },
+    {
+      "start": 138.0,
+      "end": 149.5,
+      "name": "the tuning comments"
+    },
+    {
+      "start": 149.5,
+      "end": 161.0,
+      "name": "one long vowel / short instruments"
+    },
+    {
+      "start": 161.0,
+      "end": 172.5,
+      "name": "voice becomes bass"
+    },
+    {
+      "start": 172.5,
+      "end": 184.0,
+      "name": "numbers become song"
+    },
+    {
+      "start": 184.0,
+      "end": 195.5,
+      "name": "three speaking choirs"
+    },
+    {
+      "start": 195.5,
+      "end": 207.0,
+      "name": "the tuning comments"
+    },
+    {
+      "start": 207.0,
+      "end": 218.5,
+      "name": "one long vowel / short instruments"
+    },
+    {
+      "start": 218.5,
+      "end": 230.0,
+      "name": "voice becomes bass"
+    },
+    {
+      "start": 230.0,
+      "end": 241.5,
+      "name": "numbers become song"
+    },
+    {
+      "start": 241.5,
+      "end": 253.0,
+      "name": "three speaking choirs"
+    },
+    {
+      "start": 253.0,
+      "end": 264.5,
+      "name": "the tuning comments"
+    },
+    {
+      "start": 264.5,
+      "end": 276.0,
+      "name": "one long vowel / short instruments"
+    },
+    {
+      "start": 276.0,
+      "end": 287.5,
+      "name": "voice becomes bass"
+    },
+    {
+      "start": 287.5,
+      "end": 299.0,
+      "name": "numbers become song"
+    },
+    {
+      "start": 299.0,
+      "end": 310.5,
+      "name": "three speaking choirs"
+    },
+    {
+      "start": 310.5,
+      "end": 322.0,
+      "name": "the tuning comments"
+    },
+    {
+      "start": 322.0,
+      "end": 333.5,
+      "name": "one long vowel / short instruments"
+    },
+    {
+      "start": 333.5,
+      "end": 334,
+      "name": "voice becomes bass"
+    }
+  ],
+  "voices": [
+    {
+      "instrument": 8,
+      "lane": 0
+    },
+    {
+      "instrument": 27,
+      "lane": 0
+    },
+    {
+      "instrument": 14,
+      "lane": 0
+    },
+    {
+      "instrument": 27,
+      "lane": 1
+    },
+    {
+      "instrument": 10,
+      "lane": 0
+    },
+    {
+      "instrument": 5,
+      "lane": 0
+    },
+    {
+      "instrument": 6,
+      "lane": 0
+    },
+    {
+      "instrument": 24,
+      "lane": 0
+    }
+  ],
+  "pitch_policy": "Exact original-field pitches only; all octave/register changes choose another existing pitch. Fixed common-tone bridges are allowed; no note is retuned while held.",
+  "tremolo_allowed": false
+}

@@ -1,0 +1,299 @@
+[
+  {
+    "number": 1,
+    "audio": "01_the_door_remains_open.mp3",
+    "archive_bitrate": "256k",
+    "archive_bytes": 38401641,
+    "archive_sha256": "6d1d9bb9cf77e3bd69b3115561b88f646e5f993e0c4411871c80474e1fd15250",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "6d1d9bb9cf77e3bd69b3115561b88f646e5f993e0c4411871c80474e1fd15250"
+  },
+  {
+    "number": 2,
+    "audio": "02_a_thread_above.mp3",
+    "archive_bitrate": "256k",
+    "archive_bytes": 1377890,
+    "archive_sha256": "8ff164abd551de49cb1a880846b7cf458ccc78f2969338c6095eb2b482ea8ac1",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "8ff164abd551de49cb1a880846b7cf458ccc78f2969338c6095eb2b482ea8ac1"
+  },
+  {
+    "number": 3,
+    "audio": "03_walking_ground.mp3",
+    "archive_bitrate": "256k",
+    "archive_bytes": 12417890,
+    "archive_sha256": "f5306b16456b7157c94163509027582028d123c4dad157f40bdbb0fc1641714d",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "f5306b16456b7157c94163509027582028d123c4dad157f40bdbb0fc1641714d"
+  },
+  {
+    "number": 4,
+    "audio": "04_a_missing_footstep.mp3",
+    "archive_bitrate": "256k",
+    "archive_bytes": 2401638,
+    "archive_sha256": "33a291b2d2f19f832f45cd37699665ce1eb63ecefd3a4c547ec2a67b3cbdc9b3",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "33a291b2d2f19f832f45cd37699665ce1eb63ecefd3a4c547ec2a67b3cbdc9b3"
+  },
+  {
+    "number": 5,
+    "audio": "05_the_unwound_chord.mp3",
+    "archive_bitrate": "256k",
+    "archive_bytes": 19329893,
+    "archive_sha256": "e665654cfeed2ceb372e0bfb24134320516af4638d609b041717f61715a0be51",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "e665654cfeed2ceb372e0bfb24134320516af4638d609b041717f61715a0be51"
+  },
+  {
+    "number": 6,
+    "audio": "06_smallest_reply.mp3",
+    "archive_bitrate": "256k",
+    "archive_bytes": 673634,
+    "archive_sha256": "05223d2d5e91ad0a599c6fac75e519e498de66f5dec6f243ee4718a7aec825f0",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "05223d2d5e91ad0a599c6fac75e519e498de66f5dec6f243ee4718a7aec825f0"
+  },
+  {
+    "number": 7,
+    "audio": "07_soft_mouths.mp3",
+    "archive_bitrate": "256k",
+    "archive_bytes": 7425887,
+    "archive_sha256": "f63f8bcd36666a2ed4b2fa9abd94efa75e3ebc0ff11bd2686d23b107c93aed00",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "f63f8bcd36666a2ed4b2fa9abd94efa75e3ebc0ff11bd2686d23b107c93aed00"
+  },
+  {
+    "number": 8,
+    "audio": "08_borrowed_hands.mp3",
+    "archive_bitrate": "256k",
+    "archive_bytes": 8802146,
+    "archive_sha256": "1b769860eef9f771c013d802f83c6925521d659b10599c61580359b8a9f446b2",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "1b769860eef9f771c013d802f83c6925521d659b10599c61580359b8a9f446b2"
+  },
+  {
+    "number": 9,
+    "audio": "09_the_quiet_vestibule.mp3",
+    "archive_bitrate": "256k",
+    "archive_bytes": 4065895,
+    "archive_sha256": "726b4154cdfc4941a0f1809afa128aca796df1582d4fa969df60df9cad0fd587",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "726b4154cdfc4941a0f1809afa128aca796df1582d4fa969df60df9cad0fd587"
+  },
+  {
+    "number": 10,
+    "audio": "10_the_orchard_has_no_center.mp3",
+    "archive_bitrate": "128k",
+    "archive_bytes": 27456877,
+    "archive_sha256": "bac2eefa346141a56986e4240a6f754fcbc49723b8d0eaceeb97c404fdefc43b",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "030e515024f6956b79243313dedbb24cea271805fa35c06f04e4e359b81a57ef"
+  },
+  {
+    "number": 11,
+    "audio": "11_an_ordinary_amen.mp3",
+    "archive_bitrate": "256k",
+    "archive_bytes": 19617892,
+    "archive_sha256": "716e837eed4bea090e8ea2d63136ec4366de335bd08ac13f64cc5065b39bd835",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "716e837eed4bea090e8ea2d63136ec4366de335bd08ac13f64cc5065b39bd835"
+  },
+  {
+    "number": 12,
+    "audio": "12_pin.mp3",
+    "archive_bitrate": "256k",
+    "archive_bytes": 481623,
+    "archive_sha256": "e4b25bee3adab649e6bd07c3decba800ad5e1122cc25de030e29e1faa986ec26",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "e4b25bee3adab649e6bd07c3decba800ad5e1122cc25de030e29e1faa986ec26"
+  },
+  {
+    "number": 13,
+    "audio": "13_before_the_phrase_ends.mp3",
+    "archive_bitrate": "256k",
+    "archive_bytes": 3777898,
+    "archive_sha256": "92a1a865b3162668cbb9cb460f807fc293c438d4ec44724cb78e8e76fad003cc",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "92a1a865b3162668cbb9cb460f807fc293c438d4ec44724cb78e8e76fad003cc"
+  },
+  {
+    "number": 14,
+    "audio": "14_down_is_the_answer.mp3",
+    "archive_bitrate": "256k",
+    "archive_bytes": 705894,
+    "archive_sha256": "b4ef01d267693084fa0d5b6f6097a21a281d3e51495c0aa52b06abd3a51e8c09",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "b4ef01d267693084fa0d5b6f6097a21a281d3e51495c0aa52b06abd3a51e8c09"
+  },
+  {
+    "number": 15,
+    "audio": "15_the_back_of_an_attack.mp3",
+    "archive_bitrate": "256k",
+    "archive_bytes": 6753897,
+    "archive_sha256": "d4523f1155784602f0a44a545d5f4636fd3d1dce7938df6cc1e95777590859a5",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "d4523f1155784602f0a44a545d5f4636fd3d1dce7938df6cc1e95777590859a5"
+  },
+  {
+    "number": 16,
+    "audio": "16_the_odd_pitch_out.mp3",
+    "archive_bitrate": "256k",
+    "archive_bytes": 3009893,
+    "archive_sha256": "8905d96fc37e0743f35ff7ddcaad2566f99c1c750ea300c56e42e87e5d5edfe7",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "8905d96fc37e0743f35ff7ddcaad2566f99c1c750ea300c56e42e87e5d5edfe7"
+  },
+  {
+    "number": 17,
+    "audio": "17_three_marks.mp3",
+    "archive_bitrate": "256k",
+    "archive_bytes": 546143,
+    "archive_sha256": "1306f97a783c6114770495935bb4b3c3cd8bac9ecc23738b13029995fd52ab48",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "1306f97a783c6114770495935bb4b3c3cd8bac9ecc23738b13029995fd52ab48"
+  },
+  {
+    "number": 18,
+    "audio": "18_subtract_the_beginning.mp3",
+    "archive_bitrate": "256k",
+    "archive_bytes": 11841898,
+    "archive_sha256": "893f22feed735b7aeeff58df4a9db1526b0eec80084e958d4c611072a9330913",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "893f22feed735b7aeeff58df4a9db1526b0eec80084e958d4c611072a9330913"
+  },
+  {
+    "number": 19,
+    "audio": "19_after_everyone.mp3",
+    "archive_bitrate": "256k",
+    "archive_bytes": 2113634,
+    "archive_sha256": "0193267b29a296f5c00be6ab4571887d92d6a47559bff75930f8edab9eab2fb6",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "0193267b29a296f5c00be6ab4571887d92d6a47559bff75930f8edab9eab2fb6"
+  },
+  {
+    "number": 20,
+    "audio": "20_registration.mp3",
+    "archive_bitrate": "256k",
+    "archive_bytes": 5538144,
+    "archive_sha256": "6182d50ab5a8ef77573860461589de86ea894507691906d77689b5499c731b04",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "6182d50ab5a8ef77573860461589de86ea894507691906d77689b5499c731b04"
+  },
+  {
+    "number": 21,
+    "audio": "21_a_cell_facing_itself.mp3",
+    "archive_bitrate": "256k",
+    "archive_bytes": 3169640,
+    "archive_sha256": "0046329f67aa58bc7b6248d01a6c0b6359512c67dc40941f5c79c7cee0edd29c",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "0046329f67aa58bc7b6248d01a6c0b6359512c67dc40941f5c79c7cee0edd29c"
+  },
+  {
+    "number": 22,
+    "audio": "22_unequal_release.mp3",
+    "archive_bitrate": "256k",
+    "archive_bytes": 5601891,
+    "archive_sha256": "5ed6315febc37aca41731c711f6822708b6ca9c7e84fd91a3f6a146f73ab6b5c",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "5ed6315febc37aca41731c711f6822708b6ca9c7e84fd91a3f6a146f73ab6b5c"
+  },
+  {
+    "number": 23,
+    "audio": "23_the_first_continent.mp3",
+    "archive_bitrate": "128k",
+    "archive_bytes": 24160999,
+    "archive_sha256": "167f691aff5a663111e533909583b8c8e37c441068bd8d9ca7ab1d06c980c315",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "8fdd1784c92cfc92d907043d05d66e47279b93625e043d0ff3336b3e3a941b10"
+  },
+  {
+    "number": 24,
+    "audio": "24_ground_that_changes_its_name.mp3",
+    "archive_bitrate": "96k",
+    "archive_bytes": 33696688,
+    "archive_sha256": "d65ec1e883d6b5bdcb4d21e224cae1edcc8683b0cba861a09968bc8026a61f15",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "8c77382d77ee39784bc51b7ababddbc69a57259a6da1d555519bcd8d3074c7ae"
+  },
+  {
+    "number": 25,
+    "audio": "25_before_the_soloist.mp3",
+    "archive_bitrate": "256k",
+    "archive_bytes": 2274150,
+    "archive_sha256": "ae369a283a27eafe971b08548c2b12397a70a344486b2087fae0107a5c1f112b",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "ae369a283a27eafe971b08548c2b12397a70a344486b2087fae0107a5c1f112b"
+  },
+  {
+    "number": 26,
+    "audio": "26_the_slope_is_continuous.mp3",
+    "archive_bitrate": "256k",
+    "archive_bytes": 28225643,
+    "archive_sha256": "332423e49cff7dbd9dc49621bdd2ff10d5ddf0332ad6639c4a343e74cfb42675",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "332423e49cff7dbd9dc49621bdd2ff10d5ddf0332ad6639c4a343e74cfb42675"
+  },
+  {
+    "number": 27,
+    "audio": "27_brief_consonance.mp3",
+    "archive_bitrate": "256k",
+    "archive_bytes": 1057636,
+    "archive_sha256": "621e0f5c613cdcebb792575602ac090063596371407070e5150f7c83bf606f7a",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "621e0f5c613cdcebb792575602ac090063596371407070e5150f7c83bf606f7a"
+  },
+  {
+    "number": 28,
+    "audio": "28_echoes_against_the_living.mp3",
+    "archive_bitrate": "256k",
+    "archive_bytes": 27426157,
+    "archive_sha256": "d4cb6d550dffd2ef5521e1881fce11c0a47a29a630119bb6ebb4dbbc94538135",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "d4cb6d550dffd2ef5521e1881fce11c0a47a29a630119bb6ebb4dbbc94538135"
+  },
+  {
+    "number": 29,
+    "audio": "29_the_longer_version_of_a_sentence.mp3",
+    "archive_bitrate": "256k",
+    "archive_bytes": 6049652,
+    "archive_sha256": "fa688291b1d14a9804d3e25869684291202c35fbd51978de27105539e87498e4",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "fa688291b1d14a9804d3e25869684291202c35fbd51978de27105539e87498e4"
+  },
+  {
+    "number": 30,
+    "audio": "30_a_choir_across_the_valley.mp3",
+    "archive_bitrate": "128k",
+    "archive_bytes": 20321005,
+    "archive_sha256": "a2a6a7c33b6910add11d876f264d568b31531c6f8aee6d289d7854ad2bc1cfa2",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "d5e35366a05b568670d777397fb5d0b2f29c688aa77345022a80e221a94fb895"
+  },
+  {
+    "number": 31,
+    "audio": "31_an_interval_without_a_name.mp3",
+    "archive_bitrate": "256k",
+    "archive_bytes": 5793902,
+    "archive_sha256": "76c9960cf4c326d15d4d3fcbc582af387230377f34b49254c84390e1d124274f",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "76c9960cf4c326d15d4d3fcbc582af387230377f34b49254c84390e1d124274f"
+  },
+  {
+    "number": 32,
+    "audio": "32_the_other_side_of_the_opening.mp3",
+    "archive_bitrate": "128k",
+    "archive_bytes": 26592881,
+    "archive_sha256": "18e32b8d764421649b4aac617ed5a806e44a4114a0e1f1086ceb0702a7f9dd5f",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "f7ba7b9c3ba84805d1abb3cf5b2573f147881602bca7bb2c37602d27621842c4"
+  },
+  {
+    "number": 33,
+    "audio": "33_a_last_instrument.mp3",
+    "archive_bitrate": "256k",
+    "archive_bytes": 11553893,
+    "archive_sha256": "67bcebd5d7212367f1493e8c13546b53f8b80e2fa1870d5d4564417a4f8b9b55",
+    "delivered_bitrate": "256k",
+    "delivered_sha256": "67bcebd5d7212367f1493e8c13546b53f8b80e2fa1870d5d4564417a4f8b9b55"
+  }
+]

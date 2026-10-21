@@ -1,0 +1,20 @@
+;FFMETADATA1
+title=Calcutta 3: The Trill and Its Neighbors
+album=Seven Unequal Volumes
+artist=Jonathan Marmor
+date=2026
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=127000
+title=09. The Quiet Vestibule
+[CHAPTER]
+TIMEBASE=1/1000
+START=129000
+END=1845000
+title=10. The Orchard Has No Center
+[CHAPTER]
+TIMEBASE=1/1000
+START=1847000
+END=2460000
+title=11. An Ordinary Amen
