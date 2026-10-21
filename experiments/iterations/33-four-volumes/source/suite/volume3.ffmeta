@@ -1,0 +1,25 @@
+;FFMETADATA1
+title=Calcutta Volume 3: Fault Lines
+album=Calcutta: Four Volumes
+artist=Jonathan Marmor
+date=2026
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=384000
+title=09. An Ordinary Sky
+[CHAPTER]
+TIMEBASE=1/1000
+START=386000
+END=959000
+title=10. Continuous Ground
+[CHAPTER]
+TIMEBASE=1/1000
+START=961000
+END=1272000
+title=11. Someone Forgot to Answer
+[CHAPTER]
+TIMEBASE=1/1000
+START=1274000
+END=1920000
+title=12. The Reversible Room

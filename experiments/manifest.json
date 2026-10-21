@@ -345,5 +345,15 @@
     "audio": "iterations/32-other-doors/audio/01_the_small_door.mp3",
     "midi": "iterations/32-other-doors/source/suite/midi/01.mid",
     "reproduction_status": "All twelve scores regenerate identically; compact inherited models, exact harmonic fields, cue/sequence/gate decisions, actual-time MIDI, portable renderer and complete audio validation are retained"
+  },
+  {
+    "id": "33-four-volumes",
+    "title": "Four Volumes",
+    "purpose": "Four continuous volumes of 24, 28, 32 and 36 minutes; sixteen separately ended movements, traditional textures, two synthetic-vocal works, two effects works, a 12-ET diversion and a concentrated glissando study.",
+    "composer": "compose_volumes.py",
+    "brief_status": "Original user request, public specification, bounded exceptions and sixteen ending procedures retained in source/suite/BRIEF.md",
+    "audio": "iterations/33-four-volumes/audio/01_the_hinge_and_the_answer.mp3",
+    "midi": "iterations/33-four-volumes/source/suite/midi/01.mid",
+    "reproduction_status": "All sixteen scores regenerate identically; inherited instrumental coefficients, original formant singing synthesis, continuous glide curves, DSP settings, actual-time MIDI, portable renderer and validated listening files retained"
   }
 ]

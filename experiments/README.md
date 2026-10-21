@@ -40,11 +40,14 @@ A chronological record of the experiments, from bare tuning demonstrations to ch
 
 | 32 | [Other Doors](iterations/32-other-doors/) | A 60-minute album: twelve unequal forms, cue networks, consonance graphs, endpoint clocks, varied acoustic/electric/synthetic ensembles and one gated work. |
 
+| 33 | [Four Volumes](iterations/33-four-volumes/) | Two hours in four large volumes, sixteen distinct endings, traditional textures, synthesized vowels, bounded DSP, a 12-ET piece, trills and glissandi. |
+
 ## Reproduce and inspect
 
 See [reproduction instructions](REPRODUCING.md), [prompt provenance](PROMPTS.md), and the [machine-readable index](manifest.json). Each source archive is expanded for browsing, with its original ZIP preserved and SHA-256 hashes recorded. No old code is silently updated to the latest algorithm. The audio-only solo diagnostics are identified explicitly; their exact generation scripts were not retained.
 
 Uncompressed WAVs, plugin binaries, Python environments, and sample banks are excluded. MP3 listening copies and MIDI are retained. These recordings are dry, but historical versions differ in permitted pitch material, effects, release, click, and ending policies; see their own guides.
+
 
 
 

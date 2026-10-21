@@ -112,4 +112,4 @@ ffmpeg -i output/calcutta.wav -codec:a libmp3lame -q:a 2 output/calcutta.mp3
 
 ## Composition experiments
 
-[Browse the chronological listening laboratory](experiments/README.md): 33 iterations and sound tests, with source, scores, MIDI, public composition briefs and reproduction instructions. The latest is [Other Doors](experiments/iterations/32-other-doors/README.md), a 60-minute album of twelve unequal pieces, from 41-second miniature to three major works.
+[Browse the chronological listening laboratory](experiments/README.md): 34 iterations and sound tests, with source, scores, MIDI, public briefs and reproduction instructions. The latest is [Four Volumes](experiments/iterations/33-four-volumes/README.md): two hours in four large volumes with sixteen individually composed endings and explicitly bounded vocal, effects and tuning experiments.
