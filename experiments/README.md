@@ -31,9 +31,29 @@ A chronological record of the experiments, from bare tuning demonstrations to ch
 | 24 | [Staircases and Clocks](iterations/24-staircases-clocks/) | Louder average level and prompt dry foreground attacks; acoustic/electric solos, chord-stack sequences and simultaneous clocks; slow swells only in the background, ending without a fade. |
 | 25 | [Supplement: synth palette audition](iterations/25-palette-audition/) | A sound palette test rather than a composition. |
 | 26 | [Bright Detours](iterations/26-bright-detours/) | Eight exposed analog/FM synth leads; 46 episodes changing every 7–14 seconds; slow songs, rapid hockets, unequal phrase cycles and mixed-tempo inventions. |
+| 27 | [Ten Detours](iterations/27-ten-detours/) | Ten contrasting pieces, original synthetic vocals, one tremolo study, sampled acoustic/analog/FM hybrids, and portable rendering. |
+| 28 | [Ten Further Pieces](iterations/28-ten-further-pieces/) | Ten fresh blends of the earlier approaches; sampled instruments foregrounded, sparse/dense counterpoint, independent tempi, strict passing connections. |
+| 29 | [Pulse and Convergence](iterations/29-pulse-convergence/) | Ten fuller, pulse-driven pieces; advancing adjacent harmonic neighborhoods, then at least the final third inside the golden-ratio field. |
+| 30 | [Wide Palette](iterations/30-wide-palette/) | Five new pieces, 64 source sounds each, changing section orchestration, fixed-frequency no-vibrato resynthesis, and corrected non-1:2 openings. |
+
+| 31 | [Prism Switchyard](iterations/31-prism-switchyard/) | One piece, 97 source sounds, sixteen changing texture procedures and five hard-gate passages; no vibrato. |
+
+| 32 | [Other Doors](iterations/32-other-doors/) | A 60-minute album: twelve unequal forms, cue networks, consonance graphs, endpoint clocks, varied acoustic/electric/synthetic ensembles and one gated work. |
+
+| 33 | [Four Volumes](iterations/33-four-volumes/) | Two hours in four large volumes, sixteen distinct endings, traditional textures, synthesized vowels, bounded DSP, a 12-ET piece, trills and glissandi. |
+
+| 34 | [Seven Unequal Volumes](iterations/34-seven-unequal-volumes/) | Seven volumes with 1/7/3/11/2/5/4 movements, radically unequal lengths, miniature field studies and multi-act long works; full master 4:35:54. |
+
+| 35 | [Slow Apertures](iterations/35-slow-apertures/) | Mostly sustained full-register fields, 18–49 second entrances, 22–61 second exits, slowly emerging trills/arpeggios and overlapping fixed-pitch harmonic handoffs. |
 
 ## Reproduce and inspect
 
 See [reproduction instructions](REPRODUCING.md), [prompt provenance](PROMPTS.md), and the [machine-readable index](manifest.json). Each source archive is expanded for browsing, with its original ZIP preserved and SHA-256 hashes recorded. No old code is silently updated to the latest algorithm. The audio-only solo diagnostics are identified explicitly; their exact generation scripts were not retained.
 
 Uncompressed WAVs, plugin binaries, Python environments, and sample banks are excluded. MP3 listening copies and MIDI are retained. These recordings are dry, but historical versions differ in permitted pitch material, effects, release, click, and ending policies; see their own guides.
+
+
+
+
+
+

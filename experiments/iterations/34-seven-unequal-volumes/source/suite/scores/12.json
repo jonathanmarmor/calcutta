@@ -1,0 +1,1123 @@
+{
+  "number": 12,
+  "volume": 4,
+  "title": "Pin",
+  "slug": "pin",
+  "duration": 15,
+  "description": "New jewel form with fresh note material.",
+  "seed": 202610214711,
+  "kind": "jewel",
+  "theme": [
+    1,
+    0,
+    3,
+    2,
+    3,
+    4,
+    5,
+    7
+  ],
+  "harmonies": [
+    {
+      "chord": 1,
+      "start": 0.0,
+      "end": 1.5
+    },
+    {
+      "chord": 3,
+      "start": 1.5,
+      "end": 3.0
+    },
+    {
+      "chord": 7,
+      "start": 3.0,
+      "end": 4.5
+    },
+    {
+      "chord": 12,
+      "start": 4.5,
+      "end": 6.0
+    },
+    {
+      "chord": 21,
+      "start": 6.0,
+      "end": 7.5
+    },
+    {
+      "chord": 38,
+      "start": 7.5,
+      "end": 9.0
+    },
+    {
+      "chord": 39,
+      "start": 9.0,
+      "end": 15
+    }
+  ],
+  "areas": [
+    {
+      "first": 1,
+      "last": 1,
+      "start": 0.0,
+      "end": 1.5
+    },
+    {
+      "first": 3,
+      "last": 3,
+      "start": 1.5,
+      "end": 3.0
+    },
+    {
+      "first": 7,
+      "last": 7,
+      "start": 3.0,
+      "end": 4.5
+    },
+    {
+      "first": 12,
+      "last": 12,
+      "start": 4.5,
+      "end": 6.0
+    },
+    {
+      "first": 21,
+      "last": 21,
+      "start": 6.0,
+      "end": 7.5
+    },
+    {
+      "first": 38,
+      "last": 38,
+      "start": 7.5,
+      "end": 9.0
+    },
+    {
+      "first": 39,
+      "last": 39,
+      "start": 9.0,
+      "end": 15
+    }
+  ],
+  "notes": [
+    {
+      "id": 0,
+      "part": "0-p0",
+      "instrument": 45,
+      "start": 0.0,
+      "duration": 0.323034,
+      "pitch": 48.0,
+      "velocity": 39,
+      "role": "timbral relay melody",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 0.0,
+      "voice": 0
+    },
+    {
+      "id": 39,
+      "part": "0-p8",
+      "instrument": 14,
+      "start": 0.01033,
+      "duration": 1.47767,
+      "pitch": 52.751872742370615,
+      "velocity": 34,
+      "role": "quiet sustained field member",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 0.0,
+      "voice": 1
+    },
+    {
+      "id": 42,
+      "part": "0-p9",
+      "instrument": 93,
+      "start": 0.217523,
+      "duration": 1.270477,
+      "pitch": 57.50374548474124,
+      "velocity": 32,
+      "role": "quiet sustained field member",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 0.3,
+      "voice": 2
+    },
+    {
+      "id": 1,
+      "part": "0-p1",
+      "instrument": 47,
+      "start": 0.348842,
+      "duration": 0.487598,
+      "pitch": 55.127809113555934,
+      "velocity": 39,
+      "role": "timbral relay melody",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 0.5,
+      "voice": 3
+    },
+    {
+      "id": 20,
+      "part": "0-p4",
+      "instrument": 24,
+      "start": 0.355944,
+      "duration": 0.480496,
+      "pitch": 59.87968185592655,
+      "velocity": 35,
+      "role": "timbral relay melody",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 0.5,
+      "voice": 4
+    },
+    {
+      "id": 47,
+      "part": "0-p10",
+      "instrument": 78,
+      "start": 0.418268,
+      "duration": 1.069732,
+      "pitch": 57.50374548474124,
+      "velocity": 30,
+      "role": "quiet sustained field member",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 0.6,
+      "voice": 5
+    },
+    {
+      "id": 50,
+      "part": "0-p11",
+      "instrument": 81,
+      "start": 0.623274,
+      "duration": 0.864726,
+      "pitch": 57.50374548474124,
+      "velocity": 30,
+      "role": "quiet sustained field member",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 0.8999999999999999,
+      "voice": 6
+    },
+    {
+      "id": 2,
+      "part": "0-p2",
+      "instrument": 75,
+      "start": 0.875964,
+      "duration": 0.32774,
+      "pitch": 58.69171367033388,
+      "velocity": 39,
+      "role": "timbral relay melody",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 1.25,
+      "voice": 7
+    },
+    {
+      "id": 21,
+      "part": "0-p5",
+      "instrument": 10,
+      "start": 0.890314,
+      "duration": 0.31339,
+      "pitch": 63.4435864127045,
+      "velocity": 35,
+      "role": "timbral relay melody",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 1.25,
+      "voice": 8
+    },
+    {
+      "id": 22,
+      "part": "0-p6",
+      "instrument": 11,
+      "start": 1.236246,
+      "duration": 0.251754,
+      "pitch": 65.81952278388981,
+      "velocity": 35,
+      "role": "timbral relay melody",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 1.75,
+      "voice": 9
+    },
+    {
+      "id": 3,
+      "part": "0-p3",
+      "instrument": 4,
+      "start": 1.243046,
+      "duration": 0.244954,
+      "pitch": 62.25561822711185,
+      "velocity": 39,
+      "role": "timbral relay melody",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 1.75,
+      "voice": 10
+    },
+    {
+      "id": 23,
+      "part": "0-p7",
+      "instrument": 80,
+      "start": 2.107757,
+      "duration": 0.658189,
+      "pitch": 81.72353387790007,
+      "velocity": 35,
+      "role": "timbral relay melody",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 3.0,
+      "voice": 11
+    },
+    {
+      "id": 4,
+      "part": "0-p0",
+      "instrument": 45,
+      "start": 2.113836,
+      "duration": 0.65211,
+      "pitch": 73.0900272947386,
+      "velocity": 39,
+      "role": "timbral relay melody",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 3.0,
+      "voice": 0
+    },
+    {
+      "id": 24,
+      "part": "0-p4",
+      "instrument": 24,
+      "start": 2.81748,
+      "duration": 0.17052,
+      "pitch": 88.77129435395025,
+      "velocity": 35,
+      "role": "timbral relay melody",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 4.0,
+      "voice": 4
+    },
+    {
+      "id": 5,
+      "part": "0-p1",
+      "instrument": 47,
+      "start": 2.827827,
+      "duration": 0.160173,
+      "pitch": 80.43144445729087,
+      "velocity": 39,
+      "role": "timbral relay melody",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 4.0,
+      "voice": 3
+    },
+    {
+      "id": 43,
+      "part": "0-p9",
+      "instrument": 93,
+      "start": 3.0357,
+      "duration": 1.4523,
+      "pitch": 62.0464589708048,
+      "velocity": 30,
+      "role": "quiet sustained field member",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 4.3,
+      "voice": 2
+    },
+    {
+      "id": 25,
+      "part": "0-p5",
+      "instrument": 10,
+      "start": 3.181522,
+      "duration": 0.969818,
+      "pitch": 96.11271151650251,
+      "velocity": 35,
+      "role": "timbral relay melody",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 4.5,
+      "voice": 8
+    },
+    {
+      "id": 6,
+      "part": "0-p2",
+      "instrument": 75,
+      "start": 3.185161,
+      "duration": 0.966179,
+      "pitch": 84.7466888962494,
+      "velocity": 39,
+      "role": "timbral relay melody",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 4.5,
+      "voice": 7
+    },
+    {
+      "id": 48,
+      "part": "0-p10",
+      "instrument": 78,
+      "start": 3.955853,
+      "duration": 0.532147,
+      "pitch": 66.37030803357369,
+      "velocity": 30,
+      "role": "quiet sustained field member",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 5.6,
+      "voice": 5
+    },
+    {
+      "id": 7,
+      "part": "0-p3",
+      "instrument": 4,
+      "start": 4.238783,
+      "duration": 0.249217,
+      "pitch": 91.77295742513314,
+      "velocity": 39,
+      "role": "timbral relay melody",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 6.0,
+      "voice": 10
+    },
+    {
+      "id": 40,
+      "part": "0-p8",
+      "instrument": 14,
+      "start": 4.240879,
+      "duration": 0.247121,
+      "pitch": 55.02019044192105,
+      "velocity": 32,
+      "role": "quiet sustained field member",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 6.0,
+      "voice": 1
+    },
+    {
+      "id": 26,
+      "part": "0-p6",
+      "instrument": 11,
+      "start": 4.242512,
+      "duration": 0.245488,
+      "pitch": 52.33975409136938,
+      "velocity": 35,
+      "role": "timbral relay melody",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 6.0,
+      "voice": 9
+    },
+    {
+      "id": 27,
+      "part": "0-p7",
+      "instrument": 80,
+      "start": 4.579891,
+      "duration": 0.496154,
+      "pitch": 59.35780423834431,
+      "velocity": 35,
+      "role": "timbral relay melody",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 6.5,
+      "voice": 11
+    },
+    {
+      "id": 8,
+      "part": "0-p0",
+      "instrument": 45,
+      "start": 4.586657,
+      "duration": 0.489388,
+      "pitch": 48.0,
+      "velocity": 39,
+      "role": "timbral relay melody",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 6.5,
+      "voice": 0
+    },
+    {
+      "id": 51,
+      "part": "0-p11",
+      "instrument": 81,
+      "start": 4.880501,
+      "duration": 1.107499,
+      "pitch": 66.37734903286479,
+      "velocity": 30,
+      "role": "quiet sustained field member",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 6.9,
+      "voice": 6
+    },
+    {
+      "id": 9,
+      "part": "0-p1",
+      "instrument": 47,
+      "start": 5.108436,
+      "duration": 0.332812,
+      "pitch": 55.019495406320985,
+      "velocity": 39,
+      "role": "timbral relay melody",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 7.25,
+      "voice": 3
+    },
+    {
+      "id": 28,
+      "part": "0-p4",
+      "instrument": 24,
+      "start": 5.128022,
+      "duration": 0.313225,
+      "pitch": 63.696192982308446,
+      "velocity": 35,
+      "role": "timbral relay melody",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 7.25,
+      "voice": 4
+    },
+    {
+      "id": 29,
+      "part": "0-p5",
+      "instrument": 10,
+      "start": 5.469671,
+      "duration": 0.518329,
+      "pitch": 70.71568838862943,
+      "velocity": 35,
+      "role": "timbral relay melody",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 7.75,
+      "voice": 8
+    },
+    {
+      "id": 10,
+      "part": "0-p2",
+      "instrument": 75,
+      "start": 5.47146,
+      "duration": 0.51654,
+      "pitch": 62.03904020084146,
+      "velocity": 39,
+      "role": "timbral relay melody",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 7.75,
+      "voice": 7
+    },
+    {
+      "id": 44,
+      "part": "0-p9",
+      "instrument": 93,
+      "start": 5.853012,
+      "duration": 0.134988,
+      "pitch": 59.35780423834431,
+      "velocity": 30,
+      "role": "quiet sustained field member",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 8.3,
+      "voice": 2
+    },
+    {
+      "id": 30,
+      "part": "0-p6",
+      "instrument": 11,
+      "start": 6.352596,
+      "duration": 0.650209,
+      "pitch": 77.73529099574674,
+      "velocity": 35,
+      "role": "timbral relay melody",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 9.0,
+      "voice": 9
+    },
+    {
+      "id": 11,
+      "part": "0-p3",
+      "instrument": 4,
+      "start": 6.359797,
+      "duration": 0.643008,
+      "pitch": 66.37742049837767,
+      "velocity": 39,
+      "role": "timbral relay melody",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 9.0,
+      "voice": 10
+    },
+    {
+      "id": 31,
+      "part": "0-p7",
+      "instrument": 80,
+      "start": 7.053811,
+      "duration": 0.328765,
+      "pitch": 82.07361148884229,
+      "velocity": 35,
+      "role": "timbral relay melody",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 10.0,
+      "voice": 11
+    },
+    {
+      "id": 12,
+      "part": "0-p0",
+      "instrument": 45,
+      "start": 7.063325,
+      "duration": 0.319251,
+      "pitch": 73.39697050793394,
+      "velocity": 39,
+      "role": "timbral relay melody",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 10.0,
+      "voice": 0
+    },
+    {
+      "id": 32,
+      "part": "0-p5",
+      "instrument": 10,
+      "start": 8.450695,
+      "duration": 0.335029,
+      "pitch": 96.11271151650251,
+      "velocity": 35,
+      "role": "timbral relay melody",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 12.0,
+      "voice": 8
+    },
+    {
+      "id": 41,
+      "part": "0-p8",
+      "instrument": 14,
+      "start": 8.45506,
+      "duration": 0.53294,
+      "pitch": 59.35787049973159,
+      "velocity": 30,
+      "role": "quiet sustained field member",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 12.0,
+      "voice": 1
+    },
+    {
+      "id": 13,
+      "part": "0-p2",
+      "instrument": 75,
+      "start": 8.465373,
+      "duration": 0.320351,
+      "pitch": 84.75484101677091,
+      "velocity": 39,
+      "role": "timbral relay melody",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 12.0,
+      "voice": 7
+    },
+    {
+      "id": 45,
+      "part": "0-p9",
+      "instrument": 93,
+      "start": 8.669688,
+      "duration": 0.318312,
+      "pitch": 66.37742050838546,
+      "velocity": 30,
+      "role": "quiet sustained field member",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 12.3,
+      "voice": 2
+    },
+    {
+      "id": 14,
+      "part": "0-p3",
+      "instrument": 4,
+      "start": 8.814772,
+      "duration": 0.173228,
+      "pitch": 91.77439102542479,
+      "velocity": 39,
+      "role": "timbral relay melody",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 12.5,
+      "voice": 10
+    },
+    {
+      "id": 33,
+      "part": "0-p6",
+      "instrument": 11,
+      "start": 8.818534,
+      "duration": 0.169466,
+      "pitch": 52.33832049107771,
+      "velocity": 35,
+      "role": "timbral relay melody",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 12.5,
+      "voice": 9
+    },
+    {
+      "id": 52,
+      "part": "0-p11",
+      "instrument": 81,
+      "start": 9.102715,
+      "duration": 3.4852849999999997,
+      "pitch": 70.71574099946316,
+      "velocity": 32,
+      "role": "quiet sustained field member",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 12.9,
+      "voice": 6
+    },
+    {
+      "id": 34,
+      "part": "0-p7",
+      "instrument": 80,
+      "start": 9.342168,
+      "duration": 0.324438,
+      "pitch": 59.35787049973159,
+      "velocity": 35,
+      "role": "timbral relay melody",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 13.25,
+      "voice": 11
+    },
+    {
+      "id": 15,
+      "part": "0-p0",
+      "instrument": 45,
+      "start": 9.344296,
+      "duration": 0.32231,
+      "pitch": 48.0,
+      "velocity": 39,
+      "role": "timbral relay melody",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 13.25,
+      "voice": 0
+    },
+    {
+      "id": 35,
+      "part": "0-p4",
+      "instrument": 24,
+      "start": 9.687258,
+      "duration": 0.812215,
+      "pitch": 63.6961909908093,
+      "velocity": 35,
+      "role": "timbral relay melody",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 13.75,
+      "voice": 4
+    },
+    {
+      "id": 16,
+      "part": "0-p1",
+      "instrument": 47,
+      "start": 9.693764,
+      "duration": 0.805709,
+      "pitch": 55.01955000865388,
+      "velocity": 39,
+      "role": "timbral relay melody",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 13.75,
+      "voice": 3
+    },
+    {
+      "id": 17,
+      "part": "0-p2",
+      "instrument": 75,
+      "start": 10.56999,
+      "duration": 0.640306,
+      "pitch": 62.03910001730775,
+      "velocity": 39,
+      "role": "timbral relay melody",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 15.0,
+      "voice": 7
+    },
+    {
+      "id": 36,
+      "part": "0-p5",
+      "instrument": 10,
+      "start": 10.571274,
+      "duration": 0.639022,
+      "pitch": 70.71574099946316,
+      "velocity": 35,
+      "role": "timbral relay melody",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 15.0,
+      "voice": 8
+    },
+    {
+      "id": 49,
+      "part": "0-p10",
+      "instrument": 78,
+      "start": 10.983444,
+      "duration": 1.6045559999999992,
+      "pitch": 70.71574099946316,
+      "velocity": 32,
+      "role": "quiet sustained field member",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 15.6,
+      "voice": 5
+    },
+    {
+      "id": 37,
+      "part": "0-p6",
+      "instrument": 11,
+      "start": 11.273943,
+      "duration": 0.315688,
+      "pitch": 77.73529100811703,
+      "velocity": 35,
+      "role": "timbral relay melody",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 16.0,
+      "voice": 9
+    },
+    {
+      "id": 18,
+      "part": "0-p3",
+      "instrument": 4,
+      "start": 11.277919,
+      "duration": 0.311713,
+      "pitch": 66.37742050838546,
+      "velocity": 39,
+      "role": "timbral relay melody",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 16.0,
+      "voice": 10
+    },
+    {
+      "id": 46,
+      "part": "0-p9",
+      "instrument": 93,
+      "start": 11.467775,
+      "duration": 1.120225,
+      "pitch": 73.39697051703932,
+      "velocity": 32,
+      "role": "quiet sustained field member",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 16.3,
+      "voice": 2
+    },
+    {
+      "id": 19,
+      "part": "0-p0",
+      "instrument": 45,
+      "start": 11.615367,
+      "duration": 0.969419,
+      "pitch": 73.39697051703932,
+      "velocity": 39,
+      "role": "timbral relay melody",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 16.5,
+      "voice": 0
+    },
+    {
+      "id": 38,
+      "part": "0-p7",
+      "instrument": 80,
+      "start": 11.617945,
+      "duration": 0.966841,
+      "pitch": 82.07361149919475,
+      "velocity": 35,
+      "role": "timbral relay melody",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 16.5,
+      "voice": 11
+    },
+    {
+      "id": 53,
+      "part": "ending-0",
+      "instrument": 19,
+      "start": 12.72,
+      "duration": 0.72,
+      "pitch": 82.07361149919475,
+      "velocity": 34,
+      "role": "ending: one bell, deliberately damped",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "voice": 12
+    }
+  ],
+  "voices": [
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 45
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 14
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 93
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 47
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 24
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 78
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 81
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 75
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 10
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 11
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 4
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 80
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 19
+    }
+  ],
+  "sections": [
+    {
+      "start": 0.0,
+      "end": 12.6,
+      "texture": "hocket",
+      "start_beat": 0.0,
+      "end_beat": 17.90175952210625,
+      "ensemble": [
+        4,
+        10,
+        11,
+        14,
+        24,
+        45,
+        47,
+        75,
+        78,
+        80,
+        81,
+        93
+      ],
+      "section_level": 41.55770681756689,
+      "form": "rooms",
+      "act": 1,
+      "actual_instruments": [
+        4,
+        10,
+        11,
+        14,
+        24,
+        45,
+        47,
+        75,
+        78,
+        80,
+        81,
+        93
+      ]
+    },
+    {
+      "start": 12.6,
+      "end": 15,
+      "texture": "ending: one bell, deliberately damped",
+      "start_beat": 17.90175952210625,
+      "end_beat": 21,
+      "ensemble": [
+        19
+      ],
+      "section_level": 35,
+      "form": "composed ending"
+    }
+  ],
+  "sequences": [],
+  "cue_network": [],
+  "metric_grid": [
+    0.0,
+    0.702247191011236,
+    1.4085244724207837,
+    2.1163872454715786,
+    2.8224291734522033,
+    3.528422823087056,
+    4.2362833171616145,
+    4.942605701360867,
+    5.644918018180733,
+    6.352748739323495,
+    7.059331619447203,
+    7.762036687715519,
+    8.460586201928413,
+    9.167408341773502,
+    9.870503918807694,
+    10.569358313453698,
+    11.266029550459766,
+    11.969511480865526,
+    12.66868737385952,
+    13.365420237606196,
+    14.063054989029167,
+    14.5
+  ],
+  "final_chord_start": 9.0,
+  "final_chord_fraction": 0.4,
+  "instrument_pool": [
+    4,
+    10,
+    11,
+    14,
+    19,
+    24,
+    45,
+    47,
+    75,
+    78,
+    80,
+    81,
+    93
+  ],
+  "tuning_mode": "exact Calcutta",
+  "ending": "one bell, deliberately damped",
+  "ending_start": 12.6,
+  "vocal_allowed": false,
+  "effects_allowed": false,
+  "gliss_allowed": false,
+  "miniature_scope": true,
+  "pitch_policy": "Exact original fields except 11 (12-ET) and 26 (continuous field-endpoint slides). Miniatures select seven original fields; longer works traverse all forty."
+}

@@ -1,0 +1,70 @@
+{
+  "all_thirty_three_scores_regenerate_identically": true,
+  "score_sha256": {
+    "1": "796375201a2da8de6e3cbbc7d2a348a9769c7fecb7123fb21389475b1b3554e8",
+    "2": "d30961ab88b2d647033ccf783902d1b379fbbb0d90f462daca9f5f0f857af05a",
+    "3": "a203b0e28ce6a695bfcd5f8c728aafe63f7b3c30c7a24f3e12f2252c681718cb",
+    "4": "87caede52c4fe43d4f2fb752e0517f99e865bcd63323b45ac6aa04f7ec563fee",
+    "5": "0f054edaee13b94d326f6e7379e3bfbe2e9a2da9fb8fda11761d3fd40f4d8804",
+    "6": "05ed30679a9ddbb2bea9e0346cde71c4caef8c27644f759ba88fe2c0a647ff69",
+    "7": "08f34b323de5a1888a226e93da8ae0ba5097ca3f728a0c7ec8fa55850ea4975d",
+    "8": "a0b6fc6456adaa0e8bca2d7bba41aab58c1b1279061011321a9ce19b85d4eb3c",
+    "9": "892a463c5d3d5a2eb9402baf30a6e9c301f7617c82ef9184ffd9c5c480bbb53e",
+    "10": "4edfa52c33694c11db7f6b6bdea4793aa67b416371daedfd3b830bfa38c045b6",
+    "11": "9a2cecbac44ac3b573ab62a6bb58a74ea4c2a265616418dc907dc2921e1aea9a",
+    "12": "377e9fadf38dc20d36158085d8c40c7f6a4b58c63a6ba11fac47ef50e419cd5d",
+    "13": "5bd650bbe41966d8ac91d893cf13e28e86957698f5b7c4d43094dc8556fbe58b",
+    "14": "581760afd81efdc9bf69e1be84d3da297a11d3b38c1e0c1964bb532d6f8a8715",
+    "15": "1c0aa4be1c67bac7644f0805aecca32017cb2c94478f1f8d2ec0a769287d140e",
+    "16": "c32a6a6c55f5b43a8623cf649cb38fd5e3962aab47ee4090f54173ba14986d0e",
+    "17": "a0dbec01fa4071937d123e439e404bf6310dd5b93e63f898a2994e6a049d8431",
+    "18": "8c780bdb9ef1fa4312bab30e6c02c67806a82006091d286e70e560f1d1eb94f6",
+    "19": "2c9ca413f5dc8781bc64dd28c397eb15b8fc95290176789b2e4ede5e97816447",
+    "20": "8cbf5b68f2b507a60d716c487b265a46b8b96e5d0c7adc6f5541dee9d2e1ce1d",
+    "21": "3cd7e1b88160041b665f0f1487d05b0675bb0f0b683b43bd7bfcba3302c80699",
+    "22": "307b7551059fbf3e8d80277fa7510351ce48aade9fc020d1d8a82ca8d01d0783",
+    "23": "08bdc799dd2ec68509e05afbf23c12affa2c6a24640f7abecba4799e4d2f7222",
+    "24": "b376a57aa42b4a961e858414905ed33065497ad7b3af5b012f8dfb32662c278f",
+    "25": "e458870548e6b879713b15a14921d9581cf54f5a5277af39b2ee4f2de7982ede",
+    "26": "71127769ab82333adadcc9502241d9199b9bb7165cddd42bd34934dcbe9a898f",
+    "27": "859d780b5159ed169225b1fe46f02cb6650cb5f6809bc8c9f6244385eb631695",
+    "28": "003fb580a3d8774d4ecd86f81b31d168458001c5aaa67a723f2141924796cd99",
+    "29": "9b4cd36a15377468f883886dda3ec30e67951c16129cde2bc6f0913ec16e311e",
+    "30": "337cc793324f3ddff1e357de39c88cd3ee413bf99e9d0809dcaefaf5ed9d98c4",
+    "31": "946c040a1261d878ed6c10b407625771897ae576c07449c46747f3f4a40c3791",
+    "32": "d6225d40c0e480026d99b374a920f68154de4b6c50006a7dced4ba2b74b89f9e",
+    "33": "64a6ddb1e8db1f64348bcc18471b4ebe40a0d2d84719e9bb4b9c29e8036a0eec"
+  },
+  "special_renderer_checks": [
+    {
+      "movement": 7,
+      "kind": "vocal",
+      "note_id": 0,
+      "identical": true
+    },
+    {
+      "movement": 15,
+      "kind": "effect",
+      "note_id": 0,
+      "identical": true
+    },
+    {
+      "movement": 26,
+      "kind": "gliss",
+      "note_id": 0,
+      "identical": true
+    },
+    {
+      "movement": 28,
+      "kind": "effect",
+      "note_id": 0,
+      "identical": true
+    },
+    {
+      "movement": 30,
+      "kind": "vocal",
+      "note_id": 0,
+      "identical": true
+    }
+  ]
+}

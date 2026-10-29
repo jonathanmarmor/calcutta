@@ -1,0 +1,17 @@
+# Ten Further Pieces: public generation brief
+
+## User request
+
+“Go ahead and make another ten, but this time, instead of these kind of a little bit cheesy strategies that you've been coming up with, and instead of researching, you know, contemporary classical composition approaches, let's go back to the previous approaches that we had and really try to blend the different approaches that we had in the last several before I had you generate those ten. Don't always stay with the very foregrounded synth sounds, and don't always stay with the more kind of dreamy synth sounds. Use lots of sampled sounds. Let's just be sure to have lots and lots and lots of variety: dense textures, sparse textures, all within each composition. Let's really be sure to stick with just the notes that are in those harmonies, and let's maybe be a little bit more strict about, you know, keeping the earlier harmonies earlier. You know what? Actually scrap that last rule. I think allow passing tones, but that's it. Really make sure they're used as passing tones when you use them. And that's it. Let's just make ten really different versions. If you are going to go out on the internet and look for strategies, you know, keep— no, actually just don't do that. Let's just make, like, ten really different versions.”
+
+## Public working specification
+
+No outside composition research, borrowed forms, quotations, vocal gimmicks or tremolo/gating studies in this set. Blend the earlier internally developed techniques: triad/seventh-root sequences, melodic counterpoint, mobile choirs, responsorial phrases, multiple simultaneous expressive tempos, timbral hocket, accompaniment and foreground, and quiet sustained dissonances. Each piece has fresh material, its own explicit section ordering and ensemble, and sparse/dense passages. Change musical activity within thirty seconds; mostly about ten to eighteen seconds. Prefer sampled acoustic/electric colors overall. Preserve prompt dry attacks and fast release gates, with no added ambience, delay, chorus or click, and no master fade.
+
+Harmonic fields are the original forty pitch lists, without octave folding. Pitches do not bend while held. Clip and release structural notes before field changes. Additional pitches are allowed only inside a melodic part as brief, quieter, monotonic passing connections between two structural field pitches inside the same harmonic span. They are not chord substitutions, neighbor tones, independent pedals or glissandi. Retain endpoint IDs and validate them against actual notes. Keep additions rare. No microtonal repeated-unison runs.
+
+Write separate small endings for the ten pieces. Keep the 1:2 field as an occasional early visit instead of the opening. This neighboring-field ordering is an implementation choice, not a strict requirement from the latest message.
+
+## Inspectable operational specification
+
+`compose_return.py` contains the ten explicit DESIGNS, ensembles, seeds, initial motifs, sequence mutation rules, timing, density and pitch choices. `suite/scores/NN.json` records every chosen note, section, harmony, sequence, passing endpoint and instrument. `render_return.py` contains the full sound-generation and mixing rules. `package_return.py` validates and exports the deliverables. This brief records public instructions and implementation choices, not a hidden reasoning transcript. No claim is made to archive model-internal deliberation.

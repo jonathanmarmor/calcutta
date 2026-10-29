@@ -1,0 +1,25 @@
+;FFMETADATA1
+title=Calcutta Volume 1: Instruments of Return
+album=Calcutta: Four Volumes
+artist=Jonathan Marmor
+date=2026
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=250000
+title=01. The Hinge and the Answer
+[CHAPTER]
+TIMEBASE=1/1000
+START=252000
+END=644000
+title=02. A Pulse Leaves the Room
+[CHAPTER]
+TIMEBASE=1/1000
+START=646000
+END=1187000
+title=03. Chaconne of Unequal Steps
+[CHAPTER]
+TIMEBASE=1/1000
+START=1189000
+END=1440000
+title=04. The Last Player Standing

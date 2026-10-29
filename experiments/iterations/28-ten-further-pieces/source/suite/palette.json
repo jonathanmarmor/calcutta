@@ -1,0 +1,353 @@
+[
+  {
+    "engine": "Surge XT",
+    "name": "Open modular saw",
+    "family": "analog lead",
+    "state_path": "palette_frontier/lead_0.vststate",
+    "reference_rms": [
+      0.05248737707734108,
+      0.07392101734876633,
+      0.09058073908090591
+    ]
+  },
+  {
+    "engine": "Surge XT",
+    "name": "Resonant sequencer lead",
+    "family": "analog lead",
+    "state_path": "palette_frontier/lead_1.vststate",
+    "reference_rms": [
+      0.0885879397392273,
+      0.12848733365535736,
+      0.16494812071323395
+    ]
+  },
+  {
+    "engine": "OB-Xf",
+    "name": "Oberheim silver pulse",
+    "family": "Oberheim lead",
+    "state_path": "palette_frontier/lead_2.vststate",
+    "reference_rms": [
+      0.06768186390399933,
+      0.07184045761823654,
+      0.07808298617601395
+    ]
+  },
+  {
+    "engine": "OB-Xf",
+    "name": "Oberheim touch brass",
+    "family": "Oberheim lead",
+    "state_path": "palette_frontier/lead_3.vststate",
+    "reference_rms": [
+      0.040205176919698715,
+      0.04409528151154518,
+      0.04185783863067627
+    ]
+  },
+  {
+    "engine": "TAL-NoiseMaker",
+    "name": "TAL bright hollow lead",
+    "family": "single oscillator lead",
+    "state_path": "palette_frontier/lead_4.vststate",
+    "reference_rms": [
+      0.0416603721678257,
+      0.041380468755960464,
+      0.03992220759391785
+    ]
+  },
+  {
+    "engine": "TAL-NoiseMaker",
+    "name": "TAL rubber reed",
+    "family": "single oscillator lead",
+    "state_path": "palette_frontier/lead_5.vststate",
+    "reference_rms": [
+      0.07463241368532181,
+      0.07676105201244354,
+      0.08142626285552979
+    ]
+  },
+  {
+    "engine": "Dexed",
+    "name": "FM glass cantilena",
+    "family": "FM lead",
+    "state_path": "palette_frontier/lead_6.vststate",
+    "reference_rms": [
+      0.06342210620641708,
+      0.063912034034729,
+      0.06288493424654007
+    ]
+  },
+  {
+    "engine": "Dexed",
+    "name": "FM harmonic organ",
+    "family": "FM lead",
+    "state_path": "palette_frontier/lead_7.vststate",
+    "reference_rms": [
+      0.0471855103969574,
+      0.047697167843580246,
+      0.047697342932224274
+    ]
+  },
+  {
+    "engine": "FluidSynth",
+    "name": "Rhodes",
+    "program": 4,
+    "parameters": {},
+    "reference_rms": [
+      0.018592966720461845,
+      0.019122011959552765,
+      0.009389003738760948
+    ]
+  },
+  {
+    "engine": "FluidSynth",
+    "name": "Clavinet",
+    "program": 7,
+    "parameters": {},
+    "reference_rms": [
+      0.013203796930611134,
+      0.013429886661469936,
+      0.006374005693942308
+    ]
+  },
+  {
+    "engine": "FluidSynth",
+    "name": "Jazz guitar",
+    "program": 26,
+    "parameters": {},
+    "reference_rms": [
+      0.02079164795577526,
+      0.013985741883516312,
+      0.008034870028495789
+    ]
+  },
+  {
+    "engine": "FluidSynth",
+    "name": "Steel guitar",
+    "program": 25,
+    "parameters": {},
+    "reference_rms": [
+      0.011007321998476982,
+      0.006421319209039211,
+      0.002971712267026305
+    ]
+  },
+  {
+    "engine": "FluidSynth",
+    "name": "Nylon guitar",
+    "program": 24,
+    "parameters": {},
+    "reference_rms": [
+      0.014331156387925148,
+      0.007180504966527224,
+      0.004410283640027046
+    ]
+  },
+  {
+    "engine": "FluidSynth",
+    "name": "Piano",
+    "program": 0,
+    "parameters": {},
+    "reference_rms": [
+      0.01634567230939865,
+      0.01080704852938652,
+      0.0032936139032244682
+    ]
+  },
+  {
+    "engine": "FluidSynth",
+    "name": "Harp",
+    "program": 46,
+    "parameters": {},
+    "reference_rms": [
+      0.01747652143239975,
+      0.01136910729110241,
+      0.0049196695908904076
+    ]
+  },
+  {
+    "engine": "FluidSynth",
+    "name": "Clarinet",
+    "program": 71,
+    "parameters": {},
+    "reference_rms": [
+      0.0282400194555521,
+      0.03794494643807411,
+      0.041771385818719864
+    ]
+  },
+  {
+    "engine": "FluidSynth",
+    "name": "Recorder",
+    "program": 74,
+    "parameters": {},
+    "reference_rms": [
+      0.03194643184542656,
+      0.03589335456490517,
+      0.03995518386363983
+    ]
+  },
+  {
+    "engine": "FluidSynth",
+    "name": "Bassoon",
+    "program": 70,
+    "parameters": {},
+    "reference_rms": [
+      0.03329965099692345,
+      0.030566269531846046,
+      0.026852797716856003
+    ]
+  },
+  {
+    "engine": "FluidSynth",
+    "name": "English horn",
+    "program": 69,
+    "parameters": {},
+    "reference_rms": [
+      0.02040381170809269,
+      0.035778842866420746,
+      0.035204287618398666
+    ]
+  },
+  {
+    "engine": "FluidSynth",
+    "name": "Pan pipes",
+    "program": 75,
+    "parameters": {},
+    "reference_rms": [
+      0.02719160169363022,
+      0.033618468791246414,
+      0.03678523004055023
+    ]
+  },
+  {
+    "engine": "FluidSynth",
+    "name": "Fretless bass",
+    "program": 35,
+    "parameters": {},
+    "reference_rms": [
+      0.024795638397336006,
+      0.0174017995595932,
+      0.0036423883866518736
+    ]
+  },
+  {
+    "engine": "FluidSynth",
+    "name": "Steel pans",
+    "program": 114,
+    "parameters": {},
+    "reference_rms": [
+      0.01635614037513733,
+      0.007893319241702557,
+      0.0015560981119051576
+    ]
+  },
+  {
+    "engine": "FluidSynth",
+    "name": "Vibraphone",
+    "program": 11,
+    "parameters": {},
+    "reference_rms": [
+      0.022480500862002373,
+      0.019835086539387703,
+      0.016614871099591255
+    ]
+  },
+  {
+    "engine": "FluidSynth",
+    "name": "Tubular bells",
+    "program": 14,
+    "parameters": {},
+    "reference_rms": [
+      0.015325226821005344,
+      0.009685574099421501,
+      0.005849563051015139
+    ]
+  },
+  {
+    "engine": "FluidSynth",
+    "name": "Marimba",
+    "program": 12,
+    "parameters": {},
+    "reference_rms": [
+      0.01998366415500641,
+      0.010676740668714046,
+      0.0020716525614261627
+    ]
+  },
+  {
+    "engine": "FluidSynth",
+    "name": "Drawbar organ",
+    "program": 16,
+    "parameters": {},
+    "reference_rms": [
+      0.029694939032197,
+      0.029601680114865303,
+      0.022617779672145844
+    ]
+  },
+  {
+    "engine": "FluidSynth",
+    "name": "Muted trumpet",
+    "program": 59,
+    "parameters": {},
+    "reference_rms": [
+      0.01269252598285675,
+      0.011504552327096462,
+      0.005416292697191238
+    ]
+  },
+  {
+    "name": "Oboe",
+    "engine": "FluidSynth",
+    "program": 68,
+    "family": "sampled acoustic/electric"
+  },
+  {
+    "name": "Flute",
+    "engine": "FluidSynth",
+    "program": 73,
+    "family": "sampled acoustic/electric"
+  },
+  {
+    "name": "Cello",
+    "engine": "FluidSynth",
+    "program": 42,
+    "family": "sampled acoustic/electric"
+  },
+  {
+    "name": "Viola",
+    "engine": "FluidSynth",
+    "program": 41,
+    "family": "sampled acoustic/electric"
+  },
+  {
+    "name": "Violin",
+    "engine": "FluidSynth",
+    "program": 40,
+    "family": "sampled acoustic/electric"
+  },
+  {
+    "name": "Acoustic bass",
+    "engine": "FluidSynth",
+    "program": 32,
+    "family": "sampled acoustic/electric"
+  },
+  {
+    "name": "Celesta",
+    "engine": "FluidSynth",
+    "program": 8,
+    "family": "sampled acoustic/electric"
+  },
+  {
+    "name": "Clean electric guitar",
+    "engine": "FluidSynth",
+    "program": 27,
+    "family": "sampled acoustic/electric"
+  },
+  {
+    "name": "Trombone",
+    "engine": "FluidSynth",
+    "program": 57,
+    "family": "sampled acoustic/electric"
+  }
+]

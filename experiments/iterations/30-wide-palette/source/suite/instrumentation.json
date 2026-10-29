@@ -1,0 +1,7765 @@
+[
+  {
+    "number": 1,
+    "title": "Changing Ensembles",
+    "instruments": [
+      {
+        "id": 0,
+        "name": "Open modular saw",
+        "source_engine": "Surge XT",
+        "source_program": null,
+        "attacks": 14,
+        "written_seconds": 10.184061
+      },
+      {
+        "id": 1,
+        "name": "Resonant sequencer lead",
+        "source_engine": "Surge XT",
+        "source_program": null,
+        "attacks": 43,
+        "written_seconds": 28.62654799999999
+      },
+      {
+        "id": 2,
+        "name": "Oberheim silver pulse",
+        "source_engine": "OB-Xf",
+        "source_program": null,
+        "attacks": 32,
+        "written_seconds": 30.144478999999997
+      },
+      {
+        "id": 3,
+        "name": "Oberheim touch brass",
+        "source_engine": "OB-Xf",
+        "source_program": null,
+        "attacks": 18,
+        "written_seconds": 16.450045
+      },
+      {
+        "id": 4,
+        "name": "TAL bright hollow lead",
+        "source_engine": "TAL-NoiseMaker",
+        "source_program": null,
+        "attacks": 4,
+        "written_seconds": 2.896789
+      },
+      {
+        "id": 5,
+        "name": "TAL rubber reed",
+        "source_engine": "TAL-NoiseMaker",
+        "source_program": null,
+        "attacks": 25,
+        "written_seconds": 19.86373454067216
+      },
+      {
+        "id": 6,
+        "name": "FM glass cantilena",
+        "source_engine": "Dexed",
+        "source_program": null,
+        "attacks": 18,
+        "written_seconds": 15.513565000000002
+      },
+      {
+        "id": 7,
+        "name": "FM harmonic organ",
+        "source_engine": "Dexed",
+        "source_program": null,
+        "attacks": 38,
+        "written_seconds": 30.560628
+      },
+      {
+        "id": 8,
+        "name": "Grand Piano",
+        "source_engine": "FluidSynth",
+        "source_program": 0,
+        "attacks": 46,
+        "written_seconds": 57.2838825406722
+      },
+      {
+        "id": 9,
+        "name": "Bright Grand Piano",
+        "source_engine": "FluidSynth",
+        "source_program": 1,
+        "attacks": 56,
+        "written_seconds": 69.90299399999998
+      },
+      {
+        "id": 10,
+        "name": "Electric Grand Piano",
+        "source_engine": "FluidSynth",
+        "source_program": 2,
+        "attacks": 35,
+        "written_seconds": 22.585625999999998
+      },
+      {
+        "id": 11,
+        "name": "Honky-Tonk Piano",
+        "source_engine": "FluidSynth",
+        "source_program": 3,
+        "attacks": 51,
+        "written_seconds": 47.91170399999999
+      },
+      {
+        "id": 12,
+        "name": "Tine Electric Piano",
+        "source_engine": "FluidSynth",
+        "source_program": 4,
+        "attacks": 31,
+        "written_seconds": 36.524980000000006
+      },
+      {
+        "id": 13,
+        "name": "FM Electric Piano",
+        "source_engine": "FluidSynth",
+        "source_program": 5,
+        "attacks": 30,
+        "written_seconds": 26.657932000000002
+      },
+      {
+        "id": 14,
+        "name": "Harpsichord",
+        "source_engine": "FluidSynth",
+        "source_program": 6,
+        "attacks": 57,
+        "written_seconds": 66.8648175406722
+      },
+      {
+        "id": 15,
+        "name": "Clavinet",
+        "source_engine": "FluidSynth",
+        "source_program": 7,
+        "attacks": 41,
+        "written_seconds": 33.182946
+      },
+      {
+        "id": 16,
+        "name": "Celeste",
+        "source_engine": "FluidSynth",
+        "source_program": 8,
+        "attacks": 36,
+        "written_seconds": 40.381913000000004
+      },
+      {
+        "id": 19,
+        "name": "Vibraphone",
+        "source_engine": "FluidSynth",
+        "source_program": 11,
+        "attacks": 36,
+        "written_seconds": 31.815655999999997
+      },
+      {
+        "id": 20,
+        "name": "Marimba",
+        "source_engine": "FluidSynth",
+        "source_program": 12,
+        "attacks": 41,
+        "written_seconds": 35.36303399999999
+      },
+      {
+        "id": 21,
+        "name": "Xylophone",
+        "source_engine": "FluidSynth",
+        "source_program": 13,
+        "attacks": 41,
+        "written_seconds": 41.46981999999999
+      },
+      {
+        "id": 23,
+        "name": "Dulcimer",
+        "source_engine": "FluidSynth",
+        "source_program": 15,
+        "attacks": 29,
+        "written_seconds": 16.154633
+      },
+      {
+        "id": 24,
+        "name": "Tonewheel Organ",
+        "source_engine": "FluidSynth",
+        "source_program": 16,
+        "attacks": 25,
+        "written_seconds": 11.753639
+      },
+      {
+        "id": 25,
+        "name": "Percussive Organ",
+        "source_engine": "FluidSynth",
+        "source_program": 17,
+        "attacks": 59,
+        "written_seconds": 59.623627000000006
+      },
+      {
+        "id": 28,
+        "name": "Reed Organ",
+        "source_engine": "FluidSynth",
+        "source_program": 20,
+        "attacks": 74,
+        "written_seconds": 59.027240999999975
+      },
+      {
+        "id": 29,
+        "name": "Harmonica",
+        "source_engine": "FluidSynth",
+        "source_program": 22,
+        "attacks": 59,
+        "written_seconds": 70.06641500000002
+      },
+      {
+        "id": 31,
+        "name": "Steel Guitar",
+        "source_engine": "FluidSynth",
+        "source_program": 25,
+        "attacks": 41,
+        "written_seconds": 66.09809
+      },
+      {
+        "id": 33,
+        "name": "Clean Guitar",
+        "source_engine": "FluidSynth",
+        "source_program": 27,
+        "attacks": 30,
+        "written_seconds": 11.414277000000002
+      },
+      {
+        "id": 35,
+        "name": "Overdrive Guitar",
+        "source_engine": "FluidSynth",
+        "source_program": 29,
+        "attacks": 31,
+        "written_seconds": 28.66577000000001
+      },
+      {
+        "id": 37,
+        "name": "Guitar Harmonics",
+        "source_engine": "FluidSynth",
+        "source_program": 31,
+        "attacks": 38,
+        "written_seconds": 38.343461
+      },
+      {
+        "id": 38,
+        "name": "Acoustic Bass",
+        "source_engine": "FluidSynth",
+        "source_program": 32,
+        "attacks": 42,
+        "written_seconds": 46.40701599999999
+      },
+      {
+        "id": 39,
+        "name": "Finger Bass",
+        "source_engine": "FluidSynth",
+        "source_program": 33,
+        "attacks": 68,
+        "written_seconds": 57.825137
+      },
+      {
+        "id": 40,
+        "name": "Pick Bass",
+        "source_engine": "FluidSynth",
+        "source_program": 34,
+        "attacks": 35,
+        "written_seconds": 41.723344
+      },
+      {
+        "id": 43,
+        "name": "Slap Bass 2",
+        "source_engine": "FluidSynth",
+        "source_program": 37,
+        "attacks": 39,
+        "written_seconds": 35.267821
+      },
+      {
+        "id": 44,
+        "name": "Synth Bass 1",
+        "source_engine": "FluidSynth",
+        "source_program": 38,
+        "attacks": 45,
+        "written_seconds": 47.247864000000014
+      },
+      {
+        "id": 45,
+        "name": "Synth Bass 2",
+        "source_engine": "FluidSynth",
+        "source_program": 39,
+        "attacks": 61,
+        "written_seconds": 66.63116500000002
+      },
+      {
+        "id": 46,
+        "name": "Violin",
+        "source_engine": "FluidSynth",
+        "source_program": 40,
+        "attacks": 55,
+        "written_seconds": 42.785849
+      },
+      {
+        "id": 47,
+        "name": "Viola",
+        "source_engine": "FluidSynth",
+        "source_program": 41,
+        "attacks": 44,
+        "written_seconds": 49.504073999999996
+      },
+      {
+        "id": 48,
+        "name": "Cello",
+        "source_engine": "FluidSynth",
+        "source_program": 42,
+        "attacks": 56,
+        "written_seconds": 50.449208999999996
+      },
+      {
+        "id": 50,
+        "name": "Pizzicato Strings",
+        "source_engine": "FluidSynth",
+        "source_program": 45,
+        "attacks": 31,
+        "written_seconds": 16.673904999999998
+      },
+      {
+        "id": 53,
+        "name": "Slow Strings",
+        "source_engine": "FluidSynth",
+        "source_program": 49,
+        "attacks": 31,
+        "written_seconds": 26.843323
+      },
+      {
+        "id": 55,
+        "name": "Synth Strings 2",
+        "source_engine": "FluidSynth",
+        "source_program": 51,
+        "attacks": 64,
+        "written_seconds": 54.582005
+      },
+      {
+        "id": 56,
+        "name": "Trumpet",
+        "source_engine": "FluidSynth",
+        "source_program": 56,
+        "attacks": 69,
+        "written_seconds": 78.15880000000001
+      },
+      {
+        "id": 63,
+        "name": "Synth Brass 2",
+        "source_engine": "FluidSynth",
+        "source_program": 63,
+        "attacks": 51,
+        "written_seconds": 40.634833
+      },
+      {
+        "id": 64,
+        "name": "Soprano Sax",
+        "source_engine": "FluidSynth",
+        "source_program": 64,
+        "attacks": 30,
+        "written_seconds": 21.920734
+      },
+      {
+        "id": 66,
+        "name": "Tenor Sax",
+        "source_engine": "FluidSynth",
+        "source_program": 66,
+        "attacks": 22,
+        "written_seconds": 28.070937540672155
+      },
+      {
+        "id": 68,
+        "name": "Oboe",
+        "source_engine": "FluidSynth",
+        "source_program": 68,
+        "attacks": 39,
+        "written_seconds": 50.179689999999994
+      },
+      {
+        "id": 70,
+        "name": "Bassoon",
+        "source_engine": "FluidSynth",
+        "source_program": 70,
+        "attacks": 46,
+        "written_seconds": 45.892087999999994
+      },
+      {
+        "id": 71,
+        "name": "Clarinet",
+        "source_engine": "FluidSynth",
+        "source_program": 71,
+        "attacks": 35,
+        "written_seconds": 30.664189000000007
+      },
+      {
+        "id": 72,
+        "name": "Piccolo",
+        "source_engine": "FluidSynth",
+        "source_program": 72,
+        "attacks": 47,
+        "written_seconds": 67.04563100000001
+      },
+      {
+        "id": 73,
+        "name": "Flute",
+        "source_engine": "FluidSynth",
+        "source_program": 73,
+        "attacks": 44,
+        "written_seconds": 32.677848
+      },
+      {
+        "id": 77,
+        "name": "Shakuhachi",
+        "source_engine": "FluidSynth",
+        "source_program": 77,
+        "attacks": 18,
+        "written_seconds": 12.216654000000002
+      },
+      {
+        "id": 79,
+        "name": "Ocarina",
+        "source_engine": "FluidSynth",
+        "source_program": 79,
+        "attacks": 48,
+        "written_seconds": 34.872840000000004
+      },
+      {
+        "id": 80,
+        "name": "Synth Calliope",
+        "source_engine": "FluidSynth",
+        "source_program": 82,
+        "attacks": 39,
+        "written_seconds": 48.300361
+      },
+      {
+        "id": 81,
+        "name": "Chiffer Lead",
+        "source_engine": "FluidSynth",
+        "source_program": 83,
+        "attacks": 57,
+        "written_seconds": 47.74824762201655
+      },
+      {
+        "id": 83,
+        "name": "Solo Vox",
+        "source_engine": "FluidSynth",
+        "source_program": 85,
+        "attacks": 79,
+        "written_seconds": 69.04854899999997
+      },
+      {
+        "id": 84,
+        "name": "5th Saw Wave",
+        "source_engine": "FluidSynth",
+        "source_program": 86,
+        "attacks": 31,
+        "written_seconds": 34.341798999999995
+      },
+      {
+        "id": 85,
+        "name": "Bass & Lead",
+        "source_engine": "FluidSynth",
+        "source_program": 87,
+        "attacks": 62,
+        "written_seconds": 79.41000299999999
+      },
+      {
+        "id": 87,
+        "name": "Atmosphere",
+        "source_engine": "FluidSynth",
+        "source_program": 99,
+        "attacks": 20,
+        "written_seconds": 14.489036
+      },
+      {
+        "id": 88,
+        "name": "Sitar",
+        "source_engine": "FluidSynth",
+        "source_program": 104,
+        "attacks": 34,
+        "written_seconds": 15.598576999999995
+      },
+      {
+        "id": 89,
+        "name": "Banjo",
+        "source_engine": "FluidSynth",
+        "source_program": 105,
+        "attacks": 41,
+        "written_seconds": 35.783652999999994
+      },
+      {
+        "id": 90,
+        "name": "Shamisen",
+        "source_engine": "FluidSynth",
+        "source_program": 106,
+        "attacks": 55,
+        "written_seconds": 59.64124099999998
+      },
+      {
+        "id": 91,
+        "name": "Koto",
+        "source_engine": "FluidSynth",
+        "source_program": 107,
+        "attacks": 40,
+        "written_seconds": 29.478844999999996
+      },
+      {
+        "id": 95,
+        "name": "Tinker Bell",
+        "source_engine": "FluidSynth",
+        "source_program": 112,
+        "attacks": 42,
+        "written_seconds": 37.90203400000001
+      },
+      {
+        "id": 96,
+        "name": "Steel Drums",
+        "source_engine": "FluidSynth",
+        "source_program": 114,
+        "attacks": 36,
+        "written_seconds": 27.03664
+      }
+    ],
+    "ensembles": [
+      {
+        "section": 1,
+        "start": 0.0,
+        "end": 12.064943787039837,
+        "instruments": [
+          1,
+          14,
+          19,
+          46,
+          56,
+          85,
+          91,
+          95,
+          96
+        ],
+        "featured": [
+          1,
+          14
+        ]
+      },
+      {
+        "section": 2,
+        "start": 12.064943787039837,
+        "end": 24.244910164929315,
+        "instruments": [
+          35,
+          39,
+          50,
+          55,
+          64,
+          72,
+          79
+        ],
+        "featured": [
+          55,
+          50
+        ]
+      },
+      {
+        "section": 3,
+        "start": 24.244910164929315,
+        "end": 35.655615925953924,
+        "instruments": [
+          2,
+          25,
+          44,
+          53,
+          87,
+          89,
+          90
+        ],
+        "featured": [
+          2,
+          53
+        ]
+      },
+      {
+        "section": 4,
+        "start": 35.655615925953924,
+        "end": 46.91705303584548,
+        "instruments": [
+          7,
+          13,
+          20,
+          21,
+          31,
+          45,
+          53,
+          55,
+          66,
+          73,
+          95
+        ],
+        "featured": [
+          95,
+          66
+        ]
+      },
+      {
+        "section": 5,
+        "start": 46.91705303584548,
+        "end": 60.10232213754179,
+        "instruments": [
+          2,
+          14,
+          23,
+          31,
+          63,
+          66,
+          77,
+          80,
+          83,
+          84,
+          85
+        ],
+        "featured": [
+          31,
+          85
+        ]
+      },
+      {
+        "section": 6,
+        "start": 60.10232213754179,
+        "end": 73.10486642989704,
+        "instruments": [
+          12,
+          16,
+          19,
+          23,
+          29,
+          50,
+          56,
+          71,
+          85
+        ],
+        "featured": [
+          23,
+          16
+        ]
+      },
+      {
+        "section": 7,
+        "start": 73.10486642989704,
+        "end": 83.93790282200439,
+        "instruments": [
+          3,
+          10,
+          24,
+          35,
+          39,
+          40,
+          55,
+          81,
+          91
+        ],
+        "featured": [
+          91,
+          3
+        ]
+      },
+      {
+        "section": 8,
+        "start": 83.93790282200439,
+        "end": 94.86247442627608,
+        "instruments": [
+          9,
+          11,
+          24,
+          25,
+          33,
+          38,
+          70,
+          83,
+          87,
+          88,
+          89,
+          90,
+          96
+        ],
+        "featured": [
+          24,
+          96
+        ]
+      },
+      {
+        "section": 9,
+        "start": 94.86247442627608,
+        "end": 107.14366896315286,
+        "instruments": [
+          15,
+          40,
+          45,
+          46,
+          68,
+          83
+        ],
+        "featured": [
+          83,
+          40
+        ]
+      },
+      {
+        "section": 10,
+        "start": 107.14366896315286,
+        "end": 119.63170045305031,
+        "instruments": [
+          0,
+          28,
+          48,
+          56,
+          72,
+          80
+        ],
+        "featured": [
+          56,
+          0
+        ]
+      },
+      {
+        "section": 11,
+        "start": 119.63170045305031,
+        "end": 133.26182759792732,
+        "instruments": [
+          1,
+          10,
+          19,
+          38,
+          44,
+          50,
+          90,
+          95
+        ],
+        "featured": [
+          10,
+          19
+        ]
+      },
+      {
+        "section": 12,
+        "start": 133.26182759792732,
+        "end": 146.85337481225903,
+        "instruments": [
+          16,
+          20,
+          31,
+          45,
+          53,
+          64,
+          70
+        ],
+        "featured": [
+          70,
+          64
+        ]
+      },
+      {
+        "section": 13,
+        "start": 146.85337481225903,
+        "end": 158.64402277102874,
+        "instruments": [
+          9,
+          11,
+          23,
+          46,
+          70,
+          83,
+          88
+        ],
+        "featured": [
+          46,
+          88
+        ]
+      },
+      {
+        "section": 14,
+        "start": 158.64402277102874,
+        "end": 170.2297880479503,
+        "instruments": [
+          4,
+          6,
+          19,
+          46,
+          56,
+          79
+        ],
+        "featured": [
+          79,
+          4
+        ]
+      },
+      {
+        "section": 15,
+        "start": 170.2297880479503,
+        "end": 182.4422837212666,
+        "instruments": [
+          8,
+          9,
+          28,
+          35,
+          39,
+          48,
+          81
+        ],
+        "featured": [
+          9,
+          35
+        ]
+      },
+      {
+        "section": 16,
+        "start": 182.4422837212666,
+        "end": 194.61834872827674,
+        "instruments": [
+          11,
+          12,
+          29,
+          38,
+          71,
+          85
+        ],
+        "featured": [
+          71,
+          11
+        ]
+      },
+      {
+        "section": 17,
+        "start": 194.61834872827674,
+        "end": 206.6843251943862,
+        "instruments": [
+          6,
+          31,
+          39,
+          45,
+          53,
+          55,
+          73
+        ],
+        "featured": [
+          39,
+          6
+        ]
+      },
+      {
+        "section": 18,
+        "start": 206.6843251943862,
+        "end": 218.95094104021234,
+        "instruments": [
+          3,
+          9,
+          11,
+          14,
+          23,
+          33,
+          48,
+          83
+        ],
+        "featured": [
+          33,
+          48
+        ]
+      },
+      {
+        "section": 19,
+        "start": 218.95094104021234,
+        "end": 230.22643801005802,
+        "instruments": [
+          19,
+          25,
+          37,
+          43,
+          46,
+          47,
+          56,
+          71,
+          85,
+          91,
+          95,
+          96
+        ],
+        "featured": [
+          43,
+          25
+        ]
+      },
+      {
+        "section": 20,
+        "start": 230.22643801005802,
+        "end": 241.59709175363062,
+        "instruments": [
+          28,
+          37,
+          39,
+          40,
+          48,
+          64,
+          72,
+          79,
+          80,
+          81
+        ],
+        "featured": [
+          81,
+          37
+        ]
+      },
+      {
+        "section": 21,
+        "start": 241.59709175363062,
+        "end": 254.724921770421,
+        "instruments": [
+          7,
+          9,
+          29,
+          44,
+          50,
+          72,
+          89,
+          90
+        ],
+        "featured": [
+          89,
+          72
+        ]
+      },
+      {
+        "section": 22,
+        "start": 254.724921770421,
+        "end": 267.67310540375985,
+        "instruments": [
+          13,
+          15,
+          16,
+          20,
+          21,
+          37,
+          53,
+          55,
+          87
+        ],
+        "featured": [
+          15,
+          87
+        ]
+      },
+      {
+        "section": 23,
+        "start": 267.67310540375985,
+        "end": 278.61703294346927,
+        "instruments": [
+          2,
+          8,
+          14,
+          28,
+          47,
+          63,
+          70,
+          83
+        ],
+        "featured": [
+          28,
+          47
+        ]
+      },
+      {
+        "section": 24,
+        "start": 278.61703294346927,
+        "end": 289.42039031324896,
+        "instruments": [
+          29,
+          50,
+          56,
+          77,
+          85,
+          90,
+          96
+        ],
+        "featured": [
+          90,
+          77
+        ]
+      },
+      {
+        "section": 25,
+        "start": 289.42039031324896,
+        "end": 301.7979556099245,
+        "instruments": [
+          28,
+          38,
+          39,
+          48,
+          68,
+          72,
+          79,
+          81
+        ],
+        "featured": [
+          68,
+          38
+        ]
+      },
+      {
+        "section": 26,
+        "start": 301.7979556099245,
+        "end": 314.29435297401454,
+        "instruments": [
+          5,
+          9,
+          11,
+          13,
+          25,
+          44,
+          90
+        ],
+        "featured": [
+          5,
+          13
+        ]
+      },
+      {
+        "section": 27,
+        "start": 314.29435297401454,
+        "end": 327.8253903688135,
+        "instruments": [
+          7,
+          15,
+          21,
+          37,
+          43,
+          45,
+          47,
+          68,
+          73,
+          80
+        ],
+        "featured": [
+          7,
+          80
+        ]
+      },
+      {
+        "section": 28,
+        "start": 327.8253903688135,
+        "end": 341.5773368849814,
+        "instruments": [
+          8,
+          12,
+          14,
+          21,
+          28,
+          63,
+          83
+        ],
+        "featured": [
+          21,
+          12
+        ]
+      },
+      {
+        "section": 29,
+        "start": 341.5773368849814,
+        "end": 353.2507465648692,
+        "instruments": [
+          8,
+          20,
+          56,
+          85,
+          91,
+          95,
+          96
+        ],
+        "featured": [
+          8,
+          20
+        ]
+      },
+      {
+        "section": 30,
+        "start": 353.2507465648692,
+        "end": 364.8757820950873,
+        "instruments": [
+          31,
+          40,
+          44,
+          45,
+          55,
+          63,
+          64,
+          79
+        ],
+        "featured": [
+          44,
+          63
+        ]
+      },
+      {
+        "section": 31,
+        "start": 364.8757820950873,
+        "end": 377.13624648839436,
+        "instruments": [
+          9,
+          11,
+          23,
+          25,
+          29,
+          33,
+          38,
+          70,
+          73,
+          83,
+          87,
+          88,
+          89,
+          90
+        ],
+        "featured": [
+          73,
+          29
+        ]
+      },
+      {
+        "section": 32,
+        "start": 377.13624648839436,
+        "end": 389.1816994615784,
+        "instruments": [
+          15,
+          20,
+          21,
+          37,
+          43,
+          45,
+          47,
+          68,
+          73,
+          84
+        ],
+        "featured": [
+          84,
+          45
+        ]
+      },
+      {
+        "section": 33,
+        "start": 389.1816994615784,
+        "end": 401.38098876297795,
+        "instruments": [
+          1,
+          5,
+          8,
+          14,
+          39,
+          48,
+          66,
+          81
+        ],
+        "featured": [
+          1,
+          14
+        ]
+      }
+    ],
+    "featured": [
+      {
+        "section": 1,
+        "instrument": 1,
+        "name": "Resonant sequencer lead",
+        "part": "0-foreground1"
+      },
+      {
+        "section": 1,
+        "instrument": 14,
+        "name": "Harpsichord",
+        "part": "0-foreground0"
+      },
+      {
+        "section": 2,
+        "instrument": 55,
+        "name": "Synth Strings 2",
+        "part": "1-foreground0"
+      },
+      {
+        "section": 2,
+        "instrument": 50,
+        "name": "Pizzicato Strings",
+        "part": "1-foreground1"
+      },
+      {
+        "section": 3,
+        "instrument": 2,
+        "name": "Oberheim silver pulse",
+        "part": "2-foreground2"
+      },
+      {
+        "section": 3,
+        "instrument": 53,
+        "name": "Slow Strings",
+        "part": "2-foreground0"
+      },
+      {
+        "section": 4,
+        "instrument": 95,
+        "name": "Tinker Bell",
+        "part": "3-foreground1"
+      },
+      {
+        "section": 4,
+        "instrument": 66,
+        "name": "Tenor Sax",
+        "part": "3-foreground0"
+      },
+      {
+        "section": 5,
+        "instrument": 31,
+        "name": "Steel Guitar",
+        "part": "4-choir1-1"
+      },
+      {
+        "section": 5,
+        "instrument": 85,
+        "name": "Bass & Lead",
+        "part": "4-choir1-0"
+      },
+      {
+        "section": 6,
+        "instrument": 23,
+        "name": "Dulcimer",
+        "part": "5-foreground0"
+      },
+      {
+        "section": 6,
+        "instrument": 16,
+        "name": "Celeste",
+        "part": "5-foreground1"
+      },
+      {
+        "section": 7,
+        "instrument": 91,
+        "name": "Koto",
+        "part": "6-foreground2"
+      },
+      {
+        "section": 7,
+        "instrument": 3,
+        "name": "Oberheim touch brass",
+        "part": "6-foreground1"
+      },
+      {
+        "section": 8,
+        "instrument": 24,
+        "name": "Tonewheel Organ",
+        "part": "7-foreground2"
+      },
+      {
+        "section": 8,
+        "instrument": 96,
+        "name": "Steel Drums",
+        "part": "7-foreground1"
+      },
+      {
+        "section": 9,
+        "instrument": 83,
+        "name": "Solo Vox",
+        "part": "8-foreground1"
+      },
+      {
+        "section": 9,
+        "instrument": 40,
+        "name": "Pick Bass",
+        "part": "8-foreground2"
+      },
+      {
+        "section": 10,
+        "instrument": 56,
+        "name": "Trumpet",
+        "part": "9-foreground0"
+      },
+      {
+        "section": 10,
+        "instrument": 0,
+        "name": "Open modular saw",
+        "part": "9-foreground1"
+      },
+      {
+        "section": 11,
+        "instrument": 10,
+        "name": "Electric Grand Piano",
+        "part": "10-foreground1"
+      },
+      {
+        "section": 11,
+        "instrument": 19,
+        "name": "Vibraphone",
+        "part": "10-foreground0"
+      },
+      {
+        "section": 12,
+        "instrument": 70,
+        "name": "Bassoon",
+        "part": "11-foreground2"
+      },
+      {
+        "section": 12,
+        "instrument": 64,
+        "name": "Soprano Sax",
+        "part": "11-foreground0"
+      },
+      {
+        "section": 13,
+        "instrument": 46,
+        "name": "Violin",
+        "part": "12-foreground0"
+      },
+      {
+        "section": 13,
+        "instrument": 88,
+        "name": "Sitar",
+        "part": "12-foreground1"
+      },
+      {
+        "section": 14,
+        "instrument": 79,
+        "name": "Ocarina",
+        "part": "13-exposed"
+      },
+      {
+        "section": 14,
+        "instrument": 4,
+        "name": "TAL bright hollow lead",
+        "part": "13-pulse-1"
+      },
+      {
+        "section": 15,
+        "instrument": 9,
+        "name": "Bright Grand Piano",
+        "part": "14-foreground0"
+      },
+      {
+        "section": 15,
+        "instrument": 35,
+        "name": "Overdrive Guitar",
+        "part": "14-foreground1"
+      },
+      {
+        "section": 16,
+        "instrument": 71,
+        "name": "Clarinet",
+        "part": "15-foreground0"
+      },
+      {
+        "section": 16,
+        "instrument": 11,
+        "name": "Honky-Tonk Piano",
+        "part": "15-foreground1"
+      },
+      {
+        "section": 17,
+        "instrument": 39,
+        "name": "Finger Bass",
+        "part": "16-foreground1"
+      },
+      {
+        "section": 17,
+        "instrument": 6,
+        "name": "FM glass cantilena",
+        "part": "16-foreground0"
+      },
+      {
+        "section": 18,
+        "instrument": 33,
+        "name": "Clean Guitar",
+        "part": "17-foreground1"
+      },
+      {
+        "section": 18,
+        "instrument": 48,
+        "name": "Cello",
+        "part": "17-foreground2"
+      },
+      {
+        "section": 19,
+        "instrument": 43,
+        "name": "Slap Bass 2",
+        "part": "18-foreground2"
+      },
+      {
+        "section": 19,
+        "instrument": 25,
+        "name": "Percussive Organ",
+        "part": "18-foreground1"
+      },
+      {
+        "section": 20,
+        "instrument": 81,
+        "name": "Chiffer Lead",
+        "part": "19-foreground2"
+      },
+      {
+        "section": 20,
+        "instrument": 37,
+        "name": "Guitar Harmonics",
+        "part": "19-foreground1"
+      },
+      {
+        "section": 21,
+        "instrument": 89,
+        "name": "Banjo",
+        "part": "20-foreground2"
+      },
+      {
+        "section": 21,
+        "instrument": 72,
+        "name": "Piccolo",
+        "part": "20-foreground0"
+      },
+      {
+        "section": 22,
+        "instrument": 15,
+        "name": "Clavinet",
+        "part": "21-foreground0"
+      },
+      {
+        "section": 22,
+        "instrument": 87,
+        "name": "Atmosphere",
+        "part": "21-foreground1"
+      },
+      {
+        "section": 23,
+        "instrument": 28,
+        "name": "Reed Organ",
+        "part": "22-foreground0"
+      },
+      {
+        "section": 23,
+        "instrument": 47,
+        "name": "Viola",
+        "part": "22-foreground1"
+      },
+      {
+        "section": 24,
+        "instrument": 90,
+        "name": "Shamisen",
+        "part": "23-foreground1"
+      },
+      {
+        "section": 24,
+        "instrument": 77,
+        "name": "Shakuhachi",
+        "part": "23-foreground0"
+      },
+      {
+        "section": 25,
+        "instrument": 68,
+        "name": "Oboe",
+        "part": "24-choir1-0"
+      },
+      {
+        "section": 25,
+        "instrument": 38,
+        "name": "Acoustic Bass",
+        "part": "24-choir1-2"
+      },
+      {
+        "section": 26,
+        "instrument": 5,
+        "name": "TAL rubber reed",
+        "part": "25-foreground0"
+      },
+      {
+        "section": 26,
+        "instrument": 13,
+        "name": "FM Electric Piano",
+        "part": "25-foreground1"
+      },
+      {
+        "section": 27,
+        "instrument": 7,
+        "name": "FM harmonic organ",
+        "part": "26-foreground1"
+      },
+      {
+        "section": 27,
+        "instrument": 80,
+        "name": "Synth Calliope",
+        "part": "26-foreground0"
+      },
+      {
+        "section": 28,
+        "instrument": 21,
+        "name": "Xylophone",
+        "part": "27-foreground1"
+      },
+      {
+        "section": 28,
+        "instrument": 12,
+        "name": "Tine Electric Piano",
+        "part": "27-foreground2"
+      },
+      {
+        "section": 29,
+        "instrument": 8,
+        "name": "Grand Piano",
+        "part": "28-foreground0"
+      },
+      {
+        "section": 29,
+        "instrument": 20,
+        "name": "Marimba",
+        "part": "28-foreground1"
+      },
+      {
+        "section": 30,
+        "instrument": 44,
+        "name": "Synth Bass 1",
+        "part": "29-foreground2"
+      },
+      {
+        "section": 30,
+        "instrument": 63,
+        "name": "Synth Brass 2",
+        "part": "29-foreground0"
+      },
+      {
+        "section": 31,
+        "instrument": 73,
+        "name": "Flute",
+        "part": "30-foreground2"
+      },
+      {
+        "section": 31,
+        "instrument": 29,
+        "name": "Harmonica",
+        "part": "30-foreground1"
+      },
+      {
+        "section": 32,
+        "instrument": 84,
+        "name": "5th Saw Wave",
+        "part": "31-choir1-1"
+      },
+      {
+        "section": 32,
+        "instrument": 45,
+        "name": "Synth Bass 2",
+        "part": "31-choir1-2"
+      },
+      {
+        "section": 33,
+        "instrument": 1,
+        "name": "Resonant sequencer lead",
+        "part": "32-foreground0"
+      },
+      {
+        "section": 33,
+        "instrument": 14,
+        "name": "Harpsichord",
+        "part": "32-foreground1"
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "title": "Reed, Wire, Metal",
+    "instruments": [
+      {
+        "id": 0,
+        "name": "Open modular saw",
+        "source_engine": "Surge XT",
+        "source_program": null,
+        "attacks": 19,
+        "written_seconds": 14.414595000000002
+      },
+      {
+        "id": 1,
+        "name": "Resonant sequencer lead",
+        "source_engine": "Surge XT",
+        "source_program": null,
+        "attacks": 28,
+        "written_seconds": 11.943442000000001
+      },
+      {
+        "id": 2,
+        "name": "Oberheim silver pulse",
+        "source_engine": "OB-Xf",
+        "source_program": null,
+        "attacks": 32,
+        "written_seconds": 14.218566
+      },
+      {
+        "id": 3,
+        "name": "Oberheim touch brass",
+        "source_engine": "OB-Xf",
+        "source_program": null,
+        "attacks": 17,
+        "written_seconds": 6.40995
+      },
+      {
+        "id": 4,
+        "name": "TAL bright hollow lead",
+        "source_engine": "TAL-NoiseMaker",
+        "source_program": null,
+        "attacks": 42,
+        "written_seconds": 21.815216000000007
+      },
+      {
+        "id": 5,
+        "name": "TAL rubber reed",
+        "source_engine": "TAL-NoiseMaker",
+        "source_program": null,
+        "attacks": 24,
+        "written_seconds": 17.159035
+      },
+      {
+        "id": 6,
+        "name": "FM glass cantilena",
+        "source_engine": "Dexed",
+        "source_program": null,
+        "attacks": 19,
+        "written_seconds": 7.733355
+      },
+      {
+        "id": 7,
+        "name": "FM harmonic organ",
+        "source_engine": "Dexed",
+        "source_program": null,
+        "attacks": 21,
+        "written_seconds": 17.212236
+      },
+      {
+        "id": 10,
+        "name": "Electric Grand Piano",
+        "source_engine": "FluidSynth",
+        "source_program": 2,
+        "attacks": 14,
+        "written_seconds": 10.731729999999999
+      },
+      {
+        "id": 11,
+        "name": "Honky-Tonk Piano",
+        "source_engine": "FluidSynth",
+        "source_program": 3,
+        "attacks": 33,
+        "written_seconds": 20.020797111641034
+      },
+      {
+        "id": 12,
+        "name": "Tine Electric Piano",
+        "source_engine": "FluidSynth",
+        "source_program": 4,
+        "attacks": 30,
+        "written_seconds": 19.650939999999995
+      },
+      {
+        "id": 14,
+        "name": "Harpsichord",
+        "source_engine": "FluidSynth",
+        "source_program": 6,
+        "attacks": 38,
+        "written_seconds": 30.224820000000005
+      },
+      {
+        "id": 15,
+        "name": "Clavinet",
+        "source_engine": "FluidSynth",
+        "source_program": 7,
+        "attacks": 32,
+        "written_seconds": 15.870156111641053
+      },
+      {
+        "id": 16,
+        "name": "Celeste",
+        "source_engine": "FluidSynth",
+        "source_program": 8,
+        "attacks": 26,
+        "written_seconds": 14.494816111641029
+      },
+      {
+        "id": 17,
+        "name": "Glockenspiel",
+        "source_engine": "FluidSynth",
+        "source_program": 9,
+        "attacks": 31,
+        "written_seconds": 19.733718
+      },
+      {
+        "id": 18,
+        "name": "Music Box",
+        "source_engine": "FluidSynth",
+        "source_program": 10,
+        "attacks": 56,
+        "written_seconds": 51.94136099999999
+      },
+      {
+        "id": 21,
+        "name": "Xylophone",
+        "source_engine": "FluidSynth",
+        "source_program": 13,
+        "attacks": 54,
+        "written_seconds": 38.002379
+      },
+      {
+        "id": 24,
+        "name": "Tonewheel Organ",
+        "source_engine": "FluidSynth",
+        "source_program": 16,
+        "attacks": 25,
+        "written_seconds": 21.696663999999995
+      },
+      {
+        "id": 27,
+        "name": "Pipe Organ",
+        "source_engine": "FluidSynth",
+        "source_program": 19,
+        "attacks": 21,
+        "written_seconds": 19.798875
+      },
+      {
+        "id": 31,
+        "name": "Steel Guitar",
+        "source_engine": "FluidSynth",
+        "source_program": 25,
+        "attacks": 16,
+        "written_seconds": 12.406668000000002
+      },
+      {
+        "id": 32,
+        "name": "Jazz Guitar",
+        "source_engine": "FluidSynth",
+        "source_program": 26,
+        "attacks": 60,
+        "written_seconds": 60.23228411164106
+      },
+      {
+        "id": 33,
+        "name": "Clean Guitar",
+        "source_engine": "FluidSynth",
+        "source_program": 27,
+        "attacks": 56,
+        "written_seconds": 27.216928999999997
+      },
+      {
+        "id": 37,
+        "name": "Guitar Harmonics",
+        "source_engine": "FluidSynth",
+        "source_program": 31,
+        "attacks": 47,
+        "written_seconds": 41.794278000000006
+      },
+      {
+        "id": 40,
+        "name": "Pick Bass",
+        "source_engine": "FluidSynth",
+        "source_program": 34,
+        "attacks": 35,
+        "written_seconds": 38.814619
+      },
+      {
+        "id": 41,
+        "name": "Fretless Bass",
+        "source_engine": "FluidSynth",
+        "source_program": 35,
+        "attacks": 32,
+        "written_seconds": 23.658495000000002
+      },
+      {
+        "id": 42,
+        "name": "Slap Bass 1",
+        "source_engine": "FluidSynth",
+        "source_program": 36,
+        "attacks": 34,
+        "written_seconds": 27.874877999999995
+      },
+      {
+        "id": 45,
+        "name": "Synth Bass 2",
+        "source_engine": "FluidSynth",
+        "source_program": 39,
+        "attacks": 47,
+        "written_seconds": 43.27763800000001
+      },
+      {
+        "id": 46,
+        "name": "Violin",
+        "source_engine": "FluidSynth",
+        "source_program": 40,
+        "attacks": 22,
+        "written_seconds": 18.259009
+      },
+      {
+        "id": 48,
+        "name": "Cello",
+        "source_engine": "FluidSynth",
+        "source_program": 42,
+        "attacks": 33,
+        "written_seconds": 35.24091699999999
+      },
+      {
+        "id": 49,
+        "name": "Double Bass",
+        "source_engine": "FluidSynth",
+        "source_program": 43,
+        "attacks": 32,
+        "written_seconds": 29.909732
+      },
+      {
+        "id": 51,
+        "name": "Orchestral Harp",
+        "source_engine": "FluidSynth",
+        "source_program": 46,
+        "attacks": 50,
+        "written_seconds": 34.263166
+      },
+      {
+        "id": 52,
+        "name": "Fast Strings",
+        "source_engine": "FluidSynth",
+        "source_program": 48,
+        "attacks": 53,
+        "written_seconds": 36.54594300000001
+      },
+      {
+        "id": 53,
+        "name": "Slow Strings",
+        "source_engine": "FluidSynth",
+        "source_program": 49,
+        "attacks": 37,
+        "written_seconds": 18.109235
+      },
+      {
+        "id": 54,
+        "name": "Synth Strings 1",
+        "source_engine": "FluidSynth",
+        "source_program": 50,
+        "attacks": 70,
+        "written_seconds": 51.761638999999995
+      },
+      {
+        "id": 55,
+        "name": "Synth Strings 2",
+        "source_engine": "FluidSynth",
+        "source_program": 51,
+        "attacks": 75,
+        "written_seconds": 70.90967999999997
+      },
+      {
+        "id": 57,
+        "name": "Trombone",
+        "source_engine": "FluidSynth",
+        "source_program": 57,
+        "attacks": 49,
+        "written_seconds": 33.976769
+      },
+      {
+        "id": 60,
+        "name": "French Horns",
+        "source_engine": "FluidSynth",
+        "source_program": 60,
+        "attacks": 49,
+        "written_seconds": 32.621607000000004
+      },
+      {
+        "id": 61,
+        "name": "Brass Section",
+        "source_engine": "FluidSynth",
+        "source_program": 61,
+        "attacks": 36,
+        "written_seconds": 33.75351299999999
+      },
+      {
+        "id": 62,
+        "name": "Synth Brass 1",
+        "source_engine": "FluidSynth",
+        "source_program": 62,
+        "attacks": 56,
+        "written_seconds": 59.226088111641076
+      },
+      {
+        "id": 63,
+        "name": "Synth Brass 2",
+        "source_engine": "FluidSynth",
+        "source_program": 63,
+        "attacks": 52,
+        "written_seconds": 45.48559699999999
+      },
+      {
+        "id": 65,
+        "name": "Alto Sax",
+        "source_engine": "FluidSynth",
+        "source_program": 65,
+        "attacks": 26,
+        "written_seconds": 15.576739000000007
+      },
+      {
+        "id": 67,
+        "name": "Baritone Sax",
+        "source_engine": "FluidSynth",
+        "source_program": 67,
+        "attacks": 21,
+        "written_seconds": 8.976566
+      },
+      {
+        "id": 69,
+        "name": "English Horn",
+        "source_engine": "FluidSynth",
+        "source_program": 69,
+        "attacks": 60,
+        "written_seconds": 52.407402
+      },
+      {
+        "id": 70,
+        "name": "Bassoon",
+        "source_engine": "FluidSynth",
+        "source_program": 70,
+        "attacks": 50,
+        "written_seconds": 38.28062700000001
+      },
+      {
+        "id": 71,
+        "name": "Clarinet",
+        "source_engine": "FluidSynth",
+        "source_program": 71,
+        "attacks": 27,
+        "written_seconds": 22.811915999999997
+      },
+      {
+        "id": 73,
+        "name": "Flute",
+        "source_engine": "FluidSynth",
+        "source_program": 73,
+        "attacks": 55,
+        "written_seconds": 49.25876099999999
+      },
+      {
+        "id": 74,
+        "name": "Recorder",
+        "source_engine": "FluidSynth",
+        "source_program": 74,
+        "attacks": 61,
+        "written_seconds": 48.086216
+      },
+      {
+        "id": 77,
+        "name": "Shakuhachi",
+        "source_engine": "FluidSynth",
+        "source_program": 77,
+        "attacks": 43,
+        "written_seconds": 39.206346999999994
+      },
+      {
+        "id": 79,
+        "name": "Ocarina",
+        "source_engine": "FluidSynth",
+        "source_program": 79,
+        "attacks": 62,
+        "written_seconds": 52.67868000000001
+      },
+      {
+        "id": 80,
+        "name": "Synth Calliope",
+        "source_engine": "FluidSynth",
+        "source_program": 82,
+        "attacks": 84,
+        "written_seconds": 70.12074800000003
+      },
+      {
+        "id": 81,
+        "name": "Chiffer Lead",
+        "source_engine": "FluidSynth",
+        "source_program": 83,
+        "attacks": 77,
+        "written_seconds": 54.1226
+      },
+      {
+        "id": 83,
+        "name": "Solo Vox",
+        "source_engine": "FluidSynth",
+        "source_program": 85,
+        "attacks": 52,
+        "written_seconds": 55.209403
+      },
+      {
+        "id": 84,
+        "name": "5th Saw Wave",
+        "source_engine": "FluidSynth",
+        "source_program": 86,
+        "attacks": 52,
+        "written_seconds": 43.49956199999999
+      },
+      {
+        "id": 85,
+        "name": "Bass & Lead",
+        "source_engine": "FluidSynth",
+        "source_program": 87,
+        "attacks": 40,
+        "written_seconds": 31.726488999999997
+      },
+      {
+        "id": 86,
+        "name": "Crystal",
+        "source_engine": "FluidSynth",
+        "source_program": 98,
+        "attacks": 64,
+        "written_seconds": 38.92341211164102
+      },
+      {
+        "id": 87,
+        "name": "Atmosphere",
+        "source_engine": "FluidSynth",
+        "source_program": 99,
+        "attacks": 30,
+        "written_seconds": 18.853625000000005
+      },
+      {
+        "id": 88,
+        "name": "Sitar",
+        "source_engine": "FluidSynth",
+        "source_program": 104,
+        "attacks": 48,
+        "written_seconds": 26.679251000000004
+      },
+      {
+        "id": 89,
+        "name": "Banjo",
+        "source_engine": "FluidSynth",
+        "source_program": 105,
+        "attacks": 23,
+        "written_seconds": 19.345869999999998
+      },
+      {
+        "id": 90,
+        "name": "Shamisen",
+        "source_engine": "FluidSynth",
+        "source_program": 106,
+        "attacks": 37,
+        "written_seconds": 38.29490799999999
+      },
+      {
+        "id": 91,
+        "name": "Koto",
+        "source_engine": "FluidSynth",
+        "source_program": 107,
+        "attacks": 30,
+        "written_seconds": 12.263328999999999
+      },
+      {
+        "id": 92,
+        "name": "Kalimba",
+        "source_engine": "FluidSynth",
+        "source_program": 108,
+        "attacks": 64,
+        "written_seconds": 70.26599211164105
+      },
+      {
+        "id": 93,
+        "name": "Fiddle",
+        "source_engine": "FluidSynth",
+        "source_program": 110,
+        "attacks": 19,
+        "written_seconds": 16.602274
+      },
+      {
+        "id": 95,
+        "name": "Tinker Bell",
+        "source_engine": "FluidSynth",
+        "source_program": 112,
+        "attacks": 17,
+        "written_seconds": 8.910534
+      },
+      {
+        "id": 96,
+        "name": "Steel Drums",
+        "source_engine": "FluidSynth",
+        "source_program": 114,
+        "attacks": 23,
+        "written_seconds": 17.785532
+      }
+    ],
+    "ensembles": [
+      {
+        "section": 1,
+        "start": 0.0,
+        "end": 9.265887551215872,
+        "instruments": [
+          1,
+          33,
+          63,
+          80,
+          84,
+          85,
+          93
+        ],
+        "featured": [
+          1,
+          93
+        ]
+      },
+      {
+        "section": 2,
+        "start": 9.265887551215872,
+        "end": 18.697165960534072,
+        "instruments": [
+          2,
+          3,
+          10,
+          40,
+          49,
+          70,
+          74
+        ],
+        "featured": [
+          2,
+          3
+        ]
+      },
+      {
+        "section": 3,
+        "start": 18.697165960534072,
+        "end": 29.40408388116702,
+        "instruments": [
+          37,
+          41,
+          42,
+          55,
+          57,
+          65,
+          73
+        ],
+        "featured": [
+          37,
+          57
+        ]
+      },
+      {
+        "section": 4,
+        "start": 29.40408388116702,
+        "end": 40.14068274862356,
+        "instruments": [
+          54,
+          57,
+          69,
+          86,
+          87,
+          92,
+          95
+        ],
+        "featured": [
+          69,
+          95
+        ]
+      },
+      {
+        "section": 5,
+        "start": 40.14068274862356,
+        "end": 49.13582127952131,
+        "instruments": [
+          11,
+          17,
+          37,
+          54,
+          61,
+          85,
+          93
+        ],
+        "featured": [
+          54,
+          85
+        ]
+      },
+      {
+        "section": 6,
+        "start": 49.13582127952131,
+        "end": 57.9809467320803,
+        "instruments": [
+          16,
+          21,
+          33,
+          49,
+          53,
+          55,
+          61,
+          63,
+          69,
+          80,
+          84,
+          85,
+          91
+        ],
+        "featured": [
+          61,
+          49
+        ]
+      },
+      {
+        "section": 7,
+        "start": 57.9809467320803,
+        "end": 68.2556968124228,
+        "instruments": [
+          4,
+          18,
+          52,
+          54,
+          57,
+          63,
+          83,
+          89
+        ],
+        "featured": [
+          63,
+          18
+        ]
+      },
+      {
+        "section": 8,
+        "start": 68.2556968124228,
+        "end": 78.44363833718573,
+        "instruments": [
+          4,
+          12,
+          17,
+          18,
+          41,
+          42,
+          48,
+          51,
+          65,
+          67,
+          71,
+          73,
+          77,
+          79,
+          84,
+          96
+        ],
+        "featured": [
+          4,
+          84
+        ]
+      },
+      {
+        "section": 9,
+        "start": 78.44363833718573,
+        "end": 89.62145028274794,
+        "instruments": [
+          7,
+          12,
+          32,
+          45,
+          80,
+          86,
+          88
+        ],
+        "featured": [
+          12,
+          7
+        ]
+      },
+      {
+        "section": 10,
+        "start": 89.62145028274794,
+        "end": 100.95629139664199,
+        "instruments": [
+          17,
+          24,
+          33,
+          37,
+          46,
+          61,
+          74
+        ],
+        "featured": [
+          33,
+          17
+        ]
+      },
+      {
+        "section": 11,
+        "start": 100.95629139664199,
+        "end": 110.48809164829181,
+        "instruments": [
+          1,
+          16,
+          21,
+          52,
+          55,
+          69,
+          73,
+          96
+        ],
+        "featured": [
+          52,
+          16
+        ]
+      },
+      {
+        "section": 12,
+        "start": 110.48809164829181,
+        "end": 120.1460946613803,
+        "instruments": [
+          40,
+          49,
+          52,
+          54,
+          57,
+          79,
+          83,
+          86,
+          88
+        ],
+        "featured": [
+          79,
+          83
+        ]
+      },
+      {
+        "section": 13,
+        "start": 120.1460946613803,
+        "end": 130.16908173062868,
+        "instruments": [
+          18,
+          37,
+          71,
+          77,
+          79,
+          80,
+          95
+        ],
+        "featured": [
+          80,
+          71
+        ]
+      },
+      {
+        "section": 14,
+        "start": 130.16908173062868,
+        "end": 140.0977076679288,
+        "instruments": [
+          5,
+          16,
+          32,
+          33,
+          62,
+          80,
+          91
+        ],
+        "featured": [
+          5,
+          91
+        ]
+      },
+      {
+        "section": 15,
+        "start": 140.0977076679288,
+        "end": 150.19512745891333,
+        "instruments": [
+          10,
+          24,
+          70,
+          77
+        ],
+        "featured": [
+          77,
+          10
+        ]
+      },
+      {
+        "section": 16,
+        "start": 150.19512745891333,
+        "end": 160.12974182621522,
+        "instruments": [
+          41,
+          48,
+          51,
+          53,
+          55,
+          81,
+          85,
+          96
+        ],
+        "featured": [
+          53,
+          48
+        ]
+      },
+      {
+        "section": 17,
+        "start": 160.12974182621522,
+        "end": 169.48717310787947,
+        "instruments": [
+          2,
+          40,
+          49,
+          52,
+          54,
+          57,
+          62,
+          86,
+          87,
+          92
+        ],
+        "featured": [
+          40,
+          62
+        ]
+      },
+      {
+        "section": 18,
+        "start": 169.48717310787947,
+        "end": 178.8817365780704,
+        "instruments": [
+          0,
+          12,
+          17,
+          18,
+          48,
+          67,
+          71,
+          77,
+          79
+        ],
+        "featured": [
+          67,
+          0
+        ]
+      },
+      {
+        "section": 19,
+        "start": 178.8817365780704,
+        "end": 189.53666782697107,
+        "instruments": [
+          14,
+          15,
+          16,
+          27,
+          32,
+          33,
+          42,
+          53,
+          62,
+          63,
+          69,
+          80,
+          84,
+          85,
+          91
+        ],
+        "featured": [
+          15,
+          42
+        ]
+      },
+      {
+        "section": 20,
+        "start": 189.53666782697107,
+        "end": 200.3796511113214,
+        "instruments": [
+          0,
+          14,
+          31,
+          60,
+          74,
+          83
+        ],
+        "featured": [
+          74,
+          14
+        ]
+      },
+      {
+        "section": 21,
+        "start": 200.3796511113214,
+        "end": 209.26981223531212,
+        "instruments": [
+          21,
+          51,
+          55,
+          65,
+          73,
+          77,
+          81,
+          89
+        ],
+        "featured": [
+          65,
+          89
+        ]
+      },
+      {
+        "section": 22,
+        "start": 209.26981223531212,
+        "end": 218.17581947104577,
+        "instruments": [
+          14,
+          32,
+          41,
+          45,
+          87,
+          88,
+          92
+        ],
+        "featured": [
+          32,
+          41
+        ]
+      },
+      {
+        "section": 23,
+        "start": 218.17581947104577,
+        "end": 228.45763294538116,
+        "instruments": [
+          11,
+          12,
+          18,
+          27,
+          37,
+          70,
+          79,
+          90
+        ],
+        "featured": [
+          70,
+          27
+        ]
+      },
+      {
+        "section": 24,
+        "start": 228.45763294538116,
+        "end": 238.56749470597708,
+        "instruments": [
+          15,
+          16,
+          21,
+          24,
+          33,
+          53,
+          62,
+          63,
+          69,
+          73,
+          80,
+          84,
+          85,
+          91
+        ],
+        "featured": [
+          73,
+          24
+        ]
+      },
+      {
+        "section": 25,
+        "start": 238.56749470597708,
+        "end": 249.88045633357606,
+        "instruments": [
+          5,
+          10,
+          40,
+          45,
+          49,
+          52,
+          74,
+          83,
+          96
+        ],
+        "featured": [
+          45,
+          96
+        ]
+      },
+      {
+        "section": 26,
+        "start": 249.88045633357606,
+        "end": 261.1111870842503,
+        "instruments": [
+          42,
+          55,
+          60,
+          71,
+          81,
+          92
+        ],
+        "featured": [
+          60,
+          92
+        ]
+      },
+      {
+        "section": 27,
+        "start": 261.1111870842503,
+        "end": 270.67765464616605,
+        "instruments": [
+          15,
+          32,
+          45,
+          46,
+          51,
+          62,
+          86,
+          88,
+          92
+        ],
+        "featured": [
+          51,
+          46
+        ]
+      },
+      {
+        "section": 28,
+        "start": 270.67765464616605,
+        "end": 280.3835664806142,
+        "instruments": [
+          6,
+          11,
+          55,
+          60,
+          70,
+          89,
+          90,
+          93
+        ],
+        "featured": [
+          6,
+          55
+        ]
+      },
+      {
+        "section": 29,
+        "start": 280.3835664806142,
+        "end": 290.3012336072961,
+        "instruments": [
+          21,
+          31,
+          51,
+          55,
+          63,
+          69,
+          81,
+          84,
+          87
+        ],
+        "featured": [
+          31,
+          87
+        ]
+      },
+      {
+        "section": 30,
+        "start": 290.3012336072961,
+        "end": 300.33995354339567,
+        "instruments": [
+          4,
+          7,
+          54,
+          57,
+          81,
+          83,
+          86,
+          90
+        ],
+        "featured": [
+          81,
+          90
+        ]
+      },
+      {
+        "section": 31,
+        "start": 300.33995354339567,
+        "end": 310.36511179352345,
+        "instruments": [
+          12,
+          18,
+          21,
+          41,
+          48,
+          73,
+          77,
+          79,
+          88
+        ],
+        "featured": [
+          88,
+          21
+        ]
+      },
+      {
+        "section": 32,
+        "start": 310.36511179352345,
+        "end": 320.2852450881131,
+        "instruments": [
+          11,
+          14,
+          15,
+          16,
+          27,
+          32,
+          45,
+          53,
+          62,
+          80,
+          86,
+          87,
+          88,
+          91,
+          92
+        ],
+        "featured": [
+          11,
+          86
+        ]
+      }
+    ],
+    "featured": [
+      {
+        "section": 1,
+        "instrument": 1,
+        "name": "Resonant sequencer lead",
+        "part": "0-foreground2"
+      },
+      {
+        "section": 1,
+        "instrument": 93,
+        "name": "Fiddle",
+        "part": "0-foreground1"
+      },
+      {
+        "section": 2,
+        "instrument": 2,
+        "name": "Oberheim silver pulse",
+        "part": "1-foreground0"
+      },
+      {
+        "section": 2,
+        "instrument": 3,
+        "name": "Oberheim touch brass",
+        "part": "1-foreground1"
+      },
+      {
+        "section": 3,
+        "instrument": 37,
+        "name": "Guitar Harmonics",
+        "part": "2-foreground0"
+      },
+      {
+        "section": 3,
+        "instrument": 57,
+        "name": "Trombone",
+        "part": "2-foreground1"
+      },
+      {
+        "section": 4,
+        "instrument": 69,
+        "name": "English Horn",
+        "part": "3-foreground1"
+      },
+      {
+        "section": 4,
+        "instrument": 95,
+        "name": "Tinker Bell",
+        "part": "3-foreground0"
+      },
+      {
+        "section": 5,
+        "instrument": 54,
+        "name": "Synth Strings 1",
+        "part": "4-foreground0"
+      },
+      {
+        "section": 5,
+        "instrument": 85,
+        "name": "Bass & Lead",
+        "part": "4-foreground1"
+      },
+      {
+        "section": 6,
+        "instrument": 61,
+        "name": "Brass Section",
+        "part": "5-choir1-0"
+      },
+      {
+        "section": 6,
+        "instrument": 49,
+        "name": "Double Bass",
+        "part": "5-choir1-1"
+      },
+      {
+        "section": 7,
+        "instrument": 63,
+        "name": "Synth Brass 2",
+        "part": "6-foreground1"
+      },
+      {
+        "section": 7,
+        "instrument": 18,
+        "name": "Music Box",
+        "part": "6-foreground0"
+      },
+      {
+        "section": 8,
+        "instrument": 4,
+        "name": "TAL bright hollow lead",
+        "part": "7-foreground2"
+      },
+      {
+        "section": 8,
+        "instrument": 84,
+        "name": "5th Saw Wave",
+        "part": "7-foreground1"
+      },
+      {
+        "section": 9,
+        "instrument": 12,
+        "name": "Tine Electric Piano",
+        "part": "8-foreground0"
+      },
+      {
+        "section": 9,
+        "instrument": 7,
+        "name": "FM harmonic organ",
+        "part": "8-foreground1"
+      },
+      {
+        "section": 10,
+        "instrument": 33,
+        "name": "Clean Guitar",
+        "part": "9-foreground2"
+      },
+      {
+        "section": 10,
+        "instrument": 17,
+        "name": "Glockenspiel",
+        "part": "9-foreground1"
+      },
+      {
+        "section": 11,
+        "instrument": 52,
+        "name": "Fast Strings",
+        "part": "10-foreground0"
+      },
+      {
+        "section": 11,
+        "instrument": 16,
+        "name": "Celeste",
+        "part": "10-foreground1"
+      },
+      {
+        "section": 12,
+        "instrument": 79,
+        "name": "Ocarina",
+        "part": "11-foreground0"
+      },
+      {
+        "section": 12,
+        "instrument": 83,
+        "name": "Solo Vox",
+        "part": "11-foreground1"
+      },
+      {
+        "section": 13,
+        "instrument": 80,
+        "name": "Synth Calliope",
+        "part": "12-foreground1"
+      },
+      {
+        "section": 13,
+        "instrument": 71,
+        "name": "Clarinet",
+        "part": "12-foreground0"
+      },
+      {
+        "section": 14,
+        "instrument": 5,
+        "name": "TAL rubber reed",
+        "part": "13-foreground2"
+      },
+      {
+        "section": 14,
+        "instrument": 91,
+        "name": "Koto",
+        "part": "13-foreground0"
+      },
+      {
+        "section": 15,
+        "instrument": 77,
+        "name": "Shakuhachi",
+        "part": "14-exposed"
+      },
+      {
+        "section": 15,
+        "instrument": 10,
+        "name": "Electric Grand Piano",
+        "part": "14-pulse-0"
+      },
+      {
+        "section": 16,
+        "instrument": 53,
+        "name": "Slow Strings",
+        "part": "15-foreground1"
+      },
+      {
+        "section": 16,
+        "instrument": 48,
+        "name": "Cello",
+        "part": "15-foreground2"
+      },
+      {
+        "section": 17,
+        "instrument": 40,
+        "name": "Pick Bass",
+        "part": "16-choir1-2"
+      },
+      {
+        "section": 17,
+        "instrument": 62,
+        "name": "Synth Brass 1",
+        "part": "16-choir1-0"
+      },
+      {
+        "section": 18,
+        "instrument": 67,
+        "name": "Baritone Sax",
+        "part": "17-foreground1"
+      },
+      {
+        "section": 18,
+        "instrument": 0,
+        "name": "Open modular saw",
+        "part": "17-foreground0"
+      },
+      {
+        "section": 19,
+        "instrument": 15,
+        "name": "Clavinet",
+        "part": "18-foreground2"
+      },
+      {
+        "section": 19,
+        "instrument": 42,
+        "name": "Slap Bass 1",
+        "part": "18-foreground1"
+      },
+      {
+        "section": 20,
+        "instrument": 74,
+        "name": "Recorder",
+        "part": "19-foreground1"
+      },
+      {
+        "section": 20,
+        "instrument": 14,
+        "name": "Harpsichord",
+        "part": "19-foreground2"
+      },
+      {
+        "section": 21,
+        "instrument": 65,
+        "name": "Alto Sax",
+        "part": "20-foreground2"
+      },
+      {
+        "section": 21,
+        "instrument": 89,
+        "name": "Banjo",
+        "part": "20-foreground0"
+      },
+      {
+        "section": 22,
+        "instrument": 32,
+        "name": "Jazz Guitar",
+        "part": "21-foreground0"
+      },
+      {
+        "section": 22,
+        "instrument": 41,
+        "name": "Fretless Bass",
+        "part": "21-foreground1"
+      },
+      {
+        "section": 23,
+        "instrument": 70,
+        "name": "Bassoon",
+        "part": "22-foreground0"
+      },
+      {
+        "section": 23,
+        "instrument": 27,
+        "name": "Pipe Organ",
+        "part": "22-foreground1"
+      },
+      {
+        "section": 24,
+        "instrument": 73,
+        "name": "Flute",
+        "part": "23-foreground2"
+      },
+      {
+        "section": 24,
+        "instrument": 24,
+        "name": "Tonewheel Organ",
+        "part": "23-foreground1"
+      },
+      {
+        "section": 25,
+        "instrument": 45,
+        "name": "Synth Bass 2",
+        "part": "24-foreground2"
+      },
+      {
+        "section": 25,
+        "instrument": 96,
+        "name": "Steel Drums",
+        "part": "24-foreground0"
+      },
+      {
+        "section": 26,
+        "instrument": 60,
+        "name": "French Horns",
+        "part": "25-foreground0"
+      },
+      {
+        "section": 26,
+        "instrument": 92,
+        "name": "Kalimba",
+        "part": "25-foreground1"
+      },
+      {
+        "section": 27,
+        "instrument": 51,
+        "name": "Orchestral Harp",
+        "part": "26-foreground1"
+      },
+      {
+        "section": 27,
+        "instrument": 46,
+        "name": "Violin",
+        "part": "26-foreground0"
+      },
+      {
+        "section": 28,
+        "instrument": 6,
+        "name": "FM glass cantilena",
+        "part": "27-foreground0"
+      },
+      {
+        "section": 28,
+        "instrument": 55,
+        "name": "Synth Strings 2",
+        "part": "27-foreground1"
+      },
+      {
+        "section": 29,
+        "instrument": 31,
+        "name": "Steel Guitar",
+        "part": "28-choir1-2"
+      },
+      {
+        "section": 29,
+        "instrument": 87,
+        "name": "Atmosphere",
+        "part": "28-choir1-1"
+      },
+      {
+        "section": 30,
+        "instrument": 81,
+        "name": "Chiffer Lead",
+        "part": "29-foreground1"
+      },
+      {
+        "section": 30,
+        "instrument": 90,
+        "name": "Shamisen",
+        "part": "29-foreground0"
+      },
+      {
+        "section": 31,
+        "instrument": 88,
+        "name": "Sitar",
+        "part": "30-foreground1"
+      },
+      {
+        "section": 31,
+        "instrument": 21,
+        "name": "Xylophone",
+        "part": "30-foreground2"
+      },
+      {
+        "section": 32,
+        "instrument": 11,
+        "name": "Honky-Tonk Piano",
+        "part": "31-foreground2"
+      },
+      {
+        "section": 32,
+        "instrument": 86,
+        "name": "Crystal",
+        "part": "31-foreground1"
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "title": "Dry Color Fields",
+    "instruments": [
+      {
+        "id": 0,
+        "name": "Open modular saw",
+        "source_engine": "Surge XT",
+        "source_program": null,
+        "attacks": 14,
+        "written_seconds": 9.205214999999999
+      },
+      {
+        "id": 1,
+        "name": "Resonant sequencer lead",
+        "source_engine": "Surge XT",
+        "source_program": null,
+        "attacks": 23,
+        "written_seconds": 19.136718
+      },
+      {
+        "id": 2,
+        "name": "Oberheim silver pulse",
+        "source_engine": "OB-Xf",
+        "source_program": null,
+        "attacks": 18,
+        "written_seconds": 9.026342000000001
+      },
+      {
+        "id": 3,
+        "name": "Oberheim touch brass",
+        "source_engine": "OB-Xf",
+        "source_program": null,
+        "attacks": 25,
+        "written_seconds": 18.008511999999996
+      },
+      {
+        "id": 4,
+        "name": "TAL bright hollow lead",
+        "source_engine": "TAL-NoiseMaker",
+        "source_program": null,
+        "attacks": 41,
+        "written_seconds": 27.610149000000003
+      },
+      {
+        "id": 5,
+        "name": "TAL rubber reed",
+        "source_engine": "TAL-NoiseMaker",
+        "source_program": null,
+        "attacks": 14,
+        "written_seconds": 9.660537
+      },
+      {
+        "id": 6,
+        "name": "FM glass cantilena",
+        "source_engine": "Dexed",
+        "source_program": null,
+        "attacks": 45,
+        "written_seconds": 25.704213
+      },
+      {
+        "id": 7,
+        "name": "FM harmonic organ",
+        "source_engine": "Dexed",
+        "source_program": null,
+        "attacks": 23,
+        "written_seconds": 19.156342000000002
+      },
+      {
+        "id": 9,
+        "name": "Bright Grand Piano",
+        "source_engine": "FluidSynth",
+        "source_program": 1,
+        "attacks": 41,
+        "written_seconds": 43.41945200000001
+      },
+      {
+        "id": 11,
+        "name": "Honky-Tonk Piano",
+        "source_engine": "FluidSynth",
+        "source_program": 3,
+        "attacks": 65,
+        "written_seconds": 59.146024999999995
+      },
+      {
+        "id": 12,
+        "name": "Tine Electric Piano",
+        "source_engine": "FluidSynth",
+        "source_program": 4,
+        "attacks": 52,
+        "written_seconds": 41.743369999999985
+      },
+      {
+        "id": 14,
+        "name": "Harpsichord",
+        "source_engine": "FluidSynth",
+        "source_program": 6,
+        "attacks": 44,
+        "written_seconds": 39.185998999999995
+      },
+      {
+        "id": 15,
+        "name": "Clavinet",
+        "source_engine": "FluidSynth",
+        "source_program": 7,
+        "attacks": 40,
+        "written_seconds": 40.66539600000001
+      },
+      {
+        "id": 17,
+        "name": "Glockenspiel",
+        "source_engine": "FluidSynth",
+        "source_program": 9,
+        "attacks": 45,
+        "written_seconds": 48.30908095504491
+      },
+      {
+        "id": 18,
+        "name": "Music Box",
+        "source_engine": "FluidSynth",
+        "source_program": 10,
+        "attacks": 25,
+        "written_seconds": 24.6649
+      },
+      {
+        "id": 19,
+        "name": "Vibraphone",
+        "source_engine": "FluidSynth",
+        "source_program": 11,
+        "attacks": 68,
+        "written_seconds": 51.30374747752244
+      },
+      {
+        "id": 21,
+        "name": "Xylophone",
+        "source_engine": "FluidSynth",
+        "source_program": 13,
+        "attacks": 40,
+        "written_seconds": 38.86446447752249
+      },
+      {
+        "id": 22,
+        "name": "Tubular Bells",
+        "source_engine": "FluidSynth",
+        "source_program": 14,
+        "attacks": 22,
+        "written_seconds": 13.467309
+      },
+      {
+        "id": 23,
+        "name": "Dulcimer",
+        "source_engine": "FluidSynth",
+        "source_program": 15,
+        "attacks": 43,
+        "written_seconds": 57.138107999999995
+      },
+      {
+        "id": 25,
+        "name": "Percussive Organ",
+        "source_engine": "FluidSynth",
+        "source_program": 17,
+        "attacks": 71,
+        "written_seconds": 58.208263
+      },
+      {
+        "id": 26,
+        "name": "Rock Organ",
+        "source_engine": "FluidSynth",
+        "source_program": 18,
+        "attacks": 47,
+        "written_seconds": 52.745077999999985
+      },
+      {
+        "id": 28,
+        "name": "Reed Organ",
+        "source_engine": "FluidSynth",
+        "source_program": 20,
+        "attacks": 38,
+        "written_seconds": 37.97016699999998
+      },
+      {
+        "id": 29,
+        "name": "Harmonica",
+        "source_engine": "FluidSynth",
+        "source_program": 22,
+        "attacks": 36,
+        "written_seconds": 21.383904
+      },
+      {
+        "id": 30,
+        "name": "Nylon Guitar",
+        "source_engine": "FluidSynth",
+        "source_program": 24,
+        "attacks": 45,
+        "written_seconds": 39.14824500000001
+      },
+      {
+        "id": 33,
+        "name": "Clean Guitar",
+        "source_engine": "FluidSynth",
+        "source_program": 27,
+        "attacks": 44,
+        "written_seconds": 50.246231
+      },
+      {
+        "id": 34,
+        "name": "Muted Guitar",
+        "source_engine": "FluidSynth",
+        "source_program": 28,
+        "attacks": 43,
+        "written_seconds": 39.17402300000001
+      },
+      {
+        "id": 36,
+        "name": "Distortion Guitar",
+        "source_engine": "FluidSynth",
+        "source_program": 30,
+        "attacks": 59,
+        "written_seconds": 43.32855000000001
+      },
+      {
+        "id": 37,
+        "name": "Guitar Harmonics",
+        "source_engine": "FluidSynth",
+        "source_program": 31,
+        "attacks": 54,
+        "written_seconds": 41.6769314775225
+      },
+      {
+        "id": 38,
+        "name": "Acoustic Bass",
+        "source_engine": "FluidSynth",
+        "source_program": 32,
+        "attacks": 46,
+        "written_seconds": 40.251827
+      },
+      {
+        "id": 39,
+        "name": "Finger Bass",
+        "source_engine": "FluidSynth",
+        "source_program": 33,
+        "attacks": 22,
+        "written_seconds": 19.666728
+      },
+      {
+        "id": 42,
+        "name": "Slap Bass 1",
+        "source_engine": "FluidSynth",
+        "source_program": 36,
+        "attacks": 44,
+        "written_seconds": 58.87566200000001
+      },
+      {
+        "id": 43,
+        "name": "Slap Bass 2",
+        "source_engine": "FluidSynth",
+        "source_program": 37,
+        "attacks": 48,
+        "written_seconds": 47.61787799999998
+      },
+      {
+        "id": 44,
+        "name": "Synth Bass 1",
+        "source_engine": "FluidSynth",
+        "source_program": 38,
+        "attacks": 39,
+        "written_seconds": 42.384797999999996
+      },
+      {
+        "id": 45,
+        "name": "Synth Bass 2",
+        "source_engine": "FluidSynth",
+        "source_program": 39,
+        "attacks": 49,
+        "written_seconds": 50.82872600000001
+      },
+      {
+        "id": 46,
+        "name": "Violin",
+        "source_engine": "FluidSynth",
+        "source_program": 40,
+        "attacks": 43,
+        "written_seconds": 37.15370299999999
+      },
+      {
+        "id": 48,
+        "name": "Cello",
+        "source_engine": "FluidSynth",
+        "source_program": 42,
+        "attacks": 34,
+        "written_seconds": 33.338281
+      },
+      {
+        "id": 50,
+        "name": "Pizzicato Strings",
+        "source_engine": "FluidSynth",
+        "source_program": 45,
+        "attacks": 74,
+        "written_seconds": 67.16313799999999
+      },
+      {
+        "id": 52,
+        "name": "Fast Strings",
+        "source_engine": "FluidSynth",
+        "source_program": 48,
+        "attacks": 37,
+        "written_seconds": 35.516312
+      },
+      {
+        "id": 53,
+        "name": "Slow Strings",
+        "source_engine": "FluidSynth",
+        "source_program": 49,
+        "attacks": 55,
+        "written_seconds": 53.36766299999998
+      },
+      {
+        "id": 57,
+        "name": "Trombone",
+        "source_engine": "FluidSynth",
+        "source_program": 57,
+        "attacks": 35,
+        "written_seconds": 33.168884
+      },
+      {
+        "id": 58,
+        "name": "Tuba",
+        "source_engine": "FluidSynth",
+        "source_program": 58,
+        "attacks": 48,
+        "written_seconds": 21.959217999999996
+      },
+      {
+        "id": 60,
+        "name": "French Horns",
+        "source_engine": "FluidSynth",
+        "source_program": 60,
+        "attacks": 34,
+        "written_seconds": 33.143524
+      },
+      {
+        "id": 62,
+        "name": "Synth Brass 1",
+        "source_engine": "FluidSynth",
+        "source_program": 62,
+        "attacks": 26,
+        "written_seconds": 16.152894999999997
+      },
+      {
+        "id": 63,
+        "name": "Synth Brass 2",
+        "source_engine": "FluidSynth",
+        "source_program": 63,
+        "attacks": 58,
+        "written_seconds": 55.276093999999986
+      },
+      {
+        "id": 64,
+        "name": "Soprano Sax",
+        "source_engine": "FluidSynth",
+        "source_program": 64,
+        "attacks": 34,
+        "written_seconds": 38.94223500000001
+      },
+      {
+        "id": 70,
+        "name": "Bassoon",
+        "source_engine": "FluidSynth",
+        "source_program": 70,
+        "attacks": 51,
+        "written_seconds": 61.87297900000002
+      },
+      {
+        "id": 71,
+        "name": "Clarinet",
+        "source_engine": "FluidSynth",
+        "source_program": 71,
+        "attacks": 35,
+        "written_seconds": 22.781378999999998
+      },
+      {
+        "id": 73,
+        "name": "Flute",
+        "source_engine": "FluidSynth",
+        "source_program": 73,
+        "attacks": 55,
+        "written_seconds": 54.592412
+      },
+      {
+        "id": 74,
+        "name": "Recorder",
+        "source_engine": "FluidSynth",
+        "source_program": 74,
+        "attacks": 47,
+        "written_seconds": 44.06593100000001
+      },
+      {
+        "id": 76,
+        "name": "Bottle Blow",
+        "source_engine": "FluidSynth",
+        "source_program": 76,
+        "attacks": 29,
+        "written_seconds": 19.634608
+      },
+      {
+        "id": 77,
+        "name": "Shakuhachi",
+        "source_engine": "FluidSynth",
+        "source_program": 77,
+        "attacks": 56,
+        "written_seconds": 57.86108400000002
+      },
+      {
+        "id": 79,
+        "name": "Ocarina",
+        "source_engine": "FluidSynth",
+        "source_program": 79,
+        "attacks": 32,
+        "written_seconds": 23.750909999999994
+      },
+      {
+        "id": 82,
+        "name": "Charang",
+        "source_engine": "FluidSynth",
+        "source_program": 84,
+        "attacks": 33,
+        "written_seconds": 29.890899
+      },
+      {
+        "id": 83,
+        "name": "Solo Vox",
+        "source_engine": "FluidSynth",
+        "source_program": 85,
+        "attacks": 30,
+        "written_seconds": 25.970610999999998
+      },
+      {
+        "id": 84,
+        "name": "5th Saw Wave",
+        "source_engine": "FluidSynth",
+        "source_program": 86,
+        "attacks": 48,
+        "written_seconds": 34.224735
+      },
+      {
+        "id": 85,
+        "name": "Bass & Lead",
+        "source_engine": "FluidSynth",
+        "source_program": 87,
+        "attacks": 36,
+        "written_seconds": 37.20981
+      },
+      {
+        "id": 87,
+        "name": "Atmosphere",
+        "source_engine": "FluidSynth",
+        "source_program": 99,
+        "attacks": 45,
+        "written_seconds": 34.273396000000005
+      },
+      {
+        "id": 88,
+        "name": "Sitar",
+        "source_engine": "FluidSynth",
+        "source_program": 104,
+        "attacks": 49,
+        "written_seconds": 52.713167999999996
+      },
+      {
+        "id": 89,
+        "name": "Banjo",
+        "source_engine": "FluidSynth",
+        "source_program": 105,
+        "attacks": 40,
+        "written_seconds": 25.315166000000005
+      },
+      {
+        "id": 90,
+        "name": "Shamisen",
+        "source_engine": "FluidSynth",
+        "source_program": 106,
+        "attacks": 30,
+        "written_seconds": 26.373509
+      },
+      {
+        "id": 91,
+        "name": "Koto",
+        "source_engine": "FluidSynth",
+        "source_program": 107,
+        "attacks": 76,
+        "written_seconds": 64.012897
+      },
+      {
+        "id": 92,
+        "name": "Kalimba",
+        "source_engine": "FluidSynth",
+        "source_program": 108,
+        "attacks": 49,
+        "written_seconds": 51.721141955044935
+      },
+      {
+        "id": 93,
+        "name": "Fiddle",
+        "source_engine": "FluidSynth",
+        "source_program": 110,
+        "attacks": 54,
+        "written_seconds": 57.232077999999994
+      },
+      {
+        "id": 95,
+        "name": "Tinker Bell",
+        "source_engine": "FluidSynth",
+        "source_program": 112,
+        "attacks": 54,
+        "written_seconds": 58.44330699999997
+      }
+    ],
+    "ensembles": [
+      {
+        "section": 1,
+        "start": 0.0,
+        "end": 11.980593314463427,
+        "instruments": [
+          17,
+          19,
+          25,
+          33,
+          76,
+          83,
+          90,
+          91
+        ],
+        "featured": [
+          19,
+          33
+        ]
+      },
+      {
+        "section": 2,
+        "start": 11.980593314463427,
+        "end": 24.077969967999294,
+        "instruments": [
+          6,
+          12,
+          17,
+          38,
+          42,
+          50,
+          84
+        ],
+        "featured": [
+          6,
+          17
+        ]
+      },
+      {
+        "section": 3,
+        "start": 24.077969967999294,
+        "end": 33.95511110544862,
+        "instruments": [
+          45,
+          48,
+          70,
+          82,
+          87,
+          92
+        ],
+        "featured": [
+          45,
+          82
+        ]
+      },
+      {
+        "section": 4,
+        "start": 33.95511110544862,
+        "end": 43.99251937128787,
+        "instruments": [
+          14,
+          15,
+          18,
+          22,
+          30,
+          34,
+          58,
+          63,
+          71,
+          76,
+          79,
+          82,
+          93,
+          95
+        ],
+        "featured": [
+          76,
+          22
+        ]
+      },
+      {
+        "section": 5,
+        "start": 43.99251937128787,
+        "end": 55.37299689185511,
+        "instruments": [
+          11,
+          30,
+          33,
+          45,
+          60,
+          90
+        ],
+        "featured": [
+          30,
+          90
+        ]
+      },
+      {
+        "section": 6,
+        "start": 55.37299689185511,
+        "end": 66.70407867794523,
+        "instruments": [
+          3,
+          11,
+          21,
+          25,
+          37,
+          46,
+          90,
+          91
+        ],
+        "featured": [
+          11,
+          3
+        ]
+      },
+      {
+        "section": 7,
+        "start": 66.70407867794523,
+        "end": 79.35851079670753,
+        "instruments": [
+          12,
+          36,
+          38,
+          53,
+          57,
+          77,
+          82,
+          83,
+          84
+        ],
+        "featured": [
+          83,
+          57
+        ]
+      },
+      {
+        "section": 8,
+        "start": 79.35851079670753,
+        "end": 91.79141573751555,
+        "instruments": [
+          26,
+          28,
+          46,
+          57,
+          88
+        ],
+        "featured": [
+          88,
+          46
+        ]
+      },
+      {
+        "section": 9,
+        "start": 91.79141573751555,
+        "end": 102.56572301628944,
+        "instruments": [
+          2,
+          14,
+          58,
+          71,
+          77,
+          93,
+          95
+        ],
+        "featured": [
+          2,
+          77
+        ]
+      },
+      {
+        "section": 10,
+        "start": 102.56572301628944,
+        "end": 113.32317513409133,
+        "instruments": [
+          11,
+          25,
+          28,
+          52,
+          53,
+          64
+        ],
+        "featured": [
+          25,
+          28
+        ]
+      },
+      {
+        "section": 11,
+        "start": 113.32317513409133,
+        "end": 124.39988516031462,
+        "instruments": [
+          19,
+          21,
+          36,
+          37,
+          70,
+          89,
+          92
+        ],
+        "featured": [
+          36,
+          89
+        ]
+      },
+      {
+        "section": 12,
+        "start": 124.39988516031462,
+        "end": 135.66850556073163,
+        "instruments": [
+          3,
+          29,
+          42,
+          79,
+          82,
+          84,
+          88
+        ],
+        "featured": [
+          29,
+          42
+        ]
+      },
+      {
+        "section": 13,
+        "start": 135.66850556073163,
+        "end": 146.7605968379964,
+        "instruments": [
+          4,
+          11,
+          22,
+          28,
+          29,
+          57,
+          85,
+          91
+        ],
+        "featured": [
+          91,
+          85
+        ]
+      },
+      {
+        "section": 14,
+        "start": 146.7605968379964,
+        "end": 157.93498289300163,
+        "instruments": [
+          9,
+          18,
+          25,
+          38,
+          44,
+          46,
+          58,
+          63,
+          89,
+          91,
+          95
+        ],
+        "featured": [
+          38,
+          44
+        ]
+      },
+      {
+        "section": 15,
+        "start": 157.93498289300163,
+        "end": 168.4283047420005,
+        "instruments": [
+          4,
+          33,
+          43,
+          50,
+          52,
+          64,
+          74,
+          84
+        ],
+        "featured": [
+          4,
+          84
+        ]
+      },
+      {
+        "section": 16,
+        "start": 168.4283047420005,
+        "end": 178.7691961983556,
+        "instruments": [
+          26,
+          37,
+          62,
+          70
+        ],
+        "featured": [
+          62,
+          26
+        ]
+      },
+      {
+        "section": 17,
+        "start": 178.7691961983556,
+        "end": 190.87568227200262,
+        "instruments": [
+          1,
+          6,
+          9,
+          30,
+          34,
+          36,
+          42,
+          71,
+          77,
+          79,
+          82,
+          88,
+          93,
+          95
+        ],
+        "featured": [
+          1,
+          9
+        ]
+      },
+      {
+        "section": 18,
+        "start": 190.87568227200262,
+        "end": 202.83365419944687,
+        "instruments": [
+          23,
+          26,
+          28,
+          29,
+          39,
+          53,
+          57,
+          60
+        ],
+        "featured": [
+          39,
+          53
+        ]
+      },
+      {
+        "section": 19,
+        "start": 202.83365419944687,
+        "end": 212.7727444150413,
+        "instruments": [
+          9,
+          14,
+          15,
+          44,
+          62,
+          63,
+          73,
+          91
+        ],
+        "featured": [
+          63,
+          73
+        ]
+      },
+      {
+        "section": 20,
+        "start": 212.7727444150413,
+        "end": 222.81591456628243,
+        "instruments": [
+          12,
+          15,
+          42,
+          43,
+          50,
+          52,
+          53
+        ],
+        "featured": [
+          12,
+          15
+        ]
+      },
+      {
+        "section": 21,
+        "start": 222.81591456628243,
+        "end": 234.09820900826577,
+        "instruments": [
+          0,
+          7,
+          37,
+          39,
+          70,
+          73,
+          87,
+          92
+        ],
+        "featured": [
+          87,
+          0
+        ]
+      },
+      {
+        "section": 22,
+        "start": 234.09820900826577,
+        "end": 245.5595984592165,
+        "instruments": [
+          5,
+          14,
+          15,
+          34,
+          58,
+          93,
+          95
+        ],
+        "featured": [
+          14,
+          5
+        ]
+      },
+      {
+        "section": 23,
+        "start": 245.5595984592165,
+        "end": 258.09589104280974,
+        "instruments": [
+          11,
+          18,
+          22,
+          28,
+          29,
+          43,
+          45,
+          52
+        ],
+        "featured": [
+          43,
+          18
+        ]
+      },
+      {
+        "section": 24,
+        "start": 258.09589104280974,
+        "end": 270.56762832020917,
+        "instruments": [
+          21,
+          25,
+          44,
+          46,
+          62,
+          63,
+          64,
+          92
+        ],
+        "featured": [
+          92,
+          64
+        ]
+      },
+      {
+        "section": 25,
+        "start": 270.56762832020917,
+        "end": 281.40219589222056,
+        "instruments": [
+          1,
+          12,
+          30,
+          36,
+          38,
+          42,
+          43,
+          48,
+          77,
+          88,
+          95
+        ],
+        "featured": [
+          95,
+          48
+        ]
+      },
+      {
+        "section": 26,
+        "start": 281.40219589222056,
+        "end": 292.05037158137793,
+        "instruments": [
+          26,
+          34,
+          48,
+          50,
+          73,
+          85
+        ],
+        "featured": [
+          50,
+          34
+        ]
+      },
+      {
+        "section": 27,
+        "start": 292.05037158137793,
+        "end": 303.25598525666555,
+        "instruments": [
+          7,
+          9,
+          14,
+          15,
+          18,
+          34,
+          52,
+          58,
+          62,
+          63,
+          71,
+          79,
+          82,
+          93,
+          95
+        ],
+        "featured": [
+          7,
+          52
+        ]
+      },
+      {
+        "section": 28,
+        "start": 303.25598525666555,
+        "end": 314.45494027165057,
+        "instruments": [
+          23,
+          45,
+          50,
+          52,
+          58,
+          64,
+          70
+        ],
+        "featured": [
+          58,
+          70
+        ]
+      },
+      {
+        "section": 29,
+        "start": 314.45494027165057,
+        "end": 325.53084769925704,
+        "instruments": [
+          17,
+          21,
+          37,
+          74,
+          76,
+          83,
+          89,
+          91,
+          93
+        ],
+        "featured": [
+          74,
+          93
+        ]
+      },
+      {
+        "section": 30,
+        "start": 325.53084769925704,
+        "end": 336.7980846817317,
+        "instruments": [
+          12,
+          23,
+          36,
+          37,
+          38,
+          42,
+          53,
+          77
+        ],
+        "featured": [
+          37,
+          23
+        ]
+      },
+      {
+        "section": 31,
+        "start": 336.7980846817317,
+        "end": 347.1653459858889,
+        "instruments": [
+          4,
+          11,
+          21,
+          48,
+          57,
+          71,
+          73,
+          87
+        ],
+        "featured": [
+          71,
+          21
+        ]
+      },
+      {
+        "section": 32,
+        "start": 347.1653459858889,
+        "end": 357.59733725068776,
+        "instruments": [
+          9,
+          15,
+          18,
+          44,
+          60,
+          62,
+          63,
+          79,
+          89,
+          91
+        ],
+        "featured": [
+          60,
+          79
+        ]
+      },
+      {
+        "section": 33,
+        "start": 357.59733725068776,
+        "end": 369.66912441293925,
+        "instruments": [
+          19,
+          23,
+          33,
+          45,
+          50,
+          60,
+          74
+        ],
+        "featured": [
+          19,
+          33
+        ]
+      },
+      {
+        "section": 34,
+        "start": 369.66912441293925,
+        "end": 381.5594827091983,
+        "instruments": [
+          6,
+          17,
+          19,
+          21,
+          37,
+          48,
+          92
+        ],
+        "featured": [
+          6,
+          17
+        ]
+      }
+    ],
+    "featured": [
+      {
+        "section": 1,
+        "instrument": 19,
+        "name": "Vibraphone",
+        "part": "0-foreground1"
+      },
+      {
+        "section": 1,
+        "instrument": 33,
+        "name": "Clean Guitar",
+        "part": "0-foreground0"
+      },
+      {
+        "section": 2,
+        "instrument": 6,
+        "name": "FM glass cantilena",
+        "part": "1-foreground2"
+      },
+      {
+        "section": 2,
+        "instrument": 17,
+        "name": "Glockenspiel",
+        "part": "1-foreground1"
+      },
+      {
+        "section": 3,
+        "instrument": 45,
+        "name": "Synth Bass 2",
+        "part": "2-foreground0"
+      },
+      {
+        "section": 3,
+        "instrument": 82,
+        "name": "Charang",
+        "part": "2-foreground1"
+      },
+      {
+        "section": 4,
+        "instrument": 76,
+        "name": "Bottle Blow",
+        "part": "3-foreground2"
+      },
+      {
+        "section": 4,
+        "instrument": 22,
+        "name": "Tubular Bells",
+        "part": "3-foreground1"
+      },
+      {
+        "section": 5,
+        "instrument": 30,
+        "name": "Nylon Guitar",
+        "part": "4-foreground0"
+      },
+      {
+        "section": 5,
+        "instrument": 90,
+        "name": "Shamisen",
+        "part": "4-foreground1"
+      },
+      {
+        "section": 6,
+        "instrument": 11,
+        "name": "Honky-Tonk Piano",
+        "part": "5-foreground0"
+      },
+      {
+        "section": 6,
+        "instrument": 3,
+        "name": "Oberheim touch brass",
+        "part": "5-foreground1"
+      },
+      {
+        "section": 7,
+        "instrument": 83,
+        "name": "Solo Vox",
+        "part": "6-foreground3"
+      },
+      {
+        "section": 7,
+        "instrument": 57,
+        "name": "Trombone",
+        "part": "6-choir1-2"
+      },
+      {
+        "section": 8,
+        "instrument": 88,
+        "name": "Sitar",
+        "part": "7-foreground1"
+      },
+      {
+        "section": 8,
+        "instrument": 46,
+        "name": "Violin",
+        "part": "7-foreground0"
+      },
+      {
+        "section": 9,
+        "instrument": 2,
+        "name": "Oberheim silver pulse",
+        "part": "8-foreground2"
+      },
+      {
+        "section": 9,
+        "instrument": 77,
+        "name": "Shakuhachi",
+        "part": "8-foreground0"
+      },
+      {
+        "section": 10,
+        "instrument": 25,
+        "name": "Percussive Organ",
+        "part": "9-foreground0"
+      },
+      {
+        "section": 10,
+        "instrument": 28,
+        "name": "Reed Organ",
+        "part": "9-foreground1"
+      },
+      {
+        "section": 11,
+        "instrument": 36,
+        "name": "Distortion Guitar",
+        "part": "10-foreground1"
+      },
+      {
+        "section": 11,
+        "instrument": 89,
+        "name": "Banjo",
+        "part": "10-foreground2"
+      },
+      {
+        "section": 12,
+        "instrument": 29,
+        "name": "Harmonica",
+        "part": "11-foreground1"
+      },
+      {
+        "section": 12,
+        "instrument": 42,
+        "name": "Slap Bass 1",
+        "part": "11-foreground0"
+      },
+      {
+        "section": 13,
+        "instrument": 91,
+        "name": "Koto",
+        "part": "12-foreground0"
+      },
+      {
+        "section": 13,
+        "instrument": 85,
+        "name": "Bass & Lead",
+        "part": "12-foreground1"
+      },
+      {
+        "section": 14,
+        "instrument": 38,
+        "name": "Acoustic Bass",
+        "part": "13-foreground3"
+      },
+      {
+        "section": 14,
+        "instrument": 44,
+        "name": "Synth Bass 1",
+        "part": "13-choir1-0"
+      },
+      {
+        "section": 15,
+        "instrument": 4,
+        "name": "TAL bright hollow lead",
+        "part": "14-foreground0"
+      },
+      {
+        "section": 15,
+        "instrument": 84,
+        "name": "5th Saw Wave",
+        "part": "14-foreground1"
+      },
+      {
+        "section": 16,
+        "instrument": 62,
+        "name": "Synth Brass 1",
+        "part": "15-exposed"
+      },
+      {
+        "section": 16,
+        "instrument": 26,
+        "name": "Rock Organ",
+        "part": "15-pulse-1"
+      },
+      {
+        "section": 17,
+        "instrument": 1,
+        "name": "Resonant sequencer lead",
+        "part": "16-foreground2"
+      },
+      {
+        "section": 17,
+        "instrument": 9,
+        "name": "Bright Grand Piano",
+        "part": "16-foreground1"
+      },
+      {
+        "section": 18,
+        "instrument": 39,
+        "name": "Finger Bass",
+        "part": "17-foreground0"
+      },
+      {
+        "section": 18,
+        "instrument": 53,
+        "name": "Slow Strings",
+        "part": "17-foreground1"
+      },
+      {
+        "section": 19,
+        "instrument": 63,
+        "name": "Synth Brass 2",
+        "part": "18-foreground1"
+      },
+      {
+        "section": 19,
+        "instrument": 73,
+        "name": "Flute",
+        "part": "18-foreground2"
+      },
+      {
+        "section": 20,
+        "instrument": 12,
+        "name": "Tine Electric Piano",
+        "part": "19-foreground2"
+      },
+      {
+        "section": 20,
+        "instrument": 15,
+        "name": "Clavinet",
+        "part": "19-foreground0"
+      },
+      {
+        "section": 21,
+        "instrument": 87,
+        "name": "Atmosphere",
+        "part": "20-foreground1"
+      },
+      {
+        "section": 21,
+        "instrument": 0,
+        "name": "Open modular saw",
+        "part": "20-foreground0"
+      },
+      {
+        "section": 22,
+        "instrument": 14,
+        "name": "Harpsichord",
+        "part": "21-foreground1"
+      },
+      {
+        "section": 22,
+        "instrument": 5,
+        "name": "TAL rubber reed",
+        "part": "21-foreground0"
+      },
+      {
+        "section": 23,
+        "instrument": 43,
+        "name": "Slap Bass 2",
+        "part": "22-foreground0"
+      },
+      {
+        "section": 23,
+        "instrument": 18,
+        "name": "Music Box",
+        "part": "22-foreground1"
+      },
+      {
+        "section": 24,
+        "instrument": 92,
+        "name": "Kalimba",
+        "part": "23-foreground0"
+      },
+      {
+        "section": 24,
+        "instrument": 64,
+        "name": "Soprano Sax",
+        "part": "23-foreground1"
+      },
+      {
+        "section": 25,
+        "instrument": 95,
+        "name": "Tinker Bell",
+        "part": "24-foreground3"
+      },
+      {
+        "section": 25,
+        "instrument": 48,
+        "name": "Cello",
+        "part": "24-choir1-0"
+      },
+      {
+        "section": 26,
+        "instrument": 50,
+        "name": "Pizzicato Strings",
+        "part": "25-foreground0"
+      },
+      {
+        "section": 26,
+        "instrument": 34,
+        "name": "Muted Guitar",
+        "part": "25-foreground1"
+      },
+      {
+        "section": 27,
+        "instrument": 7,
+        "name": "FM harmonic organ",
+        "part": "26-foreground2"
+      },
+      {
+        "section": 27,
+        "instrument": 52,
+        "name": "Fast Strings",
+        "part": "26-foreground1"
+      },
+      {
+        "section": 28,
+        "instrument": 58,
+        "name": "Tuba",
+        "part": "27-foreground2"
+      },
+      {
+        "section": 28,
+        "instrument": 70,
+        "name": "Bassoon",
+        "part": "27-foreground1"
+      },
+      {
+        "section": 29,
+        "instrument": 74,
+        "name": "Recorder",
+        "part": "28-foreground0"
+      },
+      {
+        "section": 29,
+        "instrument": 93,
+        "name": "Fiddle",
+        "part": "28-foreground1"
+      },
+      {
+        "section": 30,
+        "instrument": 37,
+        "name": "Guitar Harmonics",
+        "part": "29-foreground1"
+      },
+      {
+        "section": 30,
+        "instrument": 23,
+        "name": "Dulcimer",
+        "part": "29-foreground2"
+      },
+      {
+        "section": 31,
+        "instrument": 71,
+        "name": "Clarinet",
+        "part": "30-foreground2"
+      },
+      {
+        "section": 31,
+        "instrument": 21,
+        "name": "Xylophone",
+        "part": "30-foreground0"
+      },
+      {
+        "section": 32,
+        "instrument": 60,
+        "name": "French Horns",
+        "part": "31-foreground3"
+      },
+      {
+        "section": 32,
+        "instrument": 79,
+        "name": "Ocarina",
+        "part": "31-choir1-1"
+      },
+      {
+        "section": 33,
+        "instrument": 19,
+        "name": "Vibraphone",
+        "part": "32-foreground1"
+      },
+      {
+        "section": 33,
+        "instrument": 33,
+        "name": "Clean Guitar",
+        "part": "32-foreground2"
+      },
+      {
+        "section": 34,
+        "instrument": 6,
+        "name": "FM glass cantilena",
+        "part": "33-foreground2"
+      },
+      {
+        "section": 34,
+        "instrument": 17,
+        "name": "Glockenspiel",
+        "part": "33-foreground0"
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Passing Instruments",
+    "instruments": [
+      {
+        "id": 0,
+        "name": "Open modular saw",
+        "source_engine": "Surge XT",
+        "source_program": null,
+        "attacks": 20,
+        "written_seconds": 14.511602000000002
+      },
+      {
+        "id": 1,
+        "name": "Resonant sequencer lead",
+        "source_engine": "Surge XT",
+        "source_program": null,
+        "attacks": 21,
+        "written_seconds": 13.179316999999998
+      },
+      {
+        "id": 2,
+        "name": "Oberheim silver pulse",
+        "source_engine": "OB-Xf",
+        "source_program": null,
+        "attacks": 22,
+        "written_seconds": 21.144567000000002
+      },
+      {
+        "id": 3,
+        "name": "Oberheim touch brass",
+        "source_engine": "OB-Xf",
+        "source_program": null,
+        "attacks": 21,
+        "written_seconds": 13.430145
+      },
+      {
+        "id": 4,
+        "name": "TAL bright hollow lead",
+        "source_engine": "TAL-NoiseMaker",
+        "source_program": null,
+        "attacks": 21,
+        "written_seconds": 16.531204
+      },
+      {
+        "id": 5,
+        "name": "TAL rubber reed",
+        "source_engine": "TAL-NoiseMaker",
+        "source_program": null,
+        "attacks": 18,
+        "written_seconds": 13.938058999999999
+      },
+      {
+        "id": 6,
+        "name": "FM glass cantilena",
+        "source_engine": "Dexed",
+        "source_program": null,
+        "attacks": 21,
+        "written_seconds": 14.63466
+      },
+      {
+        "id": 7,
+        "name": "FM harmonic organ",
+        "source_engine": "Dexed",
+        "source_program": null,
+        "attacks": 10,
+        "written_seconds": 7.965622
+      },
+      {
+        "id": 8,
+        "name": "Grand Piano",
+        "source_engine": "FluidSynth",
+        "source_program": 0,
+        "attacks": 40,
+        "written_seconds": 22.714414999999995
+      },
+      {
+        "id": 9,
+        "name": "Bright Grand Piano",
+        "source_engine": "FluidSynth",
+        "source_program": 1,
+        "attacks": 49,
+        "written_seconds": 32.66260900000001
+      },
+      {
+        "id": 10,
+        "name": "Electric Grand Piano",
+        "source_engine": "FluidSynth",
+        "source_program": 2,
+        "attacks": 27,
+        "written_seconds": 31.659812999999993
+      },
+      {
+        "id": 12,
+        "name": "Tine Electric Piano",
+        "source_engine": "FluidSynth",
+        "source_program": 4,
+        "attacks": 57,
+        "written_seconds": 61.578982999999994
+      },
+      {
+        "id": 13,
+        "name": "FM Electric Piano",
+        "source_engine": "FluidSynth",
+        "source_program": 5,
+        "attacks": 44,
+        "written_seconds": 35.719297
+      },
+      {
+        "id": 16,
+        "name": "Celeste",
+        "source_engine": "FluidSynth",
+        "source_program": 8,
+        "attacks": 54,
+        "written_seconds": 47.457239000000015
+      },
+      {
+        "id": 17,
+        "name": "Glockenspiel",
+        "source_engine": "FluidSynth",
+        "source_program": 9,
+        "attacks": 46,
+        "written_seconds": 46.41264400000001
+      },
+      {
+        "id": 22,
+        "name": "Tubular Bells",
+        "source_engine": "FluidSynth",
+        "source_program": 14,
+        "attacks": 37,
+        "written_seconds": 23.632399000000007
+      },
+      {
+        "id": 25,
+        "name": "Percussive Organ",
+        "source_engine": "FluidSynth",
+        "source_program": 17,
+        "attacks": 39,
+        "written_seconds": 32.75209100000001
+      },
+      {
+        "id": 27,
+        "name": "Pipe Organ",
+        "source_engine": "FluidSynth",
+        "source_program": 19,
+        "attacks": 17,
+        "written_seconds": 8.299373000000001
+      },
+      {
+        "id": 28,
+        "name": "Reed Organ",
+        "source_engine": "FluidSynth",
+        "source_program": 20,
+        "attacks": 50,
+        "written_seconds": 34.60074999999999
+      },
+      {
+        "id": 29,
+        "name": "Harmonica",
+        "source_engine": "FluidSynth",
+        "source_program": 22,
+        "attacks": 47,
+        "written_seconds": 49.95015200000001
+      },
+      {
+        "id": 30,
+        "name": "Nylon Guitar",
+        "source_engine": "FluidSynth",
+        "source_program": 24,
+        "attacks": 43,
+        "written_seconds": 25.911158
+      },
+      {
+        "id": 32,
+        "name": "Jazz Guitar",
+        "source_engine": "FluidSynth",
+        "source_program": 26,
+        "attacks": 47,
+        "written_seconds": 38.888015
+      },
+      {
+        "id": 34,
+        "name": "Muted Guitar",
+        "source_engine": "FluidSynth",
+        "source_program": 28,
+        "attacks": 37,
+        "written_seconds": 34.80374487914679
+      },
+      {
+        "id": 35,
+        "name": "Overdrive Guitar",
+        "source_engine": "FluidSynth",
+        "source_program": 29,
+        "attacks": 34,
+        "written_seconds": 27.29189975829365
+      },
+      {
+        "id": 36,
+        "name": "Distortion Guitar",
+        "source_engine": "FluidSynth",
+        "source_program": 30,
+        "attacks": 48,
+        "written_seconds": 26.628140000000005
+      },
+      {
+        "id": 39,
+        "name": "Finger Bass",
+        "source_engine": "FluidSynth",
+        "source_program": 33,
+        "attacks": 36,
+        "written_seconds": 27.303674999999995
+      },
+      {
+        "id": 40,
+        "name": "Pick Bass",
+        "source_engine": "FluidSynth",
+        "source_program": 34,
+        "attacks": 19,
+        "written_seconds": 15.526099
+      },
+      {
+        "id": 43,
+        "name": "Slap Bass 2",
+        "source_engine": "FluidSynth",
+        "source_program": 37,
+        "attacks": 46,
+        "written_seconds": 45.324220999999994
+      },
+      {
+        "id": 44,
+        "name": "Synth Bass 1",
+        "source_engine": "FluidSynth",
+        "source_program": 38,
+        "attacks": 45,
+        "written_seconds": 23.442570999999997
+      },
+      {
+        "id": 46,
+        "name": "Violin",
+        "source_engine": "FluidSynth",
+        "source_program": 40,
+        "attacks": 24,
+        "written_seconds": 15.146366
+      },
+      {
+        "id": 47,
+        "name": "Viola",
+        "source_engine": "FluidSynth",
+        "source_program": 41,
+        "attacks": 49,
+        "written_seconds": 30.919536000000008
+      },
+      {
+        "id": 49,
+        "name": "Double Bass",
+        "source_engine": "FluidSynth",
+        "source_program": 43,
+        "attacks": 44,
+        "written_seconds": 41.075797
+      },
+      {
+        "id": 50,
+        "name": "Pizzicato Strings",
+        "source_engine": "FluidSynth",
+        "source_program": 45,
+        "attacks": 40,
+        "written_seconds": 22.617430879146823
+      },
+      {
+        "id": 52,
+        "name": "Fast Strings",
+        "source_engine": "FluidSynth",
+        "source_program": 48,
+        "attacks": 23,
+        "written_seconds": 13.553317999999997
+      },
+      {
+        "id": 53,
+        "name": "Slow Strings",
+        "source_engine": "FluidSynth",
+        "source_program": 49,
+        "attacks": 15,
+        "written_seconds": 8.254706
+      },
+      {
+        "id": 54,
+        "name": "Synth Strings 1",
+        "source_engine": "FluidSynth",
+        "source_program": 50,
+        "attacks": 52,
+        "written_seconds": 34.234475
+      },
+      {
+        "id": 55,
+        "name": "Synth Strings 2",
+        "source_engine": "FluidSynth",
+        "source_program": 51,
+        "attacks": 56,
+        "written_seconds": 43.216226999999996
+      },
+      {
+        "id": 58,
+        "name": "Tuba",
+        "source_engine": "FluidSynth",
+        "source_program": 58,
+        "attacks": 55,
+        "written_seconds": 42.524998000000025
+      },
+      {
+        "id": 59,
+        "name": "Muted Trumpet",
+        "source_engine": "FluidSynth",
+        "source_program": 59,
+        "attacks": 30,
+        "written_seconds": 27.240915999999995
+      },
+      {
+        "id": 60,
+        "name": "French Horns",
+        "source_engine": "FluidSynth",
+        "source_program": 60,
+        "attacks": 70,
+        "written_seconds": 63.89497800000002
+      },
+      {
+        "id": 61,
+        "name": "Brass Section",
+        "source_engine": "FluidSynth",
+        "source_program": 61,
+        "attacks": 39,
+        "written_seconds": 23.912434000000005
+      },
+      {
+        "id": 62,
+        "name": "Synth Brass 1",
+        "source_engine": "FluidSynth",
+        "source_program": 62,
+        "attacks": 21,
+        "written_seconds": 15.890523000000002
+      },
+      {
+        "id": 63,
+        "name": "Synth Brass 2",
+        "source_engine": "FluidSynth",
+        "source_program": 63,
+        "attacks": 48,
+        "written_seconds": 52.36385000000001
+      },
+      {
+        "id": 64,
+        "name": "Soprano Sax",
+        "source_engine": "FluidSynth",
+        "source_program": 64,
+        "attacks": 49,
+        "written_seconds": 35.405917
+      },
+      {
+        "id": 65,
+        "name": "Alto Sax",
+        "source_engine": "FluidSynth",
+        "source_program": 65,
+        "attacks": 52,
+        "written_seconds": 55.881612
+      },
+      {
+        "id": 66,
+        "name": "Tenor Sax",
+        "source_engine": "FluidSynth",
+        "source_program": 66,
+        "attacks": 17,
+        "written_seconds": 8.346293000000001
+      },
+      {
+        "id": 67,
+        "name": "Baritone Sax",
+        "source_engine": "FluidSynth",
+        "source_program": 67,
+        "attacks": 27,
+        "written_seconds": 12.335470999999998
+      },
+      {
+        "id": 69,
+        "name": "English Horn",
+        "source_engine": "FluidSynth",
+        "source_program": 69,
+        "attacks": 48,
+        "written_seconds": 34.25678500000001
+      },
+      {
+        "id": 70,
+        "name": "Bassoon",
+        "source_engine": "FluidSynth",
+        "source_program": 70,
+        "attacks": 25,
+        "written_seconds": 16.462272
+      },
+      {
+        "id": 71,
+        "name": "Clarinet",
+        "source_engine": "FluidSynth",
+        "source_program": 71,
+        "attacks": 30,
+        "written_seconds": 20.262659000000003
+      },
+      {
+        "id": 72,
+        "name": "Piccolo",
+        "source_engine": "FluidSynth",
+        "source_program": 72,
+        "attacks": 50,
+        "written_seconds": 38.418749000000005
+      },
+      {
+        "id": 76,
+        "name": "Bottle Blow",
+        "source_engine": "FluidSynth",
+        "source_program": 76,
+        "attacks": 40,
+        "written_seconds": 22.654291
+      },
+      {
+        "id": 77,
+        "name": "Shakuhachi",
+        "source_engine": "FluidSynth",
+        "source_program": 77,
+        "attacks": 53,
+        "written_seconds": 45.114228
+      },
+      {
+        "id": 80,
+        "name": "Synth Calliope",
+        "source_engine": "FluidSynth",
+        "source_program": 82,
+        "attacks": 45,
+        "written_seconds": 34.788110999999994
+      },
+      {
+        "id": 81,
+        "name": "Chiffer Lead",
+        "source_engine": "FluidSynth",
+        "source_program": 83,
+        "attacks": 43,
+        "written_seconds": 33.452828999999994
+      },
+      {
+        "id": 82,
+        "name": "Charang",
+        "source_engine": "FluidSynth",
+        "source_program": 84,
+        "attacks": 23,
+        "written_seconds": 17.347296879146832
+      },
+      {
+        "id": 84,
+        "name": "5th Saw Wave",
+        "source_engine": "FluidSynth",
+        "source_program": 86,
+        "attacks": 38,
+        "written_seconds": 23.973635999999996
+      },
+      {
+        "id": 85,
+        "name": "Bass & Lead",
+        "source_engine": "FluidSynth",
+        "source_program": 87,
+        "attacks": 38,
+        "written_seconds": 26.886894999999996
+      },
+      {
+        "id": 86,
+        "name": "Crystal",
+        "source_engine": "FluidSynth",
+        "source_program": 98,
+        "attacks": 26,
+        "written_seconds": 12.172752999999998
+      },
+      {
+        "id": 89,
+        "name": "Banjo",
+        "source_engine": "FluidSynth",
+        "source_program": 105,
+        "attacks": 36,
+        "written_seconds": 20.315926
+      },
+      {
+        "id": 90,
+        "name": "Shamisen",
+        "source_engine": "FluidSynth",
+        "source_program": 106,
+        "attacks": 45,
+        "written_seconds": 37.922128
+      },
+      {
+        "id": 91,
+        "name": "Koto",
+        "source_engine": "FluidSynth",
+        "source_program": 107,
+        "attacks": 40,
+        "written_seconds": 33.664892
+      },
+      {
+        "id": 94,
+        "name": "Shenai",
+        "source_engine": "FluidSynth",
+        "source_program": 111,
+        "attacks": 39,
+        "written_seconds": 28.948531
+      },
+      {
+        "id": 96,
+        "name": "Steel Drums",
+        "source_engine": "FluidSynth",
+        "source_program": 114,
+        "attacks": 40,
+        "written_seconds": 42.030178
+      }
+    ],
+    "ensembles": [
+      {
+        "section": 1,
+        "start": 0.0,
+        "end": 8.37848296475825,
+        "instruments": [
+          10,
+          13,
+          29,
+          46,
+          55,
+          60,
+          61,
+          72,
+          76
+        ],
+        "featured": [
+          60,
+          10
+        ]
+      },
+      {
+        "section": 2,
+        "start": 8.37848296475825,
+        "end": 16.69739597611416,
+        "instruments": [
+          1,
+          22,
+          36,
+          52,
+          54,
+          76,
+          91
+        ],
+        "featured": [
+          54,
+          76
+        ]
+      },
+      {
+        "section": 3,
+        "start": 16.69739597611416,
+        "end": 26.158750642473226,
+        "instruments": [
+          2,
+          28,
+          32,
+          43,
+          44,
+          64,
+          65,
+          66,
+          71,
+          85,
+          90
+        ],
+        "featured": [
+          2,
+          66
+        ]
+      },
+      {
+        "section": 4,
+        "start": 26.158750642473226,
+        "end": 35.758868526597155,
+        "instruments": [
+          13,
+          25,
+          49,
+          50,
+          53,
+          54,
+          62,
+          66
+        ],
+        "featured": [
+          13,
+          53
+        ]
+      },
+      {
+        "section": 5,
+        "start": 35.758868526597155,
+        "end": 46.14502301083934,
+        "instruments": [
+          2,
+          8,
+          10,
+          16,
+          17,
+          25,
+          29,
+          34,
+          39,
+          40,
+          53,
+          58,
+          63,
+          84,
+          86,
+          91
+        ],
+        "featured": [
+          25,
+          29
+        ]
+      },
+      {
+        "section": 6,
+        "start": 46.14502301083934,
+        "end": 56.65641144578512,
+        "instruments": [
+          9,
+          29,
+          30,
+          60,
+          61,
+          72,
+          76,
+          77,
+          86
+        ],
+        "featured": [
+          86,
+          77
+        ]
+      },
+      {
+        "section": 7,
+        "start": 56.65641144578512,
+        "end": 65.6414631982615,
+        "instruments": [
+          6,
+          16,
+          22,
+          25,
+          52,
+          69,
+          96
+        ],
+        "featured": [
+          6,
+          16
+        ]
+      },
+      {
+        "section": 8,
+        "start": 65.6414631982615,
+        "end": 74.53110024746786,
+        "instruments": [
+          5,
+          32,
+          43,
+          46,
+          71,
+          84,
+          90,
+          94
+        ],
+        "featured": [
+          94,
+          46
+        ]
+      },
+      {
+        "section": 9,
+        "start": 74.53110024746786,
+        "end": 83.93649202671315,
+        "instruments": [
+          12,
+          27,
+          30,
+          35,
+          47,
+          49,
+          50,
+          62,
+          70,
+          72,
+          81,
+          82,
+          84,
+          89
+        ],
+        "featured": [
+          84,
+          70
+        ]
+      },
+      {
+        "section": 10,
+        "start": 83.93649202671315,
+        "end": 93.19642751002522,
+        "instruments": [
+          8,
+          17,
+          22,
+          55,
+          59,
+          63
+        ],
+        "featured": [
+          55,
+          63
+        ]
+      },
+      {
+        "section": 11,
+        "start": 93.19642751002522,
+        "end": 102.51980721807834,
+        "instruments": [
+          9,
+          32,
+          60,
+          61,
+          69,
+          76,
+          90
+        ],
+        "featured": [
+          69,
+          61
+        ]
+      },
+      {
+        "section": 12,
+        "start": 102.51980721807834,
+        "end": 111.89502391826913,
+        "instruments": [
+          36,
+          49,
+          50,
+          52,
+          54,
+          77,
+          80,
+          89,
+          94,
+          96
+        ],
+        "featured": [
+          80,
+          52
+        ]
+      },
+      {
+        "section": 13,
+        "start": 111.89502391826913,
+        "end": 120.52804498773365,
+        "instruments": [
+          16,
+          64,
+          65,
+          67,
+          72,
+          80,
+          84
+        ],
+        "featured": [
+          72,
+          67
+        ]
+      },
+      {
+        "section": 14,
+        "start": 120.52804498773365,
+        "end": 129.3136727367835,
+        "instruments": [
+          7,
+          12,
+          27,
+          36,
+          55,
+          61,
+          72,
+          81
+        ],
+        "featured": [
+          36,
+          27
+        ]
+      },
+      {
+        "section": 15,
+        "start": 129.3136727367835,
+        "end": 139.30447510904577,
+        "instruments": [
+          1,
+          8,
+          17,
+          34,
+          58,
+          65,
+          91
+        ],
+        "featured": [
+          65,
+          1
+        ]
+      },
+      {
+        "section": 16,
+        "start": 139.30447510904577,
+        "end": 149.29922029110276,
+        "instruments": [
+          4,
+          5,
+          9,
+          28,
+          29,
+          30,
+          60,
+          85
+        ],
+        "featured": [
+          30,
+          5
+        ]
+      },
+      {
+        "section": 17,
+        "start": 149.29922029110276,
+        "end": 157.68936251854785,
+        "instruments": [
+          7,
+          50,
+          54,
+          89,
+          96
+        ],
+        "featured": [
+          96,
+          7
+        ]
+      },
+      {
+        "section": 18,
+        "start": 157.68936251854785,
+        "end": 165.93448700694395,
+        "instruments": [
+          3,
+          10,
+          16,
+          44,
+          67,
+          80,
+          86
+        ],
+        "featured": [
+          44,
+          3
+        ]
+      },
+      {
+        "section": 19,
+        "start": 165.93448700694395,
+        "end": 175.50246052655115,
+        "instruments": [
+          13,
+          27,
+          29,
+          30,
+          47,
+          55,
+          61,
+          71,
+          72,
+          81,
+          82
+        ],
+        "featured": [
+          81,
+          71
+        ]
+      },
+      {
+        "section": 20,
+        "start": 175.50246052655115,
+        "end": 185.0101679323739,
+        "instruments": [
+          0,
+          3,
+          17,
+          22,
+          39,
+          69,
+          96
+        ],
+        "featured": [
+          22,
+          0
+        ]
+      },
+      {
+        "section": 21,
+        "start": 185.0101679323739,
+        "end": 195.41752144300267,
+        "instruments": [
+          28,
+          43,
+          59,
+          60,
+          65,
+          76,
+          85,
+          90
+        ],
+        "featured": [
+          43,
+          59
+        ]
+      },
+      {
+        "section": 22,
+        "start": 195.41752144300267,
+        "end": 205.98513851213508,
+        "instruments": [
+          12,
+          25,
+          47,
+          49,
+          54,
+          64,
+          66,
+          77
+        ],
+        "featured": [
+          47,
+          64
+        ]
+      },
+      {
+        "section": 23,
+        "start": 205.98513851213508,
+        "end": 214.8739604356256,
+        "instruments": [
+          2,
+          16,
+          17,
+          58,
+          63,
+          80,
+          82,
+          86
+        ],
+        "featured": [
+          58,
+          82
+        ]
+      },
+      {
+        "section": 24,
+        "start": 214.8739604356256,
+        "end": 223.86488271975978,
+        "instruments": [
+          29,
+          46,
+          60,
+          85,
+          90,
+          91
+        ],
+        "featured": [
+          90,
+          91
+        ]
+      },
+      {
+        "section": 25,
+        "start": 223.86488271975978,
+        "end": 233.21793611227372,
+        "instruments": [
+          12,
+          25,
+          32,
+          36,
+          58,
+          69,
+          70,
+          77,
+          91,
+          94,
+          96
+        ],
+        "featured": [
+          12,
+          32
+        ]
+      },
+      {
+        "section": 26,
+        "start": 233.21793611227372,
+        "end": 242.46524940265854,
+        "instruments": [
+          8,
+          43,
+          62,
+          63,
+          64,
+          65,
+          71,
+          80
+        ],
+        "featured": [
+          8,
+          62
+        ]
+      },
+      {
+        "section": 27,
+        "start": 242.46524940265854,
+        "end": 251.8750097003008,
+        "instruments": [
+          12,
+          17,
+          28,
+          47,
+          49,
+          54,
+          81,
+          89
+        ],
+        "featured": [
+          28,
+          17
+        ]
+      },
+      {
+        "section": 28,
+        "start": 251.8750097003008,
+        "end": 261.1432360582535,
+        "instruments": [
+          4,
+          8,
+          10,
+          35,
+          39,
+          40,
+          84,
+          91
+        ],
+        "featured": [
+          35,
+          4
+        ]
+      },
+      {
+        "section": 29,
+        "start": 261.1432360582535,
+        "end": 269.853812824699,
+        "instruments": [
+          6,
+          9,
+          13,
+          27,
+          28,
+          29,
+          39,
+          46,
+          49,
+          55,
+          60,
+          61,
+          72,
+          76,
+          85
+        ],
+        "featured": [
+          39,
+          49
+        ]
+      },
+      {
+        "section": 30,
+        "start": 269.853812824699,
+        "end": 278.61896868149444,
+        "instruments": [
+          9,
+          40,
+          69,
+          70,
+          77,
+          94,
+          96
+        ],
+        "featured": [
+          9,
+          40
+        ]
+      },
+      {
+        "section": 31,
+        "start": 278.61896868149444,
+        "end": 288.54727054068894,
+        "instruments": [
+          16,
+          43,
+          50,
+          63,
+          65,
+          80,
+          84,
+          85
+        ],
+        "featured": [
+          50,
+          85
+        ]
+      },
+      {
+        "section": 32,
+        "start": 288.54727054068894,
+        "end": 298.6474350080051,
+        "instruments": [
+          0,
+          12,
+          34,
+          35,
+          49,
+          50,
+          82,
+          89
+        ],
+        "featured": [
+          34,
+          89
+        ]
+      }
+    ],
+    "featured": [
+      {
+        "section": 1,
+        "instrument": 60,
+        "name": "French Horns",
+        "part": "0-foreground0"
+      },
+      {
+        "section": 1,
+        "instrument": 10,
+        "name": "Electric Grand Piano",
+        "part": "0-foreground1"
+      },
+      {
+        "section": 2,
+        "instrument": 54,
+        "name": "Synth Strings 1",
+        "part": "1-foreground0"
+      },
+      {
+        "section": 2,
+        "instrument": 76,
+        "name": "Bottle Blow",
+        "part": "1-foreground1"
+      },
+      {
+        "section": 3,
+        "instrument": 2,
+        "name": "Oberheim silver pulse",
+        "part": "2-choir1-2"
+      },
+      {
+        "section": 3,
+        "instrument": 66,
+        "name": "Tenor Sax",
+        "part": "2-choir1-0"
+      },
+      {
+        "section": 4,
+        "instrument": 13,
+        "name": "FM Electric Piano",
+        "part": "3-foreground1"
+      },
+      {
+        "section": 4,
+        "instrument": 53,
+        "name": "Slow Strings",
+        "part": "3-foreground2"
+      },
+      {
+        "section": 5,
+        "instrument": 25,
+        "name": "Percussive Organ",
+        "part": "4-foreground1"
+      },
+      {
+        "section": 5,
+        "instrument": 29,
+        "name": "Harmonica",
+        "part": "4-foreground2"
+      },
+      {
+        "section": 6,
+        "instrument": 86,
+        "name": "Crystal",
+        "part": "5-foreground0"
+      },
+      {
+        "section": 6,
+        "instrument": 77,
+        "name": "Shakuhachi",
+        "part": "5-foreground1"
+      },
+      {
+        "section": 7,
+        "instrument": 6,
+        "name": "FM glass cantilena",
+        "part": "6-foreground1"
+      },
+      {
+        "section": 7,
+        "instrument": 16,
+        "name": "Celeste",
+        "part": "6-foreground0"
+      },
+      {
+        "section": 8,
+        "instrument": 94,
+        "name": "Shenai",
+        "part": "7-foreground2"
+      },
+      {
+        "section": 8,
+        "instrument": 46,
+        "name": "Violin",
+        "part": "7-foreground0"
+      },
+      {
+        "section": 9,
+        "instrument": 84,
+        "name": "5th Saw Wave",
+        "part": "8-foreground2"
+      },
+      {
+        "section": 9,
+        "instrument": 70,
+        "name": "Bassoon",
+        "part": "8-foreground1"
+      },
+      {
+        "section": 10,
+        "instrument": 55,
+        "name": "Synth Strings 2",
+        "part": "9-foreground1"
+      },
+      {
+        "section": 10,
+        "instrument": 63,
+        "name": "Synth Brass 2",
+        "part": "9-foreground2"
+      },
+      {
+        "section": 11,
+        "instrument": 69,
+        "name": "English Horn",
+        "part": "10-foreground0"
+      },
+      {
+        "section": 11,
+        "instrument": 61,
+        "name": "Brass Section",
+        "part": "10-foreground1"
+      },
+      {
+        "section": 12,
+        "instrument": 80,
+        "name": "Synth Calliope",
+        "part": "11-foreground3"
+      },
+      {
+        "section": 12,
+        "instrument": 52,
+        "name": "Fast Strings",
+        "part": "11-choir1-1"
+      },
+      {
+        "section": 13,
+        "instrument": 72,
+        "name": "Piccolo",
+        "part": "12-foreground0"
+      },
+      {
+        "section": 13,
+        "instrument": 67,
+        "name": "Baritone Sax",
+        "part": "12-foreground1"
+      },
+      {
+        "section": 14,
+        "instrument": 36,
+        "name": "Distortion Guitar",
+        "part": "13-foreground0"
+      },
+      {
+        "section": 14,
+        "instrument": 27,
+        "name": "Pipe Organ",
+        "part": "13-foreground1"
+      },
+      {
+        "section": 15,
+        "instrument": 65,
+        "name": "Alto Sax",
+        "part": "14-foreground1"
+      },
+      {
+        "section": 15,
+        "instrument": 1,
+        "name": "Resonant sequencer lead",
+        "part": "14-foreground0"
+      },
+      {
+        "section": 16,
+        "instrument": 30,
+        "name": "Nylon Guitar",
+        "part": "15-foreground2"
+      },
+      {
+        "section": 16,
+        "instrument": 5,
+        "name": "TAL rubber reed",
+        "part": "15-foreground1"
+      },
+      {
+        "section": 17,
+        "instrument": 96,
+        "name": "Steel Drums",
+        "part": "16-exposed"
+      },
+      {
+        "section": 17,
+        "instrument": 7,
+        "name": "FM harmonic organ",
+        "part": "16-pulse-0"
+      },
+      {
+        "section": 18,
+        "instrument": 44,
+        "name": "Synth Bass 1",
+        "part": "17-foreground0"
+      },
+      {
+        "section": 18,
+        "instrument": 3,
+        "name": "Oberheim touch brass",
+        "part": "17-foreground1"
+      },
+      {
+        "section": 19,
+        "instrument": 81,
+        "name": "Chiffer Lead",
+        "part": "18-foreground2"
+      },
+      {
+        "section": 19,
+        "instrument": 71,
+        "name": "Clarinet",
+        "part": "18-foreground1"
+      },
+      {
+        "section": 20,
+        "instrument": 22,
+        "name": "Tubular Bells",
+        "part": "19-foreground2"
+      },
+      {
+        "section": 20,
+        "instrument": 0,
+        "name": "Open modular saw",
+        "part": "19-foreground0"
+      },
+      {
+        "section": 21,
+        "instrument": 43,
+        "name": "Slap Bass 2",
+        "part": "20-foreground1"
+      },
+      {
+        "section": 21,
+        "instrument": 59,
+        "name": "Muted Trumpet",
+        "part": "20-foreground0"
+      },
+      {
+        "section": 22,
+        "instrument": 47,
+        "name": "Viola",
+        "part": "21-foreground1"
+      },
+      {
+        "section": 22,
+        "instrument": 64,
+        "name": "Soprano Sax",
+        "part": "21-foreground0"
+      },
+      {
+        "section": 23,
+        "instrument": 58,
+        "name": "Tuba",
+        "part": "22-foreground0"
+      },
+      {
+        "section": 23,
+        "instrument": 82,
+        "name": "Charang",
+        "part": "22-foreground1"
+      },
+      {
+        "section": 24,
+        "instrument": 90,
+        "name": "Shamisen",
+        "part": "23-foreground0"
+      },
+      {
+        "section": 24,
+        "instrument": 91,
+        "name": "Koto",
+        "part": "23-foreground1"
+      },
+      {
+        "section": 25,
+        "instrument": 12,
+        "name": "Tine Electric Piano",
+        "part": "24-choir1-1"
+      },
+      {
+        "section": 25,
+        "instrument": 32,
+        "name": "Jazz Guitar",
+        "part": "24-foreground3"
+      },
+      {
+        "section": 26,
+        "instrument": 8,
+        "name": "Grand Piano",
+        "part": "25-foreground1"
+      },
+      {
+        "section": 26,
+        "instrument": 62,
+        "name": "Synth Brass 1",
+        "part": "25-foreground2"
+      },
+      {
+        "section": 27,
+        "instrument": 28,
+        "name": "Reed Organ",
+        "part": "26-foreground0"
+      },
+      {
+        "section": 27,
+        "instrument": 17,
+        "name": "Glockenspiel",
+        "part": "26-foreground1"
+      },
+      {
+        "section": 28,
+        "instrument": 35,
+        "name": "Overdrive Guitar",
+        "part": "27-foreground0"
+      },
+      {
+        "section": 28,
+        "instrument": 4,
+        "name": "TAL bright hollow lead",
+        "part": "27-foreground1"
+      },
+      {
+        "section": 29,
+        "instrument": 39,
+        "name": "Finger Bass",
+        "part": "28-foreground2"
+      },
+      {
+        "section": 29,
+        "instrument": 49,
+        "name": "Double Bass",
+        "part": "28-foreground1"
+      },
+      {
+        "section": 30,
+        "instrument": 9,
+        "name": "Bright Grand Piano",
+        "part": "29-foreground2"
+      },
+      {
+        "section": 30,
+        "instrument": 40,
+        "name": "Pick Bass",
+        "part": "29-foreground1"
+      },
+      {
+        "section": 31,
+        "instrument": 50,
+        "name": "Pizzicato Strings",
+        "part": "30-foreground2"
+      },
+      {
+        "section": 31,
+        "instrument": 85,
+        "name": "Bass & Lead",
+        "part": "30-foreground0"
+      },
+      {
+        "section": 32,
+        "instrument": 34,
+        "name": "Muted Guitar",
+        "part": "31-foreground1"
+      },
+      {
+        "section": 32,
+        "instrument": 89,
+        "name": "Banjo",
+        "part": "31-foreground0"
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "title": "A Wider Room",
+    "instruments": [
+      {
+        "id": 0,
+        "name": "Open modular saw",
+        "source_engine": "Surge XT",
+        "source_program": null,
+        "attacks": 25,
+        "written_seconds": 18.613000000000003
+      },
+      {
+        "id": 1,
+        "name": "Resonant sequencer lead",
+        "source_engine": "Surge XT",
+        "source_program": null,
+        "attacks": 12,
+        "written_seconds": 9.10158
+      },
+      {
+        "id": 2,
+        "name": "Oberheim silver pulse",
+        "source_engine": "OB-Xf",
+        "source_program": null,
+        "attacks": 14,
+        "written_seconds": 10.495687
+      },
+      {
+        "id": 3,
+        "name": "Oberheim touch brass",
+        "source_engine": "OB-Xf",
+        "source_program": null,
+        "attacks": 24,
+        "written_seconds": 20.08714687651437
+      },
+      {
+        "id": 4,
+        "name": "TAL bright hollow lead",
+        "source_engine": "TAL-NoiseMaker",
+        "source_program": null,
+        "attacks": 23,
+        "written_seconds": 22.577903
+      },
+      {
+        "id": 5,
+        "name": "TAL rubber reed",
+        "source_engine": "TAL-NoiseMaker",
+        "source_program": null,
+        "attacks": 12,
+        "written_seconds": 9.836661
+      },
+      {
+        "id": 6,
+        "name": "FM glass cantilena",
+        "source_engine": "Dexed",
+        "source_program": null,
+        "attacks": 19,
+        "written_seconds": 18.624292
+      },
+      {
+        "id": 7,
+        "name": "FM harmonic organ",
+        "source_engine": "Dexed",
+        "source_program": null,
+        "attacks": 21,
+        "written_seconds": 20.344611999999998
+      },
+      {
+        "id": 10,
+        "name": "Electric Grand Piano",
+        "source_engine": "FluidSynth",
+        "source_program": 2,
+        "attacks": 27,
+        "written_seconds": 15.694823999999999
+      },
+      {
+        "id": 14,
+        "name": "Harpsichord",
+        "source_engine": "FluidSynth",
+        "source_program": 6,
+        "attacks": 30,
+        "written_seconds": 33.203556
+      },
+      {
+        "id": 15,
+        "name": "Clavinet",
+        "source_engine": "FluidSynth",
+        "source_program": 7,
+        "attacks": 45,
+        "written_seconds": 48.69199000000001
+      },
+      {
+        "id": 19,
+        "name": "Vibraphone",
+        "source_engine": "FluidSynth",
+        "source_program": 11,
+        "attacks": 39,
+        "written_seconds": 39.184868
+      },
+      {
+        "id": 20,
+        "name": "Marimba",
+        "source_engine": "FluidSynth",
+        "source_program": 12,
+        "attacks": 30,
+        "written_seconds": 31.084045000000003
+      },
+      {
+        "id": 21,
+        "name": "Xylophone",
+        "source_engine": "FluidSynth",
+        "source_program": 13,
+        "attacks": 23,
+        "written_seconds": 12.266710000000002
+      },
+      {
+        "id": 22,
+        "name": "Tubular Bells",
+        "source_engine": "FluidSynth",
+        "source_program": 14,
+        "attacks": 32,
+        "written_seconds": 23.478209999999997
+      },
+      {
+        "id": 23,
+        "name": "Dulcimer",
+        "source_engine": "FluidSynth",
+        "source_program": 15,
+        "attacks": 68,
+        "written_seconds": 99.18653099999996
+      },
+      {
+        "id": 24,
+        "name": "Tonewheel Organ",
+        "source_engine": "FluidSynth",
+        "source_program": 16,
+        "attacks": 68,
+        "written_seconds": 66.06455275302874
+      },
+      {
+        "id": 26,
+        "name": "Rock Organ",
+        "source_engine": "FluidSynth",
+        "source_program": 18,
+        "attacks": 62,
+        "written_seconds": 61.286574999999985
+      },
+      {
+        "id": 27,
+        "name": "Pipe Organ",
+        "source_engine": "FluidSynth",
+        "source_program": 19,
+        "attacks": 21,
+        "written_seconds": 36.016085000000004
+      },
+      {
+        "id": 28,
+        "name": "Reed Organ",
+        "source_engine": "FluidSynth",
+        "source_program": 20,
+        "attacks": 44,
+        "written_seconds": 52.58731199999999
+      },
+      {
+        "id": 31,
+        "name": "Steel Guitar",
+        "source_engine": "FluidSynth",
+        "source_program": 25,
+        "attacks": 68,
+        "written_seconds": 74.273029
+      },
+      {
+        "id": 32,
+        "name": "Jazz Guitar",
+        "source_engine": "FluidSynth",
+        "source_program": 26,
+        "attacks": 35,
+        "written_seconds": 46.918538
+      },
+      {
+        "id": 33,
+        "name": "Clean Guitar",
+        "source_engine": "FluidSynth",
+        "source_program": 27,
+        "attacks": 36,
+        "written_seconds": 34.01825800000001
+      },
+      {
+        "id": 34,
+        "name": "Muted Guitar",
+        "source_engine": "FluidSynth",
+        "source_program": 28,
+        "attacks": 44,
+        "written_seconds": 58.36025899999998
+      },
+      {
+        "id": 35,
+        "name": "Overdrive Guitar",
+        "source_engine": "FluidSynth",
+        "source_program": 29,
+        "attacks": 59,
+        "written_seconds": 58.87546900000001
+      },
+      {
+        "id": 37,
+        "name": "Guitar Harmonics",
+        "source_engine": "FluidSynth",
+        "source_program": 31,
+        "attacks": 30,
+        "written_seconds": 35.844832999999994
+      },
+      {
+        "id": 39,
+        "name": "Finger Bass",
+        "source_engine": "FluidSynth",
+        "source_program": 33,
+        "attacks": 43,
+        "written_seconds": 43.48691399999999
+      },
+      {
+        "id": 40,
+        "name": "Pick Bass",
+        "source_engine": "FluidSynth",
+        "source_program": 34,
+        "attacks": 36,
+        "written_seconds": 41.007497
+      },
+      {
+        "id": 41,
+        "name": "Fretless Bass",
+        "source_engine": "FluidSynth",
+        "source_program": 35,
+        "attacks": 43,
+        "written_seconds": 42.048634876514384
+      },
+      {
+        "id": 42,
+        "name": "Slap Bass 1",
+        "source_engine": "FluidSynth",
+        "source_program": 36,
+        "attacks": 50,
+        "written_seconds": 40.438499
+      },
+      {
+        "id": 46,
+        "name": "Violin",
+        "source_engine": "FluidSynth",
+        "source_program": 40,
+        "attacks": 42,
+        "written_seconds": 49.68662799999999
+      },
+      {
+        "id": 47,
+        "name": "Viola",
+        "source_engine": "FluidSynth",
+        "source_program": 41,
+        "attacks": 39,
+        "written_seconds": 39.219699000000006
+      },
+      {
+        "id": 48,
+        "name": "Cello",
+        "source_engine": "FluidSynth",
+        "source_program": 42,
+        "attacks": 30,
+        "written_seconds": 30.672417999999997
+      },
+      {
+        "id": 49,
+        "name": "Double Bass",
+        "source_engine": "FluidSynth",
+        "source_program": 43,
+        "attacks": 66,
+        "written_seconds": 56.76323099999999
+      },
+      {
+        "id": 50,
+        "name": "Pizzicato Strings",
+        "source_engine": "FluidSynth",
+        "source_program": 45,
+        "attacks": 56,
+        "written_seconds": 69.06185200000002
+      },
+      {
+        "id": 53,
+        "name": "Slow Strings",
+        "source_engine": "FluidSynth",
+        "source_program": 49,
+        "attacks": 33,
+        "written_seconds": 37.93757599999999
+      },
+      {
+        "id": 55,
+        "name": "Synth Strings 2",
+        "source_engine": "FluidSynth",
+        "source_program": 51,
+        "attacks": 53,
+        "written_seconds": 52.93175600000002
+      },
+      {
+        "id": 56,
+        "name": "Trumpet",
+        "source_engine": "FluidSynth",
+        "source_program": 56,
+        "attacks": 36,
+        "written_seconds": 35.39161399999998
+      },
+      {
+        "id": 57,
+        "name": "Trombone",
+        "source_engine": "FluidSynth",
+        "source_program": 57,
+        "attacks": 26,
+        "written_seconds": 34.583316
+      },
+      {
+        "id": 61,
+        "name": "Brass Section",
+        "source_engine": "FluidSynth",
+        "source_program": 61,
+        "attacks": 40,
+        "written_seconds": 52.209922000000006
+      },
+      {
+        "id": 63,
+        "name": "Synth Brass 2",
+        "source_engine": "FluidSynth",
+        "source_program": 63,
+        "attacks": 39,
+        "written_seconds": 47.82801700000001
+      },
+      {
+        "id": 64,
+        "name": "Soprano Sax",
+        "source_engine": "FluidSynth",
+        "source_program": 64,
+        "attacks": 56,
+        "written_seconds": 56.61805999999999
+      },
+      {
+        "id": 65,
+        "name": "Alto Sax",
+        "source_engine": "FluidSynth",
+        "source_program": 65,
+        "attacks": 27,
+        "written_seconds": 34.45338
+      },
+      {
+        "id": 66,
+        "name": "Tenor Sax",
+        "source_engine": "FluidSynth",
+        "source_program": 66,
+        "attacks": 65,
+        "written_seconds": 61.745602
+      },
+      {
+        "id": 67,
+        "name": "Baritone Sax",
+        "source_engine": "FluidSynth",
+        "source_program": 67,
+        "attacks": 30,
+        "written_seconds": 29.777936753028712
+      },
+      {
+        "id": 69,
+        "name": "English Horn",
+        "source_engine": "FluidSynth",
+        "source_program": 69,
+        "attacks": 34,
+        "written_seconds": 22.397706
+      },
+      {
+        "id": 70,
+        "name": "Bassoon",
+        "source_engine": "FluidSynth",
+        "source_program": 70,
+        "attacks": 74,
+        "written_seconds": 82.09933699999999
+      },
+      {
+        "id": 71,
+        "name": "Clarinet",
+        "source_engine": "FluidSynth",
+        "source_program": 71,
+        "attacks": 43,
+        "written_seconds": 44.202888
+      },
+      {
+        "id": 72,
+        "name": "Piccolo",
+        "source_engine": "FluidSynth",
+        "source_program": 72,
+        "attacks": 40,
+        "written_seconds": 29.812298000000002
+      },
+      {
+        "id": 73,
+        "name": "Flute",
+        "source_engine": "FluidSynth",
+        "source_program": 73,
+        "attacks": 31,
+        "written_seconds": 28.329935876514355
+      },
+      {
+        "id": 77,
+        "name": "Shakuhachi",
+        "source_engine": "FluidSynth",
+        "source_program": 77,
+        "attacks": 42,
+        "written_seconds": 48.337765999999974
+      },
+      {
+        "id": 80,
+        "name": "Synth Calliope",
+        "source_engine": "FluidSynth",
+        "source_program": 82,
+        "attacks": 49,
+        "written_seconds": 47.459134000000006
+      },
+      {
+        "id": 81,
+        "name": "Chiffer Lead",
+        "source_engine": "FluidSynth",
+        "source_program": 83,
+        "attacks": 39,
+        "written_seconds": 40.091639
+      },
+      {
+        "id": 83,
+        "name": "Solo Vox",
+        "source_engine": "FluidSynth",
+        "source_program": 85,
+        "attacks": 55,
+        "written_seconds": 61.38506300000002
+      },
+      {
+        "id": 84,
+        "name": "5th Saw Wave",
+        "source_engine": "FluidSynth",
+        "source_program": 86,
+        "attacks": 53,
+        "written_seconds": 34.804587
+      },
+      {
+        "id": 85,
+        "name": "Bass & Lead",
+        "source_engine": "FluidSynth",
+        "source_program": 87,
+        "attacks": 32,
+        "written_seconds": 32.464483
+      },
+      {
+        "id": 86,
+        "name": "Crystal",
+        "source_engine": "FluidSynth",
+        "source_program": 98,
+        "attacks": 49,
+        "written_seconds": 33.096325
+      },
+      {
+        "id": 87,
+        "name": "Atmosphere",
+        "source_engine": "FluidSynth",
+        "source_program": 99,
+        "attacks": 62,
+        "written_seconds": 53.81372900000001
+      },
+      {
+        "id": 89,
+        "name": "Banjo",
+        "source_engine": "FluidSynth",
+        "source_program": 105,
+        "attacks": 64,
+        "written_seconds": 70.58861099999999
+      },
+      {
+        "id": 90,
+        "name": "Shamisen",
+        "source_engine": "FluidSynth",
+        "source_program": 106,
+        "attacks": 59,
+        "written_seconds": 65.83012300000001
+      },
+      {
+        "id": 91,
+        "name": "Koto",
+        "source_engine": "FluidSynth",
+        "source_program": 107,
+        "attacks": 42,
+        "written_seconds": 41.019075
+      },
+      {
+        "id": 92,
+        "name": "Kalimba",
+        "source_engine": "FluidSynth",
+        "source_program": 108,
+        "attacks": 35,
+        "written_seconds": 46.88621600000001
+      },
+      {
+        "id": 94,
+        "name": "Shenai",
+        "source_engine": "FluidSynth",
+        "source_program": 111,
+        "attacks": 39,
+        "written_seconds": 40.514624
+      },
+      {
+        "id": 95,
+        "name": "Tinker Bell",
+        "source_engine": "FluidSynth",
+        "source_program": 112,
+        "attacks": 36,
+        "written_seconds": 40.12237100000001
+      }
+    ],
+    "ensembles": [
+      {
+        "section": 1,
+        "start": 0.0,
+        "end": 13.363197247171984,
+        "instruments": [
+          20,
+          24,
+          32,
+          39,
+          66,
+          67,
+          80,
+          89,
+          92
+        ],
+        "featured": [
+          24,
+          67
+        ]
+      },
+      {
+        "section": 2,
+        "start": 13.363197247171984,
+        "end": 26.496628910951124,
+        "instruments": [
+          1,
+          27,
+          37,
+          47,
+          49,
+          56,
+          57,
+          63,
+          70,
+          83,
+          84,
+          91,
+          94
+        ],
+        "featured": [
+          83,
+          1
+        ]
+      },
+      {
+        "section": 3,
+        "start": 26.496628910951124,
+        "end": 41.12741101628492,
+        "instruments": [
+          34,
+          40,
+          55,
+          64,
+          72,
+          87,
+          90
+        ],
+        "featured": [
+          64,
+          40
+        ]
+      },
+      {
+        "section": 4,
+        "start": 41.12741101628492,
+        "end": 55.752044738163264,
+        "instruments": [
+          14,
+          40,
+          42,
+          61,
+          69,
+          77,
+          83,
+          89
+        ],
+        "featured": [
+          89,
+          14
+        ]
+      },
+      {
+        "section": 5,
+        "start": 55.752044738163264,
+        "end": 68.12775331746423,
+        "instruments": [
+          14,
+          31,
+          32,
+          42,
+          64,
+          95
+        ],
+        "featured": [
+          42,
+          32
+        ]
+      },
+      {
+        "section": 6,
+        "start": 68.12775331746423,
+        "end": 80.71770133515139,
+        "instruments": [
+          6,
+          10,
+          24,
+          32,
+          34,
+          39,
+          65,
+          80,
+          81
+        ],
+        "featured": [
+          10,
+          6
+        ]
+      },
+      {
+        "section": 7,
+        "start": 80.71770133515139,
+        "end": 93.61009433516796,
+        "instruments": [
+          40,
+          47,
+          49,
+          56,
+          57,
+          92,
+          94,
+          95
+        ],
+        "featured": [
+          92,
+          95
+        ]
+      },
+      {
+        "section": 8,
+        "start": 93.61009433516796,
+        "end": 106.58076619255274,
+        "instruments": [
+          20,
+          22,
+          48,
+          50,
+          55,
+          70,
+          72,
+          87,
+          90,
+          95
+        ],
+        "featured": [
+          70,
+          20
+        ]
+      },
+      {
+        "section": 9,
+        "start": 106.58076619255274,
+        "end": 119.6292336123697,
+        "instruments": [
+          19,
+          28,
+          37,
+          53,
+          66,
+          86
+        ],
+        "featured": [
+          86,
+          37
+        ]
+      },
+      {
+        "section": 10,
+        "start": 119.6292336123697,
+        "end": 132.4805684882388,
+        "instruments": [
+          23,
+          39,
+          48,
+          49,
+          94
+        ],
+        "featured": [
+          39,
+          48
+        ]
+      },
+      {
+        "section": 11,
+        "start": 132.4805684882388,
+        "end": 144.70270297408658,
+        "instruments": [
+          20,
+          24,
+          32,
+          33,
+          34,
+          39,
+          47,
+          80,
+          81,
+          87,
+          89,
+          90,
+          92
+        ],
+        "featured": [
+          47,
+          80
+        ]
+      },
+      {
+        "section": 12,
+        "start": 144.70270297408658,
+        "end": 156.79052448716354,
+        "instruments": [
+          0,
+          6,
+          40,
+          56,
+          57,
+          70,
+          83,
+          91
+        ],
+        "featured": [
+          0,
+          57
+        ]
+      },
+      {
+        "section": 13,
+        "start": 156.79052448716354,
+        "end": 170.69670183681592,
+        "instruments": [
+          0,
+          10,
+          14,
+          15,
+          26,
+          35,
+          50,
+          66,
+          86
+        ],
+        "featured": [
+          66,
+          15
+        ]
+      },
+      {
+        "section": 14,
+        "start": 170.69670183681592,
+        "end": 184.7654392834096,
+        "instruments": [
+          46,
+          63,
+          65,
+          77,
+          80
+        ],
+        "featured": [
+          63,
+          65
+        ]
+      },
+      {
+        "section": 15,
+        "start": 184.7654392834096,
+        "end": 196.24617789555,
+        "instruments": [
+          23,
+          26,
+          31,
+          49,
+          84,
+          91
+        ],
+        "featured": [
+          26,
+          91
+        ]
+      },
+      {
+        "section": 16,
+        "start": 196.24617789555,
+        "end": 207.900508718877,
+        "instruments": [
+          21,
+          22,
+          32,
+          34,
+          81,
+          87
+        ],
+        "featured": [
+          21,
+          22
+        ]
+      },
+      {
+        "section": 17,
+        "start": 207.900508718877,
+        "end": 221.14361038498555,
+        "instruments": [
+          40,
+          42,
+          46,
+          56,
+          70,
+          83
+        ],
+        "featured": [
+          56,
+          46
+        ]
+      },
+      {
+        "section": 18,
+        "start": 221.14361038498555,
+        "end": 234.29920985404328,
+        "instruments": [
+          15,
+          22,
+          26,
+          35,
+          86,
+          94,
+          95
+        ],
+        "featured": [
+          35,
+          94
+        ]
+      },
+      {
+        "section": 19,
+        "start": 234.29920985404328,
+        "end": 249.00986631509517,
+        "instruments": [
+          21,
+          28,
+          39,
+          46,
+          50,
+          65,
+          66,
+          80,
+          85,
+          89
+        ],
+        "featured": [
+          85,
+          50
+        ]
+      },
+      {
+        "section": 20,
+        "start": 249.00986631509517,
+        "end": 263.46775954615686,
+        "instruments": [
+          7,
+          23,
+          41,
+          47,
+          49,
+          91,
+          94
+        ],
+        "featured": [
+          49,
+          7
+        ]
+      },
+      {
+        "section": 21,
+        "start": 263.46775954615686,
+        "end": 275.97438500513437,
+        "instruments": [
+          5,
+          22,
+          24,
+          26,
+          35,
+          55,
+          87,
+          90
+        ],
+        "featured": [
+          55,
+          5
+        ]
+      },
+      {
+        "section": 22,
+        "start": 275.97438500513437,
+        "end": 288.4912038543759,
+        "instruments": [
+          4,
+          19,
+          28,
+          40,
+          42,
+          53,
+          61,
+          69,
+          70,
+          71,
+          72,
+          77,
+          83
+        ],
+        "featured": [
+          28,
+          72
+        ]
+      },
+      {
+        "section": 23,
+        "start": 288.4912038543759,
+        "end": 301.3553914531364,
+        "instruments": [
+          15,
+          23,
+          31,
+          64,
+          71,
+          84
+        ],
+        "featured": [
+          84,
+          71
+        ]
+      },
+      {
+        "section": 24,
+        "start": 301.3553914531364,
+        "end": 314.44841032923506,
+        "instruments": [
+          20,
+          21,
+          27,
+          46,
+          66,
+          85,
+          89,
+          90
+        ],
+        "featured": [
+          90,
+          27
+        ]
+      },
+      {
+        "section": 25,
+        "start": 314.44841032923506,
+        "end": 327.35144727363644,
+        "instruments": [
+          2,
+          19,
+          37,
+          49,
+          56,
+          57,
+          63,
+          70,
+          94
+        ],
+        "featured": [
+          19,
+          2
+        ]
+      },
+      {
+        "section": 26,
+        "start": 327.35144727363644,
+        "end": 340.3212310490301,
+        "instruments": [
+          3,
+          15,
+          22,
+          26,
+          33,
+          35,
+          48,
+          50,
+          55,
+          61,
+          72,
+          81,
+          87,
+          90
+        ],
+        "featured": [
+          3,
+          61
+        ]
+      },
+      {
+        "section": 27,
+        "start": 340.3212310490301,
+        "end": 352.5281701240524,
+        "instruments": [
+          19,
+          23,
+          46,
+          53,
+          71,
+          77,
+          83,
+          85,
+          87
+        ],
+        "featured": [
+          87,
+          23
+        ]
+      },
+      {
+        "section": 28,
+        "start": 352.5281701240524,
+        "end": 364.5434140449653,
+        "instruments": [
+          14,
+          23,
+          31,
+          41,
+          73,
+          77,
+          81
+        ],
+        "featured": [
+          77,
+          81
+        ]
+      },
+      {
+        "section": 29,
+        "start": 364.5434140449653,
+        "end": 378.60445550519705,
+        "instruments": [
+          4,
+          24,
+          32,
+          33,
+          34,
+          41,
+          81,
+          89,
+          92
+        ],
+        "featured": [
+          41,
+          4
+        ]
+      },
+      {
+        "section": 30,
+        "start": 378.60445550519705,
+        "end": 392.5185551261719,
+        "instruments": [
+          33,
+          37,
+          40,
+          42,
+          63,
+          70,
+          73
+        ],
+        "featured": [
+          33,
+          73
+        ]
+      },
+      {
+        "section": 31,
+        "start": 392.5185551261719,
+        "end": 404.05582178032824,
+        "instruments": [
+          15,
+          22,
+          26,
+          34,
+          35,
+          48,
+          50,
+          55,
+          69,
+          86,
+          90
+        ],
+        "featured": [
+          69,
+          34
+        ]
+      },
+      {
+        "section": 32,
+        "start": 404.05582178032824,
+        "end": 415.73502737103064,
+        "instruments": [
+          7,
+          28,
+          31,
+          53,
+          61,
+          69,
+          71,
+          77
+        ],
+        "featured": [
+          31,
+          53
+        ]
+      },
+      {
+        "section": 33,
+        "start": 415.73502737103064,
+        "end": 428.8500108037776,
+        "instruments": [
+          3,
+          24,
+          41,
+          64,
+          67,
+          73
+        ],
+        "featured": [
+          24,
+          67
+        ]
+      }
+    ],
+    "featured": [
+      {
+        "section": 1,
+        "instrument": 24,
+        "name": "Tonewheel Organ",
+        "part": "0-foreground0"
+      },
+      {
+        "section": 1,
+        "instrument": 67,
+        "name": "Baritone Sax",
+        "part": "0-foreground1"
+      },
+      {
+        "section": 2,
+        "instrument": 83,
+        "name": "Solo Vox",
+        "part": "1-foreground2"
+      },
+      {
+        "section": 2,
+        "instrument": 1,
+        "name": "Resonant sequencer lead",
+        "part": "1-foreground1"
+      },
+      {
+        "section": 3,
+        "instrument": 64,
+        "name": "Soprano Sax",
+        "part": "2-foreground2"
+      },
+      {
+        "section": 3,
+        "instrument": 40,
+        "name": "Pick Bass",
+        "part": "2-foreground1"
+      },
+      {
+        "section": 4,
+        "instrument": 89,
+        "name": "Banjo",
+        "part": "3-foreground0"
+      },
+      {
+        "section": 4,
+        "instrument": 14,
+        "name": "Harpsichord",
+        "part": "3-foreground1"
+      },
+      {
+        "section": 5,
+        "instrument": 42,
+        "name": "Slap Bass 1",
+        "part": "4-foreground2"
+      },
+      {
+        "section": 5,
+        "instrument": 32,
+        "name": "Jazz Guitar",
+        "part": "4-foreground0"
+      },
+      {
+        "section": 6,
+        "instrument": 10,
+        "name": "Electric Grand Piano",
+        "part": "5-foreground0"
+      },
+      {
+        "section": 6,
+        "instrument": 6,
+        "name": "FM glass cantilena",
+        "part": "5-foreground1"
+      },
+      {
+        "section": 7,
+        "instrument": 92,
+        "name": "Kalimba",
+        "part": "6-foreground1"
+      },
+      {
+        "section": 7,
+        "instrument": 95,
+        "name": "Tinker Bell",
+        "part": "6-foreground0"
+      },
+      {
+        "section": 8,
+        "instrument": 70,
+        "name": "Bassoon",
+        "part": "7-choir1-0"
+      },
+      {
+        "section": 8,
+        "instrument": 20,
+        "name": "Marimba",
+        "part": "7-choir1-1"
+      },
+      {
+        "section": 9,
+        "instrument": 86,
+        "name": "Crystal",
+        "part": "8-foreground1"
+      },
+      {
+        "section": 9,
+        "instrument": 37,
+        "name": "Guitar Harmonics",
+        "part": "8-foreground2"
+      },
+      {
+        "section": 10,
+        "instrument": 39,
+        "name": "Finger Bass",
+        "part": "9-foreground0"
+      },
+      {
+        "section": 10,
+        "instrument": 48,
+        "name": "Cello",
+        "part": "9-foreground1"
+      },
+      {
+        "section": 11,
+        "instrument": 47,
+        "name": "Viola",
+        "part": "10-foreground2"
+      },
+      {
+        "section": 11,
+        "instrument": 80,
+        "name": "Synth Calliope",
+        "part": "10-foreground1"
+      },
+      {
+        "section": 12,
+        "instrument": 0,
+        "name": "Open modular saw",
+        "part": "11-foreground1"
+      },
+      {
+        "section": 12,
+        "instrument": 57,
+        "name": "Trombone",
+        "part": "11-foreground0"
+      },
+      {
+        "section": 13,
+        "instrument": 66,
+        "name": "Tenor Sax",
+        "part": "12-foreground2"
+      },
+      {
+        "section": 13,
+        "instrument": 15,
+        "name": "Clavinet",
+        "part": "12-foreground1"
+      },
+      {
+        "section": 14,
+        "instrument": 63,
+        "name": "Synth Brass 2",
+        "part": "13-exposed"
+      },
+      {
+        "section": 14,
+        "instrument": 65,
+        "name": "Alto Sax",
+        "part": "13-pulse-0"
+      },
+      {
+        "section": 15,
+        "instrument": 26,
+        "name": "Rock Organ",
+        "part": "14-foreground0"
+      },
+      {
+        "section": 15,
+        "instrument": 91,
+        "name": "Koto",
+        "part": "14-foreground1"
+      },
+      {
+        "section": 16,
+        "instrument": 21,
+        "name": "Xylophone",
+        "part": "15-foreground2"
+      },
+      {
+        "section": 16,
+        "instrument": 22,
+        "name": "Tubular Bells",
+        "part": "15-foreground0"
+      },
+      {
+        "section": 17,
+        "instrument": 56,
+        "name": "Trumpet",
+        "part": "16-foreground1"
+      },
+      {
+        "section": 17,
+        "instrument": 46,
+        "name": "Violin",
+        "part": "16-foreground0"
+      },
+      {
+        "section": 18,
+        "instrument": 35,
+        "name": "Overdrive Guitar",
+        "part": "17-foreground0"
+      },
+      {
+        "section": 18,
+        "instrument": 94,
+        "name": "Shenai",
+        "part": "17-foreground1"
+      },
+      {
+        "section": 19,
+        "instrument": 85,
+        "name": "Bass & Lead",
+        "part": "18-choir1-0"
+      },
+      {
+        "section": 19,
+        "instrument": 50,
+        "name": "Pizzicato Strings",
+        "part": "18-choir1-1"
+      },
+      {
+        "section": 20,
+        "instrument": 49,
+        "name": "Double Bass",
+        "part": "19-foreground1"
+      },
+      {
+        "section": 20,
+        "instrument": 7,
+        "name": "FM harmonic organ",
+        "part": "19-foreground2"
+      },
+      {
+        "section": 21,
+        "instrument": 55,
+        "name": "Synth Strings 2",
+        "part": "20-foreground0"
+      },
+      {
+        "section": 21,
+        "instrument": 5,
+        "name": "TAL rubber reed",
+        "part": "20-foreground1"
+      },
+      {
+        "section": 22,
+        "instrument": 28,
+        "name": "Reed Organ",
+        "part": "21-foreground2"
+      },
+      {
+        "section": 22,
+        "instrument": 72,
+        "name": "Piccolo",
+        "part": "21-foreground1"
+      },
+      {
+        "section": 23,
+        "instrument": 84,
+        "name": "5th Saw Wave",
+        "part": "22-foreground1"
+      },
+      {
+        "section": 23,
+        "instrument": 71,
+        "name": "Clarinet",
+        "part": "22-foreground0"
+      },
+      {
+        "section": 24,
+        "instrument": 90,
+        "name": "Shamisen",
+        "part": "23-foreground2"
+      },
+      {
+        "section": 24,
+        "instrument": 27,
+        "name": "Pipe Organ",
+        "part": "23-foreground1"
+      },
+      {
+        "section": 25,
+        "instrument": 19,
+        "name": "Vibraphone",
+        "part": "24-foreground2"
+      },
+      {
+        "section": 25,
+        "instrument": 2,
+        "name": "Oberheim silver pulse",
+        "part": "24-foreground0"
+      },
+      {
+        "section": 26,
+        "instrument": 3,
+        "name": "Oberheim touch brass",
+        "part": "25-foreground2"
+      },
+      {
+        "section": 26,
+        "instrument": 61,
+        "name": "Brass Section",
+        "part": "25-foreground1"
+      },
+      {
+        "section": 27,
+        "instrument": 87,
+        "name": "Atmosphere",
+        "part": "26-foreground0"
+      },
+      {
+        "section": 27,
+        "instrument": 23,
+        "name": "Dulcimer",
+        "part": "26-foreground1"
+      },
+      {
+        "section": 28,
+        "instrument": 77,
+        "name": "Shakuhachi",
+        "part": "27-foreground0"
+      },
+      {
+        "section": 28,
+        "instrument": 81,
+        "name": "Chiffer Lead",
+        "part": "27-foreground1"
+      },
+      {
+        "section": 29,
+        "instrument": 41,
+        "name": "Fretless Bass",
+        "part": "28-foreground2"
+      },
+      {
+        "section": 29,
+        "instrument": 4,
+        "name": "TAL bright hollow lead",
+        "part": "28-foreground0"
+      },
+      {
+        "section": 30,
+        "instrument": 33,
+        "name": "Clean Guitar",
+        "part": "29-foreground1"
+      },
+      {
+        "section": 30,
+        "instrument": 73,
+        "name": "Flute",
+        "part": "29-foreground0"
+      },
+      {
+        "section": 31,
+        "instrument": 69,
+        "name": "English Horn",
+        "part": "30-choir1-0"
+      },
+      {
+        "section": 31,
+        "instrument": 34,
+        "name": "Muted Guitar",
+        "part": "30-choir1-1"
+      },
+      {
+        "section": 32,
+        "instrument": 31,
+        "name": "Steel Guitar",
+        "part": "31-foreground1"
+      },
+      {
+        "section": 32,
+        "instrument": 53,
+        "name": "Slow Strings",
+        "part": "31-foreground2"
+      },
+      {
+        "section": 33,
+        "instrument": 24,
+        "name": "Tonewheel Organ",
+        "part": "32-foreground0"
+      },
+      {
+        "section": 33,
+        "instrument": 67,
+        "name": "Baritone Sax",
+        "part": "32-foreground1"
+      }
+    ]
+  }
+]

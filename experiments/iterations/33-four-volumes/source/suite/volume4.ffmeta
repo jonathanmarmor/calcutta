@@ -1,0 +1,25 @@
+;FFMETADATA1
+title=Calcutta Volume 4: Long Weather
+album=Calcutta: Four Volumes
+artist=Jonathan Marmor
+date=2026
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=509000
+title=13. The First Thing, Elsewhere
+[CHAPTER]
+TIMEBASE=1/1000
+START=511000
+END=1248000
+title=14. Distance Between Footsteps
+[CHAPTER]
+TIMEBASE=1/1000
+START=1250000
+END=1616000
+title=15. Concertino With a Missing Soloist
+[CHAPTER]
+TIMEBASE=1/1000
+START=1618000
+END=2160000
+title=16. Weather Beyond the Frame

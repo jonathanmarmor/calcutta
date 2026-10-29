@@ -1,0 +1,6332 @@
+{
+  "title": "The Wrong Intermezzo",
+  "number": 1,
+  "seed": 2026101800,
+  "duration": 286,
+  "premise": "A lyrical ABACBA serenade is repeatedly interrupted by a different, dry electronic personality; a structural paraphrase of Bart\u00f3k\u2019s Interrupted Intermezzo, not a melodic transcription.",
+  "notes": [
+    {
+      "instrument": 18,
+      "start": 0.1,
+      "duration": 0.64,
+      "pitch": 57.50374548474124,
+      "velocity": 62,
+      "role": "returning serenade",
+      "fields": [
+        0
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 0.6,
+      "duration": 0.88,
+      "pitch": 55.127809113555934,
+      "velocity": 48,
+      "role": "nylon accompaniment",
+      "fields": [
+        0
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 0.9,
+      "duration": 1.04,
+      "pitch": 58.69171367033388,
+      "velocity": 66,
+      "role": "returning serenade",
+      "fields": [
+        0
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 1.7,
+      "duration": 1.76,
+      "pitch": 58.69171367033388,
+      "velocity": 44,
+      "role": "nylon accompaniment",
+      "fields": [
+        0
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 2.2,
+      "duration": 0.48,
+      "pitch": 62.25561822711185,
+      "velocity": 66,
+      "role": "returning serenade",
+      "fields": [
+        0
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 18,
+      "start": 2.8,
+      "duration": 1.36,
+      "pitch": 59.87968185592655,
+      "velocity": 64,
+      "role": "returning serenade",
+      "fields": [
+        0
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 3.9,
+      "duration": 1.28,
+      "pitch": 57.50374548474124,
+      "velocity": 46,
+      "role": "nylon accompaniment",
+      "fields": [
+        0
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 5.072,
+      "duration": 0.64,
+      "pitch": 58.69171367033388,
+      "velocity": 61,
+      "role": "returning serenade",
+      "fields": [
+        0
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 18,
+      "start": 5.872,
+      "duration": 0.593,
+      "pitch": 59.87968185592655,
+      "velocity": 66,
+      "role": "returning serenade",
+      "fields": [
+        0
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 6.137,
+      "duration": 0.328,
+      "pitch": 55.127809113555934,
+      "velocity": 47,
+      "role": "nylon accompaniment",
+      "fields": [
+        0
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 7.172,
+      "duration": 0.48,
+      "pitch": 65.3205761459409,
+      "velocity": 66,
+      "role": "returning serenade",
+      "fields": [
+        1
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 7.237,
+      "duration": 1.76,
+      "pitch": 59.5470507639606,
+      "velocity": 44,
+      "role": "nylon accompaniment",
+      "fields": [
+        1
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 7.772,
+      "duration": 1.36,
+      "pitch": 63.70398903898641,
+      "velocity": 63,
+      "role": "returning serenade",
+      "fields": [
+        1
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 9.437,
+      "duration": 1.28,
+      "pitch": 58.392345687564536,
+      "velocity": 44,
+      "role": "nylon accompaniment",
+      "fields": [
+        1
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 10.044,
+      "duration": 0.64,
+      "pitch": 61.16363787091509,
+      "velocity": 64,
+      "role": "returning serenade",
+      "fields": [
+        1
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 18,
+      "start": 10.844,
+      "duration": 0.156,
+      "pitch": 63.70398903898641,
+      "velocity": 62,
+      "role": "returning serenade",
+      "fields": [
+        1
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 10,
+      "start": 11.1,
+      "duration": 0.64,
+      "pitch": 58.392345687564536,
+      "velocity": 62,
+      "role": "returning serenade",
+      "fields": [
+        1
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 12,
+      "start": 11.6,
+      "duration": 0.88,
+      "pitch": 54.23540741253873,
+      "velocity": 47,
+      "role": "nylon accompaniment",
+      "fields": [
+        1
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 11.9,
+      "duration": 1.04,
+      "pitch": 59.5470507639606,
+      "velocity": 62,
+      "role": "returning serenade",
+      "fields": [
+        1
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 12,
+      "start": 12.7,
+      "duration": 0.265,
+      "pitch": 59.5470507639606,
+      "velocity": 48,
+      "role": "nylon accompaniment",
+      "fields": [
+        1
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 13.2,
+      "duration": 0.48,
+      "pitch": 66.04226681868845,
+      "velocity": 65,
+      "role": "returning serenade",
+      "fields": [
+        2
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 10,
+      "start": 13.8,
+      "duration": 1.36,
+      "pitch": 63.681267059211635,
+      "velocity": 61,
+      "role": "returning serenade",
+      "fields": [
+        2
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 12,
+      "start": 14.9,
+      "duration": 1.28,
+      "pitch": 59.276416761680274,
+      "velocity": 43,
+      "role": "nylon accompaniment",
+      "fields": [
+        2
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 16.072,
+      "duration": 0.64,
+      "pitch": 62.38917763860244,
+      "velocity": 63,
+      "role": "returning serenade",
+      "fields": [
+        2
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 10,
+      "start": 16.872,
+      "duration": 1.04,
+      "pitch": 63.681267059211635,
+      "velocity": 66,
+      "role": "returning serenade",
+      "fields": [
+        2
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 12,
+      "start": 17.137,
+      "duration": 0.88,
+      "pitch": 55.04776047605017,
+      "velocity": 45,
+      "role": "nylon accompaniment",
+      "fields": [
+        2
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 18.172,
+      "duration": 0.48,
+      "pitch": 70.4471171162198,
+      "velocity": 66,
+      "role": "returning serenade",
+      "fields": [
+        2
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 12,
+      "start": 18.237,
+      "duration": 1.228,
+      "pitch": 62.38917763860244,
+      "velocity": 48,
+      "role": "nylon accompaniment",
+      "fields": [
+        2
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 18.772,
+      "duration": 0.693,
+      "pitch": 66.04226681868845,
+      "velocity": 60,
+      "role": "returning serenade",
+      "fields": [
+        2
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 12,
+      "start": 20.437,
+      "duration": 1.28,
+      "pitch": 57.02113340934422,
+      "velocity": 42,
+      "role": "nylon accompaniment",
+      "fields": [
+        3
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 21.044,
+      "duration": 0.64,
+      "pitch": 63.035222348907034,
+      "velocity": 64,
+      "role": "returning serenade",
+      "fields": [
+        3
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 10,
+      "start": 21.844,
+      "duration": 0.156,
+      "pitch": 66.04226681868845,
+      "velocity": 63,
+      "role": "returning serenade",
+      "fields": [
+        3
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 5,
+      "start": 22.1,
+      "duration": 0.64,
+      "pitch": 57.02113340934422,
+      "velocity": 62,
+      "role": "returning serenade",
+      "fields": [
+        3
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 12,
+      "start": 22.6,
+      "duration": 0.88,
+      "pitch": 54.01408893956282,
+      "velocity": 48,
+      "role": "nylon accompaniment",
+      "fields": [
+        3
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 22.9,
+      "duration": 1.04,
+      "pitch": 60.028177879125636,
+      "velocity": 65,
+      "role": "returning serenade",
+      "fields": [
+        3
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 12,
+      "start": 23.7,
+      "duration": 1.76,
+      "pitch": 60.028177879125636,
+      "velocity": 47,
+      "role": "nylon accompaniment",
+      "fields": [
+        3
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 24.2,
+      "duration": 0.48,
+      "pitch": 66.04226681868845,
+      "velocity": 65,
+      "role": "returning serenade",
+      "fields": [
+        3
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 5,
+      "start": 24.8,
+      "duration": 1.165,
+      "pitch": 63.035222348907034,
+      "velocity": 60,
+      "role": "returning serenade",
+      "fields": [
+        3
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 5,
+      "start": 27.072,
+      "duration": 0.64,
+      "pitch": 59.5470507639606,
+      "velocity": 63,
+      "role": "returning serenade",
+      "fields": [
+        4
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 5,
+      "start": 27.872,
+      "duration": 1.04,
+      "pitch": 61.16363787091509,
+      "velocity": 62,
+      "role": "returning serenade",
+      "fields": [
+        4
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 12,
+      "start": 28.137,
+      "duration": 0.88,
+      "pitch": 54.23540741253873,
+      "velocity": 44,
+      "role": "nylon accompaniment",
+      "fields": [
+        4
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 29.172,
+      "duration": 0.48,
+      "pitch": 65.3205761459409,
+      "velocity": 63,
+      "role": "returning serenade",
+      "fields": [
+        4
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 12,
+      "start": 29.237,
+      "duration": 1.76,
+      "pitch": 59.5470507639606,
+      "velocity": 46,
+      "role": "nylon accompaniment",
+      "fields": [
+        4
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 29.772,
+      "duration": 1.36,
+      "pitch": 63.70398903898641,
+      "velocity": 64,
+      "role": "returning serenade",
+      "fields": [
+        4
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 12,
+      "start": 31.437,
+      "duration": 1.028,
+      "pitch": 58.392345687564536,
+      "velocity": 46,
+      "role": "nylon accompaniment",
+      "fields": [
+        4
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 32.044,
+      "duration": 0.421,
+      "pitch": 61.16363787091509,
+      "velocity": 62,
+      "role": "returning serenade",
+      "fields": [
+        4
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 5,
+      "start": 32.844,
+      "duration": 0.156,
+      "pitch": 66.22019844411929,
+      "velocity": 65,
+      "role": "returning serenade",
+      "fields": [
+        5
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 18,
+      "start": 33.1,
+      "duration": 0.64,
+      "pitch": 59.21242981176572,
+      "velocity": 61,
+      "role": "returning serenade",
+      "fields": [
+        5
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 33.6,
+      "duration": 0.88,
+      "pitch": 54.89995680724044,
+      "velocity": 45,
+      "role": "nylon accompaniment",
+      "fields": [
+        5
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 33.9,
+      "duration": 1.04,
+      "pitch": 61.90772543959402,
+      "velocity": 67,
+      "role": "returning serenade",
+      "fields": [
+        5
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 34.7,
+      "duration": 1.76,
+      "pitch": 61.90772543959402,
+      "velocity": 50,
+      "role": "nylon accompaniment",
+      "fields": [
+        5
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 35.2,
+      "duration": 0.48,
+      "pitch": 66.22019844411929,
+      "velocity": 66,
+      "role": "returning serenade",
+      "fields": [
+        5
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 18,
+      "start": 35.8,
+      "duration": 1.36,
+      "pitch": 63.70009703209984,
+      "velocity": 61,
+      "role": "returning serenade",
+      "fields": [
+        5
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 36.9,
+      "duration": 1.28,
+      "pitch": 59.21242981176572,
+      "velocity": 44,
+      "role": "nylon accompaniment",
+      "fields": [
+        5
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 38.072,
+      "duration": 0.64,
+      "pitch": 61.90772543959402,
+      "velocity": 59,
+      "role": "returning serenade",
+      "fields": [
+        5
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 18,
+      "start": 38.872,
+      "duration": 0.093,
+      "pitch": 63.70009703209984,
+      "velocity": 62,
+      "role": "returning serenade",
+      "fields": [
+        5
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 39.137,
+      "duration": 0.88,
+      "pitch": 55.04776047605017,
+      "velocity": 43,
+      "role": "nylon accompaniment",
+      "fields": [
+        6
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 40.172,
+      "duration": 0.48,
+      "pitch": 70.4471171162198,
+      "velocity": 64,
+      "role": "returning serenade",
+      "fields": [
+        6
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 40.237,
+      "duration": 1.76,
+      "pitch": 62.38917763860244,
+      "velocity": 49,
+      "role": "nylon accompaniment",
+      "fields": [
+        6
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 40.772,
+      "duration": 1.36,
+      "pitch": 66.04226681868845,
+      "velocity": 64,
+      "role": "returning serenade",
+      "fields": [
+        6
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 42.437,
+      "duration": 1.28,
+      "pitch": 59.276416761680274,
+      "velocity": 43,
+      "role": "nylon accompaniment",
+      "fields": [
+        6
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 43.044,
+      "duration": 0.64,
+      "pitch": 63.681267059211635,
+      "velocity": 62,
+      "role": "returning serenade",
+      "fields": [
+        6
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 18,
+      "start": 43.844,
+      "duration": 0.156,
+      "pitch": 66.04226681868845,
+      "velocity": 65,
+      "role": "returning serenade",
+      "fields": [
+        6
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 3,
+      "start": 44.12,
+      "duration": 1.345,
+      "pitch": 48.0,
+      "velocity": 38,
+      "role": "consonant frame",
+      "fields": [
+        6
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 15,
+      "start": 44.165,
+      "duration": 1.3,
+      "pitch": 52.404850297531354,
+      "velocity": 37,
+      "role": "consonant frame",
+      "fields": [
+        6
+      ],
+      "attack": 0.009,
+      "voice": 5
+    },
+    {
+      "instrument": 8,
+      "start": 44.21,
+      "duration": 1.255,
+      "pitch": 55.04776047605017,
+      "velocity": 36,
+      "role": "consonant frame",
+      "fields": [
+        6
+      ],
+      "attack": 0.006,
+      "voice": 6
+    },
+    {
+      "instrument": 3,
+      "start": 44.255,
+      "duration": 1.21,
+      "pitch": 59.276416761680274,
+      "velocity": 35,
+      "role": "consonant frame",
+      "fields": [
+        6
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 6,
+      "start": 45.0,
+      "duration": 0.465,
+      "pitch": 55.04776047605017,
+      "velocity": 60,
+      "role": "noble FM song",
+      "fields": [
+        6
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 46.4,
+      "duration": 0.56,
+      "pitch": 62.08961934070356,
+      "velocity": 63,
+      "role": "noble FM song",
+      "fields": [
+        7
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 47.1,
+      "duration": 0.72,
+      "pitch": 59.346308384844136,
+      "velocity": 63,
+      "role": "noble FM song",
+      "fields": [
+        7
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 48.0,
+      "duration": 1.6,
+      "pitch": 63.69444016951229,
+      "velocity": 61,
+      "role": "noble FM song",
+      "fields": [
+        7
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 50.65,
+      "duration": 1.12,
+      "pitch": 55.023905190617796,
+      "velocity": 60,
+      "role": "noble FM song",
+      "fields": [
+        7
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 52.05,
+      "duration": 0.56,
+      "pitch": 62.019852943167464,
+      "velocity": 60,
+      "role": "noble FM song",
+      "fields": [
+        8
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 52.75,
+      "duration": 0.72,
+      "pitch": 59.33655153048875,
+      "velocity": 60,
+      "role": "noble FM song",
+      "fields": [
+        8
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 53.65,
+      "duration": 1.35,
+      "pitch": 63.69682181702527,
+      "velocity": 62,
+      "role": "noble FM song",
+      "fields": [
+        8
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 3,
+      "start": 55.12,
+      "duration": 3.345,
+      "pitch": 55.00198771000776,
+      "velocity": 38,
+      "role": "consonant frame",
+      "fields": [
+        8
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 15,
+      "start": 55.165,
+      "duration": 3.3,
+      "pitch": 59.33655153048875,
+      "velocity": 37,
+      "role": "consonant frame",
+      "fields": [
+        8
+      ],
+      "attack": 0.009,
+      "voice": 5
+    },
+    {
+      "instrument": 8,
+      "start": 55.21,
+      "duration": 3.255,
+      "pitch": 62.019852943167464,
+      "velocity": 36,
+      "role": "consonant frame",
+      "fields": [
+        8
+      ],
+      "attack": 0.006,
+      "voice": 6
+    },
+    {
+      "instrument": 3,
+      "start": 55.255,
+      "duration": 3.21,
+      "pitch": 66.35441676364844,
+      "velocity": 35,
+      "role": "consonant frame",
+      "fields": [
+        8
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 6,
+      "start": 56.0,
+      "duration": 1.12,
+      "pitch": 55.00198771000776,
+      "velocity": 61,
+      "role": "noble FM song",
+      "fields": [
+        8
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 57.4,
+      "duration": 0.56,
+      "pitch": 62.019852943167464,
+      "velocity": 60,
+      "role": "noble FM song",
+      "fields": [
+        8
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 58.1,
+      "duration": 0.365,
+      "pitch": 59.33655153048875,
+      "velocity": 65,
+      "role": "noble FM song",
+      "fields": [
+        8
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 59.0,
+      "duration": 1.6,
+      "pitch": 63.69594451212402,
+      "velocity": 60,
+      "role": "noble FM song",
+      "fields": [
+        9
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 61.65,
+      "duration": 1.12,
+      "pitch": 55.02019044192105,
+      "velocity": 63,
+      "role": "noble FM song",
+      "fields": [
+        9
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 63.05,
+      "duration": 0.56,
+      "pitch": 62.0464589708048,
+      "velocity": 64,
+      "role": "noble FM song",
+      "fields": [
+        9
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 63.75,
+      "duration": 0.72,
+      "pitch": 59.35619042075464,
+      "velocity": 64,
+      "role": "noble FM song",
+      "fields": [
+        9
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 64.65,
+      "duration": 0.315,
+      "pitch": 63.69594451212402,
+      "velocity": 59,
+      "role": "noble FM song",
+      "fields": [
+        9
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 3,
+      "start": 66.12,
+      "duration": 4.0,
+      "pitch": 59.35475798022057,
+      "velocity": 38,
+      "role": "consonant frame",
+      "fields": [
+        10
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 15,
+      "start": 66.165,
+      "duration": 3.955,
+      "pitch": 63.69628433076721,
+      "velocity": 37,
+      "role": "consonant frame",
+      "fields": [
+        10
+      ],
+      "attack": 0.009,
+      "voice": 5
+    },
+    {
+      "instrument": 8,
+      "start": 66.21,
+      "duration": 3.91,
+      "pitch": 66.37406291344782,
+      "velocity": 36,
+      "role": "consonant frame",
+      "fields": [
+        10
+      ],
+      "attack": 0.006,
+      "voice": 6
+    },
+    {
+      "instrument": 3,
+      "start": 66.255,
+      "duration": 3.865,
+      "pitch": 70.71326959944285,
+      "velocity": 35,
+      "role": "consonant frame",
+      "fields": [
+        10
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 6,
+      "start": 67.0,
+      "duration": 1.12,
+      "pitch": 55.01698526867563,
+      "velocity": 60,
+      "role": "noble FM song",
+      "fields": [
+        10
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 68.4,
+      "duration": 0.56,
+      "pitch": 62.03629020190289,
+      "velocity": 60,
+      "role": "noble FM song",
+      "fields": [
+        10
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 69.1,
+      "duration": 0.72,
+      "pitch": 59.35475798022057,
+      "velocity": 64,
+      "role": "noble FM song",
+      "fields": [
+        10
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 70.0,
+      "duration": 1.465,
+      "pitch": 63.69628433076721,
+      "velocity": 58,
+      "role": "noble FM song",
+      "fields": [
+        10
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 72.65,
+      "duration": 1.12,
+      "pitch": 55.019643553254774,
+      "velocity": 59,
+      "role": "noble FM song",
+      "fields": [
+        11
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 74.05,
+      "duration": 0.56,
+      "pitch": 62.04017342514001,
+      "velocity": 64,
+      "role": "noble FM song",
+      "fields": [
+        11
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 74.75,
+      "duration": 0.72,
+      "pitch": 59.35762552436728,
+      "velocity": 63,
+      "role": "noble FM song",
+      "fields": [
+        11
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 75.65,
+      "duration": 1.35,
+      "pitch": 63.69615522047613,
+      "velocity": 58,
+      "role": "noble FM song",
+      "fields": [
+        11
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 3,
+      "start": 77.12,
+      "duration": 0.845,
+      "pitch": 66.37638287088637,
+      "velocity": 38,
+      "role": "consonant frame",
+      "fields": [
+        11
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 15,
+      "start": 77.165,
+      "duration": 0.8,
+      "pitch": 70.71491256699522,
+      "velocity": 37,
+      "role": "consonant frame",
+      "fields": [
+        11
+      ],
+      "attack": 0.009,
+      "voice": 5
+    },
+    {
+      "instrument": 8,
+      "start": 77.21,
+      "duration": 0.755,
+      "pitch": 73.39602642414114,
+      "velocity": 36,
+      "role": "consonant frame",
+      "fields": [
+        11
+      ],
+      "attack": 0.006,
+      "voice": 6
+    },
+    {
+      "instrument": 3,
+      "start": 77.255,
+      "duration": 0.71,
+      "pitch": 77.73400839525365,
+      "velocity": 35,
+      "role": "consonant frame",
+      "fields": [
+        11
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 6,
+      "start": 78.0,
+      "duration": 1.12,
+      "pitch": 55.019495406320985,
+      "velocity": 60,
+      "role": "noble FM song",
+      "fields": [
+        12
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 79.4,
+      "duration": 0.56,
+      "pitch": 62.03904020084146,
+      "velocity": 60,
+      "role": "noble FM song",
+      "fields": [
+        12
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 80.1,
+      "duration": 0.72,
+      "pitch": 59.35780423834431,
+      "velocity": 66,
+      "role": "noble FM song",
+      "fields": [
+        12
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 81.0,
+      "duration": 1.6,
+      "pitch": 63.696192982308446,
+      "velocity": 58,
+      "role": "noble FM song",
+      "fields": [
+        12
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 83.65,
+      "duration": 0.815,
+      "pitch": 55.019495406320985,
+      "velocity": 58,
+      "role": "noble FM song",
+      "fields": [
+        12
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 85.05,
+      "duration": 0.56,
+      "pitch": 62.03925662010052,
+      "velocity": 62,
+      "role": "noble FM song",
+      "fields": [
+        13
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 85.75,
+      "duration": 0.72,
+      "pitch": 59.357834761390656,
+      "velocity": 60,
+      "role": "noble FM song",
+      "fields": [
+        13
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 86.65,
+      "duration": 1.35,
+      "pitch": 63.696185776040295,
+      "velocity": 58,
+      "role": "noble FM song",
+      "fields": [
+        13
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 3,
+      "start": 88.12,
+      "duration": 2.845,
+      "pitch": 73.39683277925832,
+      "velocity": 38,
+      "role": "consonant frame",
+      "fields": [
+        13
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 15,
+      "start": 88.165,
+      "duration": 2.8,
+      "pitch": 77.73518379390795,
+      "velocity": 37,
+      "role": "consonant frame",
+      "fields": [
+        13
+      ],
+      "attack": 0.009,
+      "voice": 5
+    },
+    {
+      "instrument": 8,
+      "start": 88.21,
+      "duration": 2.755,
+      "pitch": 80.41652574046222,
+      "velocity": 36,
+      "role": "consonant frame",
+      "fields": [
+        13
+      ],
+      "attack": 0.006,
+      "voice": 6
+    },
+    {
+      "instrument": 3,
+      "start": 88.255,
+      "duration": 2.71,
+      "pitch": 84.75466754064897,
+      "velocity": 35,
+      "role": "consonant frame",
+      "fields": [
+        13
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 6,
+      "start": 89.0,
+      "duration": 1.12,
+      "pitch": 55.0195636588966,
+      "velocity": 59,
+      "role": "noble FM song",
+      "fields": [
+        13
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 90.4,
+      "duration": 0.56,
+      "pitch": 62.03925662010052,
+      "velocity": 60,
+      "role": "noble FM song",
+      "fields": [
+        13
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 91.1,
+      "duration": 0.72,
+      "pitch": 59.35741634402595,
+      "velocity": 65,
+      "role": "noble FM song",
+      "fields": [
+        14
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 92.0,
+      "duration": 1.6,
+      "pitch": 63.69620463669551,
+      "velocity": 63,
+      "role": "noble FM song",
+      "fields": [
+        14
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 94.65,
+      "duration": 1.12,
+      "pitch": 55.019175766264965,
+      "velocity": 63,
+      "role": "noble FM song",
+      "fields": [
+        14
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 96.05,
+      "duration": 0.56,
+      "pitch": 62.038690034447676,
+      "velocity": 65,
+      "role": "noble FM song",
+      "fields": [
+        14
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 96.75,
+      "duration": 0.715,
+      "pitch": 59.35741634402595,
+      "velocity": 60,
+      "role": "noble FM song",
+      "fields": [
+        14
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 97.65,
+      "duration": 0.35,
+      "pitch": 63.696190230071004,
+      "velocity": 59,
+      "role": "noble FM song",
+      "fields": [
+        15
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 18,
+      "start": 98.1,
+      "duration": 0.64,
+      "pitch": 59.35786528564354,
+      "velocity": 64,
+      "role": "returning serenade",
+      "fields": [
+        15
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 98.6,
+      "duration": 0.88,
+      "pitch": 55.01955200024576,
+      "velocity": 44,
+      "role": "nylon accompaniment",
+      "fields": [
+        15
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 98.9,
+      "duration": 1.04,
+      "pitch": 62.039122865234496,
+      "velocity": 65,
+      "role": "returning serenade",
+      "fields": [
+        15
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 99.7,
+      "duration": 1.76,
+      "pitch": 62.039122865234496,
+      "velocity": 45,
+      "role": "nylon accompaniment",
+      "fields": [
+        15
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 100.2,
+      "duration": 0.48,
+      "pitch": 66.37739842119701,
+      "velocity": 66,
+      "role": "returning serenade",
+      "fields": [
+        15
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 18,
+      "start": 100.8,
+      "duration": 1.36,
+      "pitch": 63.696190230071004,
+      "velocity": 61,
+      "role": "returning serenade",
+      "fields": [
+        15
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 101.9,
+      "duration": 1.28,
+      "pitch": 59.35786528564354,
+      "velocity": 43,
+      "role": "nylon accompaniment",
+      "fields": [
+        15
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 103.072,
+      "duration": 0.64,
+      "pitch": 62.039122865234496,
+      "velocity": 61,
+      "role": "returning serenade",
+      "fields": [
+        15
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 18,
+      "start": 103.872,
+      "duration": 0.093,
+      "pitch": 63.696190230071004,
+      "velocity": 65,
+      "role": "returning serenade",
+      "fields": [
+        15
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 104.137,
+      "duration": 0.88,
+      "pitch": 55.01954204225736,
+      "velocity": 46,
+      "role": "nylon accompaniment",
+      "fields": [
+        16
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 105.172,
+      "duration": 0.48,
+      "pitch": 70.71573332363505,
+      "velocity": 62,
+      "role": "returning serenade",
+      "fields": [
+        16
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 105.237,
+      "duration": 1.76,
+      "pitch": 62.03909129018648,
+      "velocity": 46,
+      "role": "nylon accompaniment",
+      "fields": [
+        16
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 105.772,
+      "duration": 1.36,
+      "pitch": 66.37741008023409,
+      "velocity": 61,
+      "role": "returning serenade",
+      "fields": [
+        16
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 107.437,
+      "duration": 1.28,
+      "pitch": 59.35786083230498,
+      "velocity": 45,
+      "role": "nylon accompaniment",
+      "fields": [
+        16
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 108.044,
+      "duration": 0.64,
+      "pitch": 63.696191281377686,
+      "velocity": 62,
+      "role": "returning serenade",
+      "fields": [
+        16
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 18,
+      "start": 108.844,
+      "duration": 0.156,
+      "pitch": 66.37741008023409,
+      "velocity": 63,
+      "role": "returning serenade",
+      "fields": [
+        16
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 10,
+      "start": 109.1,
+      "duration": 0.64,
+      "pitch": 59.35786083230498,
+      "velocity": 59,
+      "role": "returning serenade",
+      "fields": [
+        16
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 12,
+      "start": 109.6,
+      "duration": 0.865,
+      "pitch": 55.01954204225736,
+      "velocity": 47,
+      "role": "nylon accompaniment",
+      "fields": [
+        16
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 109.9,
+      "duration": 0.565,
+      "pitch": 62.03909129018648,
+      "velocity": 66,
+      "role": "returning serenade",
+      "fields": [
+        16
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 12,
+      "start": 110.7,
+      "duration": 1.76,
+      "pitch": 62.03910335077293,
+      "velocity": 45,
+      "role": "nylon accompaniment",
+      "fields": [
+        17
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 111.2,
+      "duration": 0.48,
+      "pitch": 66.37741728590866,
+      "velocity": 65,
+      "role": "returning serenade",
+      "fields": [
+        17
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 10,
+      "start": 111.8,
+      "duration": 1.36,
+      "pitch": 63.69619087982092,
+      "velocity": 60,
+      "role": "returning serenade",
+      "fields": [
+        17
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 12,
+      "start": 112.9,
+      "duration": 1.28,
+      "pitch": 59.35786973900779,
+      "velocity": 43,
+      "role": "nylon accompaniment",
+      "fields": [
+        17
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 114.072,
+      "duration": 0.64,
+      "pitch": 62.03910335077293,
+      "velocity": 64,
+      "role": "returning serenade",
+      "fields": [
+        17
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 10,
+      "start": 114.872,
+      "duration": 1.04,
+      "pitch": 63.69619087982092,
+      "velocity": 63,
+      "role": "returning serenade",
+      "fields": [
+        17
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 12,
+      "start": 115.137,
+      "duration": 0.88,
+      "pitch": 55.019550299224235,
+      "velocity": 44,
+      "role": "nylon accompaniment",
+      "fields": [
+        17
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 116.172,
+      "duration": 0.48,
+      "pitch": 70.71573842672179,
+      "velocity": 64,
+      "role": "returning serenade",
+      "fields": [
+        17
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 12,
+      "start": 116.237,
+      "duration": 0.728,
+      "pitch": 62.03910335077293,
+      "velocity": 45,
+      "role": "nylon accompaniment",
+      "fields": [
+        17
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 116.772,
+      "duration": 0.193,
+      "pitch": 66.37741728590866,
+      "velocity": 60,
+      "role": "returning serenade",
+      "fields": [
+        17
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 12,
+      "start": 118.437,
+      "duration": 1.28,
+      "pitch": 59.35786908927262,
+      "velocity": 44,
+      "role": "nylon accompaniment",
+      "fields": [
+        18
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 119.044,
+      "duration": 0.64,
+      "pitch": 63.69619103320292,
+      "velocity": 59,
+      "role": "returning serenade",
+      "fields": [
+        18
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 10,
+      "start": 119.844,
+      "duration": 0.156,
+      "pitch": 66.3774189869384,
+      "velocity": 63,
+      "role": "returning serenade",
+      "fields": [
+        18
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 5,
+      "start": 120.1,
+      "duration": 0.64,
+      "pitch": 59.35786908927262,
+      "velocity": 60,
+      "role": "returning serenade",
+      "fields": [
+        18
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 12,
+      "start": 120.6,
+      "duration": 0.88,
+      "pitch": 55.01954884637179,
+      "velocity": 45,
+      "role": "nylon accompaniment",
+      "fields": [
+        18
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 120.9,
+      "duration": 1.04,
+      "pitch": 62.03909874403757,
+      "velocity": 66,
+      "role": "returning serenade",
+      "fields": [
+        18
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 12,
+      "start": 121.7,
+      "duration": 1.76,
+      "pitch": 62.03909874403757,
+      "velocity": 49,
+      "role": "nylon accompaniment",
+      "fields": [
+        18
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 122.2,
+      "duration": 0.48,
+      "pitch": 66.3774189869384,
+      "velocity": 65,
+      "role": "returning serenade",
+      "fields": [
+        18
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 5,
+      "start": 122.8,
+      "duration": 0.665,
+      "pitch": 63.69619103320292,
+      "velocity": 59,
+      "role": "returning serenade",
+      "fields": [
+        18
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 12,
+      "start": 123.9,
+      "duration": 1.28,
+      "pitch": 59.35787038874351,
+      "velocity": 42,
+      "role": "nylon accompaniment",
+      "fields": [
+        19
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 125.072,
+      "duration": 0.64,
+      "pitch": 62.039100503653714,
+      "velocity": 62,
+      "role": "returning serenade",
+      "fields": [
+        19
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 5,
+      "start": 125.872,
+      "duration": 1.04,
+      "pitch": 63.69619097461635,
+      "velocity": 62,
+      "role": "returning serenade",
+      "fields": [
+        19
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 12,
+      "start": 126.137,
+      "duration": 0.88,
+      "pitch": 55.019550051047545,
+      "velocity": 47,
+      "role": "nylon accompaniment",
+      "fields": [
+        19
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 127.172,
+      "duration": 0.48,
+      "pitch": 70.7157406241053,
+      "velocity": 66,
+      "role": "returning serenade",
+      "fields": [
+        19
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 12,
+      "start": 127.237,
+      "duration": 1.76,
+      "pitch": 62.039100503653714,
+      "velocity": 47,
+      "role": "nylon accompaniment",
+      "fields": [
+        19
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 127.772,
+      "duration": 1.36,
+      "pitch": 66.37742003823244,
+      "velocity": 59,
+      "role": "returning serenade",
+      "fields": [
+        19
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 12,
+      "start": 129.437,
+      "duration": 0.528,
+      "pitch": 59.35787038874351,
+      "velocity": 43,
+      "role": "nylon accompaniment",
+      "fields": [
+        19
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 130.044,
+      "duration": 0.64,
+      "pitch": 63.69619099699445,
+      "velocity": 59,
+      "role": "returning serenade",
+      "fields": [
+        20
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 5,
+      "start": 130.844,
+      "duration": 0.156,
+      "pitch": 66.37742028640932,
+      "velocity": 63,
+      "role": "returning serenade",
+      "fields": [
+        20
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 18,
+      "start": 131.1,
+      "duration": 0.64,
+      "pitch": 59.35787029394839,
+      "velocity": 63,
+      "role": "returning serenade",
+      "fields": [
+        20
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 131.6,
+      "duration": 0.88,
+      "pitch": 55.01954983907919,
+      "velocity": 44,
+      "role": "nylon accompaniment",
+      "fields": [
+        20
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 131.9,
+      "duration": 1.04,
+      "pitch": 62.03909983154013,
+      "velocity": 65,
+      "role": "returning serenade",
+      "fields": [
+        20
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 132.7,
+      "duration": 1.76,
+      "pitch": 62.03909983154013,
+      "velocity": 47,
+      "role": "nylon accompaniment",
+      "fields": [
+        20
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 133.2,
+      "duration": 0.48,
+      "pitch": 66.37742028640932,
+      "velocity": 63,
+      "role": "returning serenade",
+      "fields": [
+        20
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 18,
+      "start": 133.8,
+      "duration": 1.36,
+      "pitch": 63.69619099699445,
+      "velocity": 63,
+      "role": "returning serenade",
+      "fields": [
+        20
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 134.9,
+      "duration": 1.28,
+      "pitch": 59.35787029394839,
+      "velocity": 45,
+      "role": "nylon accompaniment",
+      "fields": [
+        20
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 136.072,
+      "duration": 0.393,
+      "pitch": 62.03909983154013,
+      "velocity": 61,
+      "role": "returning serenade",
+      "fields": [
+        20
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 18,
+      "start": 136.872,
+      "duration": 1.04,
+      "pitch": 63.69619098844678,
+      "velocity": 62,
+      "role": "returning serenade",
+      "fields": [
+        21
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 137.137,
+      "duration": 0.88,
+      "pitch": 55.019550014839034,
+      "velocity": 43,
+      "role": "nylon accompaniment",
+      "fields": [
+        21
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 138.172,
+      "duration": 0.48,
+      "pitch": 70.71574094469919,
+      "velocity": 62,
+      "role": "returning serenade",
+      "fields": [
+        21
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 138.237,
+      "duration": 1.76,
+      "pitch": 62.039100088264675,
+      "velocity": 46,
+      "role": "nylon accompaniment",
+      "fields": [
+        21
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 138.772,
+      "duration": 1.36,
+      "pitch": 66.37742043979105,
+      "velocity": 62,
+      "role": "returning serenade",
+      "fields": [
+        21
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 140.437,
+      "duration": 1.28,
+      "pitch": 59.35787048353865,
+      "velocity": 43,
+      "role": "nylon accompaniment",
+      "fields": [
+        21
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 141.044,
+      "duration": 0.64,
+      "pitch": 63.69619098844678,
+      "velocity": 59,
+      "role": "returning serenade",
+      "fields": [
+        21
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 18,
+      "start": 141.844,
+      "duration": 0.156,
+      "pitch": 66.37742043979105,
+      "velocity": 65,
+      "role": "returning serenade",
+      "fields": [
+        21
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 1,
+      "start": 142.08,
+      "duration": 0.152,
+      "pitch": 62.039100088264675,
+      "velocity": 57,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        21
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 142.27,
+      "duration": 0.288,
+      "pitch": 55.019550014839034,
+      "velocity": 62,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        21
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 142.63,
+      "duration": 0.176,
+      "pitch": 63.69619098844678,
+      "velocity": 61,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        21
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 142.7,
+      "duration": 0.248,
+      "pitch": 59.35787048353865,
+      "velocity": 51,
+      "role": "Clavinet heckles",
+      "fields": [
+        21
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 142.85,
+      "duration": 0.115,
+      "pitch": 59.35787048353865,
+      "velocity": 58,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        21
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 143.01,
+      "duration": 0.496,
+      "pitch": 55.01954998391326,
+      "velocity": 52,
+      "role": "Clavinet heckles",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 9,
+      "start": 143.63,
+      "duration": 0.992,
+      "pitch": 62.03909999020461,
+      "velocity": 51,
+      "role": "Clavinet heckles",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 143.8654,
+      "duration": 0.152,
+      "pitch": 63.6961909917117,
+      "velocity": 57,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 144.0554,
+      "duration": 0.288,
+      "pitch": 59.35787046970822,
+      "velocity": 60,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 144.4154,
+      "duration": 0.176,
+      "pitch": 66.37742047599957,
+      "velocity": 62,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 144.6354,
+      "duration": 0.648,
+      "pitch": 62.03909999020461,
+      "velocity": 57,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 145.1521,
+      "duration": 0.248,
+      "pitch": 59.35787046970822,
+      "velocity": 50,
+      "role": "Clavinet heckles",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 9,
+      "start": 145.4621,
+      "duration": 0.496,
+      "pitch": 55.01954998391326,
+      "velocity": 50,
+      "role": "Clavinet heckles",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 145.6508,
+      "duration": 0.152,
+      "pitch": 66.37742047599957,
+      "velocity": 57,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 145.8408,
+      "duration": 0.288,
+      "pitch": 62.03909999020461,
+      "velocity": 61,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 146.0821,
+      "duration": 0.992,
+      "pitch": 62.03909999020461,
+      "velocity": 47,
+      "role": "Clavinet heckles",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 146.2008,
+      "duration": 0.176,
+      "pitch": 70.71574097562495,
+      "velocity": 62,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 146.4208,
+      "duration": 0.648,
+      "pitch": 63.6961909917117,
+      "velocity": 56,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 147.4362,
+      "duration": 0.152,
+      "pitch": 70.71574097562495,
+      "velocity": 56,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 147.6042,
+      "duration": 0.248,
+      "pitch": 59.35787046970822,
+      "velocity": 52,
+      "role": "Clavinet heckles",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 147.6262,
+      "duration": 0.288,
+      "pitch": 63.6961909917117,
+      "velocity": 60,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 147.9142,
+      "duration": 0.496,
+      "pitch": 55.01954998391326,
+      "velocity": 54,
+      "role": "Clavinet heckles",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 147.9862,
+      "duration": 0.176,
+      "pitch": 73.39697049612136,
+      "velocity": 64,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 148.2062,
+      "duration": 0.648,
+      "pitch": 66.37742047599957,
+      "velocity": 59,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 148.5342,
+      "duration": 0.9308,
+      "pitch": 62.03909999020461,
+      "velocity": 51,
+      "role": "Clavinet heckles",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 149.2216,
+      "duration": 0.152,
+      "pitch": 73.39697049612136,
+      "velocity": 61,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        22
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 149.7716,
+      "duration": 0.176,
+      "pitch": 77.73529099574674,
+      "velocity": 59,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 149.9916,
+      "duration": 0.648,
+      "pitch": 70.71574099147321,
+      "velocity": 56,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 150.0563,
+      "duration": 0.248,
+      "pitch": 59.35787049736907,
+      "velocity": 51,
+      "role": "Clavinet heckles",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 9,
+      "start": 150.3663,
+      "duration": 0.496,
+      "pitch": 55.019550009556276,
+      "velocity": 53,
+      "role": "Clavinet heckles",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 9,
+      "start": 150.9863,
+      "duration": 0.992,
+      "pitch": 62.03910002766023,
+      "velocity": 49,
+      "role": "Clavinet heckles",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 151.007,
+      "duration": 0.152,
+      "pitch": 77.73529099574674,
+      "velocity": 60,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 151.197,
+      "duration": 0.288,
+      "pitch": 70.71574099147321,
+      "velocity": 60,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 151.557,
+      "duration": 0.176,
+      "pitch": 80.4165205260379,
+      "velocity": 58,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 151.777,
+      "duration": 0.648,
+      "pitch": 73.39697050793394,
+      "velocity": 61,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 152.5084,
+      "duration": 0.248,
+      "pitch": 59.35787049736907,
+      "velocity": 50,
+      "role": "Clavinet heckles",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 152.7924,
+      "duration": 0.152,
+      "pitch": 80.4165205260379,
+      "velocity": 59,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 152.8184,
+      "duration": 0.1816,
+      "pitch": 55.019550009556276,
+      "velocity": 51,
+      "role": "Clavinet heckles",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 153.08,
+      "duration": 0.152,
+      "pitch": 62.03910002766023,
+      "velocity": 58,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 153.27,
+      "duration": 0.288,
+      "pitch": 55.019550009556276,
+      "velocity": 59,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 153.63,
+      "duration": 0.176,
+      "pitch": 63.69619099046461,
+      "velocity": 63,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 153.7,
+      "duration": 0.248,
+      "pitch": 59.35787049736907,
+      "velocity": 47,
+      "role": "Clavinet heckles",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 153.85,
+      "duration": 0.648,
+      "pitch": 59.35787049736907,
+      "velocity": 59,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 154.01,
+      "duration": 0.496,
+      "pitch": 55.019550009556276,
+      "velocity": 48,
+      "role": "Clavinet heckles",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 9,
+      "start": 154.63,
+      "duration": 0.992,
+      "pitch": 62.03910002766023,
+      "velocity": 50,
+      "role": "Clavinet heckles",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 154.8654,
+      "duration": 0.152,
+      "pitch": 63.69619099046461,
+      "velocity": 60,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 155.0554,
+      "duration": 0.288,
+      "pitch": 59.35787049736907,
+      "velocity": 62,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 155.4154,
+      "duration": 0.176,
+      "pitch": 66.37742049837767,
+      "velocity": 61,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 155.6354,
+      "duration": 0.3296,
+      "pitch": 62.03910002766023,
+      "velocity": 58,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        23
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 156.1521,
+      "duration": 0.248,
+      "pitch": 59.357870499092506,
+      "velocity": 52,
+      "role": "Clavinet heckles",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 9,
+      "start": 156.4621,
+      "duration": 0.496,
+      "pitch": 55.01955000812725,
+      "velocity": 49,
+      "role": "Clavinet heckles",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 156.6508,
+      "duration": 0.152,
+      "pitch": 66.37742050769609,
+      "velocity": 59,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 156.8408,
+      "duration": 0.288,
+      "pitch": 62.03910001673083,
+      "velocity": 60,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 157.0821,
+      "duration": 0.992,
+      "pitch": 62.03910001673083,
+      "velocity": 49,
+      "role": "Clavinet heckles",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 157.2008,
+      "duration": 0.176,
+      "pitch": 70.71574099895575,
+      "velocity": 63,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 157.4208,
+      "duration": 0.648,
+      "pitch": 63.69619099082851,
+      "velocity": 56,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 158.4362,
+      "duration": 0.152,
+      "pitch": 70.71574099895575,
+      "velocity": 57,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 158.6042,
+      "duration": 0.248,
+      "pitch": 59.357870499092506,
+      "velocity": 49,
+      "role": "Clavinet heckles",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 158.6262,
+      "duration": 0.288,
+      "pitch": 63.69619099082851,
+      "velocity": 62,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 158.9142,
+      "duration": 0.496,
+      "pitch": 55.01955000812725,
+      "velocity": 49,
+      "role": "Clavinet heckles",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 158.9862,
+      "duration": 0.176,
+      "pitch": 73.39697051659408,
+      "velocity": 61,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 159.2062,
+      "duration": 0.648,
+      "pitch": 66.37742050769609,
+      "velocity": 60,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 159.5342,
+      "duration": 0.992,
+      "pitch": 62.03910001673083,
+      "velocity": 47,
+      "role": "Clavinet heckles",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 160.2216,
+      "duration": 0.152,
+      "pitch": 73.39697051659408,
+      "velocity": 61,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 160.4116,
+      "duration": 0.288,
+      "pitch": 66.37742050769609,
+      "velocity": 63,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 160.7716,
+      "duration": 0.176,
+      "pitch": 77.73529100755934,
+      "velocity": 61,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 160.9916,
+      "duration": 0.648,
+      "pitch": 70.71574099895575,
+      "velocity": 61,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 161.0563,
+      "duration": 0.248,
+      "pitch": 59.357870499092506,
+      "velocity": 47,
+      "role": "Clavinet heckles",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 9,
+      "start": 161.3663,
+      "duration": 0.496,
+      "pitch": 55.01955000812725,
+      "velocity": 51,
+      "role": "Clavinet heckles",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 9,
+      "start": 161.9863,
+      "duration": 0.4787,
+      "pitch": 62.03910001673083,
+      "velocity": 47,
+      "role": "Clavinet heckles",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 162.007,
+      "duration": 0.152,
+      "pitch": 77.73529100755934,
+      "velocity": 61,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 162.197,
+      "duration": 0.268,
+      "pitch": 70.71574099895575,
+      "velocity": 62,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        24
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 162.557,
+      "duration": 0.176,
+      "pitch": 80.41652052574351,
+      "velocity": 63,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 162.777,
+      "duration": 0.648,
+      "pitch": 73.39697051571088,
+      "velocity": 56,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 163.5084,
+      "duration": 0.248,
+      "pitch": 59.3578704993869,
+      "velocity": 50,
+      "role": "Clavinet heckles",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 163.7924,
+      "duration": 0.152,
+      "pitch": 80.41652052574351,
+      "velocity": 60,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 163.8184,
+      "duration": 0.1816,
+      "pitch": 55.01955000878554,
+      "velocity": 50,
+      "role": "Clavinet heckles",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 164.08,
+      "duration": 0.152,
+      "pitch": 62.039100018818154,
+      "velocity": 61,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 164.27,
+      "duration": 0.288,
+      "pitch": 55.01955000878554,
+      "velocity": 59,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 164.63,
+      "duration": 0.176,
+      "pitch": 63.69619099075901,
+      "velocity": 62,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 164.7,
+      "duration": 0.248,
+      "pitch": 59.3578704993869,
+      "velocity": 51,
+      "role": "Clavinet heckles",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 164.85,
+      "duration": 0.648,
+      "pitch": 59.3578704993869,
+      "velocity": 57,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 165.01,
+      "duration": 0.496,
+      "pitch": 55.01955000878554,
+      "velocity": 51,
+      "role": "Clavinet heckles",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 9,
+      "start": 165.63,
+      "duration": 0.992,
+      "pitch": 62.039100018818154,
+      "velocity": 48,
+      "role": "Clavinet heckles",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 165.8654,
+      "duration": 0.152,
+      "pitch": 63.69619099075901,
+      "velocity": 56,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 166.0554,
+      "duration": 0.288,
+      "pitch": 59.3578704993869,
+      "velocity": 61,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 166.4154,
+      "duration": 0.176,
+      "pitch": 66.37742050692535,
+      "velocity": 62,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 166.6354,
+      "duration": 0.648,
+      "pitch": 62.039100018818154,
+      "velocity": 58,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 167.1521,
+      "duration": 0.248,
+      "pitch": 59.3578704993869,
+      "velocity": 48,
+      "role": "Clavinet heckles",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 9,
+      "start": 167.4621,
+      "duration": 0.496,
+      "pitch": 55.01955000878554,
+      "velocity": 50,
+      "role": "Clavinet heckles",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 167.6508,
+      "duration": 0.152,
+      "pitch": 66.37742050692535,
+      "velocity": 61,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 167.8408,
+      "duration": 0.288,
+      "pitch": 62.039100018818154,
+      "velocity": 60,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 168.0821,
+      "duration": 0.8829,
+      "pitch": 62.039100018818154,
+      "velocity": 47,
+      "role": "Clavinet heckles",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 168.2008,
+      "duration": 0.176,
+      "pitch": 70.71574099829746,
+      "velocity": 63,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 168.4208,
+      "duration": 0.5442,
+      "pitch": 63.69619099075901,
+      "velocity": 58,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        25
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 169.4362,
+      "duration": 0.152,
+      "pitch": 70.71574099598523,
+      "velocity": 60,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 169.6042,
+      "duration": 0.248,
+      "pitch": 59.357870495351236,
+      "velocity": 46,
+      "role": "Clavinet heckles",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 169.6262,
+      "duration": 0.288,
+      "pitch": 63.696190990940956,
+      "velocity": 63,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 169.9142,
+      "duration": 0.496,
+      "pitch": 55.019550005044266,
+      "velocity": 54,
+      "role": "Clavinet heckles",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 169.9862,
+      "duration": 0.176,
+      "pitch": 73.39697051398744,
+      "velocity": 60,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 170.2062,
+      "duration": 0.648,
+      "pitch": 66.37742050366042,
+      "velocity": 60,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 170.5342,
+      "duration": 0.992,
+      "pitch": 62.039100013353455,
+      "velocity": 48,
+      "role": "Clavinet heckles",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 171.2216,
+      "duration": 0.152,
+      "pitch": 73.39697051398744,
+      "velocity": 59,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 171.4116,
+      "duration": 0.288,
+      "pitch": 66.37742050366042,
+      "velocity": 61,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 171.7716,
+      "duration": 0.176,
+      "pitch": 77.73529100429441,
+      "velocity": 58,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 171.9916,
+      "duration": 0.648,
+      "pitch": 70.71574099598523,
+      "velocity": 56,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 172.0563,
+      "duration": 0.248,
+      "pitch": 59.357870495351236,
+      "velocity": 48,
+      "role": "Clavinet heckles",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 9,
+      "start": 172.3663,
+      "duration": 0.496,
+      "pitch": 55.019550005044266,
+      "velocity": 50,
+      "role": "Clavinet heckles",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 9,
+      "start": 172.9863,
+      "duration": 0.992,
+      "pitch": 62.039100013353455,
+      "velocity": 49,
+      "role": "Clavinet heckles",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 173.007,
+      "duration": 0.152,
+      "pitch": 77.73529100429441,
+      "velocity": 58,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 173.197,
+      "duration": 0.288,
+      "pitch": 70.71574099598523,
+      "velocity": 63,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 173.557,
+      "duration": 0.176,
+      "pitch": 80.41652052556155,
+      "velocity": 63,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 173.777,
+      "duration": 0.648,
+      "pitch": 73.39697051398744,
+      "velocity": 57,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 174.5084,
+      "duration": 0.248,
+      "pitch": 59.357870495351236,
+      "velocity": 49,
+      "role": "Clavinet heckles",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 174.7924,
+      "duration": 0.152,
+      "pitch": 80.41652052556155,
+      "velocity": 61,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 174.8184,
+      "duration": 0.1816,
+      "pitch": 55.019550005044266,
+      "velocity": 48,
+      "role": "Clavinet heckles",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 175.08,
+      "duration": 0.152,
+      "pitch": 62.039100013353455,
+      "velocity": 58,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 175.27,
+      "duration": 0.195,
+      "pitch": 55.019550005044266,
+      "velocity": 62,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        26
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 175.63,
+      "duration": 0.176,
+      "pitch": 63.696190990801966,
+      "velocity": 62,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 175.7,
+      "duration": 0.248,
+      "pitch": 59.357870499681304,
+      "velocity": 49,
+      "role": "Clavinet heckles",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 175.85,
+      "duration": 0.648,
+      "pitch": 59.357870499681304,
+      "velocity": 58,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 176.01,
+      "duration": 0.496,
+      "pitch": 55.019550008673086,
+      "velocity": 53,
+      "role": "Clavinet heckles",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 9,
+      "start": 176.63,
+      "duration": 0.992,
+      "pitch": 62.039100017528106,
+      "velocity": 50,
+      "role": "Clavinet heckles",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 176.8654,
+      "duration": 0.152,
+      "pitch": 63.696190990801966,
+      "velocity": 57,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 177.0554,
+      "duration": 0.288,
+      "pitch": 59.357870499681304,
+      "velocity": 59,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 177.4154,
+      "duration": 0.176,
+      "pitch": 66.37742050817243,
+      "velocity": 58,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 177.6354,
+      "duration": 0.648,
+      "pitch": 62.039100017528106,
+      "velocity": 61,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 178.1521,
+      "duration": 0.248,
+      "pitch": 59.357870499681304,
+      "velocity": 52,
+      "role": "Clavinet heckles",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 9,
+      "start": 178.4621,
+      "duration": 0.496,
+      "pitch": 55.019550008673086,
+      "velocity": 54,
+      "role": "Clavinet heckles",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 178.6508,
+      "duration": 0.152,
+      "pitch": 66.37742050817243,
+      "velocity": 59,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 178.8408,
+      "duration": 0.288,
+      "pitch": 62.039100017528106,
+      "velocity": 58,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 9,
+      "start": 179.0821,
+      "duration": 0.9179,
+      "pitch": 62.039100017528106,
+      "velocity": 47,
+      "role": "Clavinet heckles",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 10
+    },
+    {
+      "instrument": 1,
+      "start": 179.2008,
+      "duration": 0.176,
+      "pitch": 70.7157409992931,
+      "velocity": 61,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 1,
+      "start": 179.4208,
+      "duration": 0.5792,
+      "pitch": 63.696190990801966,
+      "velocity": 61,
+      "role": "quiet grotesque interruption",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 9
+    },
+    {
+      "instrument": 3,
+      "start": 180.12,
+      "duration": 1.845,
+      "pitch": 48.0,
+      "velocity": 38,
+      "role": "consonant frame",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 15,
+      "start": 180.165,
+      "duration": 1.8,
+      "pitch": 52.33832049112067,
+      "velocity": 37,
+      "role": "consonant frame",
+      "fields": [
+        27
+      ],
+      "attack": 0.009,
+      "voice": 5
+    },
+    {
+      "instrument": 8,
+      "start": 180.21,
+      "duration": 1.755,
+      "pitch": 55.019550008673086,
+      "velocity": 36,
+      "role": "consonant frame",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 6
+    },
+    {
+      "instrument": 3,
+      "start": 180.255,
+      "duration": 1.71,
+      "pitch": 59.357870499681304,
+      "velocity": 35,
+      "role": "consonant frame",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 6,
+      "start": 181.0,
+      "duration": 0.965,
+      "pitch": 55.019550008673086,
+      "velocity": 58,
+      "role": "noble FM song",
+      "fields": [
+        27
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 182.4,
+      "duration": 0.56,
+      "pitch": 62.03910001722358,
+      "velocity": 64,
+      "role": "noble FM song",
+      "fields": [
+        28
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 183.1,
+      "duration": 0.72,
+      "pitch": 59.357870499638345,
+      "velocity": 64,
+      "role": "noble FM song",
+      "fields": [
+        28
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 184.0,
+      "duration": 1.6,
+      "pitch": 63.6961909908121,
+      "velocity": 63,
+      "role": "noble FM song",
+      "fields": [
+        28
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 186.65,
+      "duration": 1.12,
+      "pitch": 55.01955000857704,
+      "velocity": 58,
+      "role": "noble FM song",
+      "fields": [
+        28
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 188.05,
+      "duration": 0.415,
+      "pitch": 62.03910001722358,
+      "velocity": 62,
+      "role": "noble FM song",
+      "fields": [
+        28
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 188.75,
+      "duration": 0.72,
+      "pitch": 59.35787049972425,
+      "velocity": 64,
+      "role": "noble FM song",
+      "fields": [
+        29
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 189.65,
+      "duration": 1.35,
+      "pitch": 63.696190990808226,
+      "velocity": 63,
+      "role": "noble FM song",
+      "fields": [
+        29
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 3,
+      "start": 191.12,
+      "duration": 3.845,
+      "pitch": 55.01955000865668,
+      "velocity": 38,
+      "role": "consonant frame",
+      "fields": [
+        29
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 15,
+      "start": 191.165,
+      "duration": 3.8,
+      "pitch": 59.35787049972425,
+      "velocity": 37,
+      "role": "consonant frame",
+      "fields": [
+        29
+      ],
+      "attack": 0.009,
+      "voice": 5
+    },
+    {
+      "instrument": 8,
+      "start": 191.21,
+      "duration": 3.755,
+      "pitch": 62.039100017339905,
+      "velocity": 36,
+      "role": "consonant frame",
+      "fields": [
+        29
+      ],
+      "attack": 0.006,
+      "voice": 6
+    },
+    {
+      "instrument": 3,
+      "start": 191.255,
+      "duration": 3.71,
+      "pitch": 66.37742050835438,
+      "velocity": 35,
+      "role": "consonant frame",
+      "fields": [
+        29
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 6,
+      "start": 192.0,
+      "duration": 1.12,
+      "pitch": 55.01955000865668,
+      "velocity": 61,
+      "role": "noble FM song",
+      "fields": [
+        29
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 193.4,
+      "duration": 0.56,
+      "pitch": 62.039100017339905,
+      "velocity": 62,
+      "role": "noble FM song",
+      "fields": [
+        29
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 194.1,
+      "duration": 0.72,
+      "pitch": 59.35787049972425,
+      "velocity": 62,
+      "role": "noble FM song",
+      "fields": [
+        29
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 195.0,
+      "duration": 1.6,
+      "pitch": 63.69619099080971,
+      "velocity": 59,
+      "role": "noble FM song",
+      "fields": [
+        30
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 197.65,
+      "duration": 1.12,
+      "pitch": 55.01955000864266,
+      "velocity": 58,
+      "role": "noble FM song",
+      "fields": [
+        30
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 199.05,
+      "duration": 0.56,
+      "pitch": 62.03910001729547,
+      "velocity": 64,
+      "role": "noble FM song",
+      "fields": [
+        30
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 199.75,
+      "duration": 0.72,
+      "pitch": 59.35787049971798,
+      "velocity": 60,
+      "role": "noble FM song",
+      "fields": [
+        30
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 200.65,
+      "duration": 0.815,
+      "pitch": 63.69619099080971,
+      "velocity": 61,
+      "role": "noble FM song",
+      "fields": [
+        30
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 3,
+      "start": 202.12,
+      "duration": 4.0,
+      "pitch": 59.35787049973052,
+      "velocity": 38,
+      "role": "consonant frame",
+      "fields": [
+        31
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 15,
+      "start": 202.165,
+      "duration": 3.955,
+      "pitch": 63.69619099080914,
+      "velocity": 37,
+      "role": "consonant frame",
+      "fields": [
+        31
+      ],
+      "attack": 0.009,
+      "voice": 5
+    },
+    {
+      "instrument": 8,
+      "start": 202.21,
+      "duration": 3.91,
+      "pitch": 66.37742050838092,
+      "velocity": 36,
+      "role": "consonant frame",
+      "fields": [
+        31
+      ],
+      "attack": 0.006,
+      "voice": 6
+    },
+    {
+      "instrument": 3,
+      "start": 202.255,
+      "duration": 3.865,
+      "pitch": 70.71574099945956,
+      "velocity": 35,
+      "role": "consonant frame",
+      "fields": [
+        31
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 6,
+      "start": 203.0,
+      "duration": 1.12,
+      "pitch": 55.019550008654285,
+      "velocity": 63,
+      "role": "noble FM song",
+      "fields": [
+        31
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 204.4,
+      "duration": 0.56,
+      "pitch": 62.03910001731244,
+      "velocity": 64,
+      "role": "noble FM song",
+      "fields": [
+        31
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 205.1,
+      "duration": 0.72,
+      "pitch": 59.35787049973052,
+      "velocity": 65,
+      "role": "noble FM song",
+      "fields": [
+        31
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 206.0,
+      "duration": 1.6,
+      "pitch": 63.69619099080914,
+      "velocity": 59,
+      "role": "noble FM song",
+      "fields": [
+        31
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 208.65,
+      "duration": 1.12,
+      "pitch": 55.01955000865224,
+      "velocity": 58,
+      "role": "noble FM song",
+      "fields": [
+        32
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 210.05,
+      "duration": 0.56,
+      "pitch": 62.039100017305955,
+      "velocity": 61,
+      "role": "noble FM song",
+      "fields": [
+        32
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 210.75,
+      "duration": 0.72,
+      "pitch": 59.3578704997296,
+      "velocity": 64,
+      "role": "noble FM song",
+      "fields": [
+        32
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 211.65,
+      "duration": 1.35,
+      "pitch": 63.696190990809356,
+      "velocity": 58,
+      "role": "noble FM song",
+      "fields": [
+        32
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 3,
+      "start": 213.12,
+      "duration": 1.345,
+      "pitch": 66.37742050838332,
+      "velocity": 38,
+      "role": "consonant frame",
+      "fields": [
+        32
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 15,
+      "start": 213.165,
+      "duration": 1.3,
+      "pitch": 70.7157409994616,
+      "velocity": 37,
+      "role": "consonant frame",
+      "fields": [
+        32
+      ],
+      "attack": 0.009,
+      "voice": 5
+    },
+    {
+      "instrument": 8,
+      "start": 213.21,
+      "duration": 1.255,
+      "pitch": 73.39697051703796,
+      "velocity": 36,
+      "role": "consonant frame",
+      "fields": [
+        32
+      ],
+      "attack": 0.006,
+      "voice": 6
+    },
+    {
+      "instrument": 3,
+      "start": 213.255,
+      "duration": 1.21,
+      "pitch": 77.73529100811533,
+      "velocity": 35,
+      "role": "consonant frame",
+      "fields": [
+        32
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 6,
+      "start": 214.0,
+      "duration": 0.465,
+      "pitch": 55.01955000865224,
+      "velocity": 62,
+      "role": "noble FM song",
+      "fields": [
+        32
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 215.4,
+      "duration": 0.56,
+      "pitch": 62.03910001730843,
+      "velocity": 64,
+      "role": "noble FM song",
+      "fields": [
+        33
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 216.1,
+      "duration": 0.72,
+      "pitch": 59.35787049973143,
+      "velocity": 63,
+      "role": "noble FM song",
+      "fields": [
+        33
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 217.0,
+      "duration": 1.6,
+      "pitch": 63.696190990809285,
+      "velocity": 62,
+      "role": "noble FM song",
+      "fields": [
+        33
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 219.65,
+      "duration": 1.12,
+      "pitch": 55.01955000865393,
+      "velocity": 62,
+      "role": "noble FM song",
+      "fields": [
+        33
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 221.05,
+      "duration": 0.56,
+      "pitch": 62.03910001730748,
+      "velocity": 64,
+      "role": "noble FM song",
+      "fields": [
+        34
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 221.75,
+      "duration": 0.72,
+      "pitch": 59.3578704997313,
+      "velocity": 63,
+      "role": "noble FM song",
+      "fields": [
+        34
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 222.65,
+      "duration": 1.35,
+      "pitch": 63.69619099080932,
+      "velocity": 61,
+      "role": "noble FM song",
+      "fields": [
+        34
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 3,
+      "start": 224.12,
+      "duration": 3.345,
+      "pitch": 73.39697051703914,
+      "velocity": 38,
+      "role": "consonant frame",
+      "fields": [
+        34
+      ],
+      "attack": 0.006,
+      "voice": 4
+    },
+    {
+      "instrument": 15,
+      "start": 224.165,
+      "duration": 3.3,
+      "pitch": 77.7352910081168,
+      "velocity": 37,
+      "role": "consonant frame",
+      "fields": [
+        34
+      ],
+      "attack": 0.009,
+      "voice": 5
+    },
+    {
+      "instrument": 8,
+      "start": 224.21,
+      "duration": 3.255,
+      "pitch": 80.4165205256932,
+      "velocity": 36,
+      "role": "consonant frame",
+      "fields": [
+        34
+      ],
+      "attack": 0.006,
+      "voice": 6
+    },
+    {
+      "instrument": 3,
+      "start": 224.255,
+      "duration": 3.21,
+      "pitch": 84.75484101677085,
+      "velocity": 35,
+      "role": "consonant frame",
+      "fields": [
+        34
+      ],
+      "attack": 0.006,
+      "voice": 7
+    },
+    {
+      "instrument": 6,
+      "start": 225.0,
+      "duration": 1.12,
+      "pitch": 55.01955000865363,
+      "velocity": 62,
+      "role": "noble FM song",
+      "fields": [
+        34
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 226.4,
+      "duration": 0.56,
+      "pitch": 62.03910001730748,
+      "velocity": 63,
+      "role": "noble FM song",
+      "fields": [
+        34
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 227.1,
+      "duration": 0.365,
+      "pitch": 59.3578704997313,
+      "velocity": 65,
+      "role": "noble FM song",
+      "fields": [
+        34
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 228.0,
+      "duration": 1.6,
+      "pitch": 63.69619099080929,
+      "velocity": 58,
+      "role": "noble FM song",
+      "fields": [
+        35
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 6,
+      "start": 230.65,
+      "duration": 1.12,
+      "pitch": 55.01955000865389,
+      "velocity": 62,
+      "role": "noble FM song",
+      "fields": [
+        35
+      ],
+      "attack": 0.006,
+      "voice": 8
+    },
+    {
+      "instrument": 18,
+      "start": 232.1,
+      "duration": 0.64,
+      "pitch": 59.35787049973156,
+      "velocity": 63,
+      "role": "returning serenade",
+      "fields": [
+        35
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 232.6,
+      "duration": 0.88,
+      "pitch": 55.01955000865389,
+      "velocity": 43,
+      "role": "nylon accompaniment",
+      "fields": [
+        35
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 232.9,
+      "duration": 1.04,
+      "pitch": 62.03910001730785,
+      "velocity": 62,
+      "role": "returning serenade",
+      "fields": [
+        35
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 233.7,
+      "duration": 0.265,
+      "pitch": 62.03910001730785,
+      "velocity": 50,
+      "role": "nylon accompaniment",
+      "fields": [
+        35
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 234.2,
+      "duration": 0.48,
+      "pitch": 66.37742050838546,
+      "velocity": 66,
+      "role": "returning serenade",
+      "fields": [
+        36
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 18,
+      "start": 234.8,
+      "duration": 1.36,
+      "pitch": 63.6961909908093,
+      "velocity": 62,
+      "role": "returning serenade",
+      "fields": [
+        36
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 235.9,
+      "duration": 1.28,
+      "pitch": 59.35787049973158,
+      "velocity": 45,
+      "role": "nylon accompaniment",
+      "fields": [
+        36
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 237.072,
+      "duration": 0.64,
+      "pitch": 62.039100017307746,
+      "velocity": 60,
+      "role": "returning serenade",
+      "fields": [
+        36
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 18,
+      "start": 237.872,
+      "duration": 1.04,
+      "pitch": 63.6961909908093,
+      "velocity": 62,
+      "role": "returning serenade",
+      "fields": [
+        36
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 238.137,
+      "duration": 0.88,
+      "pitch": 55.019550008653866,
+      "velocity": 45,
+      "role": "nylon accompaniment",
+      "fields": [
+        36
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 239.172,
+      "duration": 0.48,
+      "pitch": 70.71574099946316,
+      "velocity": 63,
+      "role": "returning serenade",
+      "fields": [
+        36
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 239.237,
+      "duration": 1.228,
+      "pitch": 62.039100017307746,
+      "velocity": 45,
+      "role": "nylon accompaniment",
+      "fields": [
+        36
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 239.772,
+      "duration": 0.693,
+      "pitch": 66.37742050838546,
+      "velocity": 61,
+      "role": "returning serenade",
+      "fields": [
+        36
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 241.437,
+      "duration": 1.28,
+      "pitch": 59.35787049973158,
+      "velocity": 47,
+      "role": "nylon accompaniment",
+      "fields": [
+        37
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 242.044,
+      "duration": 0.64,
+      "pitch": 63.6961909908093,
+      "velocity": 60,
+      "role": "returning serenade",
+      "fields": [
+        37
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 18,
+      "start": 242.844,
+      "duration": 0.156,
+      "pitch": 66.37742050838546,
+      "velocity": 64,
+      "role": "returning serenade",
+      "fields": [
+        37
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 10,
+      "start": 243.1,
+      "duration": 0.64,
+      "pitch": 59.35787049973158,
+      "velocity": 59,
+      "role": "returning serenade",
+      "fields": [
+        37
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 12,
+      "start": 243.6,
+      "duration": 0.88,
+      "pitch": 55.01955000865388,
+      "velocity": 42,
+      "role": "nylon accompaniment",
+      "fields": [
+        37
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 243.9,
+      "duration": 1.04,
+      "pitch": 62.03910001730777,
+      "velocity": 63,
+      "role": "returning serenade",
+      "fields": [
+        37
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 12,
+      "start": 244.7,
+      "duration": 1.76,
+      "pitch": 62.03910001730777,
+      "velocity": 46,
+      "role": "nylon accompaniment",
+      "fields": [
+        37
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 245.2,
+      "duration": 0.48,
+      "pitch": 66.37742050838546,
+      "velocity": 65,
+      "role": "returning serenade",
+      "fields": [
+        37
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 10,
+      "start": 245.8,
+      "duration": 1.165,
+      "pitch": 63.6961909908093,
+      "velocity": 62,
+      "role": "returning serenade",
+      "fields": [
+        37
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 10,
+      "start": 248.072,
+      "duration": 0.64,
+      "pitch": 62.03910001730772,
+      "velocity": 60,
+      "role": "returning serenade",
+      "fields": [
+        38
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 10,
+      "start": 248.872,
+      "duration": 1.04,
+      "pitch": 63.6961909908093,
+      "velocity": 62,
+      "role": "returning serenade",
+      "fields": [
+        38
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 12,
+      "start": 249.137,
+      "duration": 0.88,
+      "pitch": 55.019550008653844,
+      "velocity": 45,
+      "role": "nylon accompaniment",
+      "fields": [
+        38
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 250.172,
+      "duration": 0.48,
+      "pitch": 70.71574099946314,
+      "velocity": 61,
+      "role": "returning serenade",
+      "fields": [
+        38
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 12,
+      "start": 250.237,
+      "duration": 1.76,
+      "pitch": 62.03910001730772,
+      "velocity": 46,
+      "role": "nylon accompaniment",
+      "fields": [
+        38
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 250.772,
+      "duration": 1.36,
+      "pitch": 66.37742050838543,
+      "velocity": 61,
+      "role": "returning serenade",
+      "fields": [
+        38
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 12,
+      "start": 252.437,
+      "duration": 1.028,
+      "pitch": 59.35787049973155,
+      "velocity": 44,
+      "role": "nylon accompaniment",
+      "fields": [
+        38
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 253.044,
+      "duration": 0.421,
+      "pitch": 63.6961909908093,
+      "velocity": 61,
+      "role": "returning serenade",
+      "fields": [
+        38
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 10,
+      "start": 253.844,
+      "duration": 0.156,
+      "pitch": 66.37742050838546,
+      "velocity": 63,
+      "role": "returning serenade",
+      "fields": [
+        39
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 5,
+      "start": 254.1,
+      "duration": 0.64,
+      "pitch": 59.35787049973159,
+      "velocity": 59,
+      "role": "returning serenade",
+      "fields": [
+        39
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 12,
+      "start": 254.6,
+      "duration": 0.88,
+      "pitch": 55.01955000865388,
+      "velocity": 44,
+      "role": "nylon accompaniment",
+      "fields": [
+        39
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 254.9,
+      "duration": 1.04,
+      "pitch": 62.03910001730775,
+      "velocity": 62,
+      "role": "returning serenade",
+      "fields": [
+        39
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 12,
+      "start": 255.7,
+      "duration": 1.76,
+      "pitch": 62.03910001730775,
+      "velocity": 48,
+      "role": "nylon accompaniment",
+      "fields": [
+        39
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 256.2,
+      "duration": 0.48,
+      "pitch": 66.37742050838546,
+      "velocity": 66,
+      "role": "returning serenade",
+      "fields": [
+        39
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 5,
+      "start": 256.8,
+      "duration": 1.36,
+      "pitch": 63.6961909908093,
+      "velocity": 60,
+      "role": "returning serenade",
+      "fields": [
+        39
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 12,
+      "start": 257.9,
+      "duration": 1.28,
+      "pitch": 59.35787049973159,
+      "velocity": 47,
+      "role": "nylon accompaniment",
+      "fields": [
+        39
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 259.072,
+      "duration": 0.64,
+      "pitch": 62.03910001730775,
+      "velocity": 61,
+      "role": "returning serenade",
+      "fields": [
+        39
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 5,
+      "start": 259.872,
+      "duration": 0.093,
+      "pitch": 63.6961909908093,
+      "velocity": 65,
+      "role": "returning serenade",
+      "fields": [
+        39
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 12,
+      "start": 260.137,
+      "duration": 0.88,
+      "pitch": 55.01955000865388,
+      "velocity": 45,
+      "role": "nylon accompaniment",
+      "fields": [
+        40
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 261.172,
+      "duration": 0.48,
+      "pitch": 70.71574099946316,
+      "velocity": 66,
+      "role": "returning serenade",
+      "fields": [
+        40
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 12,
+      "start": 261.237,
+      "duration": 1.76,
+      "pitch": 62.03910001730775,
+      "velocity": 45,
+      "role": "nylon accompaniment",
+      "fields": [
+        40
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 261.772,
+      "duration": 1.36,
+      "pitch": 66.37742050838546,
+      "velocity": 64,
+      "role": "returning serenade",
+      "fields": [
+        40
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 12,
+      "start": 263.437,
+      "duration": 1.28,
+      "pitch": 59.35787049973159,
+      "velocity": 43,
+      "role": "nylon accompaniment",
+      "fields": [
+        40
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 5,
+      "start": 264.044,
+      "duration": 0.64,
+      "pitch": 63.6961909908093,
+      "velocity": 60,
+      "role": "returning serenade",
+      "fields": [
+        40
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 5,
+      "start": 264.844,
+      "duration": 0.156,
+      "pitch": 66.37742050838546,
+      "velocity": 61,
+      "role": "returning serenade",
+      "fields": [
+        40
+      ],
+      "attack": 0.006,
+      "voice": 3
+    },
+    {
+      "instrument": 18,
+      "start": 265.1,
+      "duration": 0.64,
+      "pitch": 59.35787049973159,
+      "velocity": 59,
+      "role": "returning serenade",
+      "fields": [
+        40
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 265.6,
+      "duration": 0.865,
+      "pitch": 55.01955000865388,
+      "velocity": 45,
+      "role": "nylon accompaniment",
+      "fields": [
+        40
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 265.9,
+      "duration": 0.565,
+      "pitch": 62.03910001730775,
+      "velocity": 61,
+      "role": "returning serenade",
+      "fields": [
+        40
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 266.7,
+      "duration": 1.76,
+      "pitch": 62.03910001730775,
+      "velocity": 44,
+      "role": "nylon accompaniment",
+      "fields": [
+        41
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 267.2,
+      "duration": 0.48,
+      "pitch": 66.37742050838546,
+      "velocity": 63,
+      "role": "returning serenade",
+      "fields": [
+        41
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 18,
+      "start": 267.8,
+      "duration": 1.36,
+      "pitch": 63.6961909908093,
+      "velocity": 60,
+      "role": "returning serenade",
+      "fields": [
+        41
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 268.9,
+      "duration": 1.28,
+      "pitch": 59.35787049973159,
+      "velocity": 43,
+      "role": "nylon accompaniment",
+      "fields": [
+        41
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 270.072,
+      "duration": 0.64,
+      "pitch": 62.03910001730775,
+      "velocity": 60,
+      "role": "returning serenade",
+      "fields": [
+        41
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 18,
+      "start": 270.872,
+      "duration": 1.04,
+      "pitch": 63.6961909908093,
+      "velocity": 66,
+      "role": "returning serenade",
+      "fields": [
+        41
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 271.137,
+      "duration": 0.88,
+      "pitch": 55.01955000865388,
+      "velocity": 44,
+      "role": "nylon accompaniment",
+      "fields": [
+        41
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 272.172,
+      "duration": 0.48,
+      "pitch": 70.71574099946316,
+      "velocity": 63,
+      "role": "returning serenade",
+      "fields": [
+        41
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 272.237,
+      "duration": 0.728,
+      "pitch": 62.03910001730775,
+      "velocity": 46,
+      "role": "nylon accompaniment",
+      "fields": [
+        41
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 272.772,
+      "duration": 0.193,
+      "pitch": 66.37742050838546,
+      "velocity": 60,
+      "role": "returning serenade",
+      "fields": [
+        41
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 12,
+      "start": 274.437,
+      "duration": 1.28,
+      "pitch": 59.35787049973159,
+      "velocity": 47,
+      "role": "nylon accompaniment",
+      "fields": [
+        42
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 18,
+      "start": 275.044,
+      "duration": 0.64,
+      "pitch": 63.6961909908093,
+      "velocity": 64,
+      "role": "returning serenade",
+      "fields": [
+        42
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 18,
+      "start": 275.844,
+      "duration": 0.156,
+      "pitch": 66.37742050838546,
+      "velocity": 62,
+      "role": "returning serenade",
+      "fields": [
+        42
+      ],
+      "attack": 0.009,
+      "voice": 0
+    },
+    {
+      "instrument": 10,
+      "start": 276.1,
+      "duration": 0.64,
+      "pitch": 59.35787049973159,
+      "velocity": 61,
+      "role": "returning serenade",
+      "fields": [
+        42
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 12,
+      "start": 276.6,
+      "duration": 0.88,
+      "pitch": 55.01955000865388,
+      "velocity": 47,
+      "role": "nylon accompaniment",
+      "fields": [
+        42
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 276.9,
+      "duration": 1.04,
+      "pitch": 62.03910001730775,
+      "velocity": 63,
+      "role": "returning serenade",
+      "fields": [
+        42
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 12,
+      "start": 277.7,
+      "duration": 1.76,
+      "pitch": 62.03910001730775,
+      "velocity": 48,
+      "role": "nylon accompaniment",
+      "fields": [
+        42
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 278.2,
+      "duration": 0.48,
+      "pitch": 66.37742050838546,
+      "velocity": 65,
+      "role": "returning serenade",
+      "fields": [
+        42
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 10,
+      "start": 278.8,
+      "duration": 0.665,
+      "pitch": 63.6961909908093,
+      "velocity": 61,
+      "role": "returning serenade",
+      "fields": [
+        42
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 12,
+      "start": 279.9,
+      "duration": 1.28,
+      "pitch": 59.35787049973159,
+      "velocity": 47,
+      "role": "nylon accompaniment",
+      "fields": [
+        43
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 281.072,
+      "duration": 0.64,
+      "pitch": 62.03910001730775,
+      "velocity": 62,
+      "role": "returning serenade",
+      "fields": [
+        43
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 10,
+      "start": 281.872,
+      "duration": 1.04,
+      "pitch": 63.6961909908093,
+      "velocity": 65,
+      "role": "returning serenade",
+      "fields": [
+        43
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 12,
+      "start": 282.137,
+      "duration": 0.88,
+      "pitch": 55.01955000865388,
+      "velocity": 42,
+      "role": "nylon accompaniment",
+      "fields": [
+        43
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 283.172,
+      "duration": 0.48,
+      "pitch": 70.71574099946316,
+      "velocity": 64,
+      "role": "returning serenade",
+      "fields": [
+        43
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 12,
+      "start": 283.237,
+      "duration": 1.76,
+      "pitch": 62.03910001730775,
+      "velocity": 44,
+      "role": "nylon accompaniment",
+      "fields": [
+        43
+      ],
+      "attack": 0.006,
+      "voice": 1
+    },
+    {
+      "instrument": 10,
+      "start": 283.772,
+      "duration": 1.36,
+      "pitch": 66.37742050838546,
+      "velocity": 61,
+      "role": "returning serenade",
+      "fields": [
+        43
+      ],
+      "attack": 0.006,
+      "voice": 2
+    },
+    {
+      "instrument": 12,
+      "start": 285.437,
+      "duration": 0.518,
+      "pitch": 59.35787049973159,
+      "velocity": 48,
+      "role": "nylon accompaniment",
+      "fields": [
+        43
+      ],
+      "attack": 0.006,
+      "voice": 1
+    }
+  ],
+  "unpitched_speech": [],
+  "harmonies": [
+    {
+      "chord": 1,
+      "start": 0.0,
+      "end": 6.5
+    },
+    {
+      "chord": 2,
+      "start": 6.5,
+      "end": 13.0
+    },
+    {
+      "chord": 3,
+      "start": 13.0,
+      "end": 19.5
+    },
+    {
+      "chord": 0,
+      "start": 19.5,
+      "end": 26.0
+    },
+    {
+      "chord": 2,
+      "start": 26.0,
+      "end": 32.5
+    },
+    {
+      "chord": 4,
+      "start": 32.5,
+      "end": 39.0
+    },
+    {
+      "chord": 3,
+      "start": 39.0,
+      "end": 45.5
+    },
+    {
+      "chord": 5,
+      "start": 45.5,
+      "end": 52.0
+    },
+    {
+      "chord": 6,
+      "start": 52.0,
+      "end": 58.5
+    },
+    {
+      "chord": 7,
+      "start": 58.5,
+      "end": 65.0
+    },
+    {
+      "chord": 8,
+      "start": 65.0,
+      "end": 71.5
+    },
+    {
+      "chord": 9,
+      "start": 71.5,
+      "end": 78.0
+    },
+    {
+      "chord": 12,
+      "start": 78.0,
+      "end": 84.5
+    },
+    {
+      "chord": 11,
+      "start": 84.5,
+      "end": 91.0
+    },
+    {
+      "chord": 10,
+      "start": 91.0,
+      "end": 97.5
+    },
+    {
+      "chord": 13,
+      "start": 97.5,
+      "end": 104.0
+    },
+    {
+      "chord": 14,
+      "start": 104.0,
+      "end": 110.5
+    },
+    {
+      "chord": 15,
+      "start": 110.5,
+      "end": 117.0
+    },
+    {
+      "chord": 16,
+      "start": 117.0,
+      "end": 123.5
+    },
+    {
+      "chord": 17,
+      "start": 123.5,
+      "end": 130.0
+    },
+    {
+      "chord": 18,
+      "start": 130.0,
+      "end": 136.5
+    },
+    {
+      "chord": 19,
+      "start": 136.5,
+      "end": 143.0
+    },
+    {
+      "chord": 20,
+      "start": 143.0,
+      "end": 149.5
+    },
+    {
+      "chord": 21,
+      "start": 149.5,
+      "end": 156.0
+    },
+    {
+      "chord": 24,
+      "start": 156.0,
+      "end": 162.5
+    },
+    {
+      "chord": 23,
+      "start": 162.5,
+      "end": 169.0
+    },
+    {
+      "chord": 22,
+      "start": 169.0,
+      "end": 175.5
+    },
+    {
+      "chord": 25,
+      "start": 175.5,
+      "end": 182.0
+    },
+    {
+      "chord": 26,
+      "start": 182.0,
+      "end": 188.5
+    },
+    {
+      "chord": 27,
+      "start": 188.5,
+      "end": 195.0
+    },
+    {
+      "chord": 28,
+      "start": 195.0,
+      "end": 201.5
+    },
+    {
+      "chord": 29,
+      "start": 201.5,
+      "end": 208.0
+    },
+    {
+      "chord": 30,
+      "start": 208.0,
+      "end": 214.5
+    },
+    {
+      "chord": 31,
+      "start": 214.5,
+      "end": 221.0
+    },
+    {
+      "chord": 32,
+      "start": 221.0,
+      "end": 227.5
+    },
+    {
+      "chord": 33,
+      "start": 227.5,
+      "end": 234.0
+    },
+    {
+      "chord": 36,
+      "start": 234.0,
+      "end": 240.5
+    },
+    {
+      "chord": 35,
+      "start": 240.5,
+      "end": 247.0
+    },
+    {
+      "chord": 34,
+      "start": 247.0,
+      "end": 253.5
+    },
+    {
+      "chord": 37,
+      "start": 253.5,
+      "end": 260.0
+    },
+    {
+      "chord": 38,
+      "start": 260.0,
+      "end": 266.5
+    },
+    {
+      "chord": 39,
+      "start": 266.5,
+      "end": 273.0
+    },
+    {
+      "chord": 38,
+      "start": 273.0,
+      "end": 279.5
+    },
+    {
+      "chord": 39,
+      "start": 279.5,
+      "end": 286.0
+    }
+  ],
+  "sections": [
+    {
+      "start": 0.0,
+      "end": 11.0,
+      "name": "A \u2014 lyrical wood"
+    },
+    {
+      "start": 11.0,
+      "end": 22.0,
+      "name": "A \u2014 wired reply"
+    },
+    {
+      "start": 22.0,
+      "end": 33.0,
+      "name": "A \u2014 new register"
+    },
+    {
+      "start": 33.0,
+      "end": 44,
+      "name": "A \u2014 lyrical wood"
+    },
+    {
+      "start": 44.0,
+      "end": 55.0,
+      "name": "B \u2014 lyrical wood"
+    },
+    {
+      "start": 55.0,
+      "end": 66.0,
+      "name": "B \u2014 wired reply"
+    },
+    {
+      "start": 66.0,
+      "end": 77.0,
+      "name": "B \u2014 new register"
+    },
+    {
+      "start": 77.0,
+      "end": 88.0,
+      "name": "B \u2014 lyrical wood"
+    },
+    {
+      "start": 88.0,
+      "end": 98,
+      "name": "B \u2014 wired reply"
+    },
+    {
+      "start": 98.0,
+      "end": 109.0,
+      "name": "A \u2014 lyrical wood"
+    },
+    {
+      "start": 109.0,
+      "end": 120.0,
+      "name": "A \u2014 wired reply"
+    },
+    {
+      "start": 120.0,
+      "end": 131.0,
+      "name": "A \u2014 new register"
+    },
+    {
+      "start": 131.0,
+      "end": 142,
+      "name": "A \u2014 lyrical wood"
+    },
+    {
+      "start": 142.0,
+      "end": 153.0,
+      "name": "C \u2014 lyrical wood"
+    },
+    {
+      "start": 153.0,
+      "end": 164.0,
+      "name": "C \u2014 wired reply"
+    },
+    {
+      "start": 164.0,
+      "end": 175.0,
+      "name": "C \u2014 new register"
+    },
+    {
+      "start": 175.0,
+      "end": 180,
+      "name": "C \u2014 lyrical wood"
+    },
+    {
+      "start": 180.0,
+      "end": 191.0,
+      "name": "B \u2014 lyrical wood"
+    },
+    {
+      "start": 191.0,
+      "end": 202.0,
+      "name": "B \u2014 wired reply"
+    },
+    {
+      "start": 202.0,
+      "end": 213.0,
+      "name": "B \u2014 new register"
+    },
+    {
+      "start": 213.0,
+      "end": 224.0,
+      "name": "B \u2014 lyrical wood"
+    },
+    {
+      "start": 224.0,
+      "end": 232,
+      "name": "B \u2014 wired reply"
+    },
+    {
+      "start": 232.0,
+      "end": 243.0,
+      "name": "A \u2014 lyrical wood"
+    },
+    {
+      "start": 243.0,
+      "end": 254.0,
+      "name": "A \u2014 wired reply"
+    },
+    {
+      "start": 254.0,
+      "end": 265.0,
+      "name": "A \u2014 new register"
+    },
+    {
+      "start": 265.0,
+      "end": 276.0,
+      "name": "A \u2014 lyrical wood"
+    },
+    {
+      "start": 276.0,
+      "end": 286,
+      "name": "A \u2014 wired reply"
+    }
+  ],
+  "voices": [
+    {
+      "instrument": 18,
+      "lane": 0
+    },
+    {
+      "instrument": 12,
+      "lane": 0
+    },
+    {
+      "instrument": 10,
+      "lane": 0
+    },
+    {
+      "instrument": 5,
+      "lane": 0
+    },
+    {
+      "instrument": 3,
+      "lane": 0
+    },
+    {
+      "instrument": 15,
+      "lane": 0
+    },
+    {
+      "instrument": 8,
+      "lane": 0
+    },
+    {
+      "instrument": 3,
+      "lane": 1
+    },
+    {
+      "instrument": 6,
+      "lane": 0
+    },
+    {
+      "instrument": 1,
+      "lane": 0
+    },
+    {
+      "instrument": 9,
+      "lane": 0
+    }
+  ],
+  "pitch_policy": "Exact original-field pitches only; all octave/register changes choose another existing pitch. Fixed common-tone bridges are allowed; no note is retuned while held.",
+  "tremolo_allowed": false
+}

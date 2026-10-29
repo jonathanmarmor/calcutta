@@ -1,0 +1,40 @@
+;FFMETADATA1
+title=Calcutta 2: Seven Unequal Rooms
+album=Seven Unequal Volumes
+artist=Jonathan Marmor
+date=2026
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=43000
+title=02. A Thread Above
+[CHAPTER]
+TIMEBASE=1/1000
+START=45000
+END=433000
+title=03. Walking Ground
+[CHAPTER]
+TIMEBASE=1/1000
+START=435000
+END=510000
+title=04. A Missing Footstep
+[CHAPTER]
+TIMEBASE=1/1000
+START=512000
+END=1116000
+title=05. The Unwound Chord
+[CHAPTER]
+TIMEBASE=1/1000
+START=1118000
+END=1139000
+title=06. Smallest Reply
+[CHAPTER]
+TIMEBASE=1/1000
+START=1141000
+END=1373000
+title=07. Soft Mouths
+[CHAPTER]
+TIMEBASE=1/1000
+START=1375000
+END=1650000
+title=08. Borrowed Hands

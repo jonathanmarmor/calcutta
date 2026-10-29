@@ -1,0 +1,9216 @@
+{
+  "number": 25,
+  "volume": 6,
+  "title": "Before the Soloist",
+  "slug": "before_the_soloist",
+  "duration": 71,
+  "description": "New concertino form with fresh note material.",
+  "seed": 202610214724,
+  "kind": "concertino",
+  "theme": [
+    0,
+    1,
+    2,
+    3,
+    5,
+    8,
+    10,
+    13
+  ],
+  "harmonies": [
+    {
+      "chord": 1,
+      "start": 0.0,
+      "end": 7.1000000000000005
+    },
+    {
+      "chord": 3,
+      "start": 7.1000000000000005,
+      "end": 14.200000000000001
+    },
+    {
+      "chord": 7,
+      "start": 14.200000000000001,
+      "end": 21.3
+    },
+    {
+      "chord": 12,
+      "start": 21.3,
+      "end": 28.400000000000002
+    },
+    {
+      "chord": 21,
+      "start": 28.400000000000002,
+      "end": 35.5
+    },
+    {
+      "chord": 38,
+      "start": 35.5,
+      "end": 42.6
+    },
+    {
+      "chord": 39,
+      "start": 42.6,
+      "end": 71
+    }
+  ],
+  "areas": [
+    {
+      "first": 1,
+      "last": 1,
+      "start": 0.0,
+      "end": 7.1000000000000005
+    },
+    {
+      "first": 3,
+      "last": 3,
+      "start": 7.1000000000000005,
+      "end": 14.200000000000001
+    },
+    {
+      "first": 7,
+      "last": 7,
+      "start": 14.200000000000001,
+      "end": 21.3
+    },
+    {
+      "first": 12,
+      "last": 12,
+      "start": 21.3,
+      "end": 28.400000000000002
+    },
+    {
+      "first": 21,
+      "last": 21,
+      "start": 28.400000000000002,
+      "end": 35.5
+    },
+    {
+      "first": 38,
+      "last": 38,
+      "start": 35.5,
+      "end": 42.6
+    },
+    {
+      "first": 39,
+      "last": 39,
+      "start": 42.6,
+      "end": 71
+    }
+  ],
+  "notes": [
+    {
+      "id": 0,
+      "part": "0-p0",
+      "instrument": 71,
+      "start": 0.002582,
+      "duration": 0.726995,
+      "pitch": 74.72928417583472,
+      "velocity": 36,
+      "role": "concertino",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 0.0,
+      "voice": 0
+    },
+    {
+      "id": 6,
+      "part": "0-p1",
+      "instrument": 32,
+      "start": 0.116188,
+      "duration": 1.899792,
+      "pitch": 57.50374548474124,
+      "velocity": 27,
+      "role": "concertino accompaniment",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 0.2,
+      "voice": 1
+    },
+    {
+      "id": 9,
+      "part": "0-p2",
+      "instrument": 71,
+      "start": 0.261933,
+      "duration": 2.006239,
+      "pitch": 64.63155459829717,
+      "velocity": 28,
+      "role": "concertino accompaniment",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 0.4,
+      "voice": 2
+    },
+    {
+      "id": 12,
+      "part": "0-p3",
+      "instrument": 74,
+      "start": 0.365957,
+      "duration": 2.154406,
+      "pitch": 68.78944324787146,
+      "velocity": 28,
+      "role": "concertino accompaniment",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 0.6000000000000001,
+      "voice": 3
+    },
+    {
+      "id": 14,
+      "part": "0-p4",
+      "instrument": 51,
+      "start": 0.504175,
+      "duration": 2.268362,
+      "pitch": 68.19545915507513,
+      "velocity": 28,
+      "role": "concertino accompaniment",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 0.8,
+      "voice": 4
+    },
+    {
+      "id": 16,
+      "part": "0-p5",
+      "instrument": 48,
+      "start": 0.622164,
+      "duration": 2.402547,
+      "pitch": 72.94733189744574,
+      "velocity": 29,
+      "role": "concertino accompaniment",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 1.0,
+      "voice": 5
+    },
+    {
+      "id": 1,
+      "part": "0-p0",
+      "instrument": 71,
+      "start": 0.780163,
+      "duration": 0.371187,
+      "pitch": 75.91725236142739,
+      "velocity": 37,
+      "role": "concertino",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 1.25,
+      "voice": 0
+    },
+    {
+      "id": 2,
+      "part": "0-p0",
+      "instrument": 71,
+      "start": 1.182892,
+      "duration": 0.730635,
+      "pitch": 78.29318873261269,
+      "velocity": 38,
+      "role": "concertino",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 1.875,
+      "voice": 0
+    },
+    {
+      "id": 18,
+      "part": "0-p6",
+      "instrument": 15,
+      "start": 1.264636,
+      "duration": 0.874287,
+      "pitch": 78.29318873261269,
+      "velocity": 36,
+      "role": "concertino",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 2.0,
+      "voice": 6
+    },
+    {
+      "id": 3,
+      "part": "0-p0",
+      "instrument": 71,
+      "start": 1.974489,
+      "duration": 1.093565,
+      "pitch": 79.48115691820536,
+      "velocity": 39,
+      "role": "concertino",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 3.125,
+      "voice": 0
+    },
+    {
+      "id": 7,
+      "part": "0-p1",
+      "instrument": 32,
+      "start": 2.17277,
+      "duration": 1.89396,
+      "pitch": 57.50374548474124,
+      "velocity": 27,
+      "role": "concertino accompaniment",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 3.45,
+      "voice": 1
+    },
+    {
+      "id": 19,
+      "part": "0-p6",
+      "instrument": 15,
+      "start": 2.199079,
+      "duration": 0.445795,
+      "pitch": 72.94733189744574,
+      "velocity": 37,
+      "role": "concertino",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 3.5,
+      "voice": 6
+    },
+    {
+      "id": 10,
+      "part": "0-p2",
+      "instrument": 71,
+      "start": 2.451892,
+      "duration": 2.024454,
+      "pitch": 64.63155459829717,
+      "velocity": 28,
+      "role": "concertino accompaniment",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 3.9,
+      "voice": 2
+    },
+    {
+      "id": 20,
+      "part": "0-p6",
+      "instrument": 15,
+      "start": 2.679631,
+      "duration": 0.878874,
+      "pitch": 69.38342734066778,
+      "velocity": 38,
+      "role": "concertino",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 4.25,
+      "voice": 6
+    },
+    {
+      "id": 13,
+      "part": "0-p3",
+      "instrument": 74,
+      "start": 2.743828,
+      "duration": 2.140164,
+      "pitch": 68.78944324787146,
+      "velocity": 28,
+      "role": "concertino accompaniment",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 4.35,
+      "voice": 3
+    },
+    {
+      "id": 15,
+      "part": "0-p4",
+      "instrument": 51,
+      "start": 3.032704,
+      "duration": 2.008075,
+      "pitch": 68.19545915507513,
+      "velocity": 28,
+      "role": "concertino accompaniment",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 4.8,
+      "voice": 4
+    },
+    {
+      "id": 4,
+      "part": "0-p0",
+      "instrument": 71,
+      "start": 3.151039,
+      "duration": 0.734356,
+      "pitch": 81.85709328939066,
+      "velocity": 39,
+      "role": "concertino",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 5.0,
+      "voice": 0
+    },
+    {
+      "id": 17,
+      "part": "0-p5",
+      "instrument": 48,
+      "start": 3.297397,
+      "duration": 1.743383,
+      "pitch": 72.94733189744574,
+      "velocity": 29,
+      "role": "concertino accompaniment",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 5.25,
+      "voice": 5
+    },
+    {
+      "id": 21,
+      "part": "0-p6",
+      "instrument": 15,
+      "start": 3.634133,
+      "duration": 1.307871,
+      "pitch": 64.63155459829717,
+      "velocity": 39,
+      "role": "concertino",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 5.75,
+      "voice": 6
+    },
+    {
+      "id": 5,
+      "part": "0-p0",
+      "instrument": 71,
+      "start": 3.949125,
+      "duration": 1.091654,
+      "pitch": 86.60896603176128,
+      "velocity": 38,
+      "role": "concertino",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 6.25,
+      "voice": 0
+    },
+    {
+      "id": 8,
+      "part": "0-p1",
+      "instrument": 32,
+      "start": 4.229621,
+      "duration": 0.811159,
+      "pitch": 57.50374548474124,
+      "velocity": 27,
+      "role": "concertino accompaniment",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 6.7,
+      "voice": 1
+    },
+    {
+      "id": 11,
+      "part": "0-p2",
+      "instrument": 71,
+      "start": 4.654078,
+      "duration": 0.386701,
+      "pitch": 64.63155459829717,
+      "velocity": 28,
+      "role": "concertino accompaniment",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 7.4,
+      "voice": 2
+    },
+    {
+      "id": 22,
+      "part": "1-p0",
+      "instrument": 12,
+      "start": 5.04078,
+      "duration": 0.440873,
+      "pitch": 48.0,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 8.0,
+      "voice": 7
+    },
+    {
+      "id": 47,
+      "part": "1-p1",
+      "instrument": 32,
+      "start": 5.347738,
+      "duration": 0.596432,
+      "pitch": 74.72928417583472,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 8.5,
+      "voice": 1
+    },
+    {
+      "id": 23,
+      "part": "1-p0",
+      "instrument": 12,
+      "start": 5.5074,
+      "duration": 0.227763,
+      "pitch": 48.0,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 8.75,
+      "voice": 7
+    },
+    {
+      "id": 66,
+      "part": "1-p2",
+      "instrument": 71,
+      "start": 5.676914,
+      "duration": 0.874766,
+      "pitch": 58.69171367033388,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 9.0,
+      "voice": 0
+    },
+    {
+      "id": 24,
+      "part": "1-p0",
+      "instrument": 12,
+      "start": 5.761772,
+      "duration": 0.43005,
+      "pitch": 52.751872742370615,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 9.125,
+      "voice": 7
+    },
+    {
+      "id": 48,
+      "part": "1-p1",
+      "instrument": 32,
+      "start": 5.98719,
+      "duration": 0.294545,
+      "pitch": 69.38342734066778,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 9.5,
+      "voice": 1
+    },
+    {
+      "id": 78,
+      "part": "1-p3",
+      "instrument": 74,
+      "start": 5.988862,
+      "duration": 0.390255,
+      "pitch": 84.23302966057598,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 9.5,
+      "voice": 3
+    },
+    {
+      "id": 25,
+      "part": "1-p0",
+      "instrument": 12,
+      "start": 6.215811,
+      "duration": 0.66609,
+      "pitch": 55.127809113555934,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 9.875,
+      "voice": 7
+    },
+    {
+      "id": 49,
+      "part": "1-p1",
+      "instrument": 32,
+      "start": 6.293308,
+      "duration": 0.594084,
+      "pitch": 65.81952278388981,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 10.0,
+      "voice": 1
+    },
+    {
+      "id": 103,
+      "part": "1-p4",
+      "instrument": 51,
+      "start": 6.297969,
+      "duration": 0.734713,
+      "pitch": 69.38342734066778,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 10.0,
+      "voice": 4
+    },
+    {
+      "id": 79,
+      "part": "1-p3",
+      "instrument": 74,
+      "start": 6.402137,
+      "duration": 0.200789,
+      "pitch": 79.48115691820536,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 10.166666666666666,
+      "voice": 3
+    },
+    {
+      "id": 80,
+      "part": "1-p3",
+      "instrument": 74,
+      "start": 6.608046,
+      "duration": 0.398126,
+      "pitch": 75.91725236142739,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 10.5,
+      "voice": 3
+    },
+    {
+      "id": 67,
+      "part": "1-p2",
+      "instrument": 71,
+      "start": 6.609946,
+      "duration": 0.444569,
+      "pitch": 59.87968185592655,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 10.5,
+      "voice": 0
+    },
+    {
+      "id": 115,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 6.616906,
+      "duration": 0.292448,
+      "pitch": 96.11271151650251,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 10.5,
+      "voice": 5
+    },
+    {
+      "id": 26,
+      "part": "1-p0",
+      "instrument": 12,
+      "start": 6.919583,
+      "duration": 0.168417,
+      "pitch": 58.69171367033388,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 11.0,
+      "voice": 7
+    },
+    {
+      "id": 50,
+      "part": "1-p1",
+      "instrument": 32,
+      "start": 6.926626,
+      "duration": 0.161374,
+      "pitch": 62.25561822711185,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 11.0,
+      "voice": 1
+    },
+    {
+      "id": 116,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 6.930613,
+      "duration": 0.145735,
+      "pitch": 88.98490240294659,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 11.0,
+      "voice": 5
+    },
+    {
+      "id": 146,
+      "part": "1-p6",
+      "instrument": 15,
+      "start": 6.931061,
+      "duration": 0.156939,
+      "pitch": 79.48115691820536,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        0
+      ],
+      "is_passing": false,
+      "beat": 11.0,
+      "voice": 6
+    },
+    {
+      "id": 154,
+      "part": "1-p7",
+      "instrument": 70,
+      "start": 7.251383,
+      "duration": 1.452873,
+      "pitch": 96.11271151650251,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 11.5,
+      "voice": 8
+    },
+    {
+      "id": 117,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 7.402809,
+      "duration": 0.434748,
+      "pitch": 84.3664440564189,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 11.75,
+      "voice": 5
+    },
+    {
+      "id": 27,
+      "part": "1-p0",
+      "instrument": 12,
+      "start": 7.404628,
+      "duration": 0.872691,
+      "pitch": 70.4471171162198,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 11.75,
+      "voice": 7
+    },
+    {
+      "id": 104,
+      "part": "1-p4",
+      "instrument": 51,
+      "start": 7.478239,
+      "duration": 0.731586,
+      "pitch": 73.0900272947386,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 11.875,
+      "voice": 4
+    },
+    {
+      "id": 81,
+      "part": "1-p3",
+      "instrument": 74,
+      "start": 7.664593,
+      "duration": 0.387037,
+      "pitch": 70.4471171162198,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 12.166666666666666,
+      "voice": 3
+    },
+    {
+      "id": 118,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 7.874962,
+      "duration": 0.289228,
+      "pitch": 80.43144445729087,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 12.5,
+      "voice": 5
+    },
+    {
+      "id": 51,
+      "part": "1-p1",
+      "instrument": 32,
+      "start": 7.879173,
+      "duration": 0.577083,
+      "pitch": 59.276416761680274,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 12.5,
+      "voice": 1
+    },
+    {
+      "id": 68,
+      "part": "1-p2",
+      "instrument": 71,
+      "start": 8.04032,
+      "duration": 1.29958,
+      "pitch": 63.681267059211635,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 12.75,
+      "voice": 0
+    },
+    {
+      "id": 82,
+      "part": "1-p3",
+      "instrument": 74,
+      "start": 8.080696,
+      "duration": 0.779198,
+      "pitch": 66.04226681868845,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 12.833333333333332,
+      "voice": 3
+    },
+    {
+      "id": 147,
+      "part": "1-p6",
+      "instrument": 15,
+      "start": 8.179097,
+      "duration": 0.591083,
+      "pitch": 80.43144445729087,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 13.0,
+      "voice": 6
+    },
+    {
+      "id": 119,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 8.198021,
+      "duration": 0.572158,
+      "pitch": 77.31868358036871,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 13.0,
+      "voice": 5
+    },
+    {
+      "id": 105,
+      "part": "1-p4",
+      "instrument": 51,
+      "start": 8.258952,
+      "duration": 1.09733,
+      "pitch": 77.31868358036871,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 13.125,
+      "voice": 4
+    },
+    {
+      "id": 28,
+      "part": "1-p0",
+      "instrument": 12,
+      "start": 8.332172,
+      "duration": 0.230033,
+      "pitch": 77.31868358036871,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 13.25,
+      "voice": 7
+    },
+    {
+      "id": 52,
+      "part": "1-p1",
+      "instrument": 32,
+      "start": 8.492569,
+      "duration": 1.169581,
+      "pitch": 55.04776047605017,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 13.5,
+      "voice": 1
+    },
+    {
+      "id": 29,
+      "part": "1-p0",
+      "instrument": 12,
+      "start": 8.580795,
+      "duration": 0.434593,
+      "pitch": 84.3664440564189,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 13.625,
+      "voice": 7
+    },
+    {
+      "id": 155,
+      "part": "1-p7",
+      "instrument": 70,
+      "start": 8.805062,
+      "duration": 0.734221,
+      "pitch": 96.11271151650251,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 14.0,
+      "voice": 8
+    },
+    {
+      "id": 120,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 8.813129,
+      "duration": 0.146094,
+      "pitch": 73.0900272947386,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 14.0,
+      "voice": 5
+    },
+    {
+      "id": 148,
+      "part": "1-p6",
+      "instrument": 15,
+      "start": 8.822875,
+      "duration": 1.15033,
+      "pitch": 81.72353387790007,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 14.0,
+      "voice": 6
+    },
+    {
+      "id": 83,
+      "part": "1-p3",
+      "instrument": 74,
+      "start": 8.924294,
+      "duration": 0.187304,
+      "pitch": 63.681267059211635,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 14.166666666666666,
+      "voice": 3
+    },
+    {
+      "id": 121,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 8.960664,
+      "duration": 0.299668,
+      "pitch": 70.4471171162198,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 14.25,
+      "voice": 5
+    },
+    {
+      "id": 30,
+      "part": "1-p0",
+      "instrument": 12,
+      "start": 9.057359,
+      "duration": 0.425933,
+      "pitch": 48.0,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 14.375,
+      "voice": 7
+    },
+    {
+      "id": 84,
+      "part": "1-p3",
+      "instrument": 74,
+      "start": 9.132201,
+      "duration": 0.380642,
+      "pitch": 62.38917763860244,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 14.5,
+      "voice": 3
+    },
+    {
+      "id": 122,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 9.275042,
+      "duration": 0.296901,
+      "pitch": 96.11271151650251,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 14.75,
+      "voice": 5
+    },
+    {
+      "id": 106,
+      "part": "1-p4",
+      "instrument": 51,
+      "start": 9.440155,
+      "duration": 0.722227,
+      "pitch": 81.72353387790007,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 15.0,
+      "voice": 4
+    },
+    {
+      "id": 69,
+      "part": "1-p2",
+      "instrument": 71,
+      "start": 9.446138,
+      "duration": 0.862299,
+      "pitch": 70.4471171162198,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 15.0,
+      "voice": 0
+    },
+    {
+      "id": 31,
+      "part": "1-p0",
+      "instrument": 12,
+      "start": 9.518023,
+      "duration": 0.214892,
+      "pitch": 52.404850297531354,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 15.125,
+      "voice": 7
+    },
+    {
+      "id": 85,
+      "part": "1-p3",
+      "instrument": 74,
+      "start": 9.535751,
+      "duration": 0.391833,
+      "pitch": 96.11271151650251,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 15.166666666666666,
+      "voice": 3
+    },
+    {
+      "id": 123,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 9.593651,
+      "duration": 0.144707,
+      "pitch": 96.11271151650251,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 15.25,
+      "voice": 5
+    },
+    {
+      "id": 156,
+      "part": "1-p7",
+      "instrument": 70,
+      "start": 9.599665,
+      "duration": 1.447828,
+      "pitch": 96.11271151650251,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 15.25,
+      "voice": 8
+    },
+    {
+      "id": 53,
+      "part": "1-p1",
+      "instrument": 32,
+      "start": 9.742917,
+      "duration": 0.29561,
+      "pitch": 52.404850297531354,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 15.5,
+      "voice": 1
+    },
+    {
+      "id": 32,
+      "part": "1-p0",
+      "instrument": 12,
+      "start": 9.745321,
+      "duration": 0.439047,
+      "pitch": 55.04776047605017,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 15.5,
+      "voice": 7
+    },
+    {
+      "id": 124,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 9.75883,
+      "duration": 0.279697,
+      "pitch": 96.11271151650251,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 15.5,
+      "voice": 5
+    },
+    {
+      "id": 86,
+      "part": "1-p3",
+      "instrument": 74,
+      "start": 9.95774,
+      "duration": 0.192602,
+      "pitch": 96.11271151650251,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 15.833333333333332,
+      "voice": 3
+    },
+    {
+      "id": 125,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 10.058701,
+      "duration": 0.439764,
+      "pitch": 88.77129435395025,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 16.0,
+      "voice": 5
+    },
+    {
+      "id": 149,
+      "part": "1-p6",
+      "instrument": 15,
+      "start": 10.059316,
+      "duration": 1.745037,
+      "pitch": 84.3664440564189,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 16.0,
+      "voice": 6
+    },
+    {
+      "id": 54,
+      "part": "1-p1",
+      "instrument": 32,
+      "start": 10.060084,
+      "duration": 0.584436,
+      "pitch": 48.0,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 16.0,
+      "voice": 1
+    },
+    {
+      "id": 87,
+      "part": "1-p3",
+      "instrument": 74,
+      "start": 10.166053,
+      "duration": 0.388426,
+      "pitch": 88.77129435395025,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 16.166666666666664,
+      "voice": 3
+    },
+    {
+      "id": 107,
+      "part": "1-p4",
+      "instrument": 51,
+      "start": 10.221047,
+      "duration": 1.44954,
+      "pitch": 91.70786121897116,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 16.25,
+      "voice": 4
+    },
+    {
+      "id": 33,
+      "part": "1-p0",
+      "instrument": 12,
+      "start": 10.224929,
+      "duration": 0.648527,
+      "pitch": 59.276416761680274,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 16.25,
+      "voice": 7
+    },
+    {
+      "id": 70,
+      "part": "1-p2",
+      "instrument": 71,
+      "start": 10.375821,
+      "duration": 1.739848,
+      "pitch": 80.43144445729087,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 16.5,
+      "voice": 0
+    },
+    {
+      "id": 126,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 10.532427,
+      "duration": 0.290301,
+      "pitch": 81.72353387790007,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 16.75,
+      "voice": 5
+    },
+    {
+      "id": 88,
+      "part": "1-p3",
+      "instrument": 74,
+      "start": 10.577534,
+      "duration": 0.587545,
+      "pitch": 80.43144445729087,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 16.833333333333332,
+      "voice": 3
+    },
+    {
+      "id": 55,
+      "part": "1-p1",
+      "instrument": 32,
+      "start": 10.678062,
+      "duration": 0.591075,
+      "pitch": 91.70786121897116,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 17.0,
+      "voice": 1
+    },
+    {
+      "id": 127,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 10.842027,
+      "duration": 0.582804,
+      "pitch": 80.43144445729087,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 17.25,
+      "voice": 5
+    },
+    {
+      "id": 34,
+      "part": "1-p0",
+      "instrument": 12,
+      "start": 10.928884,
+      "duration": 0.429064,
+      "pitch": 63.681267059211635,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 17.375,
+      "voice": 7
+    },
+    {
+      "id": 157,
+      "part": "1-p7",
+      "instrument": 70,
+      "start": 11.151688,
+      "duration": 2.178723,
+      "pitch": 96.11271151650251,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 17.75,
+      "voice": 8
+    },
+    {
+      "id": 89,
+      "part": "1-p3",
+      "instrument": 74,
+      "start": 11.215337,
+      "duration": 0.379553,
+      "pitch": 73.0900272947386,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 17.833333333333332,
+      "voice": 3
+    },
+    {
+      "id": 56,
+      "part": "1-p1",
+      "instrument": 32,
+      "start": 11.322482,
+      "duration": 0.279667,
+      "pitch": 81.72353387790007,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 18.0,
+      "voice": 1
+    },
+    {
+      "id": 35,
+      "part": "1-p0",
+      "instrument": 12,
+      "start": 11.394718,
+      "duration": 0.864235,
+      "pitch": 73.0900272947386,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 18.125,
+      "voice": 7
+    },
+    {
+      "id": 128,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 11.476699,
+      "duration": 0.136338,
+      "pitch": 77.31868358036871,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 18.25,
+      "voice": 5
+    },
+    {
+      "id": 57,
+      "part": "1-p1",
+      "instrument": 32,
+      "start": 11.618961,
+      "duration": 0.583924,
+      "pitch": 77.31868358036871,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 18.5,
+      "voice": 1
+    },
+    {
+      "id": 90,
+      "part": "1-p3",
+      "instrument": 74,
+      "start": 11.628157,
+      "duration": 0.767849,
+      "pitch": 70.4471171162198,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 18.5,
+      "voice": 3
+    },
+    {
+      "id": 129,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 11.635155,
+      "duration": 0.278076,
+      "pitch": 73.0900272947386,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 18.5,
+      "voice": 5
+    },
+    {
+      "id": 108,
+      "part": "1-p4",
+      "instrument": 51,
+      "start": 11.769166,
+      "duration": 0.372201,
+      "pitch": 96.11271151650251,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 18.75,
+      "voice": 4
+    },
+    {
+      "id": 150,
+      "part": "1-p6",
+      "instrument": 15,
+      "start": 11.929944,
+      "duration": 1.165233,
+      "pitch": 91.70786121897116,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 19.0,
+      "voice": 6
+    },
+    {
+      "id": 130,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 11.936632,
+      "duration": 0.288057,
+      "pitch": 96.11271151650251,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 19.0,
+      "voice": 5
+    },
+    {
+      "id": 109,
+      "part": "1-p4",
+      "instrument": 51,
+      "start": 12.167621,
+      "duration": 0.726106,
+      "pitch": 96.11271151650251,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 19.375,
+      "voice": 4
+    },
+    {
+      "id": 58,
+      "part": "1-p1",
+      "instrument": 32,
+      "start": 12.248382,
+      "duration": 0.868657,
+      "pitch": 66.04226681868845,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 19.5,
+      "voice": 1
+    },
+    {
+      "id": 71,
+      "part": "1-p2",
+      "instrument": 71,
+      "start": 12.25384,
+      "duration": 0.427506,
+      "pitch": 84.3664440564189,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 19.5,
+      "voice": 0
+    },
+    {
+      "id": 131,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 12.256073,
+      "duration": 0.135261,
+      "pitch": 96.11271151650251,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 19.5,
+      "voice": 5
+    },
+    {
+      "id": 36,
+      "part": "1-p0",
+      "instrument": 12,
+      "start": 12.335633,
+      "duration": 0.205993,
+      "pitch": 80.43144445729087,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 19.625,
+      "voice": 7
+    },
+    {
+      "id": 132,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 12.402801,
+      "duration": 0.289477,
+      "pitch": 96.11271151650251,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 19.75,
+      "voice": 5
+    },
+    {
+      "id": 91,
+      "part": "1-p3",
+      "instrument": 74,
+      "start": 12.453127,
+      "duration": 0.194384,
+      "pitch": 66.04226681868845,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 19.833333333333332,
+      "voice": 3
+    },
+    {
+      "id": 37,
+      "part": "1-p0",
+      "instrument": 12,
+      "start": 12.551336,
+      "duration": 0.442335,
+      "pitch": 88.77129435395025,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 20.0,
+      "voice": 7
+    },
+    {
+      "id": 92,
+      "part": "1-p3",
+      "instrument": 74,
+      "start": 12.661589,
+      "duration": 0.38778,
+      "pitch": 63.681267059211635,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 20.166666666666664,
+      "voice": 3
+    },
+    {
+      "id": 72,
+      "part": "1-p2",
+      "instrument": 71,
+      "start": 12.712278,
+      "duration": 0.871697,
+      "pitch": 96.11271151650251,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 20.25,
+      "voice": 0
+    },
+    {
+      "id": 133,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 12.720141,
+      "duration": 0.429692,
+      "pitch": 91.70786121897116,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 20.25,
+      "voice": 5
+    },
+    {
+      "id": 110,
+      "part": "1-p4",
+      "instrument": 51,
+      "start": 12.940715,
+      "duration": 0.73193,
+      "pitch": 70.4471171162198,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 20.625,
+      "voice": 4
+    },
+    {
+      "id": 38,
+      "part": "1-p0",
+      "instrument": 12,
+      "start": 13.024333,
+      "duration": 0.436749,
+      "pitch": 52.404850297531354,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 20.75,
+      "voice": 7
+    },
+    {
+      "id": 93,
+      "part": "1-p3",
+      "instrument": 74,
+      "start": 13.078395,
+      "duration": 0.386317,
+      "pitch": 96.11271151650251,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 20.833333333333332,
+      "voice": 3
+    },
+    {
+      "id": 59,
+      "part": "1-p1",
+      "instrument": 32,
+      "start": 13.175146,
+      "duration": 0.586169,
+      "pitch": 62.38917763860244,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 21.0,
+      "voice": 1
+    },
+    {
+      "id": 134,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 13.179177,
+      "duration": 0.292794,
+      "pitch": 84.3664440564189,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 21.0,
+      "voice": 5
+    },
+    {
+      "id": 151,
+      "part": "1-p6",
+      "instrument": 15,
+      "start": 13.19038,
+      "duration": 0.99762,
+      "pitch": 96.11271151650251,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 21.0,
+      "voice": 6
+    },
+    {
+      "id": 135,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 13.486488,
+      "duration": 0.586181,
+      "pitch": 81.72353387790007,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 21.5,
+      "voice": 5
+    },
+    {
+      "id": 94,
+      "part": "1-p3",
+      "instrument": 74,
+      "start": 13.490295,
+      "duration": 0.196351,
+      "pitch": 96.11271151650251,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 21.5,
+      "voice": 3
+    },
+    {
+      "id": 39,
+      "part": "1-p0",
+      "instrument": 12,
+      "start": 13.492673,
+      "duration": 0.218084,
+      "pitch": 55.04776047605017,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 21.5,
+      "voice": 7
+    },
+    {
+      "id": 158,
+      "part": "1-p7",
+      "instrument": 70,
+      "start": 13.497259,
+      "duration": 0.690741,
+      "pitch": 91.70786121897116,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 21.5,
+      "voice": 8
+    },
+    {
+      "id": 73,
+      "part": "1-p2",
+      "instrument": 71,
+      "start": 13.644188,
+      "duration": 0.543812,
+      "pitch": 59.276416761680274,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 21.75,
+      "voice": 0
+    },
+    {
+      "id": 95,
+      "part": "1-p3",
+      "instrument": 74,
+      "start": 13.710909,
+      "duration": 0.37629,
+      "pitch": 91.70786121897116,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 21.833333333333332,
+      "voice": 3
+    },
+    {
+      "id": 40,
+      "part": "1-p0",
+      "instrument": 12,
+      "start": 13.729554,
+      "duration": 0.43186,
+      "pitch": 59.276416761680274,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 21.875,
+      "voice": 7
+    },
+    {
+      "id": 111,
+      "part": "1-p4",
+      "instrument": 51,
+      "start": 13.736372,
+      "duration": 0.352644,
+      "pitch": 73.0900272947386,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 21.875,
+      "voice": 4
+    },
+    {
+      "id": 60,
+      "part": "1-p1",
+      "instrument": 32,
+      "start": 13.808539,
+      "duration": 0.379461,
+      "pitch": 59.276416761680274,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        1
+      ],
+      "is_passing": false,
+      "beat": 22.0,
+      "voice": 1
+    },
+    {
+      "id": 41,
+      "part": "1-p0",
+      "instrument": 12,
+      "start": 14.205969,
+      "duration": 0.641841,
+      "pitch": 62.0464589708048,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 22.625,
+      "voice": 7
+    },
+    {
+      "id": 136,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 14.265185,
+      "duration": 0.297044,
+      "pitch": 77.72649845432834,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 22.75,
+      "voice": 5
+    },
+    {
+      "id": 74,
+      "part": "1-p2",
+      "instrument": 71,
+      "start": 14.575859,
+      "duration": 0.444864,
+      "pitch": 62.0464589708048,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 23.25,
+      "voice": 0
+    },
+    {
+      "id": 137,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 14.59296,
+      "duration": 0.282234,
+      "pitch": 96.11271151650251,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 23.25,
+      "voice": 5
+    },
+    {
+      "id": 96,
+      "part": "1-p3",
+      "instrument": 74,
+      "start": 14.73421,
+      "duration": 0.40028,
+      "pitch": 77.72649845432834,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 23.5,
+      "voice": 3
+    },
+    {
+      "id": 138,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 14.891141,
+      "duration": 0.15149,
+      "pitch": 96.11271151650251,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 23.75,
+      "voice": 5
+    },
+    {
+      "id": 112,
+      "part": "1-p4",
+      "instrument": 51,
+      "start": 14.893751,
+      "duration": 1.167077,
+      "pitch": 77.72649845432834,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 23.75,
+      "voice": 4
+    },
+    {
+      "id": 42,
+      "part": "1-p0",
+      "instrument": 12,
+      "start": 14.904974,
+      "duration": 0.45032,
+      "pitch": 66.37030803357369,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 23.75,
+      "voice": 7
+    },
+    {
+      "id": 61,
+      "part": "1-p1",
+      "instrument": 32,
+      "start": 15.0471,
+      "duration": 0.319993,
+      "pitch": 55.02019044192105,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 24.0,
+      "voice": 1
+    },
+    {
+      "id": 75,
+      "part": "1-p2",
+      "instrument": 71,
+      "start": 15.049404,
+      "duration": 0.944818,
+      "pitch": 63.69594451212402,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 24.0,
+      "voice": 0
+    },
+    {
+      "id": 139,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 15.050463,
+      "duration": 0.31663,
+      "pitch": 96.11271151650251,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 24.0,
+      "voice": 5
+    },
+    {
+      "id": 159,
+      "part": "1-p7",
+      "instrument": 70,
+      "start": 15.052594,
+      "duration": 2.709361,
+      "pitch": 89.08644298761878,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 24.0,
+      "voice": 8
+    },
+    {
+      "id": 97,
+      "part": "1-p3",
+      "instrument": 74,
+      "start": 15.157049,
+      "duration": 0.845042,
+      "pitch": 73.39049847549474,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 24.166666666666668,
+      "voice": 3
+    },
+    {
+      "id": 140,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 15.386171,
+      "duration": 0.474837,
+      "pitch": 84.7466888962494,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 24.5,
+      "voice": 5
+    },
+    {
+      "id": 62,
+      "part": "1-p1",
+      "instrument": 32,
+      "start": 15.391788,
+      "duration": 0.62604,
+      "pitch": 52.33975409136938,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 24.5,
+      "voice": 1
+    },
+    {
+      "id": 43,
+      "part": "1-p0",
+      "instrument": 12,
+      "start": 15.395982,
+      "duration": 0.935488,
+      "pitch": 77.72649845432834,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 24.5,
+      "voice": 7
+    },
+    {
+      "id": 152,
+      "part": "1-p6",
+      "instrument": 15,
+      "start": 15.718055,
+      "duration": 0.637022,
+      "pitch": 96.11271151650251,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 25.0,
+      "voice": 6
+    },
+    {
+      "id": 141,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 15.892732,
+      "duration": 0.317329,
+      "pitch": 80.41676700437849,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 25.25,
+      "voice": 5
+    },
+    {
+      "id": 98,
+      "part": "1-p3",
+      "instrument": 74,
+      "start": 16.056868,
+      "duration": 0.217269,
+      "pitch": 70.71006212494306,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 25.5,
+      "voice": 3
+    },
+    {
+      "id": 63,
+      "part": "1-p1",
+      "instrument": 32,
+      "start": 16.067101,
+      "duration": 0.626613,
+      "pitch": 96.11271151650251,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 25.5,
+      "voice": 1
+    },
+    {
+      "id": 76,
+      "part": "1-p2",
+      "instrument": 71,
+      "start": 16.076145,
+      "duration": 1.40792,
+      "pitch": 66.37030803357369,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 25.5,
+      "voice": 0
+    },
+    {
+      "id": 113,
+      "part": "1-p4",
+      "instrument": 51,
+      "start": 16.14166,
+      "duration": 0.794341,
+      "pitch": 82.06625254569772,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 25.625,
+      "voice": 4
+    },
+    {
+      "id": 142,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 16.23058,
+      "duration": 0.632565,
+      "pitch": 77.72649845432834,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 25.75,
+      "voice": 5
+    },
+    {
+      "id": 99,
+      "part": "1-p3",
+      "instrument": 74,
+      "start": 16.296988,
+      "duration": 0.412539,
+      "pitch": 66.37030803357369,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 25.833333333333332,
+      "voice": 3
+    },
+    {
+      "id": 44,
+      "part": "1-p0",
+      "instrument": 12,
+      "start": 16.398874,
+      "duration": 0.239774,
+      "pitch": 82.06625254569772,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 26.0,
+      "voice": 7
+    },
+    {
+      "id": 153,
+      "part": "1-p6",
+      "instrument": 15,
+      "start": 16.413942,
+      "duration": 1.252542,
+      "pitch": 96.11271151650251,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 26.0,
+      "voice": 6
+    },
+    {
+      "id": 45,
+      "part": "1-p0",
+      "instrument": 12,
+      "start": 16.659764,
+      "duration": 0.469694,
+      "pitch": 91.77295742513314,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 26.375,
+      "voice": 7
+    },
+    {
+      "id": 100,
+      "part": "1-p3",
+      "instrument": 74,
+      "start": 16.741382,
+      "duration": 0.420468,
+      "pitch": 96.11271151650251,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 26.5,
+      "voice": 3
+    },
+    {
+      "id": 64,
+      "part": "1-p1",
+      "instrument": 32,
+      "start": 16.744249,
+      "duration": 0.312047,
+      "pitch": 84.7466888962494,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 26.5,
+      "voice": 1
+    },
+    {
+      "id": 143,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 16.910518,
+      "duration": 0.157639,
+      "pitch": 73.39049847549474,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 26.75,
+      "voice": 5
+    },
+    {
+      "id": 114,
+      "part": "1-p4",
+      "instrument": 51,
+      "start": 17.006816,
+      "duration": 0.755139,
+      "pitch": 91.77295742513314,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 26.875,
+      "voice": 4
+    },
+    {
+      "id": 144,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 17.069582,
+      "duration": 0.327536,
+      "pitch": 70.71006212494306,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 27.0,
+      "voice": 5
+    },
+    {
+      "id": 65,
+      "part": "1-p1",
+      "instrument": 32,
+      "start": 17.086403,
+      "duration": 0.627817,
+      "pitch": 80.41676700437849,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 27.0,
+      "voice": 1
+    },
+    {
+      "id": 46,
+      "part": "1-p0",
+      "instrument": 12,
+      "start": 17.169014,
+      "duration": 0.471897,
+      "pitch": 48.0,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 27.125,
+      "voice": 7
+    },
+    {
+      "id": 101,
+      "part": "1-p3",
+      "instrument": 74,
+      "start": 17.184335,
+      "duration": 0.220739,
+      "pitch": 91.77295742513314,
+      "velocity": 34,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 27.166666666666668,
+      "voice": 3
+    },
+    {
+      "id": 145,
+      "part": "1-p5",
+      "instrument": 48,
+      "start": 17.425621,
+      "duration": 0.312467,
+      "pitch": 96.11271151650251,
+      "velocity": 33,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 27.5,
+      "voice": 5
+    },
+    {
+      "id": 102,
+      "part": "1-p3",
+      "instrument": 74,
+      "start": 17.426494,
+      "duration": 0.335461,
+      "pitch": 84.7466888962494,
+      "velocity": 35,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 27.5,
+      "voice": 3
+    },
+    {
+      "id": 77,
+      "part": "1-p2",
+      "instrument": 71,
+      "start": 17.590984,
+      "duration": 0.170971,
+      "pitch": 73.39049847549474,
+      "velocity": 36,
+      "role": "invention",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 27.75,
+      "voice": 0
+    },
+    {
+      "id": 229,
+      "part": "2-p7",
+      "instrument": 42,
+      "start": 17.761955,
+      "duration": 3.29323,
+      "pitch": 70.71006212494306,
+      "velocity": 27,
+      "role": "quiet sustained field member",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 28.0,
+      "voice": 9
+    },
+    {
+      "id": 222,
+      "part": "2-p5",
+      "instrument": 79,
+      "start": 17.765322,
+      "duration": 1.866351,
+      "pitch": 63.69594451212402,
+      "velocity": 38,
+      "role": "chord shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 28.0,
+      "voice": 10
+    },
+    {
+      "id": 160,
+      "part": "2-p0",
+      "instrument": 34,
+      "start": 17.772016,
+      "duration": 0.455232,
+      "pitch": 52.33975409136938,
+      "velocity": 29,
+      "role": "scale shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 28.0,
+      "voice": 11
+    },
+    {
+      "id": 179,
+      "part": "2-p1",
+      "instrument": 91,
+      "start": 17.990491,
+      "duration": 0.459348,
+      "pitch": 55.02019044192105,
+      "velocity": 29,
+      "role": "scale shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 28.33,
+      "voice": 12
+    },
+    {
+      "id": 191,
+      "part": "2-p2",
+      "instrument": 1,
+      "start": 18.217986,
+      "duration": 0.922936,
+      "pitch": 62.0464589708048,
+      "velocity": 29,
+      "role": "scale shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 28.66,
+      "voice": 13
+    },
+    {
+      "id": 161,
+      "part": "2-p0",
+      "instrument": 34,
+      "start": 18.262773,
+      "duration": 0.160033,
+      "pitch": 59.35619042075464,
+      "velocity": 30,
+      "role": "scale shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 28.75,
+      "voice": 11
+    },
+    {
+      "id": 201,
+      "part": "2-p3",
+      "instrument": 45,
+      "start": 18.422941,
+      "duration": 0.422029,
+      "pitch": 63.69594451212402,
+      "velocity": 29,
+      "role": "scale shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 28.99,
+      "voice": 14
+    },
+    {
+      "id": 162,
+      "part": "2-p0",
+      "instrument": 34,
+      "start": 18.425797,
+      "duration": 0.322083,
+      "pitch": 63.69594451212402,
+      "velocity": 31,
+      "role": "scale shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 29.0,
+      "voice": 11
+    },
+    {
+      "id": 180,
+      "part": "2-p1",
+      "instrument": 91,
+      "start": 18.487542,
+      "duration": 0.236631,
+      "pitch": 62.0464589708048,
+      "velocity": 30,
+      "role": "scale shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 29.08,
+      "voice": 12
+    },
+    {
+      "id": 215,
+      "part": "2-p4",
+      "instrument": 92,
+      "start": 18.653957,
+      "duration": 1.1721,
+      "pitch": 66.37030803357369,
+      "velocity": 29,
+      "role": "scale shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 29.32,
+      "voice": 15
+    },
+    {
+      "id": 181,
+      "part": "2-p1",
+      "instrument": 91,
+      "start": 18.745294,
+      "duration": 0.702348,
+      "pitch": 66.37030803357369,
+      "velocity": 31,
+      "role": "scale shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 29.455,
+      "voice": 12
+    },
+    {
+      "id": 163,
+      "part": "2-p0",
+      "instrument": 34,
+      "start": 18.766091,
+      "duration": 0.633838,
+      "pitch": 62.0464589708048,
+      "velocity": 32,
+      "role": "scale shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 29.5,
+      "voice": 11
+    },
+    {
+      "id": 202,
+      "part": "2-p3",
+      "instrument": 45,
+      "start": 18.893069,
+      "duration": 0.195753,
+      "pitch": 70.71006212494306,
+      "velocity": 30,
+      "role": "scale shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 29.656666666666666,
+      "voice": 14
+    },
+    {
+      "id": 226,
+      "part": "2-p6",
+      "instrument": 53,
+      "start": 18.905029,
+      "duration": 2.382971,
+      "pitch": 91.77295742513314,
+      "velocity": 40,
+      "role": "scale shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 29.7,
+      "voice": 16
+    },
+    {
+      "id": 203,
+      "part": "2-p3",
+      "instrument": 45,
+      "start": 19.105635,
+      "duration": 0.628277,
+      "pitch": 77.72649845432834,
+      "velocity": 31,
+      "role": "scale shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 29.99,
+      "voice": 14
+    },
+    {
+      "id": 192,
+      "part": "2-p2",
+      "instrument": 1,
+      "start": 19.224834,
+      "duration": 0.311415,
+      "pitch": 66.37030803357369,
+      "velocity": 30,
+      "role": "scale shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 30.16,
+      "voice": 13
+    },
+    {
+      "id": 164,
+      "part": "2-p0",
+      "instrument": 34,
+      "start": 19.444881,
+      "duration": 0.323111,
+      "pitch": 63.69594451212402,
+      "velocity": 32,
+      "role": "scale shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 30.5,
+      "voice": 11
+    },
+    {
+      "id": 182,
+      "part": "2-p1",
+      "instrument": 91,
+      "start": 19.516269,
+      "duration": 0.463792,
+      "pitch": 63.69594451212402,
+      "velocity": 32,
+      "role": "scale shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 30.58,
+      "voice": 12
+    },
+    {
+      "id": 193,
+      "part": "2-p2",
+      "instrument": 1,
+      "start": 19.568139,
+      "duration": 0.624106,
+      "pitch": 73.39049847549474,
+      "velocity": 31,
+      "role": "scale shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 30.66,
+      "voice": 13
+    },
+    {
+      "id": 165,
+      "part": "2-p0",
+      "instrument": 34,
+      "start": 19.790051,
+      "duration": 0.320059,
+      "pitch": 59.35619042075464,
+      "velocity": 31,
+      "role": "scale shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 31.0,
+      "voice": 11
+    },
+    {
+      "id": 204,
+      "part": "2-p3",
+      "instrument": 45,
+      "start": 19.791779,
+      "duration": 0.416437,
+      "pitch": 73.39049847549474,
+      "velocity": 32,
+      "role": "scale shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 30.99,
+      "voice": 14
+    },
+    {
+      "id": 223,
+      "part": "2-p5",
+      "instrument": 79,
+      "start": 19.80313,
+      "duration": 0.933857,
+      "pitch": 59.35619042075464,
+      "velocity": 39,
+      "role": "chord shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 31.0,
+      "voice": 10
+    },
+    {
+      "id": 216,
+      "part": "2-p4",
+      "instrument": 92,
+      "start": 19.938765,
+      "duration": 0.383529,
+      "pitch": 73.39049847549474,
+      "velocity": 30,
+      "role": "scale shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 31.195,
+      "voice": 15
+    },
+    {
+      "id": 183,
+      "part": "2-p1",
+      "instrument": 91,
+      "start": 20.016776,
+      "duration": 0.943627,
+      "pitch": 66.37030803357369,
+      "velocity": 32,
+      "role": "scale shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 31.33,
+      "voice": 12
+    },
+    {
+      "id": 166,
+      "part": "2-p0",
+      "instrument": 34,
+      "start": 20.142955,
+      "duration": 0.15196,
+      "pitch": 66.37030803357369,
+      "velocity": 30,
+      "role": "scale shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 31.5,
+      "voice": 11
+    },
+    {
+      "id": 194,
+      "part": "2-p2",
+      "instrument": 1,
+      "start": 20.238844,
+      "duration": 1.049156,
+      "pitch": 70.71006212494306,
+      "velocity": 32,
+      "role": "scale shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 31.66,
+      "voice": 13
+    },
+    {
+      "id": 205,
+      "part": "2-p3",
+      "instrument": 45,
+      "start": 20.251763,
+      "duration": 0.825989,
+      "pitch": 77.72649845432834,
+      "velocity": 32,
+      "role": "scale shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 31.656666666666666,
+      "voice": 14
+    },
+    {
+      "id": 167,
+      "part": "2-p0",
+      "instrument": 34,
+      "start": 20.319397,
+      "duration": 0.645068,
+      "pitch": 62.0464589708048,
+      "velocity": 29,
+      "role": "scale shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 31.75,
+      "voice": 11
+    },
+    {
+      "id": 217,
+      "part": "2-p4",
+      "instrument": 92,
+      "start": 20.348961,
+      "duration": 0.787466,
+      "pitch": 80.41676700437849,
+      "velocity": 31,
+      "role": "scale shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 31.82,
+      "voice": 15
+    },
+    {
+      "id": 224,
+      "part": "2-p5",
+      "instrument": 79,
+      "start": 20.82142,
+      "duration": 0.46658,
+      "pitch": 70.71006212494306,
+      "velocity": 40,
+      "role": "chord shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 32.5,
+      "voice": 10
+    },
+    {
+      "id": 184,
+      "part": "2-p1",
+      "instrument": 91,
+      "start": 21.04348,
+      "duration": 0.232475,
+      "pitch": 62.0464589708048,
+      "velocity": 31,
+      "role": "scale shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 32.83,
+      "voice": 12
+    },
+    {
+      "id": 206,
+      "part": "2-p3",
+      "instrument": 45,
+      "start": 21.14082,
+      "duration": 0.14718,
+      "pitch": 70.71006212494306,
+      "velocity": 31,
+      "role": "scale shaped line",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 32.99,
+      "voice": 14
+    },
+    {
+      "id": 230,
+      "part": "2-p7",
+      "instrument": 42,
+      "start": 21.156813,
+      "duration": 0.131187,
+      "pitch": 77.72649845432834,
+      "velocity": 28,
+      "role": "quiet sustained field member",
+      "fields": [
+        2
+      ],
+      "is_passing": false,
+      "beat": 33.0,
+      "voice": 9
+    },
+    {
+      "id": 207,
+      "part": "2-p3",
+      "instrument": 45,
+      "start": 21.366396,
+      "duration": 0.638106,
+      "pitch": 80.41651853419407,
+      "velocity": 30,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 33.32333333333334,
+      "voice": 14
+    },
+    {
+      "id": 168,
+      "part": "2-p0",
+      "instrument": 34,
+      "start": 21.407018,
+      "duration": 0.301529,
+      "pitch": 62.03904020084146,
+      "velocity": 30,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 33.349999999999994,
+      "voice": 11
+    },
+    {
+      "id": 195,
+      "part": "2-p2",
+      "instrument": 1,
+      "start": 21.600492,
+      "duration": 0.6344,
+      "pitch": 73.3969243511266,
+      "velocity": 32,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 33.66,
+      "voice": 13
+    },
+    {
+      "id": 169,
+      "part": "2-p0",
+      "instrument": 34,
+      "start": 21.728583,
+      "duration": 0.63633,
+      "pitch": 66.37734903286479,
+      "velocity": 31,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 33.849999999999994,
+      "voice": 11
+    },
+    {
+      "id": 185,
+      "part": "2-p1",
+      "instrument": 91,
+      "start": 22.053332,
+      "duration": 0.671553,
+      "pitch": 63.696192982308446,
+      "velocity": 29,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 34.33,
+      "voice": 12
+    },
+    {
+      "id": 208,
+      "part": "2-p3",
+      "instrument": 45,
+      "start": 22.057468,
+      "duration": 0.589397,
+      "pitch": 73.3969243511266,
+      "velocity": 29,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 34.32333333333334,
+      "voice": 14
+    },
+    {
+      "id": 196,
+      "part": "2-p2",
+      "instrument": 1,
+      "start": 22.290831,
+      "duration": 0.628418,
+      "pitch": 66.37734903286479,
+      "velocity": 31,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 34.66,
+      "voice": 13
+    },
+    {
+      "id": 170,
+      "part": "2-p0",
+      "instrument": 34,
+      "start": 22.416574,
+      "duration": 0.317892,
+      "pitch": 63.696192982308446,
+      "velocity": 32,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 34.849999999999994,
+      "voice": 11
+    },
+    {
+      "id": 227,
+      "part": "2-p6",
+      "instrument": 53,
+      "start": 22.47992,
+      "duration": 1.108066,
+      "pitch": 96.11271151650251,
+      "velocity": 41,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 34.95,
+      "voice": 16
+    },
+    {
+      "id": 171,
+      "part": "2-p0",
+      "instrument": 34,
+      "start": 22.773635,
+      "duration": 0.303022,
+      "pitch": 66.37734903286479,
+      "velocity": 32,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 35.349999999999994,
+      "voice": 11
+    },
+    {
+      "id": 218,
+      "part": "2-p4",
+      "instrument": 92,
+      "start": 22.909165,
+      "duration": 0.787762,
+      "pitch": 80.41651853419407,
+      "velocity": 32,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 35.57,
+      "voice": 15
+    },
+    {
+      "id": 209,
+      "part": "2-p3",
+      "instrument": 45,
+      "start": 22.98176,
+      "duration": 0.199836,
+      "pitch": 66.37734903286479,
+      "velocity": 29,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 35.656666666666666,
+      "voice": 14
+    },
+    {
+      "id": 197,
+      "part": "2-p2",
+      "instrument": 1,
+      "start": 22.983225,
+      "duration": 0.305171,
+      "pitch": 77.73523318314992,
+      "velocity": 30,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 35.66,
+      "voice": 13
+    },
+    {
+      "id": 186,
+      "part": "2-p1",
+      "instrument": 91,
+      "start": 23.088892,
+      "duration": 0.236953,
+      "pitch": 59.35780423834431,
+      "velocity": 29,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 35.83,
+      "voice": 12
+    },
+    {
+      "id": 172,
+      "part": "2-p0",
+      "instrument": 34,
+      "start": 23.097571,
+      "duration": 0.16359,
+      "pitch": 62.03904020084146,
+      "velocity": 31,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 35.849999999999994,
+      "voice": 11
+    },
+    {
+      "id": 210,
+      "part": "2-p3",
+      "instrument": 45,
+      "start": 23.18828,
+      "duration": 0.638015,
+      "pitch": 73.3969243511266,
+      "velocity": 30,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 35.99,
+      "voice": 14
+    },
+    {
+      "id": 173,
+      "part": "2-p0",
+      "instrument": 34,
+      "start": 23.286277,
+      "duration": 0.458313,
+      "pitch": 70.71568838862943,
+      "velocity": 30,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 36.099999999999994,
+      "voice": 11
+    },
+    {
+      "id": 198,
+      "part": "2-p2",
+      "instrument": 1,
+      "start": 23.305772,
+      "duration": 1.328937,
+      "pitch": 70.71568838862943,
+      "velocity": 29,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 36.16,
+      "voice": 13
+    },
+    {
+      "id": 187,
+      "part": "2-p1",
+      "instrument": 91,
+      "start": 23.356809,
+      "duration": 0.694965,
+      "pitch": 63.696192982308446,
+      "velocity": 30,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 36.205,
+      "voice": 12
+    },
+    {
+      "id": 228,
+      "part": "2-p6",
+      "instrument": 53,
+      "start": 23.687409,
+      "duration": 2.196035,
+      "pitch": 89.09316672198203,
+      "velocity": 42,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 36.7,
+      "voice": 16
+    },
+    {
+      "id": 219,
+      "part": "2-p4",
+      "instrument": 92,
+      "start": 23.758689,
+      "duration": 0.79252,
+      "pitch": 73.3969243511266,
+      "velocity": 31,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 36.82,
+      "voice": 15
+    },
+    {
+      "id": 174,
+      "part": "2-p0",
+      "instrument": 34,
+      "start": 23.784632,
+      "duration": 0.220619,
+      "pitch": 63.696192982308446,
+      "velocity": 29,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 36.849999999999994,
+      "voice": 11
+    },
+    {
+      "id": 211,
+      "part": "2-p3",
+      "instrument": 45,
+      "start": 23.871161,
+      "duration": 0.42919,
+      "pitch": 80.41651853419407,
+      "velocity": 31,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 36.99,
+      "voice": 14
+    },
+    {
+      "id": 225,
+      "part": "2-p5",
+      "instrument": 79,
+      "start": 23.880429,
+      "duration": 1.893937,
+      "pitch": 70.71568838862943,
+      "velocity": 41,
+      "role": "chord shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 37.0,
+      "voice": 10
+    },
+    {
+      "id": 188,
+      "part": "2-p1",
+      "instrument": 91,
+      "start": 24.116609,
+      "duration": 0.468815,
+      "pitch": 70.71568838862943,
+      "velocity": 31,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 37.33,
+      "voice": 12
+    },
+    {
+      "id": 175,
+      "part": "2-p0",
+      "instrument": 34,
+      "start": 24.218011,
+      "duration": 0.326356,
+      "pitch": 59.35780423834431,
+      "velocity": 29,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 37.49999999999999,
+      "voice": 11
+    },
+    {
+      "id": 212,
+      "part": "2-p3",
+      "instrument": 45,
+      "start": 24.344705,
+      "duration": 0.831682,
+      "pitch": 77.73523318314992,
+      "velocity": 32,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 37.656666666666666,
+      "voice": 14
+    },
+    {
+      "id": 176,
+      "part": "2-p0",
+      "instrument": 34,
+      "start": 24.561736,
+      "duration": 0.639751,
+      "pitch": 63.696192982308446,
+      "velocity": 30,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 37.99999999999999,
+      "voice": 11
+    },
+    {
+      "id": 231,
+      "part": "2-p7",
+      "instrument": 42,
+      "start": 24.568542,
+      "duration": 1.369441,
+      "pitch": 77.73523318314992,
+      "velocity": 27,
+      "role": "quiet sustained field member",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 38.0,
+      "voice": 9
+    },
+    {
+      "id": 189,
+      "part": "2-p1",
+      "instrument": 91,
+      "start": 24.620205,
+      "duration": 0.94964,
+      "pitch": 66.37734903286479,
+      "velocity": 32,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 38.08,
+      "voice": 12
+    },
+    {
+      "id": 220,
+      "part": "2-p4",
+      "instrument": 92,
+      "start": 24.62295,
+      "duration": 0.390295,
+      "pitch": 82.07367131566104,
+      "velocity": 30,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 38.07,
+      "voice": 15
+    },
+    {
+      "id": 221,
+      "part": "2-p4",
+      "instrument": 92,
+      "start": 25.044316,
+      "duration": 0.893667,
+      "pitch": 77.73523318314992,
+      "velocity": 29,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 38.695,
+      "voice": 15
+    },
+    {
+      "id": 199,
+      "part": "2-p2",
+      "instrument": 1,
+      "start": 25.150581,
+      "duration": 0.323821,
+      "pitch": 63.696192982308446,
+      "velocity": 29,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 38.86,
+      "voice": 13
+    },
+    {
+      "id": 213,
+      "part": "2-p3",
+      "instrument": 45,
+      "start": 25.249543,
+      "duration": 0.208952,
+      "pitch": 80.41651853419407,
+      "velocity": 32,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 38.99,
+      "voice": 14
+    },
+    {
+      "id": 177,
+      "part": "2-p0",
+      "instrument": 34,
+      "start": 25.252055,
+      "duration": 0.31779,
+      "pitch": 70.71568838862943,
+      "velocity": 31,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 38.99999999999999,
+      "voice": 11
+    },
+    {
+      "id": 214,
+      "part": "2-p3",
+      "instrument": 45,
+      "start": 25.480653,
+      "duration": 0.457329,
+      "pitch": 73.3969243511266,
+      "velocity": 31,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 39.32333333333334,
+      "voice": 14
+    },
+    {
+      "id": 200,
+      "part": "2-p2",
+      "instrument": 1,
+      "start": 25.495294,
+      "duration": 0.442688,
+      "pitch": 70.71568838862943,
+      "velocity": 30,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 39.36,
+      "voice": 13
+    },
+    {
+      "id": 178,
+      "part": "2-p0",
+      "instrument": 34,
+      "start": 25.6069,
+      "duration": 0.303813,
+      "pitch": 66.37734903286479,
+      "velocity": 32,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 39.49999999999999,
+      "voice": 11
+    },
+    {
+      "id": 190,
+      "part": "2-p1",
+      "instrument": 91,
+      "start": 25.659665,
+      "duration": 0.227188,
+      "pitch": 70.71568838862943,
+      "velocity": 32,
+      "role": "scale shaped line",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 39.58,
+      "voice": 12
+    },
+    {
+      "id": 232,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 25.937982,
+      "duration": 0.477069,
+      "pitch": 70.71568838862943,
+      "velocity": 33,
+      "role": "concertino",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 40.0,
+      "voice": 17
+    },
+    {
+      "id": 262,
+      "part": "3-p1",
+      "instrument": 46,
+      "start": 26.06444,
+      "duration": 2.059776,
+      "pitch": 73.3969243511266,
+      "velocity": 25,
+      "role": "concertino accompaniment",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 40.2,
+      "voice": 18
+    },
+    {
+      "id": 270,
+      "part": "3-p2",
+      "instrument": 68,
+      "start": 26.205126,
+      "duration": 2.182874,
+      "pitch": 77.73523318314992,
+      "velocity": 25,
+      "role": "concertino accompaniment",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 40.4,
+      "voice": 19
+    },
+    {
+      "id": 277,
+      "part": "3-p3",
+      "instrument": 49,
+      "start": 26.340936,
+      "duration": 2.047064,
+      "pitch": 84.75482736621738,
+      "velocity": 25,
+      "role": "concertino accompaniment",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 40.6,
+      "voice": 20
+    },
+    {
+      "id": 233,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 26.444064,
+      "duration": 0.245494,
+      "pitch": 73.3969243511266,
+      "velocity": 35,
+      "role": "concertino",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 40.75,
+      "voice": 17
+    },
+    {
+      "id": 284,
+      "part": "3-p4",
+      "instrument": 27,
+      "start": 26.489642,
+      "duration": 1.898358,
+      "pitch": 59.35780423834431,
+      "velocity": 25,
+      "role": "concertino accompaniment",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 40.8,
+      "voice": 21
+    },
+    {
+      "id": 290,
+      "part": "3-p5",
+      "instrument": 59,
+      "start": 26.621019,
+      "duration": 1.766981,
+      "pitch": 66.37734903286479,
+      "velocity": 26,
+      "role": "concertino accompaniment",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 41.0,
+      "voice": 22
+    },
+    {
+      "id": 234,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 26.712087,
+      "duration": 0.472964,
+      "pitch": 77.73523318314992,
+      "velocity": 36,
+      "role": "concertino",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 41.125,
+      "voice": 17
+    },
+    {
+      "id": 235,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 27.229687,
+      "duration": 0.705242,
+      "pitch": 80.41651853419407,
+      "velocity": 36,
+      "role": "concertino",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 41.875,
+      "voice": 17
+    },
+    {
+      "id": 296,
+      "part": "3-p6",
+      "instrument": 30,
+      "start": 27.314245,
+      "duration": 0.942156,
+      "pitch": 91.77440268447918,
+      "velocity": 33,
+      "role": "concertino",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 42.0,
+      "voice": 23
+    },
+    {
+      "id": 236,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 27.986892,
+      "duration": 0.401108,
+      "pitch": 84.75482736621738,
+      "velocity": 36,
+      "role": "concertino",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 43.0,
+      "voice": 17
+    },
+    {
+      "id": 263,
+      "part": "3-p1",
+      "instrument": 46,
+      "start": 28.296673,
+      "duration": 0.091327,
+      "pitch": 73.3969243511266,
+      "velocity": 25,
+      "role": "concertino accompaniment",
+      "fields": [
+        3
+      ],
+      "is_passing": false,
+      "beat": 43.45,
+      "voice": 18
+    },
+    {
+      "id": 237,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 28.492285,
+      "duration": 0.957873,
+      "pitch": 96.11271151650251,
+      "velocity": 36,
+      "role": "concertino",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 43.75,
+      "voice": 17
+    },
+    {
+      "id": 271,
+      "part": "3-p2",
+      "instrument": 68,
+      "start": 28.587888,
+      "duration": 2.191432,
+      "pitch": 77.73529099574674,
+      "velocity": 25,
+      "role": "concertino accompaniment",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 43.9,
+      "voice": 19
+    },
+    {
+      "id": 297,
+      "part": "3-p6",
+      "instrument": 30,
+      "start": 28.833429,
+      "duration": 0.957926,
+      "pitch": 77.73529099574674,
+      "velocity": 36,
+      "role": "concertino",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 44.25,
+      "voice": 23
+    },
+    {
+      "id": 278,
+      "part": "3-p3",
+      "instrument": 49,
+      "start": 28.902452,
+      "duration": 2.315463,
+      "pitch": 84.75484100530302,
+      "velocity": 25,
+      "role": "concertino accompaniment",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 44.35,
+      "voice": 20
+    },
+    {
+      "id": 285,
+      "part": "3-p4",
+      "instrument": 27,
+      "start": 29.207619,
+      "duration": 2.401152,
+      "pitch": 59.35787049736907,
+      "velocity": 25,
+      "role": "concertino accompaniment",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 44.8,
+      "voice": 21
+    },
+    {
+      "id": 291,
+      "part": "3-p5",
+      "instrument": 59,
+      "start": 29.517736,
+      "duration": 2.45189,
+      "pitch": 66.37742049837767,
+      "velocity": 26,
+      "role": "concertino accompaniment",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 45.25,
+      "voice": 17
+    },
+    {
+      "id": 238,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 29.533381,
+      "duration": 0.226413,
+      "pitch": 96.11271151650251,
+      "velocity": 35,
+      "role": "concertino",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 45.25,
+      "voice": 22
+    },
+    {
+      "id": 239,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 29.779613,
+      "duration": 0.472724,
+      "pitch": 96.11271151650251,
+      "velocity": 33,
+      "role": "concertino",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 45.625,
+      "voice": 22
+    },
+    {
+      "id": 298,
+      "part": "3-p6",
+      "instrument": 30,
+      "start": 29.861814,
+      "duration": 1.418516,
+      "pitch": 66.37742049837767,
+      "velocity": 36,
+      "role": "concertino",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 45.75,
+      "voice": 23
+    },
+    {
+      "id": 240,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 30.288316,
+      "duration": 0.472448,
+      "pitch": 73.39697050793394,
+      "velocity": 33,
+      "role": "concertino",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 46.375,
+      "voice": 22
+    },
+    {
+      "id": 264,
+      "part": "3-p1",
+      "instrument": 46,
+      "start": 30.5127,
+      "duration": 1.815787,
+      "pitch": 73.39697050793394,
+      "velocity": 25,
+      "role": "concertino accompaniment",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 46.7,
+      "voice": 18
+    },
+    {
+      "id": 241,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 30.794913,
+      "duration": 0.236599,
+      "pitch": 77.73529099574674,
+      "velocity": 35,
+      "role": "concertino",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 47.125,
+      "voice": 22
+    },
+    {
+      "id": 272,
+      "part": "3-p2",
+      "instrument": 68,
+      "start": 30.980226,
+      "duration": 1.843368,
+      "pitch": 77.73529099574674,
+      "velocity": 25,
+      "role": "concertino accompaniment",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 47.4,
+      "voice": 19
+    },
+    {
+      "id": 242,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 31.047851,
+      "duration": 0.448448,
+      "pitch": 80.4165205260379,
+      "velocity": 36,
+      "role": "concertino",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 47.5,
+      "voice": 22
+    },
+    {
+      "id": 299,
+      "part": "3-p6",
+      "instrument": 30,
+      "start": 31.383917,
+      "duration": 0.776182,
+      "pitch": 62.03910002766023,
+      "velocity": 36,
+      "role": "concertino",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 48.0,
+      "voice": 23
+    },
+    {
+      "id": 279,
+      "part": "3-p3",
+      "instrument": 49,
+      "start": 31.450193,
+      "duration": 1.867218,
+      "pitch": 84.75484100530302,
+      "velocity": 25,
+      "role": "concertino accompaniment",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 48.1,
+      "voice": 20
+    },
+    {
+      "id": 243,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 31.521827,
+      "duration": 0.583752,
+      "pitch": 82.07361148884229,
+      "velocity": 36,
+      "role": "concertino",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 48.25,
+      "voice": 22
+    },
+    {
+      "id": 286,
+      "part": "3-p4",
+      "instrument": 27,
+      "start": 31.820518,
+      "duration": 1.992017,
+      "pitch": 59.35787049736907,
+      "velocity": 25,
+      "role": "concertino accompaniment",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 48.8,
+      "voice": 21
+    },
+    {
+      "id": 244,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 32.153254,
+      "duration": 0.380673,
+      "pitch": 89.09316149839857,
+      "velocity": 36,
+      "role": "concertino",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 49.375,
+      "voice": 17
+    },
+    {
+      "id": 292,
+      "part": "3-p5",
+      "instrument": 59,
+      "start": 32.218499,
+      "duration": 2.090274,
+      "pitch": 66.37742049837767,
+      "velocity": 26,
+      "role": "concertino accompaniment",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 49.5,
+      "voice": 22
+    },
+    {
+      "id": 300,
+      "part": "3-p6",
+      "instrument": 30,
+      "start": 32.218853,
+      "duration": 1.532919,
+      "pitch": 59.35787049736907,
+      "velocity": 36,
+      "role": "concertino",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 49.5,
+      "voice": 23
+    },
+    {
+      "id": 265,
+      "part": "3-p1",
+      "instrument": 46,
+      "start": 32.457964,
+      "duration": 1.658392,
+      "pitch": 73.39697050793394,
+      "velocity": 25,
+      "role": "concertino accompaniment",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 49.95,
+      "voice": 18
+    },
+    {
+      "id": 245,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 32.57346,
+      "duration": 0.754918,
+      "pitch": 96.11271151650251,
+      "velocity": 36,
+      "role": "concertino",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 50.125,
+      "voice": 17
+    },
+    {
+      "id": 273,
+      "part": "3-p2",
+      "instrument": 68,
+      "start": 32.981889,
+      "duration": 1.76624,
+      "pitch": 77.73529099574674,
+      "velocity": 25,
+      "role": "concertino accompaniment",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 50.9,
+      "voice": 19
+    },
+    {
+      "id": 246,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 33.38866,
+      "duration": 0.188521,
+      "pitch": 96.11271151650251,
+      "velocity": 35,
+      "role": "concertino",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 51.625,
+      "voice": 17
+    },
+    {
+      "id": 280,
+      "part": "3-p3",
+      "instrument": 49,
+      "start": 33.501416,
+      "duration": 1.877653,
+      "pitch": 84.75484100530302,
+      "velocity": 25,
+      "role": "concertino accompaniment",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 51.85,
+      "voice": 20
+    },
+    {
+      "id": 247,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 33.590572,
+      "duration": 0.386303,
+      "pitch": 96.11271151650251,
+      "velocity": 33,
+      "role": "concertino",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 52.0,
+      "voice": 17
+    },
+    {
+      "id": 301,
+      "part": "3-p6",
+      "instrument": 30,
+      "start": 33.865678,
+      "duration": 0.38679,
+      "pitch": 55.019550009556276,
+      "velocity": 35,
+      "role": "concertino",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 52.5,
+      "voice": 23
+    },
+    {
+      "id": 248,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 34.008092,
+      "duration": 0.381707,
+      "pitch": 77.73529099574674,
+      "velocity": 33,
+      "role": "concertino",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 52.75,
+      "voice": 17
+    },
+    {
+      "id": 287,
+      "part": "3-p4",
+      "instrument": 27,
+      "start": 34.024235,
+      "duration": 1.463765,
+      "pitch": 59.35787049736907,
+      "velocity": 25,
+      "role": "concertino accompaniment",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 52.8,
+      "voice": 21
+    },
+    {
+      "id": 266,
+      "part": "3-p1",
+      "instrument": 46,
+      "start": 34.247029,
+      "duration": 1.240971,
+      "pitch": 73.39697050793394,
+      "velocity": 25,
+      "role": "concertino accompaniment",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 53.2,
+      "voice": 18
+    },
+    {
+      "id": 302,
+      "part": "3-p6",
+      "instrument": 30,
+      "start": 34.281232,
+      "duration": 0.765713,
+      "pitch": 52.338320493095544,
+      "velocity": 33,
+      "role": "concertino",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 53.25,
+      "voice": 23
+    },
+    {
+      "id": 249,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 34.425261,
+      "duration": 0.184953,
+      "pitch": 80.4165205260379,
+      "velocity": 35,
+      "role": "concertino",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 53.5,
+      "voice": 17
+    },
+    {
+      "id": 293,
+      "part": "3-p5",
+      "instrument": 59,
+      "start": 34.549804,
+      "duration": 0.938196,
+      "pitch": 66.37742049837767,
+      "velocity": 26,
+      "role": "concertino accompaniment",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 53.75,
+      "voice": 22
+    },
+    {
+      "id": 250,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 34.633998,
+      "duration": 0.373197,
+      "pitch": 82.07361148884229,
+      "velocity": 36,
+      "role": "concertino",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 53.875,
+      "voice": 17
+    },
+    {
+      "id": 274,
+      "part": "3-p2",
+      "instrument": 68,
+      "start": 34.912406,
+      "duration": 0.575594,
+      "pitch": 77.73529099574674,
+      "velocity": 25,
+      "role": "concertino accompaniment",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 54.4,
+      "voice": 19
+    },
+    {
+      "id": 251,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 35.025026,
+      "duration": 0.462974,
+      "pitch": 84.75484100530302,
+      "velocity": 36,
+      "role": "concertino",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 54.625,
+      "voice": 17
+    },
+    {
+      "id": 303,
+      "part": "3-p6",
+      "instrument": 30,
+      "start": 35.11047,
+      "duration": 0.37753,
+      "pitch": 96.11271151650251,
+      "velocity": 33,
+      "role": "concertino",
+      "fields": [
+        4
+      ],
+      "is_passing": false,
+      "beat": 54.75,
+      "voice": 23
+    },
+    {
+      "id": 281,
+      "part": "3-p3",
+      "instrument": 49,
+      "start": 35.582255,
+      "duration": 1.856745,
+      "pitch": 84.75484101677091,
+      "velocity": 25,
+      "role": "concertino accompaniment",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 55.6,
+      "voice": 20
+    },
+    {
+      "id": 252,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 35.660534,
+      "duration": 0.376892,
+      "pitch": 91.77439102542479,
+      "velocity": 36,
+      "role": "concertino",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 55.75,
+      "voice": 17
+    },
+    {
+      "id": 304,
+      "part": "3-p6",
+      "instrument": 30,
+      "start": 35.91756,
+      "duration": 0.394632,
+      "pitch": 84.75484101677091,
+      "velocity": 35,
+      "role": "concertino",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 56.25,
+      "voice": 23
+    },
+    {
+      "id": 267,
+      "part": "3-p1",
+      "instrument": 46,
+      "start": 36.037739,
+      "duration": 1.650078,
+      "pitch": 73.39697051703932,
+      "velocity": 25,
+      "role": "concertino accompaniment",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 56.45,
+      "voice": 18
+    },
+    {
+      "id": 253,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 36.067935,
+      "duration": 0.763809,
+      "pitch": 96.11271151650251,
+      "velocity": 36,
+      "role": "concertino",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 56.5,
+      "voice": 17
+    },
+    {
+      "id": 288,
+      "part": "3-p4",
+      "instrument": 27,
+      "start": 36.227827,
+      "duration": 1.983409,
+      "pitch": 59.35787049973159,
+      "velocity": 25,
+      "role": "concertino accompaniment",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 56.8,
+      "voice": 21
+    },
+    {
+      "id": 305,
+      "part": "3-p6",
+      "instrument": 30,
+      "start": 36.343098,
+      "duration": 0.763341,
+      "pitch": 80.4165205256932,
+      "velocity": 36,
+      "role": "concertino",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 57.0,
+      "voice": 23
+    },
+    {
+      "id": 275,
+      "part": "3-p2",
+      "instrument": 68,
+      "start": 36.826629,
+      "duration": 1.768517,
+      "pitch": 77.73529100811703,
+      "velocity": 25,
+      "role": "concertino accompaniment",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 57.9,
+      "voice": 19
+    },
+    {
+      "id": 294,
+      "part": "3-p5",
+      "instrument": 59,
+      "start": 36.879798,
+      "duration": 2.099976,
+      "pitch": 66.37742050838546,
+      "velocity": 26,
+      "role": "concertino accompaniment",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 58.0,
+      "voice": 17
+    },
+    {
+      "id": 254,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 36.888681,
+      "duration": 0.192335,
+      "pitch": 96.11271151650251,
+      "velocity": 35,
+      "role": "concertino",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 58.0,
+      "voice": 22
+    },
+    {
+      "id": 255,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 37.101327,
+      "duration": 0.37776,
+      "pitch": 96.11271151650251,
+      "velocity": 33,
+      "role": "concertino",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 58.375,
+      "voice": 22
+    },
+    {
+      "id": 306,
+      "part": "3-p6",
+      "instrument": 30,
+      "start": 37.162113,
+      "duration": 1.154666,
+      "pitch": 70.71574099946316,
+      "velocity": 36,
+      "role": "concertino",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 58.5,
+      "voice": 23
+    },
+    {
+      "id": 256,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 37.516866,
+      "duration": 0.376916,
+      "pitch": 70.71574099946316,
+      "velocity": 33,
+      "role": "concertino",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 59.125,
+      "voice": 22
+    },
+    {
+      "id": 282,
+      "part": "3-p3",
+      "instrument": 49,
+      "start": 37.620554,
+      "duration": 1.883576,
+      "pitch": 84.75484101677091,
+      "velocity": 25,
+      "role": "concertino accompaniment",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 59.35,
+      "voice": 20
+    },
+    {
+      "id": 268,
+      "part": "3-p1",
+      "instrument": 46,
+      "start": 37.814404,
+      "duration": 1.662096,
+      "pitch": 73.39697051703932,
+      "velocity": 25,
+      "role": "concertino accompaniment",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 59.7,
+      "voice": 18
+    },
+    {
+      "id": 257,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 37.929852,
+      "duration": 0.18475,
+      "pitch": 73.39697051703932,
+      "velocity": 35,
+      "role": "concertino",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 59.875,
+      "voice": 22
+    },
+    {
+      "id": 258,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 38.126667,
+      "duration": 0.384748,
+      "pitch": 77.73529100811703,
+      "velocity": 36,
+      "role": "concertino",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 60.25,
+      "voice": 22
+    },
+    {
+      "id": 307,
+      "part": "3-p6",
+      "instrument": 30,
+      "start": 38.412528,
+      "duration": 0.757269,
+      "pitch": 63.6961909908093,
+      "velocity": 36,
+      "role": "concertino",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 60.75,
+      "voice": 23
+    },
+    {
+      "id": 289,
+      "part": "3-p4",
+      "instrument": 27,
+      "start": 38.439265,
+      "duration": 1.75883,
+      "pitch": 59.35787049973159,
+      "velocity": 25,
+      "role": "concertino accompaniment",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 60.8,
+      "voice": 21
+    },
+    {
+      "id": 259,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 38.545358,
+      "duration": 0.569868,
+      "pitch": 80.4165205256932,
+      "velocity": 36,
+      "role": "concertino",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 61.0,
+      "voice": 22
+    },
+    {
+      "id": 276,
+      "part": "3-p2",
+      "instrument": 68,
+      "start": 38.769511,
+      "duration": 1.428584,
+      "pitch": 77.73529100811703,
+      "velocity": 25,
+      "role": "concertino accompaniment",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 61.4,
+      "voice": 19
+    },
+    {
+      "id": 260,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 39.156651,
+      "duration": 0.387544,
+      "pitch": 84.75484101677091,
+      "velocity": 36,
+      "role": "concertino",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 62.125,
+      "voice": 17
+    },
+    {
+      "id": 295,
+      "part": "3-p5",
+      "instrument": 59,
+      "start": 39.228985,
+      "duration": 0.969111,
+      "pitch": 66.37742050838546,
+      "velocity": 26,
+      "role": "concertino accompaniment",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 62.25,
+      "voice": 22
+    },
+    {
+      "id": 308,
+      "part": "3-p6",
+      "instrument": 30,
+      "start": 39.237767,
+      "duration": 0.960328,
+      "pitch": 62.03910001730775,
+      "velocity": 36,
+      "role": "concertino",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 62.25,
+      "voice": 23
+    },
+    {
+      "id": 261,
+      "part": "3-p0",
+      "instrument": 59,
+      "start": 39.575455,
+      "duration": 0.622641,
+      "pitch": 96.11271151650251,
+      "velocity": 36,
+      "role": "concertino",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 62.875,
+      "voice": 17
+    },
+    {
+      "id": 269,
+      "part": "3-p1",
+      "instrument": 46,
+      "start": 39.606893,
+      "duration": 0.591202,
+      "pitch": 73.39697051703932,
+      "velocity": 25,
+      "role": "concertino accompaniment",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 62.95,
+      "voice": 18
+    },
+    {
+      "id": 283,
+      "part": "3-p3",
+      "instrument": 49,
+      "start": 39.698467,
+      "duration": 0.499628,
+      "pitch": 84.75484101677091,
+      "velocity": 25,
+      "role": "concertino accompaniment",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 63.1,
+      "voice": 20
+    },
+    {
+      "id": 309,
+      "part": "4-p0",
+      "instrument": 8,
+      "start": 40.201697,
+      "duration": 1.015125,
+      "pitch": 62.03910001730775,
+      "velocity": 35,
+      "role": "recurring ground bass",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 64.0,
+      "voice": 24
+    },
+    {
+      "id": 317,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 40.380276,
+      "duration": 0.26547,
+      "pitch": 52.33832049107771,
+      "velocity": 36,
+      "role": "chaconne",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 64.35,
+      "voice": 25
+    },
+    {
+      "id": 347,
+      "part": "4-p2",
+      "instrument": 69,
+      "start": 40.577193,
+      "duration": 0.389709,
+      "pitch": 96.11271151650251,
+      "velocity": 36,
+      "role": "chaconne",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 64.7,
+      "voice": 26
+    },
+    {
+      "id": 318,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 40.662042,
+      "duration": 0.130883,
+      "pitch": 55.01955000865388,
+      "velocity": 38,
+      "role": "chaconne",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 64.85,
+      "voice": 25
+    },
+    {
+      "id": 367,
+      "part": "4-p3",
+      "instrument": 50,
+      "start": 40.786115,
+      "duration": 0.502507,
+      "pitch": 63.6961909908093,
+      "velocity": 36,
+      "role": "chaconne",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 65.05,
+      "voice": 27
+    },
+    {
+      "id": 319,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 40.801504,
+      "duration": 0.25791,
+      "pitch": 59.35787049973159,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 65.1,
+      "voice": 25
+    },
+    {
+      "id": 381,
+      "part": "4-p4",
+      "instrument": 28,
+      "start": 40.968737,
+      "duration": 0.77262,
+      "pitch": 96.11271151650251,
+      "velocity": 36,
+      "role": "chaconne",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 65.4,
+      "voice": 28
+    },
+    {
+      "id": 348,
+      "part": "4-p2",
+      "instrument": 69,
+      "start": 41.001866,
+      "duration": 0.18665,
+      "pitch": 89.09316150784863,
+      "velocity": 38,
+      "role": "chaconne",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 65.45,
+      "voice": 26
+    },
+    {
+      "id": 320,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 41.089118,
+      "duration": 0.375836,
+      "pitch": 62.03910001730775,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 65.6,
+      "voice": 25
+    },
+    {
+      "id": 391,
+      "part": "4-p5",
+      "instrument": 60,
+      "start": 41.163359,
+      "duration": 1.031726,
+      "pitch": 73.39697051703932,
+      "velocity": 36,
+      "role": "chaconne",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 65.75,
+      "voice": 29
+    },
+    {
+      "id": 349,
+      "part": "4-p2",
+      "instrument": 69,
+      "start": 41.21171,
+      "duration": 0.378251,
+      "pitch": 82.07361149919475,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 65.825,
+      "voice": 26
+    },
+    {
+      "id": 310,
+      "part": "4-p0",
+      "instrument": 8,
+      "start": 41.302565,
+      "duration": 1.026226,
+      "pitch": 66.37742050838547,
+      "velocity": 35,
+      "role": "recurring ground bass",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 66.0,
+      "voice": 24
+    },
+    {
+      "id": 368,
+      "part": "4-p3",
+      "instrument": 50,
+      "start": 41.337799,
+      "duration": 0.247995,
+      "pitch": 66.37742050838546,
+      "velocity": 38,
+      "role": "chaconne",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 66.05,
+      "voice": 27
+    },
+    {
+      "id": 398,
+      "part": "4-p6",
+      "instrument": 31,
+      "start": 41.351665,
+      "duration": 0.348024,
+      "pitch": 96.11271151650251,
+      "velocity": 36,
+      "role": "chaconne",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 66.1,
+      "voice": 30
+    },
+    {
+      "id": 321,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 41.500962,
+      "duration": 0.251507,
+      "pitch": 66.37742050838546,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 66.35,
+      "voice": 25
+    },
+    {
+      "id": 369,
+      "part": "4-p3",
+      "instrument": 50,
+      "start": 41.608759,
+      "duration": 0.513903,
+      "pitch": 70.71574099946316,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 66.55,
+      "voice": 27
+    },
+    {
+      "id": 350,
+      "part": "4-p2",
+      "instrument": 69,
+      "start": 41.621138,
+      "duration": 0.580215,
+      "pitch": 73.39697051703932,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 66.575,
+      "voice": 26
+    },
+    {
+      "id": 399,
+      "part": "4-p6",
+      "instrument": 31,
+      "start": 41.72525,
+      "duration": 0.172714,
+      "pitch": 96.11271151650251,
+      "velocity": 38,
+      "role": "chaconne",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 66.76666666666667,
+      "voice": 30
+    },
+    {
+      "id": 322,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 41.761999,
+      "duration": 0.527794,
+      "pitch": 77.73529100811703,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 66.85,
+      "voice": 25
+    },
+    {
+      "id": 382,
+      "part": "4-p4",
+      "instrument": 28,
+      "start": 41.795644,
+      "duration": 0.392478,
+      "pitch": 96.11271151650251,
+      "velocity": 38,
+      "role": "chaconne",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 66.9,
+      "voice": 28
+    },
+    {
+      "id": 400,
+      "part": "4-p6",
+      "instrument": 31,
+      "start": 41.922097,
+      "duration": 0.33427,
+      "pitch": 96.11271151650251,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 67.1,
+      "voice": 30
+    },
+    {
+      "id": 370,
+      "part": "4-p3",
+      "instrument": 50,
+      "start": 42.173475,
+      "duration": 0.414525,
+      "pitch": 73.39697051703932,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 67.55,
+      "voice": 27
+    },
+    {
+      "id": 383,
+      "part": "4-p4",
+      "instrument": 28,
+      "start": 42.211192,
+      "duration": 0.376808,
+      "pitch": 91.77439102542479,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 67.65,
+      "voice": 28
+    },
+    {
+      "id": 351,
+      "part": "4-p2",
+      "instrument": 69,
+      "start": 42.241526,
+      "duration": 0.346474,
+      "pitch": 66.37742050838546,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 67.7,
+      "voice": 26
+    },
+    {
+      "id": 401,
+      "part": "4-p6",
+      "instrument": 31,
+      "start": 42.281096,
+      "duration": 0.306904,
+      "pitch": 96.11271151650251,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 67.76666666666667,
+      "voice": 30
+    },
+    {
+      "id": 392,
+      "part": "4-p5",
+      "instrument": 60,
+      "start": 42.283628,
+      "duration": 0.304372,
+      "pitch": 77.73529100811703,
+      "velocity": 38,
+      "role": "chaconne",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 67.75,
+      "voice": 29
+    },
+    {
+      "id": 323,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 42.319528,
+      "duration": 0.138368,
+      "pitch": 82.07361149919475,
+      "velocity": 38,
+      "role": "chaconne",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 67.85,
+      "voice": 25
+    },
+    {
+      "id": 311,
+      "part": "4-p0",
+      "instrument": 8,
+      "start": 42.407384,
+      "duration": 0.180616,
+      "pitch": 66.37742050838546,
+      "velocity": 35,
+      "role": "recurring ground bass",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 68.0,
+      "voice": 24
+    },
+    {
+      "id": 324,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 42.475055,
+      "duration": 0.112945,
+      "pitch": 91.77439102542479,
+      "velocity": 36,
+      "role": "chaconne",
+      "fields": [
+        5
+      ],
+      "is_passing": false,
+      "beat": 68.1,
+      "voice": 25
+    },
+    {
+      "id": 352,
+      "part": "4-p2",
+      "instrument": 69,
+      "start": 42.67018,
+      "duration": 0.763442,
+      "pitch": 63.6961909908093,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 68.45,
+      "voice": 26
+    },
+    {
+      "id": 325,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 42.745622,
+      "duration": 0.254833,
+      "pitch": 55.01955000865388,
+      "velocity": 36,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 68.6,
+      "voice": 25
+    },
+    {
+      "id": 393,
+      "part": "4-p5",
+      "instrument": 60,
+      "start": 42.823788,
+      "duration": 1.035728,
+      "pitch": 80.4165205256932,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 68.75,
+      "voice": 29
+    },
+    {
+      "id": 402,
+      "part": "4-p6",
+      "instrument": 31,
+      "start": 42.824201,
+      "duration": 0.354889,
+      "pitch": 89.09316150784863,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 68.76666666666667,
+      "voice": 30
+    },
+    {
+      "id": 371,
+      "part": "4-p3",
+      "instrument": 50,
+      "start": 42.992021,
+      "duration": 0.516573,
+      "pitch": 80.4165205256932,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 69.05,
+      "voice": 27
+    },
+    {
+      "id": 326,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 43.03095,
+      "duration": 0.118059,
+      "pitch": 59.35787049973159,
+      "velocity": 38,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 69.1,
+      "voice": 25
+    },
+    {
+      "id": 384,
+      "part": "4-p4",
+      "instrument": 28,
+      "start": 43.041434,
+      "duration": 1.170208,
+      "pitch": 82.07361149919475,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 69.15,
+      "voice": 28
+    },
+    {
+      "id": 327,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 43.158587,
+      "duration": 0.258375,
+      "pitch": 62.03910001730775,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 69.35,
+      "voice": 25
+    },
+    {
+      "id": 403,
+      "part": "4-p6",
+      "instrument": 31,
+      "start": 43.193899,
+      "duration": 0.700899,
+      "pitch": 84.75484101677091,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 69.43333333333334,
+      "voice": 30
+    },
+    {
+      "id": 328,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 43.427197,
+      "duration": 0.397502,
+      "pitch": 63.6961909908093,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 69.85,
+      "voice": 25
+    },
+    {
+      "id": 353,
+      "part": "4-p2",
+      "instrument": 69,
+      "start": 43.503517,
+      "duration": 0.18261,
+      "pitch": 62.03910001730775,
+      "velocity": 38,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 69.95,
+      "voice": 26
+    },
+    {
+      "id": 312,
+      "part": "4-p0",
+      "instrument": 8,
+      "start": 43.527978,
+      "duration": 1.021524,
+      "pitch": 66.37742050838547,
+      "velocity": 35,
+      "role": "recurring ground bass",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 70.0,
+      "voice": 24
+    },
+    {
+      "id": 372,
+      "part": "4-p3",
+      "instrument": 50,
+      "start": 43.548287,
+      "duration": 1.034584,
+      "pitch": 89.09316150784863,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 70.05,
+      "voice": 27
+    },
+    {
+      "id": 354,
+      "part": "4-p2",
+      "instrument": 69,
+      "start": 43.702783,
+      "duration": 0.386506,
+      "pitch": 59.35787049973159,
+      "velocity": 36,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 70.325,
+      "voice": 26
+    },
+    {
+      "id": 329,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 43.848369,
+      "duration": 0.264557,
+      "pitch": 70.71574099946316,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 70.6,
+      "voice": 25
+    },
+    {
+      "id": 394,
+      "part": "4-p5",
+      "instrument": 60,
+      "start": 43.943367,
+      "duration": 1.906354,
+      "pitch": 82.07361149919475,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 70.75,
+      "voice": 29
+    },
+    {
+      "id": 404,
+      "part": "4-p6",
+      "instrument": 31,
+      "start": 43.954298,
+      "duration": 0.165116,
+      "pitch": 82.07361149919475,
+      "velocity": 38,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 70.76666666666667,
+      "voice": 30
+    },
+    {
+      "id": 405,
+      "part": "4-p6",
+      "instrument": 31,
+      "start": 44.125767,
+      "duration": 0.351435,
+      "pitch": 80.4165205256932,
+      "velocity": 36,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 71.1,
+      "voice": 30
+    },
+    {
+      "id": 355,
+      "part": "4-p2",
+      "instrument": 69,
+      "start": 44.129001,
+      "duration": 0.377399,
+      "pitch": 96.11271151650251,
+      "velocity": 36,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 71.075,
+      "voice": 26
+    },
+    {
+      "id": 330,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 44.13923,
+      "duration": 0.517369,
+      "pitch": 80.4165205256932,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 71.1,
+      "voice": 25
+    },
+    {
+      "id": 385,
+      "part": "4-p4",
+      "instrument": 28,
+      "start": 44.30596,
+      "duration": 0.954348,
+      "pitch": 77.73529100811703,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 71.4,
+      "voice": 28
+    },
+    {
+      "id": 406,
+      "part": "4-p6",
+      "instrument": 31,
+      "start": 44.504168,
+      "duration": 0.433899,
+      "pitch": 96.11271151650251,
+      "velocity": 36,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 71.76666666666667,
+      "voice": 30
+    },
+    {
+      "id": 356,
+      "part": "4-p2",
+      "instrument": 69,
+      "start": 44.535826,
+      "duration": 0.234214,
+      "pitch": 91.77439102542479,
+      "velocity": 38,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 71.825,
+      "voice": 26
+    },
+    {
+      "id": 313,
+      "part": "4-p0",
+      "instrument": 8,
+      "start": 44.637141,
+      "duration": 1.458074,
+      "pitch": 62.03910001730775,
+      "velocity": 35,
+      "role": "recurring ground bass",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 72.0,
+      "voice": 24
+    },
+    {
+      "id": 373,
+      "part": "4-p3",
+      "instrument": 50,
+      "start": 44.663691,
+      "duration": 0.375652,
+      "pitch": 96.11271151650251,
+      "velocity": 38,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 72.05,
+      "voice": 27
+    },
+    {
+      "id": 331,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 44.711458,
+      "duration": 0.183862,
+      "pitch": 84.75484101677091,
+      "velocity": 38,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 72.1,
+      "voice": 25
+    },
+    {
+      "id": 357,
+      "part": "4-p2",
+      "instrument": 69,
+      "start": 44.802447,
+      "duration": 0.53875,
+      "pitch": 84.75484101677091,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 72.2,
+      "voice": 26
+    },
+    {
+      "id": 332,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 44.897444,
+      "duration": 0.378647,
+      "pitch": 96.11271151650251,
+      "velocity": 36,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 72.35,
+      "voice": 25
+    },
+    {
+      "id": 407,
+      "part": "4-p6",
+      "instrument": 31,
+      "start": 44.969887,
+      "duration": 0.249648,
+      "pitch": 96.11271151650251,
+      "velocity": 38,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 72.43333333333334,
+      "voice": 30
+    },
+    {
+      "id": 374,
+      "part": "4-p3",
+      "instrument": 50,
+      "start": 45.077123,
+      "duration": 0.725083,
+      "pitch": 96.11271151650251,
+      "velocity": 36,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 72.55,
+      "voice": 27
+    },
+    {
+      "id": 408,
+      "part": "4-p6",
+      "instrument": 31,
+      "start": 45.238987,
+      "duration": 0.489307,
+      "pitch": 96.11271151650251,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 72.76666666666667,
+      "voice": 30
+    },
+    {
+      "id": 333,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 45.313786,
+      "duration": 0.357754,
+      "pitch": 59.35787049973159,
+      "velocity": 36,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 72.85,
+      "voice": 25
+    },
+    {
+      "id": 386,
+      "part": "4-p4",
+      "instrument": 28,
+      "start": 45.337948,
+      "duration": 2.209878,
+      "pitch": 73.39697051703932,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 72.9,
+      "voice": 28
+    },
+    {
+      "id": 358,
+      "part": "4-p2",
+      "instrument": 69,
+      "start": 45.386435,
+      "duration": 0.824598,
+      "pitch": 77.73529100811703,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 72.95,
+      "voice": 26
+    },
+    {
+      "id": 334,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 45.697892,
+      "duration": 0.185486,
+      "pitch": 62.03910001730775,
+      "velocity": 38,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 73.35,
+      "voice": 25
+    },
+    {
+      "id": 409,
+      "part": "4-p6",
+      "instrument": 31,
+      "start": 45.766536,
+      "duration": 0.734838,
+      "pitch": 96.11271151650251,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 73.43333333333334,
+      "voice": 30
+    },
+    {
+      "id": 375,
+      "part": "4-p3",
+      "instrument": 50,
+      "start": 45.865813,
+      "duration": 0.727836,
+      "pitch": 66.37742050838546,
+      "velocity": 36,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 73.55,
+      "voice": 27
+    },
+    {
+      "id": 335,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 45.89834,
+      "duration": 0.367073,
+      "pitch": 63.6961909908093,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 73.6,
+      "voice": 25
+    },
+    {
+      "id": 395,
+      "part": "4-p5",
+      "instrument": 60,
+      "start": 46.023552,
+      "duration": 1.461329,
+      "pitch": 89.09316150784863,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 73.75,
+      "voice": 29
+    },
+    {
+      "id": 314,
+      "part": "4-p0",
+      "instrument": 8,
+      "start": 46.206394,
+      "duration": 1.46732,
+      "pitch": 66.37742050838546,
+      "velocity": 35,
+      "role": "recurring ground bass",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 74.0,
+      "voice": 24
+    },
+    {
+      "id": 359,
+      "part": "4-p2",
+      "instrument": 69,
+      "start": 46.284107,
+      "duration": 0.540889,
+      "pitch": 70.71574099946316,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 74.075,
+      "voice": 26
+    },
+    {
+      "id": 336,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 46.291919,
+      "duration": 0.55285,
+      "pitch": 66.37742050838546,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 74.1,
+      "voice": 25
+    },
+    {
+      "id": 410,
+      "part": "4-p6",
+      "instrument": 31,
+      "start": 46.567311,
+      "duration": 0.479584,
+      "pitch": 91.77439102542479,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 74.43333333333334,
+      "voice": 30
+    },
+    {
+      "id": 376,
+      "part": "4-p3",
+      "instrument": 50,
+      "start": 46.656505,
+      "duration": 0.36023,
+      "pitch": 70.71574099946316,
+      "velocity": 38,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 74.55,
+      "voice": 27
+    },
+    {
+      "id": 360,
+      "part": "4-p2",
+      "instrument": 69,
+      "start": 46.856534,
+      "duration": 1.1094,
+      "pitch": 66.37742050838546,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 74.825,
+      "voice": 26
+    },
+    {
+      "id": 337,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 46.883505,
+      "duration": 0.36927,
+      "pitch": 73.39697051703932,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 74.85,
+      "voice": 25
+    },
+    {
+      "id": 377,
+      "part": "4-p3",
+      "instrument": 50,
+      "start": 47.050964,
+      "duration": 0.725035,
+      "pitch": 73.39697051703932,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 75.05,
+      "voice": 27
+    },
+    {
+      "id": 411,
+      "part": "4-p6",
+      "instrument": 31,
+      "start": 47.082484,
+      "duration": 0.978468,
+      "pitch": 89.09316150784863,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 75.10000000000001,
+      "voice": 30
+    },
+    {
+      "id": 338,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 47.288756,
+      "duration": 0.724687,
+      "pitch": 82.07361149919475,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 75.35,
+      "voice": 25
+    },
+    {
+      "id": 396,
+      "part": "4-p5",
+      "instrument": 60,
+      "start": 47.595166,
+      "duration": 2.934512,
+      "pitch": 96.11271151650251,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 75.75,
+      "voice": 29
+    },
+    {
+      "id": 387,
+      "part": "4-p4",
+      "instrument": 28,
+      "start": 47.706063,
+      "duration": 0.558781,
+      "pitch": 70.71574099946316,
+      "velocity": 38,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 75.9,
+      "voice": 28
+    },
+    {
+      "id": 315,
+      "part": "4-p0",
+      "instrument": 8,
+      "start": 47.797721,
+      "duration": 1.45832,
+      "pitch": 66.37742050838547,
+      "velocity": 35,
+      "role": "recurring ground bass",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 76.0,
+      "voice": 24
+    },
+    {
+      "id": 378,
+      "part": "4-p3",
+      "instrument": 50,
+      "start": 47.840747,
+      "duration": 1.094872,
+      "pitch": 77.73529100811703,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 76.05,
+      "voice": 27
+    },
+    {
+      "id": 361,
+      "part": "4-p2",
+      "instrument": 69,
+      "start": 48.060747,
+      "duration": 0.264473,
+      "pitch": 63.6961909908093,
+      "velocity": 38,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 76.325,
+      "voice": 26
+    },
+    {
+      "id": 339,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 48.061303,
+      "duration": 0.191664,
+      "pitch": 89.09316150784863,
+      "velocity": 38,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 76.35,
+      "voice": 25
+    },
+    {
+      "id": 412,
+      "part": "4-p6",
+      "instrument": 31,
+      "start": 48.127676,
+      "duration": 0.252641,
+      "pitch": 84.75484101677091,
+      "velocity": 38,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 76.43333333333334,
+      "voice": 30
+    },
+    {
+      "id": 340,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 48.260017,
+      "duration": 0.374959,
+      "pitch": 96.11271151650251,
+      "velocity": 36,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 76.6,
+      "voice": 25
+    },
+    {
+      "id": 388,
+      "part": "4-p4",
+      "instrument": 28,
+      "start": 48.30483,
+      "duration": 1.105312,
+      "pitch": 66.37742050838546,
+      "velocity": 36,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 76.65,
+      "voice": 28
+    },
+    {
+      "id": 362,
+      "part": "4-p2",
+      "instrument": 69,
+      "start": 48.35461,
+      "duration": 0.543428,
+      "pitch": 62.03910001730775,
+      "velocity": 36,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 76.7,
+      "voice": 26
+    },
+    {
+      "id": 413,
+      "part": "4-p6",
+      "instrument": 31,
+      "start": 48.407844,
+      "duration": 0.481624,
+      "pitch": 82.07361149919475,
+      "velocity": 36,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 76.76666666666667,
+      "voice": 30
+    },
+    {
+      "id": 341,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 48.657946,
+      "duration": 0.372612,
+      "pitch": 52.33832049107771,
+      "velocity": 36,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 77.1,
+      "voice": 25
+    },
+    {
+      "id": 414,
+      "part": "4-p6",
+      "instrument": 31,
+      "start": 48.932497,
+      "duration": 0.484205,
+      "pitch": 96.11271151650251,
+      "velocity": 36,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 77.43333333333334,
+      "voice": 30
+    },
+    {
+      "id": 363,
+      "part": "4-p2",
+      "instrument": 69,
+      "start": 48.949508,
+      "duration": 0.541324,
+      "pitch": 96.11271151650251,
+      "velocity": 36,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 77.45,
+      "voice": 26
+    },
+    {
+      "id": 379,
+      "part": "4-p3",
+      "instrument": 50,
+      "start": 49.007808,
+      "duration": 0.74478,
+      "pitch": 82.07361149919475,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 77.55,
+      "voice": 27
+    },
+    {
+      "id": 342,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 49.06336,
+      "duration": 0.178835,
+      "pitch": 55.01955000865388,
+      "velocity": 38,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 77.6,
+      "voice": 25
+    },
+    {
+      "id": 343,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 49.256356,
+      "duration": 0.366339,
+      "pitch": 59.35787049973159,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 77.85,
+      "voice": 25
+    },
+    {
+      "id": 316,
+      "part": "4-p0",
+      "instrument": 8,
+      "start": 49.382738,
+      "duration": 1.444253,
+      "pitch": 62.03910001730775,
+      "velocity": 35,
+      "role": "recurring ground bass",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 78.0,
+      "voice": 24
+    },
+    {
+      "id": 415,
+      "part": "4-p6",
+      "instrument": 31,
+      "start": 49.444133,
+      "duration": 0.253349,
+      "pitch": 96.11271151650251,
+      "velocity": 38,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 78.10000000000001,
+      "voice": 30
+    },
+    {
+      "id": 389,
+      "part": "4-p4",
+      "instrument": 28,
+      "start": 49.480856,
+      "duration": 1.107502,
+      "pitch": 96.11271151650251,
+      "velocity": 36,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 78.15,
+      "voice": 28
+    },
+    {
+      "id": 364,
+      "part": "4-p2",
+      "instrument": 69,
+      "start": 49.524852,
+      "duration": 0.281858,
+      "pitch": 96.11271151650251,
+      "velocity": 38,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 78.2,
+      "voice": 26
+    },
+    {
+      "id": 344,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 49.63981,
+      "duration": 0.559303,
+      "pitch": 62.03910001730775,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 78.35,
+      "voice": 25
+    },
+    {
+      "id": 416,
+      "part": "4-p6",
+      "instrument": 31,
+      "start": 49.710028,
+      "duration": 0.493649,
+      "pitch": 96.11271151650251,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 78.43333333333334,
+      "voice": 30
+    },
+    {
+      "id": 380,
+      "part": "4-p3",
+      "instrument": 50,
+      "start": 49.796836,
+      "duration": 1.147515,
+      "pitch": 91.77439102542479,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 78.55,
+      "voice": 27
+    },
+    {
+      "id": 365,
+      "part": "4-p2",
+      "instrument": 69,
+      "start": 49.838736,
+      "duration": 0.536418,
+      "pitch": 89.09316150784863,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 78.575,
+      "voice": 26
+    },
+    {
+      "id": 345,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 50.23214,
+      "duration": 0.371866,
+      "pitch": 66.37742050838546,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 79.1,
+      "voice": 25
+    },
+    {
+      "id": 417,
+      "part": "4-p6",
+      "instrument": 31,
+      "start": 50.236791,
+      "duration": 0.70756,
+      "pitch": 96.11271151650251,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 79.10000000000001,
+      "voice": 30
+    },
+    {
+      "id": 366,
+      "part": "4-p2",
+      "instrument": 69,
+      "start": 50.40475,
+      "duration": 0.539601,
+      "pitch": 80.4165205256932,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 79.325,
+      "voice": 26
+    },
+    {
+      "id": 346,
+      "part": "4-p1",
+      "instrument": 47,
+      "start": 50.621761,
+      "duration": 0.32259,
+      "pitch": 77.73529100811703,
+      "velocity": 39,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 79.6,
+      "voice": 25
+    },
+    {
+      "id": 390,
+      "part": "4-p4",
+      "instrument": 28,
+      "start": 50.677526,
+      "duration": 0.266826,
+      "pitch": 96.11271151650251,
+      "velocity": 38,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 79.65,
+      "voice": 28
+    },
+    {
+      "id": 397,
+      "part": "4-p5",
+      "instrument": 60,
+      "start": 50.752203,
+      "duration": 0.192148,
+      "pitch": 96.11271151650251,
+      "velocity": 38,
+      "role": "chaconne",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 79.75,
+      "voice": 29
+    },
+    {
+      "id": 418,
+      "part": "5-p0",
+      "instrument": 74,
+      "start": 50.955918,
+      "duration": 0.540418,
+      "pitch": 70.71574099946316,
+      "velocity": 40,
+      "role": "concertino",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 80.0,
+      "voice": 3
+    },
+    {
+      "id": 429,
+      "part": "5-p1",
+      "instrument": 47,
+      "start": 51.096121,
+      "duration": 2.365988,
+      "pitch": 84.75484101677091,
+      "velocity": 31,
+      "role": "concertino accompaniment",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 80.2,
+      "voice": 25
+    },
+    {
+      "id": 432,
+      "part": "5-p2",
+      "instrument": 69,
+      "start": 51.255218,
+      "duration": 2.518774,
+      "pitch": 59.35787049973159,
+      "velocity": 31,
+      "role": "concertino accompaniment",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 80.4,
+      "voice": 26
+    },
+    {
+      "id": 435,
+      "part": "5-p3",
+      "instrument": 50,
+      "start": 51.423463,
+      "duration": 2.662412,
+      "pitch": 66.37742050838546,
+      "velocity": 32,
+      "role": "concertino accompaniment",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 80.6,
+      "voice": 27
+    },
+    {
+      "id": 419,
+      "part": "5-p0",
+      "instrument": 74,
+      "start": 51.538209,
+      "duration": 0.2753,
+      "pitch": 73.39697051703932,
+      "velocity": 41,
+      "role": "concertino",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 80.75,
+      "voice": 3
+    },
+    {
+      "id": 437,
+      "part": "5-p4",
+      "instrument": 28,
+      "start": 51.574908,
+      "duration": 2.826195,
+      "pitch": 70.71574099946316,
+      "velocity": 32,
+      "role": "concertino accompaniment",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 80.8,
+      "voice": 28
+    },
+    {
+      "id": 439,
+      "part": "5-p5",
+      "instrument": 60,
+      "start": 51.731964,
+      "duration": 2.984368,
+      "pitch": 77.73529100811703,
+      "velocity": 32,
+      "role": "concertino accompaniment",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 81.0,
+      "voice": 29
+    },
+    {
+      "id": 420,
+      "part": "5-p0",
+      "instrument": 74,
+      "start": 51.836948,
+      "duration": 0.546627,
+      "pitch": 77.73529100811703,
+      "velocity": 42,
+      "role": "concertino",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 81.125,
+      "voice": 3
+    },
+    {
+      "id": 421,
+      "part": "5-p0",
+      "instrument": 74,
+      "start": 52.413517,
+      "duration": 0.831005,
+      "pitch": 80.4165205256932,
+      "velocity": 43,
+      "role": "concertino",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 81.875,
+      "voice": 3
+    },
+    {
+      "id": 441,
+      "part": "5-p6",
+      "instrument": 31,
+      "start": 52.528203,
+      "duration": 1.085949,
+      "pitch": 91.77439102542479,
+      "velocity": 40,
+      "role": "concertino",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 82.0,
+      "voice": 30
+    },
+    {
+      "id": 422,
+      "part": "5-p0",
+      "instrument": 74,
+      "start": 53.301366,
+      "duration": 0.548647,
+      "pitch": 84.75484101677091,
+      "velocity": 43,
+      "role": "concertino",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 83.0,
+      "voice": 3
+    },
+    {
+      "id": 430,
+      "part": "5-p1",
+      "instrument": 47,
+      "start": 53.661377,
+      "duration": 2.346676,
+      "pitch": 84.75484101677091,
+      "velocity": 31,
+      "role": "concertino accompaniment",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 83.45,
+      "voice": 25
+    },
+    {
+      "id": 442,
+      "part": "5-p6",
+      "instrument": 31,
+      "start": 53.68791,
+      "duration": 0.553609,
+      "pitch": 82.07361149919475,
+      "velocity": 41,
+      "role": "concertino",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 83.5,
+      "voice": 30
+    },
+    {
+      "id": 423,
+      "part": "5-p0",
+      "instrument": 74,
+      "start": 53.882823,
+      "duration": 1.104684,
+      "pitch": 96.11271151650251,
+      "velocity": 42,
+      "role": "concertino",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 83.75,
+      "voice": 3
+    },
+    {
+      "id": 433,
+      "part": "5-p2",
+      "instrument": 69,
+      "start": 54.002384,
+      "duration": 2.512593,
+      "pitch": 59.35787049973159,
+      "velocity": 31,
+      "role": "concertino accompaniment",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 83.9,
+      "voice": 26
+    },
+    {
+      "id": 443,
+      "part": "5-p6",
+      "instrument": 31,
+      "start": 54.286478,
+      "duration": 1.092617,
+      "pitch": 77.73529100811703,
+      "velocity": 42,
+      "role": "concertino",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 84.25,
+      "voice": 30
+    },
+    {
+      "id": 436,
+      "part": "5-p3",
+      "instrument": 50,
+      "start": 54.359518,
+      "duration": 2.66252,
+      "pitch": 66.37742050838546,
+      "velocity": 32,
+      "role": "concertino accompaniment",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 84.35,
+      "voice": 27
+    },
+    {
+      "id": 438,
+      "part": "5-p4",
+      "instrument": 28,
+      "start": 54.727027,
+      "duration": 2.490035,
+      "pitch": 70.71574099946316,
+      "velocity": 32,
+      "role": "concertino accompaniment",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 84.8,
+      "voice": 28
+    },
+    {
+      "id": 440,
+      "part": "5-p5",
+      "instrument": 60,
+      "start": 55.063194,
+      "duration": 2.153868,
+      "pitch": 77.73529100811703,
+      "velocity": 32,
+      "role": "concertino accompaniment",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 85.25,
+      "voice": 29
+    },
+    {
+      "id": 424,
+      "part": "5-p0",
+      "instrument": 74,
+      "start": 55.071184,
+      "duration": 0.27169,
+      "pitch": 96.11271151650251,
+      "velocity": 41,
+      "role": "concertino",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 85.25,
+      "voice": 3
+    },
+    {
+      "id": 425,
+      "part": "5-p0",
+      "instrument": 74,
+      "start": 55.369352,
+      "duration": 0.539271,
+      "pitch": 96.11271151650251,
+      "velocity": 40,
+      "role": "concertino",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 85.625,
+      "voice": 3
+    },
+    {
+      "id": 444,
+      "part": "5-p6",
+      "instrument": 31,
+      "start": 55.464912,
+      "duration": 1.629286,
+      "pitch": 66.37742050838546,
+      "velocity": 43,
+      "role": "concertino",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 85.75,
+      "voice": 30
+    },
+    {
+      "id": 426,
+      "part": "5-p0",
+      "instrument": 74,
+      "start": 55.953282,
+      "duration": 0.540242,
+      "pitch": 73.39697051703932,
+      "velocity": 40,
+      "role": "concertino",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 86.375,
+      "voice": 3
+    },
+    {
+      "id": 431,
+      "part": "5-p1",
+      "instrument": 47,
+      "start": 56.191499,
+      "duration": 1.025563,
+      "pitch": 84.75484101677091,
+      "velocity": 31,
+      "role": "concertino accompaniment",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 86.7,
+      "voice": 25
+    },
+    {
+      "id": 427,
+      "part": "5-p0",
+      "instrument": 74,
+      "start": 56.546456,
+      "duration": 0.260081,
+      "pitch": 77.73529100811703,
+      "velocity": 41,
+      "role": "concertino",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 87.125,
+      "voice": 3
+    },
+    {
+      "id": 434,
+      "part": "5-p2",
+      "instrument": 69,
+      "start": 56.755471,
+      "duration": 0.461591,
+      "pitch": 59.35787049973159,
+      "velocity": 31,
+      "role": "concertino accompaniment",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 87.4,
+      "voice": 26
+    },
+    {
+      "id": 428,
+      "part": "5-p0",
+      "instrument": 74,
+      "start": 56.834889,
+      "duration": 0.382173,
+      "pitch": 80.4165205256932,
+      "velocity": 42,
+      "role": "concertino",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 87.5,
+      "voice": 3
+    },
+    {
+      "id": 445,
+      "part": "6-p0",
+      "instrument": 12,
+      "start": 57.228323,
+      "duration": 0.535289,
+      "pitch": 48.0,
+      "velocity": 42,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 88.0,
+      "voice": 7
+    },
+    {
+      "id": 459,
+      "part": "6-p1",
+      "instrument": 32,
+      "start": 57.597987,
+      "duration": 0.738064,
+      "pitch": 89.09316150784863,
+      "velocity": 42,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 88.5,
+      "voice": 1
+    },
+    {
+      "id": 446,
+      "part": "6-p0",
+      "instrument": 12,
+      "start": 57.801475,
+      "duration": 0.276198,
+      "pitch": 48.0,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 88.75,
+      "voice": 7
+    },
+    {
+      "id": 470,
+      "part": "6-p2",
+      "instrument": 71,
+      "start": 57.989924,
+      "duration": 1.098799,
+      "pitch": 55.01955000865388,
+      "velocity": 42,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 89.0,
+      "voice": 0
+    },
+    {
+      "id": 447,
+      "part": "6-p0",
+      "instrument": 12,
+      "start": 58.104908,
+      "duration": 0.537295,
+      "pitch": 52.33832049107771,
+      "velocity": 44,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 89.125,
+      "voice": 7
+    },
+    {
+      "id": 460,
+      "part": "6-p1",
+      "instrument": 32,
+      "start": 58.389809,
+      "duration": 0.363546,
+      "pitch": 80.4165205256932,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 89.5,
+      "voice": 1
+    },
+    {
+      "id": 476,
+      "part": "6-p3",
+      "instrument": 74,
+      "start": 58.395003,
+      "duration": 0.479242,
+      "pitch": 96.11271151650251,
+      "velocity": 42,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 89.5,
+      "voice": 3
+    },
+    {
+      "id": 448,
+      "part": "6-p0",
+      "instrument": 12,
+      "start": 58.677319,
+      "duration": 0.821835,
+      "pitch": 55.01955000865388,
+      "velocity": 45,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 89.875,
+      "voice": 7
+    },
+    {
+      "id": 490,
+      "part": "6-p4",
+      "instrument": 51,
+      "start": 58.772855,
+      "duration": 0.915014,
+      "pitch": 63.6961909908093,
+      "velocity": 42,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 90.0,
+      "voice": 4
+    },
+    {
+      "id": 461,
+      "part": "6-p1",
+      "instrument": 32,
+      "start": 58.785015,
+      "duration": 0.720963,
+      "pitch": 73.39697051703932,
+      "velocity": 44,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 90.0,
+      "voice": 1
+    },
+    {
+      "id": 477,
+      "part": "6-p3",
+      "instrument": 74,
+      "start": 58.901586,
+      "duration": 0.25083,
+      "pitch": 91.77439102542479,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 90.16666666666667,
+      "voice": 3
+    },
+    {
+      "id": 471,
+      "part": "6-p2",
+      "instrument": 71,
+      "start": 59.167636,
+      "duration": 0.547651,
+      "pitch": 59.35787049973159,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 90.5,
+      "voice": 0
+    },
+    {
+      "id": 496,
+      "part": "6-p5",
+      "instrument": 48,
+      "start": 59.167907,
+      "duration": 0.365368,
+      "pitch": 96.11271151650251,
+      "velocity": 42,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 90.5,
+      "voice": 5
+    },
+    {
+      "id": 478,
+      "part": "6-p3",
+      "instrument": 74,
+      "start": 59.179421,
+      "duration": 0.475155,
+      "pitch": 84.75484101677091,
+      "velocity": 44,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 90.5,
+      "voice": 3
+    },
+    {
+      "id": 462,
+      "part": "6-p1",
+      "instrument": 32,
+      "start": 59.55749,
+      "duration": 1.094626,
+      "pitch": 63.6961909908093,
+      "velocity": 45,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 91.0,
+      "voice": 1
+    },
+    {
+      "id": 512,
+      "part": "6-p6",
+      "instrument": 15,
+      "start": 59.563461,
+      "duration": 1.451449,
+      "pitch": 77.73529100811703,
+      "velocity": 42,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 91.0,
+      "voice": 6
+    },
+    {
+      "id": 497,
+      "part": "6-p5",
+      "instrument": 48,
+      "start": 59.569031,
+      "duration": 0.173674,
+      "pitch": 96.11271151650251,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 91.0,
+      "voice": 5
+    },
+    {
+      "id": 449,
+      "part": "6-p0",
+      "instrument": 12,
+      "start": 59.570563,
+      "duration": 0.536406,
+      "pitch": 62.03910001730775,
+      "velocity": 45,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 91.0,
+      "voice": 7
+    },
+    {
+      "id": 479,
+      "part": "6-p3",
+      "instrument": 74,
+      "start": 59.694466,
+      "duration": 0.724891,
+      "pitch": 77.73529100811703,
+      "velocity": 45,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 91.16666666666667,
+      "voice": 3
+    },
+    {
+      "id": 498,
+      "part": "6-p5",
+      "instrument": 48,
+      "start": 59.748067,
+      "duration": 0.372611,
+      "pitch": 96.11271151650251,
+      "velocity": 44,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 91.25,
+      "voice": 5
+    },
+    {
+      "id": 472,
+      "part": "6-p2",
+      "instrument": 71,
+      "start": 59.765864,
+      "duration": 1.081303,
+      "pitch": 62.03910001730775,
+      "velocity": 44,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 91.25,
+      "voice": 0
+    },
+    {
+      "id": 491,
+      "part": "6-p4",
+      "instrument": 51,
+      "start": 59.767758,
+      "duration": 0.443986,
+      "pitch": 66.37742050838546,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 91.25,
+      "voice": 4
+    },
+    {
+      "id": 516,
+      "part": "6-p7",
+      "instrument": 70,
+      "start": 59.950089,
+      "duration": 1.817357,
+      "pitch": 96.11271151650251,
+      "velocity": 42,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 91.5,
+      "voice": 8
+    },
+    {
+      "id": 450,
+      "part": "6-p0",
+      "instrument": 12,
+      "start": 60.154839,
+      "duration": 1.082365,
+      "pitch": 70.71574099946316,
+      "velocity": 44,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 91.75,
+      "voice": 7
+    },
+    {
+      "id": 499,
+      "part": "6-p5",
+      "instrument": 48,
+      "start": 60.160088,
+      "duration": 0.532988,
+      "pitch": 84.75484101677091,
+      "velocity": 45,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 91.75,
+      "voice": 5
+    },
+    {
+      "id": 492,
+      "part": "6-p4",
+      "instrument": 51,
+      "start": 60.241643,
+      "duration": 0.911737,
+      "pitch": 70.71574099946316,
+      "velocity": 44,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 91.875,
+      "voice": 4
+    },
+    {
+      "id": 480,
+      "part": "6-p3",
+      "instrument": 74,
+      "start": 60.467407,
+      "duration": 0.490288,
+      "pitch": 70.71574099946316,
+      "velocity": 45,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 92.16666666666667,
+      "voice": 3
+    },
+    {
+      "id": 463,
+      "part": "6-p1",
+      "instrument": 32,
+      "start": 60.730364,
+      "duration": 0.729074,
+      "pitch": 59.35787049973159,
+      "velocity": 45,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 92.5,
+      "voice": 1
+    },
+    {
+      "id": 500,
+      "part": "6-p5",
+      "instrument": 48,
+      "start": 60.739367,
+      "duration": 0.357464,
+      "pitch": 80.4165205256932,
+      "velocity": 45,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 92.5,
+      "voice": 5
+    },
+    {
+      "id": 473,
+      "part": "6-p2",
+      "instrument": 71,
+      "start": 60.937945,
+      "duration": 1.625608,
+      "pitch": 63.6961909908093,
+      "velocity": 45,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 92.75,
+      "voice": 0
+    },
+    {
+      "id": 481,
+      "part": "6-p3",
+      "instrument": 74,
+      "start": 60.989885,
+      "duration": 0.971438,
+      "pitch": 66.37742050838546,
+      "velocity": 44,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 92.83333333333334,
+      "voice": 3
+    },
+    {
+      "id": 501,
+      "part": "6-p5",
+      "instrument": 48,
+      "start": 61.122594,
+      "duration": 0.726729,
+      "pitch": 77.73529100811703,
+      "velocity": 44,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 93.0,
+      "voice": 5
+    },
+    {
+      "id": 513,
+      "part": "6-p6",
+      "instrument": 15,
+      "start": 61.127866,
+      "duration": 0.721456,
+      "pitch": 80.4165205256932,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 93.0,
+      "voice": 6
+    },
+    {
+      "id": 493,
+      "part": "6-p4",
+      "instrument": 51,
+      "start": 61.217756,
+      "duration": 1.366349,
+      "pitch": 73.39697051703932,
+      "velocity": 45,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 93.125,
+      "voice": 4
+    },
+    {
+      "id": 451,
+      "part": "6-p0",
+      "instrument": 12,
+      "start": 61.322541,
+      "duration": 0.268484,
+      "pitch": 77.73529100811703,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 93.25,
+      "voice": 7
+    },
+    {
+      "id": 464,
+      "part": "6-p1",
+      "instrument": 32,
+      "start": 61.510389,
+      "duration": 1.460107,
+      "pitch": 55.01955000865388,
+      "velocity": 44,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 93.5,
+      "voice": 1
+    },
+    {
+      "id": 452,
+      "part": "6-p0",
+      "instrument": 12,
+      "start": 61.605974,
+      "duration": 0.550438,
+      "pitch": 84.75484101677091,
+      "velocity": 42,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 93.625,
+      "voice": 7
+    },
+    {
+      "id": 517,
+      "part": "6-p7",
+      "instrument": 70,
+      "start": 61.89493,
+      "duration": 0.919965,
+      "pitch": 96.11271151650251,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 94.0,
+      "voice": 8
+    },
+    {
+      "id": 514,
+      "part": "6-p6",
+      "instrument": 15,
+      "start": 61.897219,
+      "duration": 1.467202,
+      "pitch": 82.07361149919475,
+      "velocity": 44,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 94.0,
+      "voice": 6
+    },
+    {
+      "id": 502,
+      "part": "6-p5",
+      "instrument": 48,
+      "start": 61.909151,
+      "duration": 0.176794,
+      "pitch": 73.39697051703932,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 94.0,
+      "voice": 5
+    },
+    {
+      "id": 482,
+      "part": "6-p3",
+      "instrument": 74,
+      "start": 62.026916,
+      "duration": 0.250202,
+      "pitch": 63.6961909908093,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 94.16666666666667,
+      "voice": 3
+    },
+    {
+      "id": 503,
+      "part": "6-p5",
+      "instrument": 48,
+      "start": 62.09692,
+      "duration": 0.366805,
+      "pitch": 70.71574099946316,
+      "velocity": 42,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 94.25,
+      "voice": 5
+    },
+    {
+      "id": 453,
+      "part": "6-p0",
+      "instrument": 12,
+      "start": 62.206797,
+      "duration": 0.537191,
+      "pitch": 48.0,
+      "velocity": 42,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 94.375,
+      "voice": 7
+    },
+    {
+      "id": 483,
+      "part": "6-p3",
+      "instrument": 74,
+      "start": 62.297112,
+      "duration": 0.4843,
+      "pitch": 62.03910001730775,
+      "velocity": 42,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 94.5,
+      "voice": 3
+    },
+    {
+      "id": 504,
+      "part": "6-p5",
+      "instrument": 48,
+      "start": 62.488422,
+      "duration": 0.367836,
+      "pitch": 96.11271151650251,
+      "velocity": 42,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 94.75,
+      "voice": 5
+    },
+    {
+      "id": 494,
+      "part": "6-p4",
+      "instrument": 51,
+      "start": 62.675844,
+      "duration": 0.904031,
+      "pitch": 80.4165205256932,
+      "velocity": 45,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 95.0,
+      "voice": 4
+    },
+    {
+      "id": 474,
+      "part": "6-p2",
+      "instrument": 71,
+      "start": 62.689718,
+      "duration": 1.04061,
+      "pitch": 70.71574099946316,
+      "velocity": 45,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 95.0,
+      "voice": 0
+    },
+    {
+      "id": 454,
+      "part": "6-p0",
+      "instrument": 12,
+      "start": 62.792612,
+      "duration": 0.267502,
+      "pitch": 52.33832049107771,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 95.125,
+      "voice": 7
+    },
+    {
+      "id": 484,
+      "part": "6-p3",
+      "instrument": 74,
+      "start": 62.817833,
+      "duration": 0.488813,
+      "pitch": 96.11271151650251,
+      "velocity": 42,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 95.16666666666667,
+      "voice": 3
+    },
+    {
+      "id": 518,
+      "part": "6-p7",
+      "instrument": 70,
+      "start": 62.887338,
+      "duration": 1.607975,
+      "pitch": 96.11271151650251,
+      "velocity": 44,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 95.25,
+      "voice": 8
+    },
+    {
+      "id": 505,
+      "part": "6-p5",
+      "instrument": 48,
+      "start": 62.894124,
+      "duration": 0.172884,
+      "pitch": 96.11271151650251,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 95.25,
+      "voice": 5
+    },
+    {
+      "id": 506,
+      "part": "6-p5",
+      "instrument": 48,
+      "start": 63.07272,
+      "duration": 0.374425,
+      "pitch": 96.11271151650251,
+      "velocity": 44,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 95.5,
+      "voice": 5
+    },
+    {
+      "id": 455,
+      "part": "6-p0",
+      "instrument": 12,
+      "start": 63.077365,
+      "duration": 0.525159,
+      "pitch": 55.01955000865388,
+      "velocity": 44,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 95.5,
+      "voice": 7
+    },
+    {
+      "id": 465,
+      "part": "6-p1",
+      "instrument": 32,
+      "start": 63.081819,
+      "duration": 0.365326,
+      "pitch": 52.33832049107771,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 95.5,
+      "voice": 1
+    },
+    {
+      "id": 485,
+      "part": "6-p3",
+      "instrument": 74,
+      "start": 63.334288,
+      "duration": 0.233184,
+      "pitch": 96.11271151650251,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 95.83333333333334,
+      "voice": 3
+    },
+    {
+      "id": 515,
+      "part": "6-p6",
+      "instrument": 15,
+      "start": 63.463811,
+      "duration": 1.823874,
+      "pitch": 84.75484101677091,
+      "velocity": 45,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 96.0,
+      "voice": 6
+    },
+    {
+      "id": 507,
+      "part": "6-p5",
+      "instrument": 48,
+      "start": 63.464029,
+      "duration": 0.462049,
+      "pitch": 89.09316150784863,
+      "velocity": 45,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 96.0,
+      "voice": 5
+    },
+    {
+      "id": 466,
+      "part": "6-p1",
+      "instrument": 32,
+      "start": 63.47524,
+      "duration": 0.60129,
+      "pitch": 48.0,
+      "velocity": 42,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 96.0,
+      "voice": 1
+    },
+    {
+      "id": 486,
+      "part": "6-p3",
+      "instrument": 74,
+      "start": 63.572328,
+      "duration": 0.411451,
+      "pitch": 89.09316150784863,
+      "velocity": 44,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 96.16666666666667,
+      "voice": 3
+    },
+    {
+      "id": 456,
+      "part": "6-p0",
+      "instrument": 12,
+      "start": 63.626536,
+      "duration": 0.687718,
+      "pitch": 59.35787049973159,
+      "velocity": 45,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 96.25,
+      "voice": 7
+    },
+    {
+      "id": 495,
+      "part": "6-p4",
+      "instrument": 51,
+      "start": 63.626982,
+      "duration": 1.520186,
+      "pitch": 89.09316150784863,
+      "velocity": 44,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 96.25,
+      "voice": 4
+    },
+    {
+      "id": 475,
+      "part": "6-p2",
+      "instrument": 71,
+      "start": 63.797538,
+      "duration": 1.5104619999999902,
+      "pitch": 80.4165205256932,
+      "velocity": 44,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 96.5,
+      "voice": 0
+    },
+    {
+      "id": 508,
+      "part": "6-p5",
+      "instrument": 48,
+      "start": 63.958261,
+      "duration": 0.303218,
+      "pitch": 82.07361149919475,
+      "velocity": 45,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 96.75,
+      "voice": 5
+    },
+    {
+      "id": 487,
+      "part": "6-p3",
+      "instrument": 74,
+      "start": 64.015187,
+      "duration": 0.602455,
+      "pitch": 80.4165205256932,
+      "velocity": 45,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 96.83333333333334,
+      "voice": 3
+    },
+    {
+      "id": 467,
+      "part": "6-p1",
+      "instrument": 32,
+      "start": 64.128207,
+      "duration": 0.597692,
+      "pitch": 91.77439102542479,
+      "velocity": 42,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 97.0,
+      "voice": 1
+    },
+    {
+      "id": 509,
+      "part": "6-p5",
+      "instrument": 48,
+      "start": 64.294574,
+      "duration": 0.594434,
+      "pitch": 80.4165205256932,
+      "velocity": 44,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 97.25,
+      "voice": 5
+    },
+    {
+      "id": 457,
+      "part": "6-p0",
+      "instrument": 12,
+      "start": 64.354203,
+      "duration": 0.464547,
+      "pitch": 63.6961909908093,
+      "velocity": 45,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 97.375,
+      "voice": 7
+    },
+    {
+      "id": 519,
+      "part": "6-p7",
+      "instrument": 70,
+      "start": 64.607292,
+      "duration": 0.7007079999999921,
+      "pitch": 96.11271151650251,
+      "velocity": 45,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 97.75,
+      "voice": 8
+    },
+    {
+      "id": 488,
+      "part": "6-p3",
+      "instrument": 74,
+      "start": 64.66358,
+      "duration": 0.40407,
+      "pitch": 73.39697051703932,
+      "velocity": 45,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 97.83333333333334,
+      "voice": 3
+    },
+    {
+      "id": 468,
+      "part": "6-p1",
+      "instrument": 32,
+      "start": 64.773845,
+      "duration": 0.30143,
+      "pitch": 82.07361149919475,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 98.0,
+      "voice": 1
+    },
+    {
+      "id": 458,
+      "part": "6-p0",
+      "instrument": 12,
+      "start": 64.849162,
+      "duration": 0.4588379999999863,
+      "pitch": 73.39697051703932,
+      "velocity": 44,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 98.125,
+      "voice": 7
+    },
+    {
+      "id": 510,
+      "part": "6-p5",
+      "instrument": 48,
+      "start": 64.934181,
+      "duration": 0.152532,
+      "pitch": 77.73529100811703,
+      "velocity": 43,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 98.25,
+      "voice": 5
+    },
+    {
+      "id": 489,
+      "part": "6-p3",
+      "instrument": 74,
+      "start": 65.086245,
+      "duration": 0.22175499999998793,
+      "pitch": 70.71574099946316,
+      "velocity": 44,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 98.50000000000001,
+      "voice": 3
+    },
+    {
+      "id": 469,
+      "part": "6-p1",
+      "instrument": 32,
+      "start": 65.087197,
+      "duration": 0.22080299999998987,
+      "pitch": 77.73529100811703,
+      "velocity": 44,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 98.5,
+      "voice": 1
+    },
+    {
+      "id": 511,
+      "part": "6-p5",
+      "instrument": 48,
+      "start": 65.108562,
+      "duration": 0.1994379999999869,
+      "pitch": 73.39697051703932,
+      "velocity": 42,
+      "role": "invention",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "beat": 98.5,
+      "voice": 5
+    },
+    {
+      "id": 520,
+      "part": "ending-0",
+      "instrument": 71,
+      "start": 65.32,
+      "duration": 0.5112,
+      "pitch": 73.39697051703935,
+      "velocity": 38,
+      "role": "ending: a low reply precedes the soloists final cutoff",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "voice": 0
+    },
+    {
+      "id": 521,
+      "part": "ending-0",
+      "instrument": 71,
+      "start": 65.888,
+      "duration": 0.5112,
+      "pitch": 77.73529100811706,
+      "velocity": 38,
+      "role": "ending: a low reply precedes the soloists final cutoff",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "voice": 0
+    },
+    {
+      "id": 522,
+      "part": "ending-0",
+      "instrument": 71,
+      "start": 66.456,
+      "duration": 0.5112,
+      "pitch": 80.4165205256932,
+      "velocity": 38,
+      "role": "ending: a low reply precedes the soloists final cutoff",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "voice": 0
+    },
+    {
+      "id": 523,
+      "part": "ending-0",
+      "instrument": 71,
+      "start": 67.024,
+      "duration": 0.5112,
+      "pitch": 73.39697051703935,
+      "velocity": 38,
+      "role": "ending: a low reply precedes the soloists final cutoff",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "voice": 0
+    },
+    {
+      "id": 524,
+      "part": "ending-0",
+      "instrument": 71,
+      "start": 67.592,
+      "duration": 0.5112,
+      "pitch": 77.73529100811706,
+      "velocity": 38,
+      "role": "ending: a low reply precedes the soloists final cutoff",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "voice": 0
+    },
+    {
+      "id": 525,
+      "part": "ending-3",
+      "instrument": 12,
+      "start": 68.5576,
+      "duration": 0.9088,
+      "pitch": 66.37742050838546,
+      "velocity": 31,
+      "role": "ending: a low reply precedes the soloists final cutoff",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "voice": 7
+    },
+    {
+      "id": 526,
+      "part": "ending-0",
+      "instrument": 71,
+      "start": 69.864,
+      "duration": 0.7384,
+      "pitch": 82.07361149919475,
+      "velocity": 38,
+      "role": "ending: a low reply precedes the soloists final cutoff",
+      "fields": [
+        6
+      ],
+      "is_passing": false,
+      "voice": 0
+    }
+  ],
+  "voices": [
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 71
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 32
+    },
+    {
+      "part": "nonoverlapping instrument lane 1",
+      "instrument": 71
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 74
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 51
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 48
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 15
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 12
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 70
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 42
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 79
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 34
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 91
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 1
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 45
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 92
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 53
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 59
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 46
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 68
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 49
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 27
+    },
+    {
+      "part": "nonoverlapping instrument lane 1",
+      "instrument": 59
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 30
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 8
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 47
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 69
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 50
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 28
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 60
+    },
+    {
+      "part": "nonoverlapping instrument lane 0",
+      "instrument": 31
+    }
+  ],
+  "sections": [
+    {
+      "start": 0.0,
+      "end": 5.04078,
+      "texture": "concertino",
+      "start_beat": 0.0,
+      "end_beat": 8.0,
+      "ensemble": [
+        15,
+        32,
+        48,
+        51,
+        71,
+        74
+      ],
+      "section_level": 39.12836609388509,
+      "form": "rooms",
+      "act": 1,
+      "actual_instruments": [
+        15,
+        32,
+        48,
+        51,
+        71,
+        74
+      ]
+    },
+    {
+      "start": 5.04078,
+      "end": 17.761955,
+      "texture": "invention",
+      "start_beat": 8.0,
+      "end_beat": 28.0,
+      "ensemble": [
+        12,
+        15,
+        32,
+        48,
+        51,
+        70,
+        71,
+        74
+      ],
+      "section_level": 36.12972208417478,
+      "form": "rooms",
+      "act": 1,
+      "actual_instruments": [
+        12,
+        15,
+        32,
+        48,
+        51,
+        70,
+        71,
+        74
+      ]
+    },
+    {
+      "start": 17.761955,
+      "end": 25.937982,
+      "texture": "slow_outer",
+      "start_beat": 28.0,
+      "end_beat": 40.0,
+      "ensemble": [
+        1,
+        34,
+        42,
+        45,
+        53,
+        79,
+        91,
+        92
+      ],
+      "section_level": 37.90639371911338,
+      "form": "rooms",
+      "act": 2,
+      "actual_instruments": [
+        1,
+        34,
+        42,
+        45,
+        53,
+        79,
+        91,
+        92
+      ]
+    },
+    {
+      "start": 25.937982,
+      "end": 40.198096,
+      "texture": "concertino",
+      "start_beat": 40.0,
+      "end_beat": 64.0,
+      "ensemble": [
+        27,
+        30,
+        46,
+        49,
+        59,
+        68
+      ],
+      "section_level": 36.28892129542392,
+      "form": "rooms",
+      "act": 2,
+      "actual_instruments": [
+        27,
+        30,
+        46,
+        49,
+        59,
+        68
+      ]
+    },
+    {
+      "start": 40.198096,
+      "end": 50.944351,
+      "texture": "chaconne",
+      "start_beat": 64.0,
+      "end_beat": 80.0,
+      "ensemble": [
+        8,
+        28,
+        31,
+        47,
+        50,
+        60,
+        69
+      ],
+      "section_level": 39.36982731888331,
+      "form": "rooms",
+      "act": 3,
+      "actual_instruments": [
+        8,
+        28,
+        31,
+        47,
+        50,
+        60,
+        69
+      ]
+    },
+    {
+      "start": 50.944351,
+      "end": 57.217062,
+      "texture": "concertino",
+      "start_beat": 80.0,
+      "end_beat": 88.0,
+      "ensemble": [
+        28,
+        31,
+        47,
+        50,
+        60,
+        69,
+        74
+      ],
+      "section_level": 42.75528083127684,
+      "form": "rooms",
+      "act": 4,
+      "actual_instruments": [
+        28,
+        31,
+        47,
+        50,
+        60,
+        69,
+        74
+      ]
+    },
+    {
+      "start": 57.217062,
+      "end": 65.32,
+      "texture": "invention",
+      "start_beat": 88.0,
+      "end_beat": 98.83944436662568,
+      "ensemble": [
+        12,
+        15,
+        32,
+        48,
+        51,
+        70,
+        71,
+        74
+      ],
+      "section_level": 44.809172561292264,
+      "form": "rooms",
+      "act": 5,
+      "actual_instruments": [
+        12,
+        15,
+        32,
+        48,
+        51,
+        70,
+        71,
+        74
+      ]
+    },
+    {
+      "start": 65.32,
+      "end": 71,
+      "texture": "ending: a low reply precedes the soloists final cutoff",
+      "start_beat": 98.83944436662568,
+      "end_beat": 107,
+      "ensemble": [
+        12,
+        71
+      ],
+      "section_level": 35,
+      "form": "composed ending"
+    }
+  ],
+  "sequences": [
+    {
+      "section": 3,
+      "part": "2-p0",
+      "mode": "scale",
+      "contour": [
+        0,
+        2,
+        4,
+        3,
+        4,
+        2,
+        5,
+        3
+      ],
+      "period_beats": 0.5,
+      "note_ids": [
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178
+      ]
+    },
+    {
+      "section": 3,
+      "part": "2-p1",
+      "mode": "scale",
+      "contour": [
+        0,
+        2,
+        4,
+        3,
+        4,
+        2,
+        5,
+        3
+      ],
+      "period_beats": 0.75,
+      "note_ids": [
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190
+      ]
+    },
+    {
+      "section": 3,
+      "part": "2-p2",
+      "mode": "scale",
+      "contour": [
+        0,
+        2,
+        4,
+        3,
+        4,
+        2,
+        5,
+        3
+      ],
+      "period_beats": 1,
+      "note_ids": [
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200
+      ]
+    },
+    {
+      "section": 3,
+      "part": "2-p3",
+      "mode": "scale",
+      "contour": [
+        0,
+        2,
+        4,
+        3,
+        4,
+        2,
+        5,
+        3
+      ],
+      "period_beats": 0.6666666666666666,
+      "note_ids": [
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214
+      ]
+    },
+    {
+      "section": 3,
+      "part": "2-p4",
+      "mode": "scale",
+      "contour": [
+        0,
+        2,
+        4,
+        3,
+        4,
+        2,
+        5,
+        3
+      ],
+      "period_beats": 1.25,
+      "note_ids": [
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221
+      ]
+    },
+    {
+      "section": 3,
+      "part": "2-p5",
+      "mode": "chord",
+      "contour": [
+        0,
+        2,
+        4,
+        3,
+        4,
+        2,
+        5,
+        3
+      ],
+      "period_beats": 3,
+      "note_ids": [
+        222,
+        223,
+        224,
+        225
+      ]
+    },
+    {
+      "section": 3,
+      "part": "2-p6",
+      "mode": "scale",
+      "contour": [
+        3,
+        5,
+        2,
+        4,
+        3,
+        4,
+        2,
+        0
+      ],
+      "period_beats": 3.5,
+      "note_ids": [
+        226,
+        227,
+        228
+      ]
+    }
+  ],
+  "cue_network": [],
+  "metric_grid": [
+    0.0,
+    0.6270903010033444,
+    1.257779378382439,
+    1.8898842626786339,
+    2.520363174955646,
+    3.1507989758001465,
+    3.782901825023916,
+    4.413631178138298,
+    5.040779634964065,
+    5.672855897656765,
+    6.3038178675331205,
+    6.931317042207503,
+    7.5551054043976125,
+    8.186281027603762,
+    8.814128917463727,
+    9.438189530742934,
+    10.060300635360392,
+    10.688493529736103,
+    11.312841233513348,
+    11.935007369367403,
+    12.557978869801962,
+    13.182627097317067,
+    13.804872382966126,
+    14.42765364804927,
+    15.053584695934056,
+    15.727795209454774,
+    16.402291689457883,
+    17.080016897379114,
+    17.76195509162438,
+    18.436292109681183,
+    19.113658504564746,
+    19.79525618585483,
+    20.479720421575333,
+    21.15673770847026,
+    21.837983857015512,
+    22.5223073702809,
+    23.206690063191207,
+    23.887575381009192,
+    24.57173380090618,
+    25.256247281228895,
+    25.93798240543426,
+    26.621952169676806,
+    27.306571136040095,
+    27.98864190156432,
+    28.66651276772513,
+    29.35121140208659,
+    30.0336044719737,
+    30.71184477336048,
+    31.386604115868522,
+    31.94202143815793,
+    32.49411512868119,
+    33.04324675325335,
+    33.59157462714835,
+    34.143976207954964,
+    34.69330013160233,
+    35.24158806732576,
+    35.79151010073362,
+    36.34104280930535,
+    36.88931236697469,
+    37.439000007231016,
+    37.99192677369525,
+    38.54019960344369,
+    39.08966755491387,
+    39.64228493199646,
+    40.198095639266796,
+    40.74735968235179,
+    41.299668024568625,
+    41.85525202689537,
+    42.41235607884252,
+    42.96435725436212,
+    43.519700375732235,
+    44.07677594761933,
+    44.632923593453505,
+    45.42208661537831,
+    46.2140025430004,
+    47.00493224005352,
+    47.79173480450065,
+    48.58354950975048,
+    49.37471580459085,
+    50.16194926994181,
+    50.94435108831825,
+    51.73572746027513,
+    52.52338456885603,
+    53.30616662027731,
+    54.085874965011435,
+    54.873946384144084,
+    55.65712321395949,
+    56.436967337653655,
+    57.217062213235174,
+    58.00064643316963,
+    58.780655271141654,
+    59.56057227168914,
+    60.343936686699365,
+    61.12413836749661,
+    61.903906071377094,
+    62.68686961158292,
+    63.474720249925205,
+    64.12182785489865,
+    64.77136620200821,
+    65.42493399018353,
+    66.08168571347363,
+    66.73091557832252,
+    67.38412829764938,
+    68.04069374550214,
+    68.69794807579414,
+    69.3508006381999,
+    70.00715830088005,
+    70.5
+  ],
+  "final_chord_start": 42.6,
+  "final_chord_fraction": 0.4,
+  "instrument_pool": [
+    1,
+    8,
+    12,
+    15,
+    27,
+    28,
+    30,
+    31,
+    32,
+    34,
+    42,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    53,
+    59,
+    60,
+    68,
+    69,
+    70,
+    71,
+    74,
+    79,
+    91,
+    92
+  ],
+  "tuning_mode": "exact Calcutta",
+  "ending": "a low reply precedes the soloists final cutoff",
+  "ending_start": 65.32,
+  "vocal_allowed": false,
+  "effects_allowed": false,
+  "gliss_allowed": false,
+  "miniature_scope": true,
+  "pitch_policy": "Exact original fields except 11 (12-ET) and 26 (continuous field-endpoint slides). Miniatures select seven original fields; longer works traverse all forty."
+}
